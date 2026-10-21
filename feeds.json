@@ -1,0 +1,80 @@
+{
+  "categories": {
+    "football": "⚽",
+    "hacker": "🕵️",
+    "dota": "🎮",
+    "trend": "🔥",
+    "mongolia": "🇲🇳",
+    "ai": "🤖"
+  },
+  "topics": {
+    "football": 4,
+    "hacker": 5,
+    "dota": 3,
+    "trend": 6,
+    "mongolia": 7,
+    "ai": 8
+  },
+  "feeds": [
+    {
+      "category": "football",
+      "name": "BBC Football",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml"
+    },
+    {
+      "category": "football",
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com/rss/12040"
+    },
+    {
+      "category": "hacker",
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/"
+    },
+    {
+      "category": "hacker",
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    {
+      "category": "hacker",
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/"
+    },
+    {
+      "category": "dota",
+      "name": "r/DotA2",
+      "url": "https://www.reddit.com/r/DotA2/top/.rss?t=day"
+    },
+    {
+      "category": "trend",
+      "name": "Lobsters",
+      "url": "https://lobste.rs/rss"
+    },
+    {
+      "category": "trend",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "category": "mongolia",
+      "name": "ikon.mn",
+      "url": "https://ikon.mn/rss"
+    },
+    {
+      "category": "ai",
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "category": "ai",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "category": "ai",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml"
+    }
+  ]
+}

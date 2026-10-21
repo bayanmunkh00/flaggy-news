@@ -1,0 +1,40 @@
+name: Post news
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and post
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # optional: route a category to its own channel/group
+          TELEGRAM_CHAT_ID_FOOTBALL: ${{ secrets.TELEGRAM_CHAT_ID_FOOTBALL }}
+          TELEGRAM_CHAT_ID_HACKER: ${{ secrets.TELEGRAM_CHAT_ID_HACKER }}
+          TELEGRAM_CHAT_ID_DOTA: ${{ secrets.TELEGRAM_CHAT_ID_DOTA }}
+          TELEGRAM_CHAT_ID_TREND: ${{ secrets.TELEGRAM_CHAT_ID_TREND }}
+          TELEGRAM_CHAT_ID_MONGOLIA: ${{ secrets.TELEGRAM_CHAT_ID_MONGOLIA }}
+          TELEGRAM_CHAT_ID_AI: ${{ secrets.TELEGRAM_CHAT_ID_AI }}
+        run: python news_bot.py
+      - name: Save state
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add state/seen.json
+          git diff --staged --quiet || (git commit -m "Update seen state" && git push)
