@@ -2413,5 +2413,45 @@
 "k": "aab26301899156af",
 "t": "there isnt an easy exploit for this php vulnerability",
 "ts": 1792624407.0
+},
+{
+"k": "31d4632d125e1d2f",
+"t": "understanding nix flakes",
+"ts": 1792626820.0
+},
+{
+"k": "92ccfb51585e3b53",
+"t": "how to run turingcomplete malware in pytorchs backward pass",
+"ts": 1792616795.0
+},
+{
+"k": "ad2f63999e9adef4",
+"t": "mitmproxy adds emudhra option",
+"ts": 1792626697.0
+},
+{
+"k": "20fc124d18eddb3f",
+"t": "airbnb bans making guests do dishes and take out the trash",
+"ts": 1792625912.0
+},
+{
+"k": "8fb13ccf8b35e461",
+"t": "\u03ba  0003 for integer multiplication crossed",
+"ts": 1792624941.0
+},
+{
+"k": "7b294332513e5550",
+"t": "qpack amplification attacks against http3 servers",
+"ts": 1792621965.0
+},
+{
+"k": "32e5d299b095fbb6",
+"t": "\u043e\u0440\u043e\u0441 \u0443\u043b\u0441 \u0430\u043d\u0443 \u0443\u043a\u0440\u0430\u0438\u043d\u0442\u0430\u0439 \u044d\u043d\u0445\u0438\u0439\u043d \u044f\u0440\u0438\u0430 \u0445\u044d\u043b\u044d\u043b\u0446\u044d\u044d \u044d\u0445\u043b\u04af\u04af\u043b\u044d\u0445\u044d\u044d\u0440 \u0431\u043e\u043b\u0441\u043d\u044b\u0433 \u0442\u0440\u0430\u043c\u043f\u044b\u043d \u044d\u043b\u0447\u0442\u044d\u0439 \u0443\u0443\u043b\u0437\u0441\u0430\u043d\u044b\u0445\u0430\u0430 \u0434\u0430\u0440\u0430\u0430 \u043f\u0443\u0442\u0438\u043d \u043c\u044d\u0434\u044d\u0433\u0434\u044d\u0432",
+"ts": 1792628100.0
+},
+{
+"k": "42fd6c70d5d18a9f",
+"t": "\u0442\u0443\u0441\u0433\u0430\u0439 \u0437\u0430\u043c\u044b\u043d \u0430\u0432\u0442\u043e\u0431\u0443\u0441 \u0442\u04e9\u0441\u043b\u0438\u0439\u043d \u0445\u043e\u0451\u0440\u0434\u0443\u0433\u0430\u0430\u0440 \u0448\u0430\u0442\u043d\u044b \u0442\u0435\u043d\u0434\u0435\u0440\u0438\u0439\u0433 \u044d\u043d\u044d \u0441\u0430\u0440\u0434 \u043d\u044d\u044d\u043d\u044d",
+"ts": 1792627200.0
 }
 ]
