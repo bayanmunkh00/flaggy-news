@@ -236,13 +236,16 @@ def url_key(url):
 
 def load_state():
     if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text()), False
+        now = time.time()
+        return [{**s, "seen": s.get("seen", now)} for s in json.loads(STATE_FILE.read_text())], False
     return [], True
 
 
 def save_state(state):
+    # prune by when we first saw an item, not its publish date: old posts that
+    # linger in a feed must stay remembered or they get re-posted every run
     cutoff = time.time() - MAX_AGE_DAYS * 86400
-    state = [s for s in state if s["ts"] >= cutoff][-MAX_STATE_ITEMS:]
+    state = [s for s in state if s.get("seen", time.time()) >= cutoff][-MAX_STATE_ITEMS:]
     STATE_FILE.parent.mkdir(exist_ok=True)
     STATE_FILE.write_text(json.dumps(state, indent=0))
 
@@ -309,18 +312,20 @@ def main():
                 continue
             if any(difflib.SequenceMatcher(None, nt, st).ratio() >= TITLE_SIMILARITY for st in seen_titles):
                 seen_urls.add(k)
-                state.append({"k": k, "t": nt, "ts": it["ts"]})
+                state.append({"k": k, "t": nt, "ts": it["ts"], "seen": time.time()})
                 continue
             seen_urls.add(k)
             seen_titles.append(nt)
-            state.append({"k": k, "t": nt, "ts": it["ts"]})
+            state.append({"k": k, "t": nt, "ts": it["ts"], "seen": time.time()})
             fresh.append({**it, "source": f["name"], "category": f["category"]})
 
     for m in football_results(cfg.get("football_leagues", {}), seen_urls) + cve_items(seen_urls):
         seen_urls.add(m["k"])
-        state.append({"k": m["k"], "t": "", "ts": m["ts"]})
+        state.append({"k": m["k"], "t": "", "ts": m["ts"], "seen": time.time()})
         fresh.append(m)
 
+    stale = time.time() - 7 * 86400
+    fresh = [i for i in fresh if i["ts"] >= stale]
     fresh.sort(key=lambda i: i["ts"])
     if first_run:
         print(f"First run: seeding {len(fresh)} items without posting.")
