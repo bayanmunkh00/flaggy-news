@@ -156,6 +156,69 @@ def football_results(leagues, seen_urls):
     return out
 
 
+KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+NVD_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
+
+
+def short(text, n=280):
+    text = " ".join(text.split())
+    return text if len(text) <= n else text[: n - 1].rstrip() + "…"
+
+
+def cve_items(seen_urls):
+    """New actively-exploited (CISA KEV) and critical (NVD) CVEs."""
+    from datetime import datetime, timedelta, timezone
+    now = datetime.now(timezone.utc)
+    out = []
+
+    def add(cve_id, kind, text, ts):
+        k = hashlib.sha1(f"cve:{kind}:{cve_id}".encode()).hexdigest()[:16]
+        if k not in seen_urls:
+            out.append({"k": k, "ts": ts, "category": "hacker", "text": text})
+
+    try:
+        cutoff = (now - timedelta(days=3)).strftime("%Y-%m-%d")
+        for v in json.loads(fetch(KEV_URL))["vulnerabilities"]:
+            if v["dateAdded"] < cutoff:
+                continue
+            cid = v["cveID"]
+            lines = [
+                "🕵️ #hacker #cve #exploited",
+                f"🚨 <b>{html.escape(cid)}</b> added to CISA KEV (exploited in the wild)",
+                f"{html.escape(v['vendorProject'])} {html.escape(v['product'])}: {html.escape(v['vulnerabilityName'])}",
+                html.escape(short(v["shortDescription"])),
+            ]
+            if v.get("knownRansomwareCampaignUse") == "Known":
+                lines.append("Used in ransomware campaigns")
+            lines.append(f"Patch by: {v['dueDate']} · https://nvd.nist.gov/vuln/detail/{html.escape(cid)}")
+            add(cid, "kev", "\n".join(lines), parse_date(v["dateAdded"] + "T00:00:00+00:00"))
+    except Exception as ex:
+        print(f"! CISA KEV: {ex}", file=sys.stderr)
+
+    try:
+        fmt = lambda d: d.strftime("%Y-%m-%dT%H:%M:%S.000")
+        q = urllib.parse.urlencode({
+            "cvssV3Severity": "CRITICAL",
+            "pubStartDate": fmt(now - timedelta(hours=26)),
+            "pubEndDate": fmt(now),
+            "resultsPerPage": 40,
+        })
+        for v in json.loads(fetch(f"{NVD_URL}?{q}"))["vulnerabilities"]:
+            c = v["cve"]
+            desc = next((d["value"] for d in c["descriptions"] if d["lang"] == "en"), "")
+            m31 = (c.get("metrics", {}).get("cvssMetricV31") or c.get("metrics", {}).get("cvssMetricV30") or [{}])[0].get("cvssData", {})
+            lines = [
+                "🕵️ #hacker #cve",
+                f"🆕 <b>{html.escape(c['id'])}</b> · CVSS {m31.get('baseScore', '?')} CRITICAL",
+                html.escape(short(desc)),
+                f"https://nvd.nist.gov/vuln/detail/{html.escape(c['id'])}",
+            ]
+            add(c["id"], "nvd", "\n".join(lines), parse_date(c["published"] + "+00:00"))
+    except Exception as ex:
+        print(f"! NVD: {ex}", file=sys.stderr)
+    return out
+
+
 def canon_url(url):
     p = urllib.parse.urlsplit(url)
     q = [(k, v) for k, v in urllib.parse.parse_qsl(p.query) if not TRACKING_PARAMS.match(k)]
@@ -253,7 +316,7 @@ def main():
             state.append({"k": k, "t": nt, "ts": it["ts"]})
             fresh.append({**it, "source": f["name"], "category": f["category"]})
 
-    for m in football_results(cfg.get("football_leagues", {}), seen_urls):
+    for m in football_results(cfg.get("football_leagues", {}), seen_urls) + cve_items(seen_urls):
         seen_urls.add(m["k"])
         state.append({"k": m["k"], "t": "", "ts": m["ts"]})
         fresh.append(m)

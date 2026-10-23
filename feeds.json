@@ -83,6 +83,42 @@
       "include": "(?=.*(bc\\.game|s1mple))(?=.*(beat|defeat|win|won|wins|lose|loses|lost|advance|eliminat|upset|sweep|knock|conquer|survive|qualif|crash out|dispatch|\\d\\s?[-–:]\\s?\\d))",
       "exclude": "chess|pubg|vrs|prediction|odds|betting|casino|sign|bench|coach|rank|price",
       "max_age_hours": 72
+    },
+    {
+      "category": "hacker",
+      "name": "Medium · bug bounty",
+      "url": "https://medium.com/feed/tag/bug-bounty",
+      "max_age_hours": 72
+    },
+    {
+      "category": "hacker",
+      "name": "Medium · bug bounty writeup",
+      "url": "https://medium.com/feed/tag/bug-bounty-writeup",
+      "max_age_hours": 72
+    },
+    {
+      "category": "hacker",
+      "name": "InfoSec Write-ups",
+      "url": "https://infosecwriteups.com/feed",
+      "max_age_hours": 72
+    },
+    {
+      "category": "hacker",
+      "name": "PortSwigger Research",
+      "url": "https://portswigger.net/research/rss",
+      "max_age_hours": 168
+    },
+    {
+      "category": "hacker",
+      "name": "GitHub Security",
+      "url": "https://github.blog/security/feed/",
+      "max_age_hours": 168
+    },
+    {
+      "category": "hacker",
+      "name": "Project Zero",
+      "url": "https://googleprojectzero.blogspot.com/feeds/posts/default",
+      "max_age_hours": 168
     }
   ],
   "football_leagues": {
