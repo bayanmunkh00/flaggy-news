@@ -73,6 +73,89 @@ def parse_date(s):
         return time.time()
 
 
+ESPN = "https://site.api.espn.com/apis/site/v2/sports/soccer"
+RESULT_LOOKBACK_DAYS = 2
+
+
+def espn_json(url):
+    return json.loads(fetch(url))
+
+
+def stat(team, name):
+    for x in team.get("statistics", []):
+        if x["name"] == name:
+            return x["displayValue"]
+    return "-"
+
+
+def format_match(league_name, event, summary):
+    comp = event["competitions"][0]
+    teams = {c["homeAway"]: c for c in comp["competitors"]}
+    home, away = teams["home"], teams["away"]
+    hn, an = home["team"]["displayName"], away["team"]["displayName"]
+    status = event["status"]["type"].get("shortDetail", "FT")
+    lines = [
+        "⚽ #football #" + re.sub(r"\W", "", league_name.lower()),
+        f"<b>{html.escape(hn)} {home['score']}–{away['score']} {html.escape(an)}</b>",
+        f"{html.escape(league_name)} · {html.escape(status)}",
+    ]
+    names = {c["team"]["id"]: c["team"]["displayName"] for c in comp["competitors"]}
+    goals = []
+    for d in comp.get("details", []):
+        if not d.get("scoringPlay"):
+            continue
+        who = (d.get("athletesInvolved") or [{}])[0].get("displayName", "?")
+        tag = " (pen)" if d.get("penaltyKick") else " (og)" if d.get("ownGoal") else ""
+        goals.append(f"{html.escape(who)} {d['clock']['displayValue']}{tag} [{html.escape(names.get(d['team']['id'], '?'))}]")
+    if goals:
+        lines.append("\nGoals: " + ", ".join(goals))
+    if summary:
+        box = {t["homeAway"]: t for t in summary.get("boxscore", {}).get("teams", [])}
+        if "home" in box and "away" in box:
+            h, a = box["home"], box["away"]
+            def pair(n, fmt=lambda v: v):
+                return f"{fmt(stat(h, n))} – {fmt(stat(a, n))}"
+            pct = lambda v: v if v == "-" else f"{round(float(v))}%"
+            lines += [
+                "\nStats (home – away)",
+                f"Possession: {pair('possessionPct', pct)}",
+                f"Shots (on target): {stat(h, 'totalShots')} ({stat(h, 'shotsOnTarget')}) – {stat(a, 'totalShots')} ({stat(a, 'shotsOnTarget')})",
+                f"Corners: {pair('wonCorners')}",
+                f"Passes: {stat(h, 'accuratePasses')}/{stat(h, 'totalPasses')} – {stat(a, 'accuratePasses')}/{stat(a, 'totalPasses')}",
+                f"Fouls: {pair('foulsCommitted')}",
+                f"Yellow cards: {pair('yellowCards')} · Red: {pair('redCards')}",
+            ]
+    return "\n".join(lines)
+
+
+def football_results(leagues, seen_urls):
+    """Finished matches (with stats) from ESPN for the configured leagues."""
+    from datetime import datetime, timedelta, timezone
+    today = datetime.now(timezone.utc)
+    days = [(today - timedelta(days=i)).strftime("%Y%m%d") for i in range(RESULT_LOOKBACK_DAYS + 1)]
+    out = []
+    for slug, league_name in leagues.items():
+        events = {}
+        for day in days:
+            try:
+                for e in espn_json(f"{ESPN}/{slug}/scoreboard?dates={day}")["events"]:
+                    events[e["id"]] = e
+            except Exception as ex:
+                print(f"! {league_name} {day}: {ex}", file=sys.stderr)
+        for e in events.values():
+            k = hashlib.sha1(f"match:{slug}:{e['id']}".encode()).hexdigest()[:16]
+            if k in seen_urls or not e["status"]["type"].get("completed"):
+                continue
+            try:
+                summary = espn_json(f"{ESPN}/{slug}/summary?event={e['id']}")
+            except Exception as ex:
+                print(f"! stats {league_name} {e['id']}: {ex}", file=sys.stderr)
+                summary = None
+            out.append({"k": k, "ts": parse_date(e["date"]), "category": "football",
+                        "text": format_match(league_name, e, summary)})
+    return out
+
+
 def canon_url(url):
     p = urllib.parse.urlsplit(url)
     q = [(k, v) for k, v in urllib.parse.parse_qsl(p.query) if not TRACKING_PARAMS.match(k)]
@@ -137,7 +220,7 @@ def main():
     topics = {**cfg.get("topics", {}), **json.loads(os.environ.get("TELEGRAM_TOPICS") or "{}")}
     state, first_run = load_state()
     seen_urls = {s["k"] for s in state}
-    seen_titles = [s["t"] for s in state]
+    seen_titles = [s["t"] for s in state if s["t"]]
 
     fresh = []
     for f in feeds:
@@ -161,6 +244,11 @@ def main():
             state.append({"k": k, "t": nt, "ts": it["ts"]})
             fresh.append({**it, "source": f["name"], "category": f["category"]})
 
+    for m in football_results(cfg.get("football_leagues", {}), seen_urls):
+        seen_urls.add(m["k"])
+        state.append({"k": m["k"], "t": "", "ts": m["ts"]})
+        fresh.append(m)
+
     fresh.sort(key=lambda i: i["ts"])
     if first_run:
         print(f"First run: seeding {len(fresh)} items without posting.")
@@ -171,7 +259,7 @@ def main():
 
     for it in fresh:
         cat = it["category"]
-        text = (
+        text = it.get("text") or (
             f"{categories.get(cat, '📰')} #{cat}\n"
             f"<b>{html.escape(it['title'])}</b>\n"
             f"{html.escape(it['source'])} · {html.escape(it['link'])}"

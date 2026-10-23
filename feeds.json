@@ -17,16 +17,6 @@
   },
   "feeds": [
     {
-      "category": "football",
-      "name": "BBC Football",
-      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml"
-    },
-    {
-      "category": "football",
-      "name": "Sky Sports",
-      "url": "https://www.skysports.com/rss/12040"
-    },
-    {
       "category": "hacker",
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/"
@@ -76,5 +66,9 @@
       "name": "OpenAI",
       "url": "https://openai.com/news/rss.xml"
     }
-  ]
+  ],
+  "football_leagues": {
+    "eng.1": "Premier League",
+    "uefa.champions": "Champions League"
+  }
 }
