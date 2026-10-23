@@ -5,7 +5,8 @@
     "dota": "🎮",
     "trend": "🔥",
     "mongolia": "🇲🇳",
-    "ai": "🤖"
+    "ai": "🤖",
+    "cs2": "🔫"
   },
   "topics": {
     "football": 4,
@@ -13,7 +14,8 @@
     "dota": 3,
     "trend": 6,
     "mongolia": 7,
-    "ai": 8
+    "ai": 8,
+    "cs2": 3
   },
   "feeds": [
     {
@@ -70,5 +72,9 @@
   "football_leagues": {
     "eng.1": "Premier League",
     "uefa.champions": "Champions League"
-  }
+  },
+  "cs2_teams": [
+    "The MongolZ",
+    "BC.Game"
+  ]
 }
