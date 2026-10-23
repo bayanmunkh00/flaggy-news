@@ -67,14 +67,26 @@
       "category": "ai",
       "name": "OpenAI",
       "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "category": "cs2",
+      "name": "CS2 · The MongolZ",
+      "url": "https://news.google.com/rss/search?q=%22The+MongolZ%22+CS2+%28beat+OR+defeat+OR+defeats+OR+win+OR+wins+OR+loses+OR+advance+OR+eliminated+OR+upset+OR+sweep+OR+knock+OR+conquer+OR+survive+OR+qualify%29+-prediction+-odds+-betting+-tip+-preview+-casino+-price+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
+      "include": "(?=.*(mongolz))(?=.*(beat|defeat|win|won|wins|lose|loses|lost|advance|eliminat|upset|sweep|knock|conquer|survive|qualif|crash out|dispatch|\\d\\s?[-–:]\\s?\\d))",
+      "exclude": "chess|pubg|vrs|prediction|odds|betting|casino|sign|bench|coach|rank|price",
+      "max_age_hours": 72
+    },
+    {
+      "category": "cs2",
+      "name": "CS2 · BC.Game",
+      "url": "https://news.google.com/rss/search?q=%22BC.Game%22+%28CS2+OR+%22Counter-Strike%22+OR+s1mple%29+%28beat+OR+defeat+OR+defeats+OR+win+OR+wins+OR+loses+OR+advance+OR+eliminated+OR+upset+OR+sweep+OR+knock+OR+conquer+OR+survive+OR+qualify%29+-prediction+-odds+-betting+-tip+-preview+-casino+-price+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
+      "include": "(?=.*(bc\\.game|s1mple))(?=.*(beat|defeat|win|won|wins|lose|loses|lost|advance|eliminat|upset|sweep|knock|conquer|survive|qualif|crash out|dispatch|\\d\\s?[-–:]\\s?\\d))",
+      "exclude": "chess|pubg|vrs|prediction|odds|betting|casino|sign|bench|coach|rank|price",
+      "max_age_hours": 72
     }
   ],
   "football_leagues": {
     "eng.1": "Premier League",
     "uefa.champions": "Champions League"
-  },
-  "cs2_teams": [
-    "The MongolZ",
-    "BC.Game"
-  ]
+  }
 }

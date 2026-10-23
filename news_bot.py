@@ -156,113 +156,6 @@ def football_results(leagues, seen_urls):
     return out
 
 
-PANDA = "https://api.pandascore.co/csgo"
-
-
-def panda(path, token, **params):
-    q = urllib.parse.urlencode(params)
-    return json.loads(fetch(f"{PANDA}/{path}?{q}", {"Authorization": f"Bearer {token}"}))
-
-
-def match_label(m):
-    league = (m.get("league") or {}).get("name", "")
-    serie = (m.get("serie") or {}).get("full_name", "")
-    tour = (m.get("tournament") or {}).get("name", "")
-    return " · ".join(x for x in (league, serie, tour) if x)
-
-
-def format_cs2_result(m):
-    opp = [o["opponent"] for o in m.get("opponents", [])]
-    if len(opp) < 2:
-        return None
-    score = {r["team_id"]: r["score"] for r in m.get("results", [])}
-    a, b = opp[0], opp[1]
-    lines = [
-        "🔫 #cs2 #esport",
-        f"<b>{html.escape(a['name'])} {score.get(a['id'], '?')}–{score.get(b['id'], '?')} {html.escape(b['name'])}</b>",
-        html.escape(match_label(m)),
-    ]
-    meta = []
-    if m.get("number_of_games"):
-        meta.append(f"Bo{m['number_of_games']}")
-    if m.get("winner"):
-        meta.append(f"Winner: {m['winner']['name']}")
-    if m.get("forfeit"):
-        meta.append("forfeit")
-    if meta:
-        lines.append(html.escape(" · ".join(meta)))
-    names = {o["id"]: o["name"] for o in opp}
-    maps = []
-    for g in sorted(m.get("games", []), key=lambda g: g.get("position", 0)):
-        if g.get("status") != "finished":
-            continue
-        winner = names.get((g.get("winner") or {}).get("id"), "?")
-        mp = (g.get("map") or {}).get("name")
-        maps.append(f"Map {g['position']}{' (' + mp + ')' if mp else ''}: {winner}")
-    if maps:
-        lines += ["\nMaps"] + [html.escape(x) for x in maps]
-    return "\n".join(lines)
-
-
-def format_cs2_upcoming(m):
-    opp = [o["opponent"]["name"] for o in m.get("opponents", [])]
-    if len(opp) < 2:
-        return None
-    when = m["begin_at"].replace("T", " ").replace(":00Z", " UTC")
-    bo = f" · Bo{m['number_of_games']}" if m.get("number_of_games") else ""
-    return "\n".join([
-        "🔫 #cs2 #esport",
-        f"Upcoming: <b>{html.escape(opp[0])} vs {html.escape(opp[1])}</b>",
-        f"{html.escape(match_label(m))}{bo}",
-        f"🕐 {html.escape(when)}",
-    ])
-
-
-def cs2_matches(team_names, seen_urls):
-    token = os.environ.get("PANDASCORE_TOKEN")
-    if not token or not team_names:
-        if team_names:
-            print("PANDASCORE_TOKEN not set, skipping CS2", file=sys.stderr)
-        return []
-    from datetime import datetime, timedelta, timezone
-    now = datetime.now(timezone.utc)
-    ids = {}
-    for name in team_names:
-        try:
-            for t in panda("teams", token, **{"search[name]": name}):
-                if name.lower() in t["name"].lower():
-                    ids[t["id"]] = t["name"]
-        except Exception as ex:
-            print(f"! CS2 team {name}: {ex}", file=sys.stderr)
-    if not ids:
-        return []
-    idlist = ",".join(map(str, ids))
-    out = []
-    try:
-        past = panda("matches/past", token, **{"filter[opponent_id]": idlist, "sort": "-end_at", "page[size]": 10})
-        upcoming = panda("matches/upcoming", token, **{"filter[opponent_id]": idlist, "sort": "begin_at", "page[size]": 10})
-    except Exception as ex:
-        print(f"! CS2 matches: {ex}", file=sys.stderr)
-        return []
-    cutoff = now - timedelta(days=RESULT_LOOKBACK_DAYS + 1)
-    for kind, matches in (("result", past), ("upcoming", upcoming)):
-        for m in matches:
-            k = hashlib.sha1(f"cs2:{kind}:{m['id']}".encode()).hexdigest()[:16]
-            if k in seen_urls:
-                continue
-            if kind == "result":
-                if m.get("status") != "finished" or parse_date(m.get("end_at") or m["begin_at"]) < cutoff.timestamp():
-                    continue
-                text, ts = format_cs2_result(m), parse_date(m.get("end_at") or m["begin_at"])
-            else:
-                if not m.get("begin_at") or parse_date(m["begin_at"]) > (now + timedelta(hours=24)).timestamp():
-                    continue
-                text, ts = format_cs2_upcoming(m), now.timestamp()
-            if text:
-                out.append({"k": k, "ts": ts, "category": "cs2", "text": text})
-    return out
-
-
 def canon_url(url):
     p = urllib.parse.urlsplit(url)
     q = [(k, v) for k, v in urllib.parse.parse_qsl(p.query) if not TRACKING_PARAMS.match(k)]
@@ -336,6 +229,15 @@ def main():
         except Exception as e:
             print(f"! {f['name']}: {e}", file=sys.stderr)
             continue
+        if f.get("include"):
+            rx = re.compile(f["include"], re.I)
+            items = [i for i in items if rx.search(i["title"])]
+        if f.get("exclude"):
+            rx = re.compile(f["exclude"], re.I)
+            items = [i for i in items if not rx.search(i["title"])]
+        if f.get("max_age_hours"):
+            min_ts = time.time() - f["max_age_hours"] * 3600
+            items = [i for i in items if i["ts"] >= min_ts]
         items = sorted(items, key=lambda i: i["ts"], reverse=True)[:MAX_PER_FEED]
         for it in items:
             k = url_key(it["link"])
@@ -351,7 +253,7 @@ def main():
             state.append({"k": k, "t": nt, "ts": it["ts"]})
             fresh.append({**it, "source": f["name"], "category": f["category"]})
 
-    for m in football_results(cfg.get("football_leagues", {}), seen_urls) + cs2_matches(cfg.get("cs2_teams", []), seen_urls):
+    for m in football_results(cfg.get("football_leagues", {}), seen_urls):
         seen_urls.add(m["k"])
         state.append({"k": m["k"], "t": "", "ts": m["ts"]})
         fresh.append(m)

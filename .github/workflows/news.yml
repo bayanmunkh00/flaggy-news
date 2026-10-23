@@ -24,7 +24,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          PANDASCORE_TOKEN: ${{ secrets.PANDASCORE_TOKEN }}
           # optional: route a category to its own channel/group
           TELEGRAM_CHAT_ID_FOOTBALL: ${{ secrets.TELEGRAM_CHAT_ID_FOOTBALL }}
           TELEGRAM_CHAT_ID_HACKER: ${{ secrets.TELEGRAM_CHAT_ID_HACKER }}
