@@ -6370,5 +6370,179 @@
 "t": "",
 "ts": 1792819024.9,
 "seen": 1792834035.1541827
+},
+{
+"k": "a0a9e49aec28c38a",
+"t": "brotli decoder flaw behind nodejs rce also affects bun python and other widely used software",
+"ts": 1792840169.0,
+"seen": 1792848826.1392179
+},
+{
+"k": "3a1a036ef73ae68c",
+"t": "leaked litellm master key let attackers steal github tokens and hijack release pipeline",
+"ts": 1792839813.0,
+"seen": 1792848826.3434086
+},
+{
+"k": "afec56c7243a9162",
+"t": "google says gmail and photos data shared with ai search could be used for targeted ads",
+"ts": 1792838193.0,
+"seen": 1792848826.6416361
+},
+{
+"k": "94d51fe2d20419a9",
+"t": "researchers push over 2 million updates to remotely disable popcorn time updater that could fuel a botnet",
+"ts": 1792832664.0,
+"seen": 1792848826.8767116
+},
+{
+"k": "998be73fb5197cad",
+"t": "1w new logo",
+"ts": 1792843962.0,
+"seen": 1792848827.4812775
+},
+{
+"k": "4a9ca99ac6bf81ef",
+"t": "the final keeper of the light boss",
+"ts": 1792842282.0,
+"seen": 1792848827.5695944
+},
+{
+"k": "1b63850e10f0cc41",
+"t": "finally i kill dummy target",
+"ts": 1792837296.0,
+"seen": 1792848827.6390457
+},
+{
+"k": "8573e9e453cbc762",
+"t": "bzm missed the match against og for pari universe yesterday bc he overslept",
+"ts": 1792834533.0,
+"seen": 1792848827.8189049
+},
+{
+"k": "80be82e89d82e8ef",
+"t": "get ready for the new meepo hack",
+"ts": 1792829918.0,
+"seen": 1792848827.9032817
+},
+{
+"k": "20e3f62725d56d38",
+"t": "fool me once shame on me fool me twice",
+"ts": 1792818779.0,
+"seen": 1792848828.0059369
+},
+{
+"k": "09245024589deb08",
+"t": "drawing aghanim until valve add him as a hero  day 101 inktober 23  dapper",
+"ts": 1792807298.0,
+"seen": 1792848828.1774497
+},
+{
+"k": "ed4c97aed0cde575",
+"t": "share your fav content creators",
+"ts": 1792803807.0,
+"seen": 1792848828.2591357
+},
+{
+"k": "7d8b5405e306572c",
+"t": "i just reached divine playing support as a core player",
+"ts": 1792800406.0,
+"seen": 1792848828.3897157
+},
+{
+"k": "eba09e01c63ed656",
+"t": "this weeks node2shell brotli vulnerability cve2026111497 is exploitable in python other consumers of brotli",
+"ts": 1792839687.0,
+"seen": 1792848828.993694
+},
+{
+"k": "8d8f6af8b2aa4941",
+"t": "be aware of whats in your logs",
+"ts": 1792838525.0,
+"seen": 1792848829.0766308
+},
+{
+"k": "d5523e9d9fef5266",
+"t": "wild version 0110 released",
+"ts": 1792836695.0,
+"seen": 1792848829.1428814
+},
+{
+"k": "b1d8e0305cdb04e5",
+"t": "i want my wednesday back",
+"ts": 1792836568.0,
+"seen": 1792848829.2096553
+},
+{
+"k": "0bf00a053601fbac",
+"t": "listening to nina simone in 2036",
+"ts": 1792836171.0,
+"seen": 1792848829.2902093
+},
+{
+"k": "44115490bcb6b7ca",
+"t": "elon musk just gave europe a reason to replace american technology",
+"ts": 1792847368.0,
+"seen": 1792848829.644076
+},
+{
+"k": "8ef9c99c3688bb78",
+"t": "aiassisted paper on zlibrary cites a torrentfreak article that doesnt exist",
+"ts": 1792840734.0,
+"seen": 1792848829.8166482
+},
+{
+"k": "000984af5b78ce9e",
+"t": "show hn autonomous root for tcl android tv via cve202222706",
+"ts": 1792839095.0,
+"seen": 1792848829.9526129
+},
+{
+"k": "bd26d5e42e5dfa97",
+"t": "i dont understand quantum physics 2018",
+"ts": 1792835606.0,
+"seen": 1792848830.0418656
+},
+{
+"k": "3e310d30f80f72c3",
+"t": "\u043c\u043e\u043d\u0433\u043e\u043b\u0447\u0443\u0443\u0434 \u0442\u0443\u0441\u0433\u0430\u0430\u0440 \u0442\u043e\u0433\u0442\u043d\u043e\u043b\u043e\u043e \u0441\u044d\u0440\u0433\u044d\u044d\u0436 \u0445\u0430\u0430\u043d\u0442 \u043e\u0440\u043e\u0441 \u0443\u043b\u0441\u0442\u0430\u0439 \u0434\u0438\u043f\u043b\u043e\u043c\u0430\u0442 \u0445\u0430\u0440\u0438\u043b\u0446\u0430\u0430 \u0442\u043e\u0433\u0442\u043e\u043e\u0445\u043e\u0434 \u0444\u0438\u043d\u043b\u0430\u043d\u0434 \u0445\u04af\u043c\u04af\u04af\u0441 \u0438\u0445\u044d\u044d\u0445\u044d\u043d \u04af\u04af\u0440\u044d\u0433 \u0433\u04af\u0439\u0446\u044d\u0442\u0433\u044d\u0441\u044d\u043d \u0431\u0430\u0439\u0434\u0430\u0433",
+"ts": 1792845600.0,
+"seen": 1792848833.2927277
+},
+{
+"k": "a87e798f8003ed37",
+"t": "\u0435\u0440\u04e9\u043d\u0445\u0438\u0439\u043b\u04e9\u0433\u0447 \u0443\u0445\u04af\u0440\u044d\u043b\u0441\u04af\u0445 \u0431\u04af\u0433\u0434 \u043d\u0430\u0439\u0440\u0430\u043c\u0434\u0430\u0445 \u0431\u0435\u043b\u0430\u0440\u0443\u0441\u044c \u0443\u043b\u0441\u0430\u0434 \u0442\u04e9\u0440\u0438\u0439\u043d \u0430\u0439\u043b\u0447\u043b\u0430\u043b \u0445\u0438\u0439\u043d\u044d",
+"ts": 1792844820.0,
+"seen": 1792848833.445895
+},
+{
+"k": "2149686b0a964f0e",
+"t": "\u0435\u0440\u04e9\u043d\u0445\u0438\u0439\u043b\u04e9\u0433\u0447 \u0443\u0445\u04af\u0440\u044d\u043b\u0441\u04af\u0445 \u0435\u0440\u04e9\u043d\u0445\u0438\u0439\u043b\u04e9\u0433\u0447 \u0430\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0435\u0440 \u0441\u0442\u0443\u0431\u0431 \u043d\u0430\u0440 \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043d\u044b \u0445\u044d\u043b\u044d\u043b\u0446\u044d\u044d \u0445\u0438\u0439\u0436 \u0445\u0430\u043c\u0442\u044b\u043d \u0430\u0436\u0438\u043b\u043b\u0430\u0433\u0430\u0430\u043d\u044b \u0431\u0430\u0440\u0438\u043c\u0442 \u0431\u0438\u0447\u0433\u04af\u04af\u0434\u044d\u0434 \u0433\u0430\u0440\u044b\u043d \u04af\u0441\u044d\u0433 \u0437\u0443\u0440\u0430\u0432",
+"ts": 1792844220.0,
+"seen": 1792848833.7690918
+},
+{
+"k": "d7dc077092e84652",
+"t": "\u043d\u0438\u0439\u0441\u043b\u044d\u043b \u0445\u043e\u0442 \u04af\u04af\u0441\u044d\u043d \u0431\u0430\u0439\u0433\u0443\u0443\u043b\u0430\u0433\u0434\u0441\u0430\u043d\u044b 387 \u0436\u0438\u043b\u0438\u0439\u043d \u043e\u0439\u043d \u0431\u0430\u0440\u0438\u043b\u0434\u0430\u0430\u043d\u0434 \u0443\u043b\u0441\u044b\u043d \u0430\u0432\u0430\u0440\u0433\u0430 \u043e\u0445\u0430\u043d\u0433\u0430\u0439 \u0442\u04af\u0440\u04af\u04af\u043b\u043b\u044d\u044d",
+"ts": 1792838160.0,
+"seen": 1792848833.9853654
+},
+{
+"k": "f20fb047f2d52eaa",
+"t": "i built a tool because i was tired of typing",
+"ts": 1792841461.0,
+"seen": 1792848836.015207
+},
+{
+"k": "7fda805c06897416",
+"t": "the bug that is on 80 of wordpress sites but that pay only 12 times  bug bounty story",
+"ts": 1792836010.0,
+"seen": 1792848836.2166793
+},
+{
+"k": "869682e40bf73138",
+"t": "",
+"ts": 1792841400.0,
+"seen": 1792848841.0596194
 }
 ]
