@@ -7042,5 +7042,95 @@
 "t": "i automated my entire bug bounty recon one script start to finish",
 "ts": 1792900802.0,
 "seen": 1792905170.806485
+},
+{
+"k": "5d0e99bc982daef0",
+"t": "openai ai agents demonstrate vm escapes and secret crosssandbox communication",
+"ts": 1792911269.0,
+"seen": 1792922719.8130548
+},
+{
+"k": "de770b6c992989aa",
+"t": "is sf a flower",
+"ts": 1792908008.0,
+"seen": 1792922720.235971
+},
+{
+"k": "6a68bfcff4b3ac2e",
+"t": "what",
+"ts": 1792905161.0,
+"seen": 1792922720.257347
+},
+{
+"k": "502a1bf64cc5612e",
+"t": "i dont need to become high immortal to enjoy the game",
+"ts": 1792900209.0,
+"seen": 1792922720.504165
+},
+{
+"k": "6a575a19d8a8dbd8",
+"t": "dota 2 profile",
+"ts": 1792882527.0,
+"seen": 1792922720.552871
+},
+{
+"k": "49410be4065a7c42",
+"t": "online censorship is crushing indie webcomics",
+"ts": 1792919053.0,
+"seen": 1792922721.1956277
+},
+{
+"k": "5939d566ce0c1aab",
+"t": "meta ignores brazilian court order to end bolsonaro favoritism",
+"ts": 1792918840.0,
+"seen": 1792922721.3529994
+},
+{
+"k": "a85522960636122c",
+"t": "not palantir",
+"ts": 1792911313.0,
+"seen": 1792922721.3997471
+},
+{
+"k": "d80a9b894fad53d7",
+"t": "\u0437\u0443\u043d\u044b \u0434\u0443\u0433\u0443\u0439 \u043d\u044c \u0445\u04af\u0439\u0442\u043d\u0438\u0439\u0433 \u0442\u044d\u0441\u0432\u044d\u0440\u043b\u044d\u0445 \u0447\u0430\u0434\u0432\u0430\u0440 \u043c\u0443\u0443\u0442\u0430\u0439 \u0431\u04e9\u0433\u04e9\u04e9\u0434 \u0445\u04e9\u043b\u0434\u04e9\u0445 \u0445\u0430\u043b\u0442\u0438\u0440\u0430\u0445 \u044d\u0440\u0441\u0434\u044d\u043b\u0442\u044d\u0439\u0433 \u0442\u0446\u0430 \u0430\u043d\u0445\u0430\u0430\u0440\u0443\u0443\u043b\u0430\u0432",
+"ts": 1792906440.0,
+"seen": 1792922725.1255486
+},
+{
+"k": "eabced558d195e63",
+"t": "my first  from real bug  and it was very simple",
+"ts": 1792920201.0,
+"seen": 1792922726.188137
+},
+{
+"k": "649c873c546e1c5a",
+"t": "web llm attacks turning a chatbots helpfulness into account takeover",
+"ts": 1792919289.0,
+"seen": 1792922726.3605688
+},
+{
+"k": "6498ae6010a144a2",
+"t": "11000 for two login flows that shared a memory a session puzzling bug that skipped mfa entirely",
+"ts": 1792910761.0,
+"seen": 1792922726.598971
+},
+{
+"k": "ac201f0899893629",
+"t": "p2 vulnerability  idor exposes other users personal data",
+"ts": 1792910740.0,
+"seen": 1792922726.7514358
+},
+{
+"k": "1c5f99468b40507d",
+"t": "from p4 to p1  day 2 technology and server version disclosure in bug bounty hunting",
+"ts": 1792909383.0,
+"seen": 1792922726.9737823
+},
+{
+"k": "5cf58bc93b7a8ad4",
+"t": "php2shell when a memory bug turns into remote code execution",
+"ts": 1792905080.0,
+"seen": 1792922727.1351237
 }
 ]
