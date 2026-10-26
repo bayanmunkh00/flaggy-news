@@ -8116,5 +8116,425 @@
 "t": "from p4 to p1  day 3 verbose error messages and stack trace disclosure in bug bounty hunting",
 "ts": 1792990704.0,
 "seen": 1793000586.8391902
+},
+{
+"k": "ad150e41ed925790",
+"t": "when an ai agent is the incident the identity record is the evidence",
+"ts": 1793023210.0,
+"seen": 1793027226.6724908
+},
+{
+"k": "8228afc460bcaad8",
+"t": "chinese man extradited for role in 36 million cryptocurrency scam",
+"ts": 1793023004.0,
+"seen": 1793027226.9658396
+},
+{
+"k": "20da7cee171a7ec3",
+"t": "kali linux 20263 released with 6 new tools desktop updates",
+"ts": 1793010412.0,
+"seen": 1793027227.1368494
+},
+{
+"k": "189250db2c65cfbc",
+"t": "php2shell security flaws now sucessfully exploited in the wild",
+"ts": 1793006397.0,
+"seen": 1793027227.307429
+},
+{
+"k": "3576934612fc89d7",
+"t": "weekly recap this2shell that2shell everythings an rce rogue ai supply chain chaos and more",
+"ts": 1793023573.0,
+"seen": 1793027227.8393888
+},
+{
+"k": "a5411bb33d7fefff",
+"t": "two critical wasmtime flaws could let malicious webassembly modules escape sandboxes",
+"ts": 1793015561.0,
+"seen": 1793027228.1069767
+},
+{
+"k": "49aedb62ce7d37a0",
+"t": "between alerts what attackers do in the spaces ordinary detection misses",
+"ts": 1793013836.0,
+"seen": 1793027228.3185067
+},
+{
+"k": "275e6f3b55aff713",
+"t": "ucreator android spyware can steal telegram 2fa passwords and clone wechat accounts",
+"ts": 1793008442.0,
+"seen": 1793027228.5456223
+},
+{
+"k": "35a2887f86531272",
+"t": "microsoft 365 tokenreplay attacks compromise 97 accounts at 79 organizations",
+"ts": 1793003751.0,
+"seen": 1793027228.7523222
+},
+{
+"k": "8e95a20d61e45dbc",
+"t": "gheist uses stolen github tokens to steal private repository secrets via actions logs",
+"ts": 1793000986.0,
+"seen": 1793027229.023913
+},
+{
+"k": "8239096a100ab76b",
+"t": "malicious file in downloads folder tries to trick ai coding agent into installing malware",
+"ts": 1792994628.0,
+"seen": 1793027229.278148
+},
+{
+"k": "2ca57f223f15bf2f",
+"t": "fucker took me 48 chests",
+"ts": 1793015301.0,
+"seen": 1793027229.9291854
+},
+{
+"k": "70842c4a0f6ad5c7",
+"t": "kuro true sight was the biggest loss",
+"ts": 1793012682.0,
+"seen": 1793027230.0471947
+},
+{
+"k": "7342c097d9555274",
+"t": "literally unplayable",
+"ts": 1793008773.0,
+"seen": 1793027230.1119943
+},
+{
+"k": "bf70eb917544a415",
+"t": "dota 2 skin concepts  autumnthemed fan designs",
+"ts": 1793005890.0,
+"seen": 1793027230.2554202
+},
+{
+"k": "536700a7044c202f",
+"t": "finally got an arcana but its one i already own untradeable is it even worth claiming",
+"ts": 1793001313.0,
+"seen": 1793027230.5147154
+},
+{
+"k": "566c7203258b3022",
+"t": "sunday dota deserves its own research",
+"ts": 1792998092.0,
+"seen": 1793027230.6344564
+},
+{
+"k": "ab3d8d2d000dc6e3",
+"t": "is rdota2 getting psyoped regarding the bots situation",
+"ts": 1792996745.0,
+"seen": 1793027230.7957218
+},
+{
+"k": "ece17fb4091d6ff9",
+"t": "simple sudoku solver in assembly",
+"ts": 1793021325.0,
+"seen": 1793027231.2211769
+},
+{
+"k": "6725fa290adda523",
+"t": "why is it so expensive to send an email",
+"ts": 1793021141.0,
+"seen": 1793027231.3575766
+},
+{
+"k": "75f559eb2386b479",
+"t": "shadow dummy folders an obvious overflow and a rop chain",
+"ts": 1793020943.0,
+"seen": 1793027231.5322628
+},
+{
+"k": "b8381ae3f727b793",
+"t": "aggro is the foundation 2022",
+"ts": 1793020897.0,
+"seen": 1793027231.6238499
+},
+{
+"k": "09b74834de1240c5",
+"t": "from impulse purchase to pocket studio the mvave fm1",
+"ts": 1793019344.0,
+"seen": 1793027231.782573
+},
+{
+"k": "f32074034d76e374",
+"t": "websites should be printable",
+"ts": 1793016178.0,
+"seen": 1793027231.8760765
+},
+{
+"k": "ceb78450425f46ef",
+"t": "gram 340 released",
+"ts": 1793015245.0,
+"seen": 1793027231.9390025
+},
+{
+"k": "5e268aca966b6246",
+"t": "what are you doing this week",
+"ts": 1793014518.0,
+"seen": 1793027232.0013294
+},
+{
+"k": "9f35c9d8bd4a4461",
+"t": "the small web is huge",
+"ts": 1793014483.0,
+"seen": 1793027232.0787826
+},
+{
+"k": "d000c37bbf3d3764",
+"t": "wails v300 released",
+"ts": 1793014237.0,
+"seen": 1793027232.146606
+},
+{
+"k": "d50c64ab86bb813c",
+"t": "akkuscm 120 released",
+"ts": 1793012956.0,
+"seen": 1793027232.2156231
+},
+{
+"k": "efc9440cd0fad93d",
+"t": "about the compromised emudhra intermediate cas",
+"ts": 1793008735.0,
+"seen": 1793027232.3545737
+},
+{
+"k": "71a132adcb9b03ec",
+"t": "partyline a group voice application for reticulum built on lxst",
+"ts": 1793025744.0,
+"seen": 1793027232.6934817
+},
+{
+"k": "94293719c2227c5c",
+"t": "amija a cycleexact amiga emulator written in java",
+"ts": 1793025131.0,
+"seen": 1793027232.8501909
+},
+{
+"k": "f0a0440c729980fc",
+"t": "vegemite is not a human right",
+"ts": 1793024271.0,
+"seen": 1793027232.9537385
+},
+{
+"k": "701cd53a342ec94a",
+"t": "doj says presidents should be able to sell secrets on ebay",
+"ts": 1793022884.0,
+"seen": 1793027233.1475172
+},
+{
+"k": "8754428783b28a3e",
+"t": "oled ipad mini",
+"ts": 1793022453.0,
+"seen": 1793027233.2042205
+},
+{
+"k": "b96bed7f015134a1",
+"t": "the new ipad mini",
+"ts": 1793020416.0,
+"seen": 1793027233.2713532
+},
+{
+"k": "52c4e79354417938",
+"t": "anthropic s1",
+"ts": 1793019890.0,
+"seen": 1793027233.3194892
+},
+{
+"k": "a47d4e82f3ab9dbc",
+"t": "fixing toolcall accuracy in vllm",
+"ts": 1793019588.0,
+"seen": 1793027233.4168167
+},
+{
+"k": "f2b7a055af1096d4",
+"t": "brown student maps the hidden global labor powering ai",
+"ts": 1793019507.0,
+"seen": 1793027233.5833104
+},
+{
+"k": "59977ee25134534d",
+"t": "writing is closer to thought than code",
+"ts": 1793017935.0,
+"seen": 1793027233.706909
+},
+{
+"k": "6d7190f877b09911",
+"t": "pharo 14",
+"ts": 1793013350.0,
+"seen": 1793027233.7433543
+},
+{
+"k": "e4a60b3d07f50fef",
+"t": "switzerland block by block at 11 scale",
+"ts": 1793004369.0,
+"seen": 1793027233.865458
+},
+{
+"k": "9ab9f716f63a0ca8",
+"t": "\u043d\u04e9\u0430\u0442\u044b\u043d \u0431\u0443\u0446\u0430\u0430\u043d \u043e\u043b\u0433\u043e\u043b\u0442\u043e\u043e\u0441\u043e\u043e 41020 \u0438\u0440\u0433\u044d\u043d 7794 \u0441\u0430\u044f \u0442\u04e9\u0433\u0440\u04e9\u0433\u0438\u0439\u043d \u0442\u0430\u0442\u0432\u0430\u0440\u0430\u0430 \u0442\u04e9\u043b\u0436\u044d\u044d",
+"ts": 1793007660.0,
+"seen": 1793027236.2835622
+},
+{
+"k": "a9fa255d92ff96af",
+"t": "\u0435\u0440\u04e9\u043d\u0445\u0438\u0439\u043b\u04e9\u0433\u0447 \u0443\u0445\u04af\u0440\u044d\u043b\u0441\u04af\u0445\u0438\u0439\u0433 \u0431\u04af\u0433\u0434 \u043d\u0430\u0439\u0440\u0430\u043c\u0434\u0430\u0445 \u0431\u0435\u043b\u0430\u0440\u0443\u0441\u044c \u0443\u043b\u0441\u044b\u043d \u0435\u0440\u04e9\u043d\u0445\u0438\u0439\u043b\u04e9\u0433\u0447 \u0430\u0433\u043b\u0443\u043a\u0430\u0448\u0435\u043d\u043a\u043e \u0430\u043b\u0431\u0430\u043d \u0451\u0441\u043e\u043e\u0440 \u0443\u0433\u0442\u0430\u043d \u0430\u0432\u0430\u0432",
+"ts": 1793005860.0,
+"seen": 1793027236.5789707
+},
+{
+"k": "a7f68ac3f8cea41b",
+"t": "\u0433\u0443\u0440\u0430\u0432\u0434\u0430\u0433\u0447 \u0445\u04e9\u0440\u0448\u0438\u0439\u043d \u0445\u04af\u0440\u044d\u044d \u0443\u043c\u0430\u0440\u0434 \u0435\u0432\u0440\u043e\u043f \u0440\u0443\u0443 \u0442\u044d\u043b\u043b\u044d\u044d",
+"ts": 1793004960.0,
+"seen": 1793027236.7081697
+},
+{
+"k": "d90042f8a38e8533",
+"t": "\u0445\u0430\u0430\u043d \u0431\u0430\u043d\u043a 130 \u0441\u0430\u044f \u0430\u043c\u0434\u043e\u043b\u043b\u0430\u0440\u044b\u043d \u043d\u043e\u0433\u043e\u043e\u043d \u0441\u0430\u043d\u0445\u04af\u04af\u0436\u0438\u043b\u0442 \u0442\u0430\u0442\u043b\u0430\u0430",
+"ts": 1793004420.0,
+"seen": 1793027236.8687227
+},
+{
+"k": "2e656a0b3c7f4e46",
+"t": "\u0431\u0430\u043d\u0430\u0440\u044b\u0433 \u043c\u043e\u043d\u0433\u043e\u043b\u044b\u043d \u0445\u04e9\u0440\u04e9\u043d\u0433\u0438\u0439\u043d \u0431\u0438\u0440\u0436 \u0445\u043a\u0438\u0439\u043d \u0433\u04af\u0439\u0446\u044d\u0442\u0433\u044d\u0445 \u0437\u0430\u0445\u0438\u0440\u043b\u044b\u043d \u04af\u04af\u0440\u0433\u0438\u0439\u0433 \u0442\u04af\u0440 \u043e\u0440\u043b\u043e\u043d \u0433\u04af\u0439\u0446\u044d\u0442\u0433\u044d\u0433\u0447\u044d\u044d\u0440 \u0442\u043e\u043c\u0438\u043b\u043b\u043e\u043e",
+"ts": 1793003880.0,
+"seen": 1793027237.1690564
+},
+{
+"k": "b8ab5de13d01689c",
+"t": "16 \u043d\u0430\u0441\u0442\u0430\u0439 \u043e\u0445\u0438\u043d\u044b \u0430\u043c\u0438\u0439\u0433 \u0445\u04e9\u043d\u04e9\u04e9\u0441\u04e9\u043d \u0446\u0434\u0430\u0432\u0433\u0430\u0434\u043e\u0440\u0436 \u043d\u0430\u0440\u0442 \u0445\u043e\u043b\u0431\u043e\u0433\u0434\u043e\u0445 \u0445\u044d\u0440\u0433\u0438\u0439\u043d \u0445\u044f\u043d\u0430\u043b\u0442\u044b\u043d \u0448\u0430\u0442\u043d\u044b \u0448\u04af\u04af\u0445 \u0445\u0443\u0440\u0430\u043b\u0434\u0430\u0430\u043d \u044d\u043d\u044d \u0441\u0430\u0440\u044b\u043d 29\u043d\u0434 \u0431\u043e\u043b\u043d\u043e",
+"ts": 1793003460.0,
+"seen": 1793027237.548813
+},
+{
+"k": "6db525bed98fb823",
+"t": "\u0447\u043c\u044d\u043d\u0434\u0431\u0430\u044f\u0440 \u0442\u04e9\u0440\u0438\u0439\u043d \u0442\u0430\u043c\u0433\u0430\u043d\u044b \u0445\u04e9\u0448\u04e9\u04e9\u043d\u0438\u0439 \u0441\u0443\u0443\u0440\u0438\u0439\u0433 \u0431\u043e\u0440\u0436\u0438\u043d \u0447\u0443\u043b\u0443\u0443\u0433\u0430\u0430\u0440 \u0441\u043e\u043b\u0438\u0445 \u0430\u0436\u043b\u044b\u0433 11 \u0434\u04af\u0433\u044d\u044d\u0440 \u0441\u0430\u0440\u044b\u043d 15\u043d\u0434 \u0434\u0443\u0443\u0441\u0433\u0430\u043d\u0430",
+"ts": 1793002080.0,
+"seen": 1793027237.865288
+},
+{
+"k": "5e5109434e1aba59",
+"t": "\u0430\u0440\u0432\u0430\u043d\u043d\u044d\u0433\u0434\u04af\u0433\u044d\u044d\u0440 \u0441\u0430\u0440\u044b\u043d \u044d\u0445\u044d\u044d\u0440 \u0445\u0430\u0440\u044c\u0446\u0430\u043d\u0433\u0443\u0439 \u0434\u0443\u043b\u0430\u0430\u043d \u04e9\u0434\u0440\u04af\u04af\u0434 \u04af\u0440\u0433\u044d\u043b\u0436\u043b\u044d\u0445 \u0431\u043e\u043b\u043e\u0432\u0447 \u0430\u0433\u0430\u0430\u0440\u044b\u043d \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440 \u043e\u0433\u0446\u043e\u043c \u0431\u0443\u0443\u0440\u0430\u0445 \u0446\u043e\u0447\u0438\u0440 \u0445\u04af\u0439\u0442\u0440\u044d\u0445 \u0437\u044d\u0440\u044d\u0433 \u04af\u0437\u044d\u0433\u0434\u044d\u043b \u0430\u0436\u0438\u0433\u043b\u0430\u0433\u0434\u0430\u043d\u0430",
+"ts": 1793000760.0,
+"seen": 1793027238.3168838
+},
+{
+"k": "7ca6b100a30f0093",
+"t": "anthropic officially files for its public debut",
+"ts": 1793025322.0,
+"seen": 1793027238.504228
+},
+{
+"k": "eb7708c5f537ab79",
+"t": "how fanatics and openai streamline the fan experience",
+"ts": 1792998000.0,
+"seen": 1793027238.9997
+},
+{
+"k": "8c37487b9ccbf53b",
+"t": "the empty json that bypassed a domain purchase",
+"ts": 1793024339.0,
+"seen": 1793027240.2223809
+},
+{
+"k": "4cfb30beee48d102",
+"t": "metasploit privilege escalation  uac bypass  sticky keys explained",
+"ts": 1793024283.0,
+"seen": 1793027240.4213219
+},
+{
+"k": "34e023b24f0b6249",
+"t": "ssrf attacks explained from zero to cloud credential theft complete bug bounty guide",
+"ts": 1793022179.0,
+"seen": 1793027240.669039
+},
+{
+"k": "773655ccbe6b3b45",
+"t": "the readme that can turn a coding agent against its owner",
+"ts": 1793022163.0,
+"seen": 1793027240.8789907
+},
+{
+"k": "461b98b9cd9a2590",
+"t": "what real hackerone xss reports teach you that tutorials dont",
+"ts": 1793022069.0,
+"seen": 1793027241.074108
+},
+{
+"k": "662d366cefc0d15e",
+"t": "critical account takeover via csrf header bypass",
+"ts": 1793021038.0,
+"seen": 1793027241.225752
+},
+{
+"k": "06f6f11e6ceb0c92",
+"t": "finding a smart contract bug is one thing proving its exploitable is another",
+"ts": 1793018980.0,
+"seen": 1793027241.472495
+},
+{
+"k": "92e1610cd5614a7a",
+"t": "ai agents explained without the hype",
+"ts": 1793018969.0,
+"seen": 1793027241.588314
+},
+{
+"k": "e84d2dd651b5f8b9",
+"t": "hextrees unfriendly notes backup challenge writeup exploiting an unprotected aidl service",
+"ts": 1793017837.0,
+"seen": 1793027241.8620338
+},
+{
+"k": "d77034495a0dc45e",
+"t": "one email parameter was all it took how broken access control let me create a folder in another",
+"ts": 1793015531.0,
+"seen": 1793027242.1746922
+},
+{
+"k": "1107ac524fa632aa",
+"t": "finding stored crosssite scripting xss in a live chat feature  bug bounty research",
+"ts": 1793010711.0,
+"seen": 1793027242.556209
+},
+{
+"k": "678709496a2df39e",
+"t": "",
+"ts": 1793002637.62,
+"seen": 1793027246.3074806
+},
+{
+"k": "659d06f011a5a811",
+"t": "",
+"ts": 1793002637.837,
+"seen": 1793027246.3074827
+},
+{
+"k": "a2b82fe33b97196f",
+"t": "",
+"ts": 1793006194.787,
+"seen": 1793027246.3074832
+},
+{
+"k": "aef40a29d4fe9dcd",
+"t": "",
+"ts": 1793006194.953,
+"seen": 1793027246.307484
+},
+{
+"k": "67a66bf75f1461c6",
+"t": "",
+"ts": 1793006195.163,
+"seen": 1793027246.3074841
+},
+{
+"k": "cb787f3adb393ca9",
+"t": "",
+"ts": 1793024194.173,
+"seen": 1793027246.3074846
+},
+{
+"k": "7761c722ee2e2b15",
+"t": "",
+"ts": 1793024197.04,
+"seen": 1793027246.3074849
 }
 ]
