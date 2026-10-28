@@ -10900,5 +10900,185 @@
 "t": "",
 "ts": 1793171804.12,
 "seen": 1793194152.6993508
+},
+{
+"k": "42279ffd24bfffbd",
+"t": "microsoft urges entra id admins to migrate users to passkeys",
+"ts": 1793198912.0,
+"seen": 1793203247.6064303
+},
+{
+"k": "784fb56154bf3f2f",
+"t": "infratrust report warns of exploited flaws in critical network infrastructure",
+"ts": 1793196000.0,
+"seen": 1793203247.891134
+},
+{
+"k": "d190a3e1036ea97f",
+"t": "even after php2shell blast radius matters more than a cvss score",
+"ts": 1793195459.0,
+"seen": 1793203248.1353242
+},
+{
+"k": "29d08fa787d95cda",
+"t": "hackers target critical oracle ebusiness suite rce flaw days after security patch",
+"ts": 1793191683.0,
+"seen": 1793203248.632343
+},
+{
+"k": "eb93de238d98745b",
+"t": "critical 16yearold uefi flaw can run code before secure boot on networkbooting servers",
+"ts": 1793188200.0,
+"seen": 1793203248.953117
+},
+{
+"k": "ce5fe177d9dacc31",
+"t": "wazuh and ai for enhanced soc workflows",
+"ts": 1793187000.0,
+"seen": 1793203249.1125228
+},
+{
+"k": "eae8959c98abcf7c",
+"t": "upgraded my ult",
+"ts": 1793196918.0,
+"seen": 1793203249.7663612
+},
+{
+"k": "187f3cec3b53b6a6",
+"t": "valve banned half a million bots from arcade",
+"ts": 1793195659.0,
+"seen": 1793203249.9449155
+},
+{
+"k": "eaf87d103e199331",
+"t": "\u3064 _ \u3064 giff patch  \u3064 _ \u3064",
+"ts": 1793195521.0,
+"seen": 1793203250.0746663
+},
+{
+"k": "0230ae587d402619",
+"t": "they still care about us",
+"ts": 1793194733.0,
+"seen": 1793203250.1848621
+},
+{
+"k": "7925eecbd9c2475a",
+"t": "making simd code scale to any vector width",
+"ts": 1793197400.0,
+"seen": 1793203250.5973492
+},
+{
+"k": "d631652614601664",
+"t": "the october inflection point for vibe game development",
+"ts": 1793196183.0,
+"seen": 1793203250.8045392
+},
+{
+"k": "68f7c17af7873eed",
+"t": "forging a microsoft edge full chain with logic bugs only",
+"ts": 1793194446.0,
+"seen": 1793203251.0195422
+},
+{
+"k": "b37f61bf0040aab5",
+"t": "26400 live credentials found scanning 725m repos on chinas gitee",
+"ts": 1793201519.0,
+"seen": 1793203251.453647
+},
+{
+"k": "8cc9c079a9b2a301",
+"t": "amazon rainforest cut down to build highway for cop climate summit 2025",
+"ts": 1793201051.0,
+"seen": 1793203251.717136
+},
+{
+"k": "b7a7b4af3a0efec7",
+"t": "tesla semi catches fire on i880",
+"ts": 1793199247.0,
+"seen": 1793203251.8521442
+},
+{
+"k": "dc6480c529590219",
+"t": "cnc stone carving",
+"ts": 1793198302.0,
+"seen": 1793203251.9328313
+},
+{
+"k": "db5e3461187b08c9",
+"t": "an architectural comparison of obsidian canvas and heptabase",
+"ts": 1793197460.0,
+"seen": 1793203252.1621716
+},
+{
+"k": "31ebe027e44146f9",
+"t": "kentucky man becomes the first humanist granted religious exemption from ai",
+"ts": 1793194890.0,
+"seen": 1793203252.444065
+},
+{
+"k": "4950859fe6f9d2c9",
+"t": "emacs turns 50",
+"ts": 1793193911.0,
+"seen": 1793203252.5219069
+},
+{
+"k": "516d6345c17a7d96",
+"t": "ai execs may be too out of touch to build for the general public",
+"ts": 1793202832.0,
+"seen": 1793203255.7075279
+},
+{
+"k": "1af93ecc8fda644e",
+"t": "south koreas financial industry hit by fresh wave of cyberattacks",
+"ts": 1793202078.0,
+"seen": 1793203255.9519782
+},
+{
+"k": "d9d3119199806147",
+"t": "voice ai in vogue nvidia releases new open transcription model",
+"ts": 1793199600.0,
+"seen": 1793203256.1996512
+},
+{
+"k": "7ae8eb20550eee76",
+"t": "nvidia nemotron 35 transcribe and granary v2 intelligent multilingual transcription you can prompt and adapt",
+"ts": 1793199497.0,
+"seen": 1793203256.834862
+},
+{
+"k": "530aa305e50a76e5",
+"t": "account takeover via password reset poisoning  stepbystep bug bounty guide",
+"ts": 1793202659.0,
+"seen": 1793203258.2051136
+},
+{
+"k": "5e68d3acbbc87cf8",
+"t": "recon with a purpose turning small clues into hidden attack surfaces",
+"ts": 1793200584.0,
+"seen": 1793203258.4674265
+},
+{
+"k": "9e23d523a75ad08f",
+"t": "my frontend looked great until the api started failing",
+"ts": 1793198583.0,
+"seen": 1793203258.6771827
+},
+{
+"k": "970989f68545b319",
+"t": "i built a vulnerable demo app to understand how common web bugs happen",
+"ts": 1793198095.0,
+"seen": 1793203258.813765
+},
+{
+"k": "b52f1d5c1b1168ab",
+"t": "how a sneaker order led me to an idor vulnerability and 50",
+"ts": 1793195177.0,
+"seen": 1793203259.0781777
+},
+{
+"k": "213965b0b1122664",
+"t": "how i solved intigritis october 2026 challenge a business logic flaw that allowed a 100 discount",
+"ts": 1793194690.0,
+"seen": 1793203259.4721682
 }
 ]
