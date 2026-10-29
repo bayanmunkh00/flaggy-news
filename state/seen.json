@@ -11956,5 +11956,359 @@
 "t": "",
 "ts": 1793247516.777,
 "seen": 1793267384.9882522
+},
+{
+"k": "0e4cd4a753f52d07",
+"t": "microsoft fixes remote desktop failures caused by recent windows updates",
+"ts": 1793284540.0,
+"seen": 1793289645.8802927
+},
+{
+"k": "74bc7344545fc376",
+"t": "3 ways ai agents already operate in your browser",
+"ts": 1793282410.0,
+"seen": 1793289646.066822
+},
+{
+"k": "d930ed3a2370f8ce",
+"t": "cisa warns of fragnesia linux flaw chained in php2shell attacks",
+"ts": 1793282388.0,
+"seen": 1793289646.4252822
+},
+{
+"k": "d4d65b58877f7e7a",
+"t": "windows 11 kb5127936 update released with 41 changes and fixes",
+"ts": 1793275207.0,
+"seen": 1793289646.7819097
+},
+{
+"k": "4e85e7df4184fb31",
+"t": "new cisco firewall zeroday exploited to crash ssl vpn devices",
+"ts": 1793272213.0,
+"seen": 1793289646.9986353
+},
+{
+"k": "8cc04215eff5794d",
+"t": "fake chatgpt and claude apps abuse signed executables to deploy crypto miners",
+"ts": 1793287229.0,
+"seen": 1793289647.5046532
+},
+{
+"k": "005f2528861a55a1",
+"t": "googles gemini 4 carbon leads benchmarks for finding exploiting and patching vulnerabilities",
+"ts": 1793281360.0,
+"seen": 1793289647.826637
+},
+{
+"k": "5a570ea1e7c28b60",
+"t": "webinar how to build ai threat readiness into your security operations",
+"ts": 1793273981.0,
+"seen": 1793289648.1052492
+},
+{
+"k": "dd1c518d70f0f107",
+"t": "telegram android flaw lets attackers run code when users answer voice calls",
+"ts": 1793273958.0,
+"seen": 1793289648.4168363
+},
+{
+"k": "e6aa25e9694d58ab",
+"t": "the rise of the threat operator how ai will redefine security operations and careers",
+"ts": 1793273621.0,
+"seen": 1793289648.7629776
+},
+{
+"k": "c9e7c513e1436e5a",
+"t": "26400 valid cloud and ai credentials found exposed in public gitee repositories",
+"ts": 1793273595.0,
+"seen": 1793289649.0667362
+},
+{
+"k": "083a1ea7d205dcd0",
+"t": "cisco patches actively exploited asa and ftd vpn flaw that can crash firewalls",
+"ts": 1793270686.0,
+"seen": 1793289649.3734503
+},
+{
+"k": "cf3544e85171cc16",
+"t": "github launches npm firewall to block malicious packages before installation",
+"ts": 1793269593.0,
+"seen": 1793289649.6620321
+},
+{
+"k": "9ac8296dadd769b2",
+"t": "attacker tried to exploit alpine linuxs gitlab via cvss 100 flaw its ruby left open",
+"ts": 1793264739.0,
+"seen": 1793289649.986587
+},
+{
+"k": "d5546b2461ab92a5",
+"t": "talk about a rough day",
+"ts": 1793281378.0,
+"seen": 1793289650.6822462
+},
+{
+"k": "21611dcd7d4ea640",
+"t": "scariest sounding ultimate in dota",
+"ts": 1793278789.0,
+"seen": 1793289650.8201065
+},
+{
+"k": "899cd4f79a2e6aa9",
+"t": "since they are unemployed now can we add them as hero",
+"ts": 1793276077.0,
+"seen": 1793289651.047513
+},
+{
+"k": "5d4bb3f167bab283",
+"t": "disruptor  essence distiller has a lot of potential",
+"ts": 1793275150.0,
+"seen": 1793289651.26227
+},
+{
+"k": "bf9fdc891a3ca88b",
+"t": "liquidmeowlr1ne caught sleeping during draft phase",
+"ts": 1793270989.0,
+"seen": 1793289651.4462419
+},
+{
+"k": "a99e5c709ae333a4",
+"t": "team liquid secret coach",
+"ts": 1793270072.0,
+"seen": 1793289651.5514278
+},
+{
+"k": "f8f09649d56bd86a",
+"t": "little reminder to you guys that pudgette still not added to the game",
+"ts": 1793267334.0,
+"seen": 1793289651.8164332
+},
+{
+"k": "969a963aebdc1ff4",
+"t": "when nerf",
+"ts": 1793259477.0,
+"seen": 1793289651.8703089
+},
+{
+"k": "ace9b2eccc33f116",
+"t": "the web cant afford a javascript runtime monoculture",
+"ts": 1793288687.0,
+"seen": 1793289652.2820475
+},
+{
+"k": "bb9ecce72b05ff4e",
+"t": "azures weakest link  five full crosstenant compromises",
+"ts": 1793285841.0,
+"seen": 1793289652.496635
+},
+{
+"k": "612a4e4b4ddbdf03",
+"t": "shared password manager for families",
+"ts": 1793284791.0,
+"seen": 1793289652.6469104
+},
+{
+"k": "23d8e51930bb517a",
+"t": "building nixos using nixtamal",
+"ts": 1793281555.0,
+"seen": 1793289652.7658648
+},
+{
+"k": "4ac0691c50691967",
+"t": "nim version 240 released",
+"ts": 1793275646.0,
+"seen": 1793289652.8742876
+},
+{
+"k": "f059dcc02bfe67cc",
+"t": "netbsd adds a new emacslike text editor called atto",
+"ts": 1793275080.0,
+"seen": 1793289653.0933585
+},
+{
+"k": "4589775ef6a936b7",
+"t": "syrinx a censorshipresistant communications platform",
+"ts": 1793274285.0,
+"seen": 1793289653.2845786
+},
+{
+"k": "1d1b041f17bd502e",
+"t": "mexico is a showroom for electric vehicles you cant buy in the us",
+"ts": 1793287822.0,
+"seen": 1793289653.741343
+},
+{
+"k": "bd43dca7b97353c9",
+"t": "only 40 of aicited statistics trace back to a study",
+"ts": 1793286377.0,
+"seen": 1793289653.9432015
+},
+{
+"k": "cff79d5054554ff9",
+"t": "finland investigate google over destruction of 250k trees",
+"ts": 1793285861.0,
+"seen": 1793289654.1536307
+},
+{
+"k": "7d7fff6eeb195b4f",
+"t": "doordash is acquiring instacart for 17b",
+"ts": 1793284843.0,
+"seen": 1793289654.3056445
+},
+{
+"k": "7026960b106a4fe7",
+"t": "keplearn extract equations from data in seconds",
+"ts": 1793283773.0,
+"seen": 1793289654.4919446
+},
+{
+"k": "8ccea7e89b703086",
+"t": "mistral large 4 le chonk is now open weight",
+"ts": 1793283201.0,
+"seen": 1793289654.678305
+},
+{
+"k": "e73b1e1885594982",
+"t": "why are good developers so wary of agentic development",
+"ts": 1793282321.0,
+"seen": 1793289654.9002008
+},
+{
+"k": "8b886ef07b394d57",
+"t": "read the letter the fbi sent mlk to try to convince him to kill himself 2014",
+"ts": 1793281204.0,
+"seen": 1793289655.2040894
+},
+{
+"k": "eebb63f2228b3e37",
+"t": "gemini 4 carbon is the new 1 on the artificial analysis intelligence index v5",
+"ts": 1793277716.0,
+"seen": 1793289655.5147583
+},
+{
+"k": "b8568a0a8eb66f36",
+"t": "hackers expose the identities of more than 40k dhs employees",
+"ts": 1793277069.0,
+"seen": 1793289655.756737
+},
+{
+"k": "70ae377175067253",
+"t": "google determines the names for bodies of water in google earth 2008",
+"ts": 1793274078.0,
+"seen": 1793289656.0355537
+},
+{
+"k": "e813585790afea0f",
+"t": "the us added a record 202 gwh of battery storage in just 3 months",
+"ts": 1793270689.0,
+"seen": 1793289656.3099844
+},
+{
+"k": "482dcd575b14905e",
+"t": "chained php2shell exploit roots 25 servers including us government servers",
+"ts": 1793270561.0,
+"seen": 1793289656.589345
+},
+{
+"k": "755d5d40c76a7973",
+"t": "\u043e\u044e\u0443\u0442\u043e\u043b\u0433\u043e\u0439\u043d \u0433\u04af\u043d\u0438\u0439 \u0443\u0443\u0440\u0445\u0430\u0439\u0434 \u0433\u0430\u0437\u0430\u0440 \u0445\u04e9\u0434\u043b\u04e9\u043b\u0442\u0438\u0439\u043d \u0448\u0438\u043d\u0436\u0442\u044d\u0439 \u04af\u0437\u044d\u0433\u0434\u044d\u043b \u0431\u043e\u043b\u0436 15 \u0430\u0436\u0438\u043b\u0442\u0430\u043d \u0431\u044d\u0440\u0442\u0436\u044d\u044d",
+"ts": 1793275500.0,
+"seen": 1793289659.2380042
+},
+{
+"k": "5c450d9a985fdd09",
+"t": "wabi the ai agent that builds mini apps now valued at 125b after latest round",
+"ts": 1793284526.0,
+"seen": 1793289659.6671593
+},
+{
+"k": "d0e2301d55a343cc",
+"t": "deepgram acquires pipecatmaker daily to bolster its voice ai infrastructure",
+"ts": 1793278800.0,
+"seen": 1793289659.9556155
+},
+{
+"k": "f1cd1b9663e9895d",
+"t": "amazon updates alexa to help you manage shopping lists subscriptions and update delivery instructions",
+"ts": 1793278800.0,
+"seen": 1793289660.3196442
+},
+{
+"k": "f3538b6fb36f4f58",
+"t": "granite switch 411  update models like you update software",
+"ts": 1793281027.0,
+"seen": 1793289660.7368765
+},
+{
+"k": "e1c742c1d925baf7",
+"t": "announcing project protostar making publicly funded science aiready",
+"ts": 1793232000.0,
+"seen": 1793289660.9875886
+},
+{
+"k": "a1765f446c5b64b5",
+"t": "welcome le chonk mistral large 4 on hugging face",
+"ts": 1793232000.0,
+"seen": 1793289661.1860754
+},
+{
+"k": "85d975255b4f9d00",
+"t": "introducing anyspeechrecognizer and anydecisionmodel open models for speech and decisions on apple platforms",
+"ts": 1793232000.0,
+"seen": 1793289661.5858288
+},
+{
+"k": "8017ed9ae4916315",
+"t": "username enumeration via different responses",
+"ts": 1793289036.0,
+"seen": 1793289663.6667876
+},
+{
+"k": "919f2825c1ed1aa3",
+"t": "php2shell explained two critical php flaws the rce risk and how to protect your server",
+"ts": 1793287791.0,
+"seen": 1793289663.9793882
+},
+{
+"k": "f3ce9697145a18fa",
+"t": "wolfcms exploitation in sickos 1  ethical hacking ctf",
+"ts": 1793284534.0,
+"seen": 1793289664.180252
+},
+{
+"k": "7591b50babe039a2",
+"t": "from an android apk to production mqtt exposed credentials in attendo formerly petpooja payroll",
+"ts": 1793281971.0,
+"seen": 1793289664.5436778
+},
+{
+"k": "2e0554cfb35592a4",
+"t": "how a company killed its users with no way for recovery",
+"ts": 1793281808.0,
+"seen": 1793289664.7773643
+},
+{
+"k": "9d9b549274b43846",
+"t": "20 authentication vulnerabilities every pentester should test master the art of finding flaws",
+"ts": 1793276115.0,
+"seen": 1793289665.1093962
+},
+{
+"k": "0b6f2509e154105d",
+"t": "when oauth bypasses 2fa finding an authentication misconfiguration",
+"ts": 1793275845.0,
+"seen": 1793289665.3552074
+},
+{
+"k": "50542fbbb684500a",
+"t": "otp login security test i found a possible auth bypass  by samadhan shimple",
+"ts": 1793271833.0,
+"seen": 1793289665.6507359
+},
+{
+"k": "f75c9994d15b3eb4",
+"t": "ssrf vulnerability on major gaming company",
+"ts": 1793268579.0,
+"seen": 1793289665.8067646
 }
 ]
