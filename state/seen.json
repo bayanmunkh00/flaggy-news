@@ -14260,5 +14260,155 @@
 "t": "introducing the ticko bug bounty up to 200000 usdt for critical vulnerabilities",
 "ts": 1793419282.0,
 "seen": 1793424321.2784467
+},
+{
+"k": "4a3beb5aa5ff5440",
+"t": "attackers chain three ivanti connect secure flaws to gain unauthenticated root access",
+"ts": 1793435263.0,
+"seen": 1793444999.6980753
+},
+{
+"k": "e8eb82345a00ebfc",
+"t": "a shared chatgpt link could run attacker code in your session and read private chats",
+"ts": 1793424821.0,
+"seen": 1793444999.918606
+},
+{
+"k": "21ad2182a1367363",
+"t": "cloudflare reports 182 million networklayer ddos attacks in q3 up 38",
+"ts": 1793422572.0,
+"seen": 1793445000.1013272
+},
+{
+"k": "8c21fe1e42937581",
+"t": "mirana",
+"ts": 1793432482.0,
+"seen": 1793445000.826654
+},
+{
+"k": "87e3b8ee392fc204",
+"t": "what is the point of current bloodstone",
+"ts": 1793426591.0,
+"seen": 1793445000.9448762
+},
+{
+"k": "a6fa6fdafcfd8d00",
+"t": "can yall shut the fuck up",
+"ts": 1793425530.0,
+"seen": 1793445001.0183947
+},
+{
+"k": "ad073705eaa5bc83",
+"t": "choose your pill",
+"ts": 1793417506.0,
+"seen": 1793445001.0886548
+},
+{
+"k": "b197f2ef4b57de73",
+"t": "yatoro is the goat",
+"ts": 1793396549.0,
+"seen": 1793445001.1879315
+},
+{
+"k": "4969594c7a8b5057",
+"t": "marelleo a story box i built for my kids",
+"ts": 1793443006.0,
+"seen": 1793445001.497919
+},
+{
+"k": "5f06272b52fd8e6d",
+"t": "the secret of fast programming stop thinking",
+"ts": 1793442048.0,
+"seen": 1793445001.6155882
+},
+{
+"k": "f1bd3bcc8e89508b",
+"t": "clojureconj 2026",
+"ts": 1793427934.0,
+"seen": 1793445001.6601758
+},
+{
+"k": "a87c5b9700e35de6",
+"t": "serbia just elected the worlds brainiest parliament",
+"ts": 1793442090.0,
+"seen": 1793445002.0012314
+},
+{
+"k": "4b830608934ad2cb",
+"t": "how long do you need to hold down the power button to turn off a pc",
+"ts": 1793436212.0,
+"seen": 1793445002.189659
+},
+{
+"k": "73acf00ea16812b9",
+"t": "digital minimalism",
+"ts": 1793427396.0,
+"seen": 1793445002.243764
+},
+{
+"k": "976aa591e6ea37b4",
+"t": "breaking into a major bank",
+"ts": 1793442661.0,
+"seen": 1793445006.2508047
+},
+{
+"k": "918e5e25f5ed9712",
+"t": "15 pentesting metrics that actually matter master real security impact",
+"ts": 1793436544.0,
+"seen": 1793445006.4244561
+},
+{
+"k": "3b894360e86f8670",
+"t": "02 introduction to ethical hacking",
+"ts": 1793431179.0,
+"seen": 1793445006.5132046
+},
+{
+"k": "d14fbe346033fa58",
+"t": "from p4 to p1  day 8 broken functionlevel authorization bfla in bug bounty hunting",
+"ts": 1793427233.0,
+"seen": 1793445006.7087986
+},
+{
+"k": "cb43b3875f7c73f4",
+"t": "",
+"ts": 1793430994.367,
+"seen": 1793445009.7445292
+},
+{
+"k": "65133e2344d7e21b",
+"t": "",
+"ts": 1793430995.857,
+"seen": 1793445009.7445307
+},
+{
+"k": "9ecd3f26f27adaef",
+"t": "",
+"ts": 1793430997.707,
+"seen": 1793445009.744531
+},
+{
+"k": "49b95dec07054454",
+"t": "",
+"ts": 1793434608.603,
+"seen": 1793445009.7445312
+},
+{
+"k": "1a59bf339faafd52",
+"t": "",
+"ts": 1793434609.043,
+"seen": 1793445009.7445314
+},
+{
+"k": "6e36518e6824e37f",
+"t": "",
+"ts": 1793438192.51,
+"seen": 1793445009.7445316
+},
+{
+"k": "934fc6c38c4c66e5",
+"t": "",
+"ts": 1793438193.62,
+"seen": 1793445009.7445316
 }
 ]
