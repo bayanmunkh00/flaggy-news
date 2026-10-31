@@ -14224,5 +14224,41 @@
 "t": "one login two paths one critical security flaw cyshield ctf 2026",
 "ts": 1793406920.0,
 "seen": 1793419251.9579685
+},
+{
+"k": "da48f325aee0d271",
+"t": "halloween update",
+"ts": 1793415897.0,
+"seen": 1793424315.7647028
+},
+{
+"k": "d0fe0d783059b6d2",
+"t": "official gaben statement on the major patch eta",
+"ts": 1793411052.0,
+"seen": 1793424316.0948396
+},
+{
+"k": "9a1e17b51b2d98d8",
+"t": "openai raises less than half of 30b target",
+"ts": 1793416964.0,
+"seen": 1793424316.7927263
+},
+{
+"k": "2f083e35c49b477d",
+"t": "building an ainative engineering org",
+"ts": 1793311114.0,
+"seen": 1793424316.9805214
+},
+{
+"k": "1d5941d5491b9fe8",
+"t": "turning a solar power system into its own backup",
+"ts": 1793297433.0,
+"seen": 1793424317.2367384
+},
+{
+"k": "cf28e433041342ea",
+"t": "introducing the ticko bug bounty up to 200000 usdt for critical vulnerabilities",
+"ts": 1793419282.0,
+"seen": 1793424321.2784467
 }
 ]
