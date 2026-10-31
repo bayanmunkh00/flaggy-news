@@ -14584,5 +14584,239 @@
 "t": "openai reportedly lowers funding target for new round",
 "ts": 1793463175.0,
 "seen": 1793463487.836676
+},
+{
+"k": "fb9fb5a975e9eb28",
+"t": "northflank security breach leads to abuse of customers ai api keys",
+"ts": 1793469672.0,
+"seen": 1793477729.0662236
+},
+{
+"k": "2ecd29ad0013472a",
+"t": "your 06 antimage finally ready to fight after 45 minutes of suboptimal farming",
+"ts": 1793467931.0,
+"seen": 1793477731.4368892
+},
+{
+"k": "14aa2ba7b981a752",
+"t": "dear icefrog",
+"ts": 1793456998.0,
+"seen": 1793477731.5210307
+},
+{
+"k": "7ea8cc2394d9295b",
+"t": "uga booga axe set",
+"ts": 1793439595.0,
+"seen": 1793477731.636558
+},
+{
+"k": "56f7f1808ca93898",
+"t": "vladmirs offering keycap",
+"ts": 1793439262.0,
+"seen": 1793477731.7694135
+},
+{
+"k": "5c3a36f64913b2d1",
+"t": "a game scripting language that runs speechtotext 5x faster than llamacpp on cpu",
+"ts": 1793476342.0,
+"seen": 1793477732.675148
+},
+{
+"k": "96ff2ff02612ea7c",
+"t": "mystery of 60second fluctuations in power grids solved",
+"ts": 1793476211.0,
+"seen": 1793477732.951579
+},
+{
+"k": "d6a3cd5b839edd99",
+"t": "avoid public functions calling other public functions",
+"ts": 1793469903.0,
+"seen": 1793477733.2187147
+},
+{
+"k": "bf55c23c95476514",
+"t": "enlightenment 0280 release",
+"ts": 1793469738.0,
+"seen": 1793477733.365413
+},
+{
+"k": "7ef6e92e4e8e2cab",
+"t": "speeding up gpu copies by permuting iteration spaces or optimising the identity function",
+"ts": 1793466184.0,
+"seen": 1793477733.8049989
+},
+{
+"k": "9bf076c888946096",
+"t": "tangled hire a frontend accessibility expert",
+"ts": 1793464185.0,
+"seen": 1793477734.039792
+},
+{
+"k": "f9b76a950f0a3145",
+"t": "show hn nes contra 1987 port asm  c and then c  webassembly",
+"ts": 1793474328.0,
+"seen": 1793477734.455212
+},
+{
+"k": "6bd209feefbeab17",
+"t": "tcp useafterfree cve202698432  cvss 98",
+"ts": 1793474190.0,
+"seen": 1793477734.6410003
+},
+{
+"k": "b4d8021b9c7ed51f",
+"t": "the duty of a scholar",
+"ts": 1793473656.0,
+"seen": 1793477734.7761137
+},
+{
+"k": "82785ab4f152db3e",
+"t": "gpt56 sol can beat factorio on peaceful mode",
+"ts": 1793472634.0,
+"seen": 1793477735.025034
+},
+{
+"k": "c58cd229056d61a4",
+"t": "its the memory latency stupid",
+"ts": 1793471896.0,
+"seen": 1793477735.1924496
+},
+{
+"k": "9fd0bcadad75a939",
+"t": "i post trained a model on demoscenes",
+"ts": 1793470104.0,
+"seen": 1793477735.409717
+},
+{
+"k": "aa4997f9eba15998",
+"t": "the impact of generative ai on critical thinking selfreported 2025",
+"ts": 1793469749.0,
+"seen": 1793477735.747193
+},
+{
+"k": "444f2a06681d159b",
+"t": "william nordhaus has died",
+"ts": 1793469581.0,
+"seen": 1793477735.8964875
+},
+{
+"k": "7d4d37e06ce15c10",
+"t": "hackers hijack egypt highway billboard and malaysian screens to show porn",
+"ts": 1793468165.0,
+"seen": 1793477736.2550123
+},
+{
+"k": "f44d16d6f7ba77c8",
+"t": "copyright office is restoring copyright to something you have to work to get",
+"ts": 1793466964.0,
+"seen": 1793477736.6495707
+},
+{
+"k": "823dae0b0219e8a0",
+"t": "what is a lightday the milestone voyager 1 is closing in on",
+"ts": 1793462995.0,
+"seen": 1793477737.048183
+},
+{
+"k": "c21fa28068eda773",
+"t": "casio watches of the 1980s",
+"ts": 1793462448.0,
+"seen": 1793477737.2639978
+},
+{
+"k": "2e58988f93d77467",
+"t": "show hn a usbc lte modem that gives my computer a phone line",
+"ts": 1793462201.0,
+"seen": 1793477737.7687285
+},
+{
+"k": "14074b4203bb23f1",
+"t": "show hn a language model that lives in a boot sector",
+"ts": 1793451509.0,
+"seen": 1793477738.2075343
+},
+{
+"k": "561ce24e9d5d3fa0",
+"t": "when a security product cant protect itself my responsible disclosure story with the endpoint",
+"ts": 1793477196.0,
+"seen": 1793477742.2406855
+},
+{
+"k": "de21749827ce56cf",
+"t": "g\u00fcvenlik \u00fcr\u00fcn\u00fc kendini koruyamazsa endpoint central ajan\u0131 ile sorumlu if\u015fa hik\u00e2yem",
+"ts": 1793476869.0,
+"seen": 1793477742.6627152
+},
+{
+"k": "780047a768bda786",
+"t": "the debugging file nobody removed before shipping secrets exposed through a public source map",
+"ts": 1793465761.0,
+"seen": 1793477743.1336424
+},
+{
+"k": "8d2c0999564176ce",
+"t": "the jwt bug i almost walked past  and why most developers still get this wrong",
+"ts": 1793464109.0,
+"seen": 1793477743.56125
+},
+{
+"k": "b4d3fcecd5571063",
+"t": "2fa simple bypass  an authentication bypass  lab walkthrough",
+"ts": 1793463591.0,
+"seen": 1793477743.8845255
+},
+{
+"k": "36c403df8bd8950a",
+"t": "ai red teaming in 2026 just earn money and enjoy",
+"ts": 1793463404.0,
+"seen": 1793477744.1536977
+},
+{
+"k": "0bf49bba9df047d4",
+"t": "",
+"ts": 1793458800.0,
+"seen": 1793477747.083483
+},
+{
+"k": "0431c9b46546f685",
+"t": "",
+"ts": 1793458800.0,
+"seen": 1793477747.0834858
+},
+{
+"k": "8a670a82bbb89109",
+"t": "",
+"ts": 1793458800.0,
+"seen": 1793477747.083487
+},
+{
+"k": "531e3502f09252bd",
+"t": "",
+"ts": 1793458800.0,
+"seen": 1793477747.083488
+},
+{
+"k": "8d5208616e121559",
+"t": "",
+"ts": 1793458800.0,
+"seen": 1793477747.083489
+},
+{
+"k": "f70e42b7ebfcb54e",
+"t": "",
+"ts": 1793467800.0,
+"seen": 1793477747.0834894
+},
+{
+"k": "d287f6bd8b5f1110",
+"t": "",
+"ts": 1793470627.89,
+"seen": 1793477747.08349
+},
+{
+"k": "40e1e14dc6578504",
+"t": "",
+"ts": 1793470629.263,
+"seen": 1793477747.0834901
 }
 ]
