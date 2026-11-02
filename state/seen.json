@@ -16198,5 +16198,359 @@
 "t": "",
 "ts": 1793600263.41,
 "seen": 1793611246.0729027
+},
+{
+"k": "fd4dd8ae78f23bd0",
+"t": "btcpay server warns of hot wallet thefts targeting outdated instances",
+"ts": 1793631787.0,
+"seen": 1793635245.7981353
+},
+{
+"k": "9c3bad316912929b",
+"t": "your mobile carrier stores your call logs for years",
+"ts": 1793631671.0,
+"seen": 1793635246.1737375
+},
+{
+"k": "e6ee640da6ac33e3",
+"t": "hackers disrupt refrigeration systems at european supermarkets",
+"ts": 1793629719.0,
+"seen": 1793635246.6759546
+},
+{
+"k": "12503d008b3026fd",
+"t": "microsoft fixes smart app control broken by october windows update",
+"ts": 1793627849.0,
+"seen": 1793635247.0498097
+},
+{
+"k": "6a2a421ddc0033da",
+"t": "over 1000 gitlab servers vulnerable to ongoing rce attacks",
+"ts": 1793623620.0,
+"seen": 1793635247.3729765
+},
+{
+"k": "4e74c4e33e66ab0b",
+"t": "synology warns of c3rb3r ransomware attacks targeting nas devices",
+"ts": 1793618922.0,
+"seen": 1793635247.7252953
+},
+{
+"k": "092980ff0e8f3940",
+"t": "ivanti patches two more connect secure zerodays chained in attacks",
+"ts": 1793612006.0,
+"seen": 1793635248.1220872
+},
+{
+"k": "39749d757eb1e130",
+"t": "darkblinders compromises israeli target and iraqi kurdish government cloud environment",
+"ts": 1793630765.0,
+"seen": 1793635248.7731545
+},
+{
+"k": "ad2df65419af3471",
+"t": "critical langflow flaws could let unauthenticated attackers run code on servers",
+"ts": 1793620200.0,
+"seen": 1793635249.1968403
+},
+{
+"k": "c477f18125888d9e",
+"t": "is your soc ready for ai agents a maturity check before you deploy",
+"ts": 1793619000.0,
+"seen": 1793635249.594067
+},
+{
+"k": "d596e3f2baced4c0",
+"t": "attackers pose as it support on microsoft teams abuse ad cs to steal company data",
+"ts": 1793617725.0,
+"seen": 1793635250.0719392
+},
+{
+"k": "87a25e1b557ba278",
+"t": "government linux servers targeted with sysgorat and suspected aigenerated scripts",
+"ts": 1793616599.0,
+"seen": 1793635250.499647
+},
+{
+"k": "6a6ada3db9443a52",
+"t": "betboom dota 2 team put on hold",
+"ts": 1793632505.0,
+"seen": 1793635251.1638362
+},
+{
+"k": "bb13ad03f7908b16",
+"t": "found these items in dota 2 files are they already in the game or is it unreleased content",
+"ts": 1793628996.0,
+"seen": 1793635251.6843374
+},
+{
+"k": "6e279940a369c021",
+"t": "finally i got lucky",
+"ts": 1793623576.0,
+"seen": 1793635251.8113313
+},
+{
+"k": "033a14be0ba9870c",
+"t": "guess the hero",
+"ts": 1793619766.0,
+"seen": 1793635251.83384
+},
+{
+"k": "6b16bfdfab93f5c0",
+"t": "morphling gaining extra skill slot",
+"ts": 1793603588.0,
+"seen": 1793635252.0314796
+},
+{
+"k": "7d1353450b7bca13",
+"t": "observation from playing a lot of pos45",
+"ts": 1793565207.0,
+"seen": 1793635252.2600055
+},
+{
+"k": "850c889337033eb0",
+"t": "eli venn",
+"ts": 1793634500.0,
+"seen": 1793635252.7814758
+},
+{
+"k": "e06637a3e8582928",
+"t": "polyend releases the tracker firmware source code",
+"ts": 1793632936.0,
+"seen": 1793635253.0585322
+},
+{
+"k": "6a9f90f3d5adf92e",
+"t": "securing internetcritical software how we could have backdoored bash",
+"ts": 1793631998.0,
+"seen": 1793635253.4186656
+},
+{
+"k": "c10601d3f1012923",
+"t": "recognizing keystrokes using wifi devices",
+"ts": 1793630593.0,
+"seen": 1793635253.6420476
+},
+{
+"k": "4b317c439984e97f",
+"t": "supervote 15 year retrospective on a social endorsement app",
+"ts": 1793630322.0,
+"seen": 1793635253.9871352
+},
+{
+"k": "a5a7616cf59e8986",
+"t": "the advantages of mobile linux over aosp",
+"ts": 1793629758.0,
+"seen": 1793635254.2290726
+},
+{
+"k": "cd7425da109237e4",
+"t": "gohawk  resourcefocused static analysis for go",
+"ts": 1793627797.0,
+"seen": 1793635254.4952054
+},
+{
+"k": "7059a212e5b85fe0",
+"t": "what are you doing this week",
+"ts": 1793627612.0,
+"seen": 1793635254.5555658
+},
+{
+"k": "22f2dd3abbbb9e10",
+"t": "union types and option types",
+"ts": 1793620877.0,
+"seen": 1793635254.7353694
+},
+{
+"k": "f3f34f4e9634bcd0",
+"t": "building a gemini server in python",
+"ts": 1793618716.0,
+"seen": 1793635254.9412289
+},
+{
+"k": "6a8248610dd3a3ce",
+"t": "program",
+"ts": 1793618287.0,
+"seen": 1793635255.0047915
+},
+{
+"k": "ec5e2342ef6fb64d",
+"t": "my reflex of assuming our servers need evergrowing amounts of ram",
+"ts": 1793615582.0,
+"seen": 1793635255.3771434
+},
+{
+"k": "a414ddfc38ac651d",
+"t": "technofeudalism",
+"ts": 1793634810.0,
+"seen": 1793635255.729223
+},
+{
+"k": "85c03e4abd88286f",
+"t": "why are soviet math textbooks so hardcore in comparison to us textbooks 2017",
+"ts": 1793631675.0,
+"seen": 1793635256.1581588
+},
+{
+"k": "16a04cf8b7477b81",
+"t": "longcat25 native multimodality for agentic tasks",
+"ts": 1793631626.0,
+"seen": 1793635256.4271834
+},
+{
+"k": "e5dad1a6bf347a3e",
+"t": "napping characteristics and incident dementia",
+"ts": 1793631224.0,
+"seen": 1793635256.6731641
+},
+{
+"k": "0e6629be97494f81",
+"t": "wtf ubuntu",
+"ts": 1793631120.0,
+"seen": 1793635256.7540145
+},
+{
+"k": "9849e6b033597de7",
+"t": "jobless tech workers are being left out of san franciscos ai boom",
+"ts": 1793630405.0,
+"seen": 1793635257.1323605
+},
+{
+"k": "fb9ff410aee04534",
+"t": "anthropic releases amended ipo prospectus with thirdquarter financials",
+"ts": 1793630325.0,
+"seen": 1793635257.5099955
+},
+{
+"k": "cec5ad59914d8a37",
+"t": "if you love a website back it up",
+"ts": 1793625935.0,
+"seen": 1793635257.6842568
+},
+{
+"k": "7390017a9be3aad8",
+"t": "never complain never explain",
+"ts": 1793620548.0,
+"seen": 1793635257.8547337
+},
+{
+"k": "3e261be7088aefe9",
+"t": "supermarket freezers across europe hit by second suspected cyberattack",
+"ts": 1793620213.0,
+"seen": 1793635258.231068
+},
+{
+"k": "735904baaa80b5df",
+"t": "the future in old computer magazines 19842004",
+"ts": 1793617748.0,
+"seen": 1793635258.477822
+},
+{
+"k": "a422db8db3880e1a",
+"t": "show hn ive updated my linux system call website and api",
+"ts": 1793611756.0,
+"seen": 1793635258.816284
+},
+{
+"k": "81ad810130bf915e",
+"t": "wir m\u00fcssen wissen  wir werden wissen",
+"ts": 1793606840.0,
+"seen": 1793635259.051759
+},
+{
+"k": "279c19098af180ea",
+"t": "\u0436\u0438\u043b \u0431\u04af\u0440 \u0437\u0443\u043d\u044b \u0446\u0430\u0433\u0438\u0439\u043d \u0445\u0443\u0432\u0430\u0430\u0440\u044c\u0442 \u0448\u0438\u043b\u0436\u0434\u044d\u0433 \u0431\u043e\u043b\u043e\u0445 \u0442\u043e\u0433\u0442\u043e\u043e\u043b\u044b\u043d \u0442\u04e9\u0441\u04e9\u043b \u0441\u0430\u043d\u0430\u0430\u0447\u0438\u043b\u0436\u044d\u044d",
+"ts": 1793612460.0,
+"seen": 1793635262.4047868
+},
+{
+"k": "79096f59f723cb8d",
+"t": "\u0431\u04af\u0442 \u043c\u043e\u043d\u0433\u043e\u043b \u0445\u044d\u043b \u0431\u0438\u0447\u0433\u0438\u0439\u043d \u0431\u043e\u043b\u043e\u043d \u044d\u043b\u0441\u044d\u043b\u0442\u0438\u0439\u043d \u0448\u0430\u043b\u0433\u0430\u043b\u0442\u044b\u043d \u043d\u044d\u0433 \u0445\u0438\u0447\u044d\u044d\u043b\u0438\u0439\u043d \u0445\u0443\u0440\u0430\u0430\u043c\u0436 20000 \u0442\u04e9\u0433\u0440\u04e9\u0433",
+"ts": 1793612040.0,
+"seen": 1793635262.9087055
+},
+{
+"k": "31255b2b57a87869",
+"t": "omen ai adds liquid knowhow in 16 million aquatic labs acquisition",
+"ts": 1793631600.0,
+"seen": 1793635263.3683
+},
+{
+"k": "b1d1b8b0266c2b55",
+"t": "2 days till techcrunch founder summit boston founders dont need a silicon valley address to build something big",
+"ts": 1793628000.0,
+"seen": 1793635263.9695446
+},
+{
+"k": "1ab8989706eae846",
+"t": "openai is finally merging chatgpts chat and work tabs",
+"ts": 1793627873.0,
+"seen": 1793635264.2754695
+},
+{
+"k": "19244c7aa2063fd3",
+"t": "introducing the grid protectors program",
+"ts": 1793631600.0,
+"seen": 1793635264.8074193
+},
+{
+"k": "cb60dbcabf95506d",
+"t": "one link all your private chats how ai assistants get turned against you",
+"ts": 1793634364.0,
+"seen": 1793635266.5686533
+},
+{
+"k": "7d58fa7509595764",
+"t": "i found an account takeover vulnerability through google dorking  by samadhan shimple",
+"ts": 1793631533.0,
+"seen": 1793635267.0230923
+},
+{
+"k": "69b1a3837cac2504",
+"t": "file upload vulnerability exploitation  different security levels explained",
+"ts": 1793629972.0,
+"seen": 1793635267.4157014
+},
+{
+"k": "c9bb8ef274623386",
+"t": "how i hunt for cors vulnerabilities a practical bug bounty methodology  by samadhan shimple",
+"ts": 1793612076.0,
+"seen": 1793635267.942908
+},
+{
+"k": "aced86a7a9a14793",
+"t": "rate limit bypass techniques a bug bounty hunters field guide",
+"ts": 1793634379.0,
+"seen": 1793635268.400603
+},
+{
+"k": "8cbb197f8dd0b0ec",
+"t": "",
+"ts": 1793632646.49,
+"seen": 1793635271.556201
+},
+{
+"k": "2fde61fcef9c1e12",
+"t": "",
+"ts": 1793632647.323,
+"seen": 1793635271.5562031
+},
+{
+"k": "40ff9f114e6f5f4e",
+"t": "",
+"ts": 1793632657.287,
+"seen": 1793635271.556204
+},
+{
+"k": "27073ad6b7cb4870",
+"t": "",
+"ts": 1793632657.48,
+"seen": 1793635271.5562046
+},
+{
+"k": "4ef9ed04784b583e",
+"t": "",
+"ts": 1793632657.66,
+"seen": 1793635271.5562048
 }
 ]
