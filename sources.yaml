@@ -171,6 +171,9 @@ sources:
   - {name: The Hacker News, url: "https://feeds.feedburner.com/TheHackersNews", subtopic: security-news, block: false}
   - {name: Krebs on Security, url: "https://krebsonsecurity.com/feed/", subtopic: security-news, block: false}
   - {name: PortSwigger Research, url: "https://portswigger.net/research/rss", subtopic: bug-bounty, max_age_hours: 168, block: false}
+  - {name: The Register Security, url: "https://www.theregister.com/security/headlines.atom", subtopic: security-news, limit: 5, block: false}
+  - {name: Dark Reading, url: "https://www.darkreading.com/rss.xml", subtopic: security-news, limit: 5, block: false}
+  - {name: Schneier on Security, url: "https://www.schneier.com/feed/atom/", subtopic: security-news, max_age_hours: 168, block: false}
   - {name: GitHub Security, url: "https://github.blog/security/feed/", subtopic: security-news, max_age_hours: 168, block: false}
   - {name: Project Zero, url: "https://googleprojectzero.blogspot.com/feeds/posts/default", subtopic: bug-bounty, max_age_hours: 168, block: false}
   - name: Medium bug bounty
@@ -183,6 +186,7 @@ sources:
 
   # ======================= Dota 2 / CS2 =======================
   - {name: r/DotA2, url: "https://www.reddit.com/r/DotA2/top/.rss?t=day", subtopic: dota2, limit: 3, ai_hint: "Reddit top posts. Keep patch notes, tournament news and results; drop memes."}
+  - {name: Dotabuff Blog, url: "https://www.dotabuff.com/blog.rss", subtopic: dota2, limit: 3, block: false}
   - name: CS2 The MongolZ
     type: google_news
     subtopic: cs2
