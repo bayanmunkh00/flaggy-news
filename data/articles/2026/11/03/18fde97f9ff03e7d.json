@@ -1,0 +1,19 @@
+{
+ "id": "18fde97f9ff03e7d",
+ "section": "software",
+ "subtopic": "packages",
+ "source": "JavaScript Weekly",
+ "source_label": "JavaScript Weekly",
+ "url": "https://javascriptweekly.com/issues/809",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/dhcgdjewfv50joacutkm.jpg",
+ "title": "What Claude spends building with 12 JavaScript stacks",
+ "summary_en": "#​809 — November 3, 2026 Read on the Web JavaScript Weekly The AI Cost of 12 JavaScript Frameworks Nolan Lawson had Claude build the same app five times in each of twelve JS stacks to test common \"X is better for agents\" claims. Costs varied between runs, and Gautam Parab found that the observed cost ranges overlapped or touched for most pairs of frameworks. A clearer difference was the median amount of JavaScript sent to browsers: 0KB for Astro, 18K for Hono+htmx, 36K for SvelteKit, and 115–142K for React Router, TanStack Start and Next.js. If you've gone \"hands-free\", Nolan asks, why stay…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-03T16:00:52Z",
+ "ai": "",
+ "score": null
+}

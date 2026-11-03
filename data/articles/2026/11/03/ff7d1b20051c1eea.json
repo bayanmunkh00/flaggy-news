@@ -1,0 +1,19 @@
+{
+ "id": "ff7d1b20051c1eea",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "Smashing Magazine",
+ "source_label": "Smashing Magazine",
+ "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+ "image": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
+ "title": "Modern CSS Might Make Your Front-End More Complex",
+ "summary_en": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
+ "lines": [],
+ "title_mn": "Орчин үеийн CSS нь фронтенд хөгжүүлэлтийг илүү төвөгтэй болгож байна уу?",
+ "summary_mn": "Орчин үеийн CSS функцууд кодын мөрийг цөөлж байгаа ч кодын суурийг ойлгоход төвөгтэй болгож, JavaScript болон браузерийн үзүүлэлттэй зөрчилдөх эрсдэлтэйг шинжээчид хөнджээ.",
+ "body_mn": "Фронтенд хөгжүүлэгч Габриел орчин үеийн CSS-ийн шинэ боломжууд кодын хэмжээг багасгаж байгаа мэт боловч програм хангамжийн ерөнхий бүтцийг илүү төвөгтэй болгож болзошгүй талаар бичжээ. Бид resizeobserver-ийн оронд container query ашиглан олон мөр JavaScript кодыг цөөн мөр CSS-ээр сольж болох юм.\n\nГэвч хэдэн долоо хоногийн дараа ямар нэг байрлал эвдрэх, толгой хэсэг томрох зэрэг алдаанууд гарч ирэхэд энэ нь шинээр бичсэн CSS-тэй шууд холбоотой байдаг. Энэ нь CSS-ийн шинэ боломж хуучин код болон JavaScript-тэй хэрхэн зохицож байгаагаас шалтгаалдаг.\n\nЭнэхүү сэдэв нь хөгжүүлэгчдийн дунд маргаан дагуулж байгаа бөгөөд фронтенд фрэймворкууд заримдаа хэрэгтэйгээсээ илүү төвөгтэй байдлыг бий болгодог гэж үзэх хүмүүс ч байна. Уугуул шийдэл нь өмнөх кодыг бүрэн орлож, бусад системтэйгээ зөрчилдөхгүй байж гэмээнэ төвөгтэй байдлыг багасгадаг байна.",
+ "published": "2026-11-03T10:00:00Z",
+ "added": "2026-11-03T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

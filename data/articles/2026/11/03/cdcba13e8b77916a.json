@@ -1,0 +1,19 @@
+{
+ "id": "cdcba13e8b77916a",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrr1rJlr2nztz8jEunAWtVXHyOHkJY2_KdeweNWBqwF18rmhPiFItEQ-yCex1vVsps856ArIDl7unaWJNiribZ9DgkmQ3o4pLa1BKQrjKEeFR63z4csXnBHah5wIp7H5xuUB7b1UIp06nk6BzLuxFW5aWh2g-PoLoZ74RjMOEUX7XdrDsHM1yFbjGHBzK8/s1600/btcpay.jpg",
+ "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+ "summary_en": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T08:31:48Z",
+ "added": "2026-11-03T16:00:52Z",
+ "ai": "",
+ "score": null
+}

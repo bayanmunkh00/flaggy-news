@@ -1,0 +1,19 @@
+{
+ "id": "7e32236ffb1f197a",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "marketscreener.com",
+ "url": "https://www.marketscreener.com/news/crowdstrike-integrates-falcon-guardian-security-into-anthropic-s-claude-cowork-ce785fd9d188ff24",
+ "image": "",
+ "title": "CrowdStrike Integrates Falcon Guardian Security Into Anthropic's Claude Cowork",
+ "summary_en": "CrowdStrike Integrates Falcon Guardian Security Into Anthropic's Claude Cowork marketscreener.com",
+ "lines": [],
+ "title_mn": "CrowdStrike аюулгүй байдлын Falcon Guardian системийг Anthropic-ийн Claude Cowork-т нэгтгэлээ",
+ "summary_mn": "CrowdStrike компани өөрийн Falcon Guardian аюулгүй байдлын шийдлийг Anthropic-ийн Claude Cowork орчинд нэгтгэж эхэлснийг зарлав.",
+ "body_mn": "CrowdStrike компани кибер аюулгүй байдлын Falcon Guardian системийг Anthropic-ийн Claude Cowork хэрэгсэлд нэгтгэснээр хиймэл оюуны агентуудын үйл ажиллагааг хянах, аюулгүй байдлыг хангах боломжийг бүрдүүллээ. Энэхүү хамтын ажиллагаа нь хиймэл оюуны хэрэглээ өргөжиж буй энэ үед байгууллагын аюулгүй байдлын түвшнийг өндөр хэмжээнд байлгахад чиглэгдэж байна.",
+ "published": "2026-11-03T10:01:03Z",
+ "added": "2026-11-03T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

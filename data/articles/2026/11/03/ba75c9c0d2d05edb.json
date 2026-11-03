@@ -1,0 +1,19 @@
+{
+ "id": "ba75c9c0d2d05edb",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "YourStory.com",
+ "url": "https://yourstory.com/ai-story/gpt-6-astra-boosts-qwen-maths-skills",
+ "image": "https://images.yourstory.com/cs/286/07f6d7f0ed8e11ed819979969b4b51e2/AInews2-1793697083312.jpg",
+ "title": "GPT-6 Astra helps MIT researchers improve Alibaba’s Qwen maths skills",
+ "summary_en": "GPT-6 Astra helps MIT researchers improve Alibaba’s Qwen maths skills YourStory.com",
+ "lines": [],
+ "title_mn": "MIT-ийн судлаачид GPT-6 Astra ашиглан Alibaba-гийн Qwen загварын математикийн чадварыг сайжруулжээ",
+ "summary_mn": "MIT-ийн судлаачид OpenAI-ийн GPT-6 Astra загварыг ашиглан Alibaba-гийн Qwen загварын дотоод тохиргоонд шууд өөрчлөлт оруулан математикийн гүйцэтгэлийг нь эрс сайжрууллаа.",
+ "body_mn": "Массачусетсийн Технологийн Их Сургуулийн (MIT) судлаачид хиймэл оюуны нэг загвар өөр нэг загварын дотоод тохиргоо буюу жинг шууд өөрчлөх замаар дахин сургалт хийхгүйгээр гүйцэтгэлийг сайжруулж болохыг харууллаа. Туршилтаар OpenAI-ийн GPT-6 Astra загварыг ашиглан Alibaba-гийн Qwen3.5-0.8B загварын дотоод жинг өөрчилсөн байна.\n\nУг арга нь Weights-Space Programming буюу жингийн орон зайн програмчлал нэртэй бөгөөд Qwen загвар математикийн бодлого бодох явцдаа давталттай гогцоонд орж гацдаг сул талыг илрүүлжээ. Нийт 800 сая жинтэй загварын ердөө 0.016 хувь буюу 131,072 жинг өөрчлөхөд хангалттай байсан аж.\n\nҮр дүнд нь MATH-500 тест дэх оноо 7.9 хувиас 48.1 хувь болж өссөн бол GSM8K тест дэх гүйцэтгэл 13.8 хувиас 67.1 хувьд хүрсэн байна. Энэ нь хиймэл оюун ухаан шинээр дахин сургалт явуулахгүйгээр бусад загварын алдааг олж засварлах шинэ боломж нээж болохыг харуулж байна.",
+ "published": "2026-11-03T10:14:44Z",
+ "added": "2026-11-03T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
