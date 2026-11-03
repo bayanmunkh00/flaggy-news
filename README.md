@@ -3,7 +3,7 @@
 A Telegram news bot with a small website. It runs free on GitHub Actions every 30 minutes:
 
 ```
-sources (config.yaml)
+sources (sources.yaml, topics.yaml)
   → new items only (state/seen.json), noise filter, duplicate-story filter
   → read the article page (image + text; Google News links are resolved)
   → AI: Mongolian title/summary/body, relevance, usefulness score 1-5, duplicate check
