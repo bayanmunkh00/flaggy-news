@@ -71,7 +71,7 @@ jobs:
       - name: Commit state and articles
         if: ${{ !cancelled() }}
         run: |
-          git add state data
+          mkdir -p data && git add state data
           if git diff --cached --quiet; then
             echo "Nothing changed"
             exit 0
