@@ -21,7 +21,7 @@ https://github.com/Bat3orig/ai-news-bot; the rest are flaggy-news's own.
 | UI/UX | shadcn/ui, Tailwind, Motion, Design systems, CSS/Web | blogs, releases, Figma, Smashing, CSS-Tricks, web.dev |
 | GitHub | TypeScript/JS, Python, Rust | daily trending repos |
 | Vibe coding | Vibe coding | Simon Willison, Addy Osmani, Harper Reed, Builder.io, Cursor changelog |
-| Football | Premier League, Champions League | results with stats (ESPN) |
+| Football | Premier League, Champions League | results with stats and a score-card image (ESPN) |
 | Hacking | CVE, Security news, Bug bounty | CISA KEV, NVD critical, security news and writeups |
 | Dota 2 / CS2 | Dota2, CS2 | r/DotA2; headlines on The MongolZ and BC.Game results |
 | Trend / Mongolia | Trending, Mongolia | Hacker News, Lobsters / ikon.mn |

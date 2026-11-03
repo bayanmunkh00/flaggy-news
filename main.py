@@ -21,7 +21,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-from newsbot import ai, enrich, feeds, store
+from newsbot import ai, enrich, feeds, scorecard, store
 from newsbot.config import Config, load_config
 from newsbot.models import Item
 from newsbot.telegram import SEND_DELAY, Telegram, TelegramFatalError, TelegramRejected
@@ -167,13 +167,19 @@ def prepare(state: store.State, cfg: Config, data_dir: Path, dry_run: bool) -> b
             print(f"[{art['subtopic']}] {art['title_mn'] or art['title']}  ({art['ai'] or 'no AI'})")
             print(f"  url:   {art['url']}\n  image: {art['image'] or '-'}")
         else:
+            card = it.extra.get("card")
+            if card:  # football result: draw the score card next to the article json
+                png = store.article_path(art, data_dir).with_suffix(".png")
+                if scorecard.save(card, png):
+                    art["card"] = png.relative_to(data_dir).as_posix()
             store.save_article(art, data_dir)
         state.outbox.append({"kind": "article", "article": art})
         added += 1
     return added > 0
 
 
-def send(state: store.State, cfg: Config, dry_run: bool, ignore_hours: bool = False) -> int:
+def send(state: store.State, cfg: Config, dry_run: bool, ignore_hours: bool = False,
+         data_dir: Path = store.DATA_DIR) -> int:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if not dry_run and (not token or not chat_id):
@@ -189,7 +195,7 @@ def send(state: store.State, cfg: Config, dry_run: bool, ignore_hours: bool = Fa
                  cfg.send_hours_text, len(state.outbox))
         return 0
 
-    tg = Telegram(token, chat_id, state.telegram, dry_run)
+    tg = Telegram(token, chat_id, state.telegram, dry_run, data_dir)
     try:
         tg.setup_topics(cfg)  # create forum topics for sections without a fixed thread id
     except (TelegramRejected, TelegramFatalError) as exc:
@@ -251,7 +257,7 @@ def main() -> int:
                 log.info("Pruned %d seen entries, %d articles", pruned, pruned_articles)
             changed = changed or pruned_articles > 0
     if args.phase in ("send", "all"):
-        exit_code = send(state, cfg, args.dry_run, args.ignore_hours)
+        exit_code = send(state, cfg, args.dry_run, args.ignore_hours, args.data_dir)
 
     if args.dry_run:
         log.info("Dry run: state/ and data/ not modified")

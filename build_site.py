@@ -59,7 +59,10 @@ def sub_tag(cfg: Config, a: dict) -> str:
 
 def card(a: dict, cfg: Config, up: str) -> str:
     cat = cfg.sections.get(a["section"])
-    img = f'<img src="{e(a["image"])}" alt="" loading="lazy" referrerpolicy="no-referrer">' if a.get("image") else ""
+    if a.get("card"):
+        img = f'<img src="{up}a/{a["id"]}.png" alt="" loading="lazy">'
+    else:
+        img = f'<img src="{e(a["image"])}" alt="" loading="lazy" referrerpolicy="no-referrer">' if a.get("image") else ""
     summary = a.get("summary_mn") or a.get("summary_en") or (a.get("lines") or [""])[0]
     return f"""<article class="card">
   <a class="media" href="{up}a/{a['id']}.html">{img}</a>
@@ -78,6 +81,8 @@ def article_page(a: dict, cfg: Config, nav: str) -> str:
     cat = cfg.sections.get(a["section"])
     title = a.get("title_mn") or a["title"]
     img = f'<img class="hero" src="{e(a["image"])}" alt="" referrerpolicy="no-referrer">' if a.get("image") else ""
+    if a.get("card"):
+        img = f'<img class="hero" src="{a["id"]}.png" alt="">'
     if a.get("body_mn"):
         paras = [p for p in a["body_mn"].split("\n") if p.strip()]
     elif a.get("lines"):
@@ -151,6 +156,8 @@ def build(data_dir: Path, out: Path) -> int:
             listing("t", sid, f"{st.section.emoji} {st.section.name} · #{st.hashtag}", items)
 
     for a in arts:
+        if a.get("card") and (data_dir / a["card"]).exists():
+            shutil.copyfile(data_dir / a["card"], out / "a" / f"{a['id']}.png")
         (out / "a" / f"{a['id']}.html").write_text(article_page(a, cfg, nav(1)), encoding="utf-8")
 
     index = [{"id": a["id"], "t": a.get("title_mn") or a["title"], "o": a["title"],

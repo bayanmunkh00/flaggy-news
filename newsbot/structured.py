@@ -39,13 +39,17 @@ def _stat(team: dict, name: str) -> str:
     return next((s["displayValue"] for s in team.get("statistics", []) if s["name"] == name), "-")
 
 
-def _match_lines(league_name: str, event: dict, summary: dict | None) -> tuple[str, list[str]]:
+def _match_lines(league_name: str, event: dict, summary: dict | None) -> tuple[str, list[str], dict]:
     comp = event["competitions"][0]
     teams = {c["homeAway"]: c for c in comp["competitors"]}
     home, away = teams["home"], teams["away"]
     hn, an = home["team"]["displayName"], away["team"]["displayName"]
     title = f"{hn} {home['score']}–{away['score']} {an}"
-    lines = [f"{league_name} · {event['status']['type'].get('shortDetail', 'FT')}"]
+    status = event["status"]["type"].get("shortDetail", "FT")
+    lines = [f"{league_name} · {status}"]
+    card = {"league": league_name, "status": status,
+            "home": {"name": hn, "score": home["score"], "logo": home["team"].get("logo", "")},
+            "away": {"name": an, "score": away["score"], "logo": away["team"].get("logo", "")}}
     names = {c["team"]["id"]: c["team"]["displayName"] for c in comp["competitors"]}
     goals = []
     for d in comp.get("details", []):
@@ -74,7 +78,7 @@ def _match_lines(league_name: str, event: dict, summary: dict | None) -> tuple[s
             f"Yellow cards: {_stat(h, 'yellowCards')} – {_stat(a, 'yellowCards')} · "
             f"Red: {_stat(h, 'redCards')} – {_stat(a, 'redCards')}",
         ]
-    return title, lines
+    return title, lines, card
 
 
 def fetch_espn(session: requests.Session, src: Source) -> list[Item]:
@@ -96,12 +100,13 @@ def fetch_espn(session: requests.Session, src: Source) -> list[Item]:
             summary = _get(session, f"{ESPN}/{slug}/summary", event=e["id"])
         except requests.RequestException:
             summary = None
-        title, lines = _match_lines(league_name, e, summary)
+        title, lines, card = _match_lines(league_name, e, summary)
         items.append(Item(
             source=src, title=title,
             link=f"https://www.espn.com/soccer/match/_/gameId/{e['id']}",
             summary=" ".join(lines[:1]), lines=lines, published=_utc(e["date"]),
             keys=[short_key(f"espn:{slug}:{e['id']}")], publisher="ESPN",
+            extra={"card": card},
         ))
     return items
 

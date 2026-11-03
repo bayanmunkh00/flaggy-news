@@ -4,8 +4,10 @@ from __future__ import annotations
 
 import html
 import logging
+import json
 import re
 import time
+from pathlib import Path
 
 import requests
 
@@ -68,10 +70,12 @@ def format_article(art: dict, cfg: Config, limit: int) -> str:
 
 
 class Telegram:
-    def __init__(self, token: str, chat_id: str, state: dict, dry_run: bool = False):
+    def __init__(self, token: str, chat_id: str, state: dict, dry_run: bool = False,
+                 data_dir: Path | None = None):
         self.base = f"https://api.telegram.org/bot{token}/"
         self.chat_id = chat_id
         self.dry_run = dry_run
+        self.data_dir = data_dir
         self.session = requests.Session()
         # state = State.telegram: {"chat_id": ..., "forum": bool, "threads": {section_id: topic id}}
         if state.get("chat_id") != chat_id:
@@ -80,10 +84,17 @@ class Telegram:
         state.setdefault("threads", {})
         self.state = state
 
-    def call(self, method: str, payload: dict) -> dict:
+    def call(self, method: str, payload: dict, file: tuple[str, bytes] | None = None) -> dict:
         for attempt in range(1, RETRIES + 1):
             try:
-                resp = self.session.post(self.base + method, json=payload, timeout=TIMEOUT)
+                if file:  # multipart upload: field name -> bytes, other fields as strings
+                    resp = self.session.post(
+                        self.base + method, timeout=TIMEOUT * 2,
+                        data={k: v if isinstance(v, (str, int)) else json.dumps(v)
+                              for k, v in payload.items()},
+                        files={file[0]: ("card.png", file[1], "image/png")})
+                else:
+                    resp = self.session.post(self.base + method, json=payload, timeout=TIMEOUT)
             except requests.RequestException as exc:
                 log.warning("Telegram %s failed (attempt %d): %s", method, attempt, exc)
                 time.sleep(SEND_DELAY * attempt)
@@ -159,8 +170,32 @@ class Telegram:
             else:
                 raise
 
+    def _card_bytes(self, art: dict) -> bytes | None:
+        if not art.get("card") or not self.data_dir:
+            return None
+        try:
+            return (self.data_dir / art["card"]).read_bytes()
+        except OSError:
+            return None
+
     def _send_article(self, art: dict, cfg: Config, thread: int | None) -> None:
-        if art.get("image"):
+        card = self._card_bytes(art)
+        if card:
+            caption = format_article(art, cfg, CAPTION_LIMIT)
+            if self.dry_run:
+                print("-" * 60, f"\n[thread={thread}] [score card {art['card']}]\n{caption}")
+                return
+            payload = {"chat_id": self.chat_id, "caption": caption, "parse_mode": "HTML"}
+            if thread:
+                payload["message_thread_id"] = thread
+            try:
+                self.call("sendPhoto", payload, file=("photo", card))
+                return
+            except TelegramRejected as exc:
+                if "thread not found" in exc.description.lower():
+                    raise
+                log.info("score card rejected (%s); sending as text", exc.description)
+        elif art.get("image"):
             caption = format_article(art, cfg, CAPTION_LIMIT)
             if self.dry_run:
                 print("-" * 60, f"\n[thread={thread}] [photo {art['image'][:80]}]\n{caption}")
