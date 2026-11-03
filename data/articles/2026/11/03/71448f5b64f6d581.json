@@ -1,0 +1,19 @@
+{
+ "id": "71448f5b64f6d581",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+ "image": "https://opengraph.githubassets.com/91b70c277489e659a73c35ec4dfce8e21020afababba65c7ca91ebcc0eaec4e7/ollama/ollama/releases/tag/v0.40.14",
+ "title": "ollama v0.40.14",
+ "summary_en": "What's Changed ollama launch claude now applies the model's output token limit for Claude Code, so cloud models no longer run into the 128k default cap Cloud web search responses on /api/chat are now decoded correctly, including compressed responses OpenAI-compatible endpoints no longer override a model's packaged sampler defaults — clients that send no temperature / top_p get the model's own values instead of 1.0, matching /api/chat /v1/responses now preserves readable input content, including prior assistant refusals, instead of flattening it Ollama's app can now retry ChatGPT disconnect…",
+ "lines": [],
+ "title_mn": "Ollama v0.40.14 хувилбар шинэ боломжуудтайгаар гарлаа",
+ "summary_mn": "Ollama хэрэгслийн шинэ v0.40.14 хувилбар гарч, Claude Code болон OpenAI нийцтэй төгсгөлүүдийн ажиллагааг сайжруулан, MLX дээр токен түүврийн хурдыг нэмэгдүүлжээ.",
+ "body_mn": "Ollama төсөл өөрийн шинэ v0.40.14 хувилбараа албан ёсоор гаргалаа. Шинэ хувилбарт олон чухал сайжруулалт хийгдсэн бөгөөд тухайлбал Claude Code-д зориулсан загварын гаралтын токен хязгаарлалтыг зөв тооцдог болжээ.\n\nМөн үүлэн загваруудын вэб хайлтын хариуг, тэр дундаа шахсан өгөгдлийг зөв задлах боломжтой болсон бөгөөд OpenAI-тай нийцтэй төгсгөлүүд загварын өөрийн тэмдэглэгээний утгыг алдагдуулахгүйгээр ажиллахаар шинэчлэгдсэн байна.\n\nTүүнчлэн Ollama апп нь ChatGPT холболт тасалдсан үед дахин оролдох функцтэй болж, MLX платформ дээр их хэмжээний үгсийн сан бүхий top-k түүвэрлэлтийн хурдыг илүү хурдан болгожээ.",
+ "published": "2026-11-03T06:57:31Z",
+ "added": "2026-11-03T09:58:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

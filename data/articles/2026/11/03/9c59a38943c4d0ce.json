@@ -1,0 +1,19 @@
+{
+ "id": "9c59a38943c4d0ce",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg18lSM19IJpBCuAofy8CZNsJ-05CtvqxdL8BcHUS65fn_Oph-FAXqpdDE9c11G78nq7I1pVtt4XAotc_hszgea-QpNDTt-RzstD3k7yfXHP3JUnBViplsRzL_4q_LM-jujcv6NbMUUYBMWtJKSdKcBYlbSkm7Mx9LaTbVRW88uFh723nDOGYYDxiwkfYFr/s1600/synology-ransomware.jpg",
+ "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+ "summary_en": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM. \"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
+ "lines": [],
+ "title_mn": "Synology NAS төхөөрөмжүүдийг шинээр барьцаалагч вирусээр дайрч байна",
+ "summary_mn": "Synology компани DiskStation Manager (DSM) үйлдлийн системийн хуучин хувилбаруудыг ашигладаг NAS төхөөрөмжүүдийг ransomware буюу барьцаалагч вирусээр дайрч байгааг анхааруулав. Хакерууд 2024 оны 12 дугаар сард нөхөгдсөн эмзэгдлийг ашиглан хэрэглэгчдийн файлыг түгжиж байна.",
+ "body_mn": "Synology компани өөрийн сүлжээнд холбогдох хадгалах төхөөрөмж буюу NAS төхөөрөмжүүдэд хандаж буй хэрэглэгчдийг DiskStation Manager (DSM) программ хангамжаа яаралтай шинэчлэхийг уриалжээ. Сүүлийн үед гарсан халдлагуудын үеэр хакерууд хуучин хувилбаруудын эмзэгдлийг ашиглан өгөгдлийг шифрлэж, мөнгө нэхэх болсон байна.\n\nЭнэхүү халдлагын үеэр хэрэглэгчид C3RB3R нэртэй ransomware-д өртөж, файлыг \".L0CK3D\" өргөтгөлтэй болгон түгжүүлж байгаа аж. Synology компани тодорхой нэг эмзэгдлийн нэрийг дурдаагүй ч 2024 оны 11 дүгээр сард гаргасан аюулгүй байдлын зөвлөмжид холбогдох засваруудыг тусгасан байжээ.\n\nӨмнө нь ч QNAP болон Synology брэндийн төхөөрөмжүүд рүү хэрэглэгчийн нэр, нууц үг таах болон бусад эмзэгдлүүдийг ашиглан халдаж байсан түүхтэй. Иймд компани хэрэглэгчдэд системийн шинэчлэлтийг цаг алдалгүй хийх, автомат шинэчлэлтийг идэвхжүүлэхийг хатуу зөвлөж байна.",
+ "published": "2026-11-03T07:43:07Z",
+ "added": "2026-11-03T09:58:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

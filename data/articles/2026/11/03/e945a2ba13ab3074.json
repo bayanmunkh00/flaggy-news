@@ -1,0 +1,19 @@
+{
+ "id": "e945a2ba13ab3074",
+ "section": "ai",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "X",
+ "url": "https://x.com/MarioNawfal/status/2117519648459829354/video/1",
+ "image": "https://pbs.twimg.com/amplify_video_thumb/2117487531633565696/img/pjRZuxXJwFM6nV61?format=webp&name=large",
+ "title": "One press of your iPhone's Action Button and Grok can SEE what you're looking at. That's pretty damn useful. Watching a video, reading an article, or scrolling through 𝕏? Grok can analyse what's on your screen and answer questions about it. No more taking s",
+ "summary_en": "One press of your iPhone's Action Button and Grok can SEE what you're looking at. That's pretty damn useful. Watching a video, reading an article, or scrolling through 𝕏? Grok can analyse what's on your screen and answer questions about it. No more taking s X",
+ "lines": [],
+ "title_mn": "iPhone-ий Action Button товчлуураар Grok шууд дэлгэц харах боломжтой болжээ",
+ "summary_mn": "iPhone гар утсанд Action Button товчлуурыг нэг удаа дарснаар Grok туслах таны дэлгэцэн дээр юу гарч байгааг шууд шинжилж, асуултад хариулах боломжтой боллоо.",
+ "body_mn": "xAI компанийн Grok хиймэл оюун ухааны туслах хэрэглэгчдэд илүү хялбар байдлаар ашиглагдах шинэ боломжийг нээжээ. iPhone утсанд байрлах Action Button товчлуурыг нэг удаа дарснаар Grok дэлгэцэн дээр юу харагдаж байгааг шууд харах боломжтой болсон байна.\n\nЭнэхүү шинэ функц нь видео үзэх, нийтлэг унших эсвэл олон нийтийн сүлжээгээр аялах үед дэлгэцэн дээрх мэдээлэлд шууд дүн шинжилгээ хийж, асуултад хариулах чадвартай юм. Ингэснээр хэрэглэгчид дэлгэцийн зургийг авч, бусад руу хуулах шаардлагагүйгээр цаг хугацааг ихээхэн хэмнэх юм.\n\nТехнологийн салбарт энэ мэтчилэн хиймэл оюун ухааныг гар утасны үйлдлийн системтэй гүнзгий нэгтгэх хандлага эрчимтэй хөгжиж байгаа бөгөөд хэрэглэгчдийн бүтээмжийг нэмэгдүүлэхэд чухал алхам болж байна.",
+ "published": "2026-11-03T07:30:00Z",
+ "added": "2026-11-03T09:58:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

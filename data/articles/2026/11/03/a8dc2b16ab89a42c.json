@@ -1,0 +1,19 @@
+{
+ "id": "a8dc2b16ab89a42c",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScxShEa3bsAhGLHlqkBcsyuRe6UeQwrOVXBFP3TwxzmXtd03vDeDRZHxxBLIKHDYgY5p5CsrFvBwuozg3UsRLtVMO758NhVwSju6D6WgO1J42wJd2NWR9aVzz-B_CWfiMFH2QANUrAnUXbgkKec2KtJjULvN3NTqrCPbLRNnxlnvBFIAkndClXJMIeXY/s1600/fridge-hack.jpg",
+ "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+ "summary_en": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,",
+ "lines": [],
+ "title_mn": "Европын супермаркетуудыг хамарсан кибер халдлага хүнсний бүтээгдэхүүнийг сүйтгэв",
+ "summary_mn": "Бельги, Швед, Эстони болон Европын бусад орнуудын супермаркетуудын хөргөгч, хөлдөөгчний удирдлагын системд хакердар халдаж, температурыг өөрчилсний улмаас их хэмжээний хүнсний бүтээгдэхүүн мууджээ.",
+ "body_mn": "Даваа гарагт шилжих шөнө Европын орнуудын супермаркетуудын хөргөгч болон хөлдөөгчний удирдлагын системд цахим халдлага гарч, хөргөлтийн төхөөрөмжүүдийн температурыг алсаас өөрчилжээ. Энэхүү халдлагын улмаас Бельги, Швед, Эстони зэрэг орнуудын дэлгүүрүүд хөргөгчөө гэсгээх горимд шилжсэний улмаас их хэмжээний хүнсний бүтээгдэхүүнээ устгахад хүрсэн байна.\n\nХалдлагад өртсөн системүүдийн дийлэнх нь Данийн хөргөлтийн удирдлагын тоног төхөөрөмж үйлдвэрлэгч Danfoss компанийн бүтээгдэхүүнүүд байжээ. Тус компани болон холбогдох гэрээт байгууллагууд асуудлыг шуурхай шалгаж, системээ шинэчлэхийг хэрэглэгчдэд анхааруулсан байна. Зарим дэлгүүрт хөлдөөгчний температур 50 градус хүртэл өссөн бөгөөд мах, хүнсний бүтээгдэхүүнүүд бүрэн муудсан байна.\n\nМэргэжилтнүүдийн үзэж буйгаар хакерууд аюулгүй байдлын шаардлага хангаагүй, анхдагч нууц үгээ солиогүй эсвэл хуучирсан программ хангамж ашиглаж буй сүлжээг ашиглан системд нэвтэрсэн аж. Европын улсуудын cybersecurity байгууллагууд энэ чиглэлээр шалгалт явуулж, аюулгүй байдлын зөвлөмжүүдийг шинэчлэн гаргаж байна.",
+ "published": "2026-11-03T07:27:07Z",
+ "added": "2026-11-03T09:58:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

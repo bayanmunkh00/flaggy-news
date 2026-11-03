@@ -1,0 +1,19 @@
+{
+ "id": "b9ba4e436fc8e927",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLg0QvfH0SD_sz2pFnyrG6Zcs-ltrKaf42ZY7PYKTsA26Nu4alNeqarZZ9HGEjO0UJFr5Wfsb7WBSDYoRnGi6X1jXZ8_4xx1VJtYshtPXYX9DVJYu4lln_IqEhf-NQJC7MKWI1JVzzR5heu6O_OnWezfKsj3AnBs5NKVp5dOVgR-7XuKMIAiyiKflPlT9E/s1600/siemens-hack.jpg",
+ "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+ "summary_en": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code. \"SIMATIC IoT2050 Advanced devices running",
+ "lines": [],
+ "title_mn": "Siemens IoT2050 төхөөрөмжийн критик эмзэгдлийг хакеруд ашиглаж эхэлжээ",
+ "summary_mn": "Siemens SIMATIC IoT2050 Advanced төхөөрөмжүүдэд илэрсэн CVE-2026-58115 дугаартай, хамгийн өндөр буюу 10.0 оноотой критик эмзэгдлийг хакеруд алсын зайнаас хортой код суулгахад идэвхтэй ашиглаж байна.",
+ "body_mn": "VulnCheck компанийн мэдээлснээр Siemens SIMATIC IoT2050 Advanced төхөөрөмж дээр Node-RED суулгасан үед үүсдэг баталгаажуулалтгүй орхигдсон функцийн эмзэгдэл идэвхтэй халдлагын бай болоод байна. Энэхүү CVE-2026-58115 эмзэгдэл нь CVSS үнэлгээгээр хамгийн дээд буюу 10.0 оноо авсан байна.\n\nХалдлага үйлдэгчид Node-RED HTTP интерфэйсийг ашиглан ямар нэгэн баталгаажуулалтгүйгээр дур мэдэн команд гүйцэтгэх урсгал үүсгэж, Linux бот программ татаж ажиллуулах оролдлого хийж байгаа аж. Тодруулбал, хакеруд wget болон curl хэрэгслүүдийг ашиглан хортой скриптүүдийг татаж, систем дэх түр санах ойд хадгалан ажиллуулж байгааг судлаачид тогтоожээ.\n\nSiemens уг асуудлыг 4.3.4.1 болон түүнээс дээш хувилбаруудад засварласан бөгөөд хэрэглэгчдэд Node-RED хэрэгслийг устгах эсвэл хамгаалалтын зааврын дагуу тохиргоогоо чангатгахыг зөвлөж байна. Энэхүү халдлага нь үйлдвэрлэлийн IoT төхөөрөмжүүдийн аюулгүй байдалд ноцтой аюул учруулж байгааг харуулж байна.",
+ "published": "2026-11-03T05:34:41Z",
+ "added": "2026-11-03T09:58:42Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
