@@ -6,35 +6,78 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # commit state/ and data/
+  pages: write      # deploy the site
+  id-token: write   # required by deploy-pages
 
 concurrency:
   group: news
   cancel-in-progress: false
 
 jobs:
-  post:
+  news:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      SITE_URL: ${{ vars.SITE_URL }}           # optional; default https://<owner>.github.io/<repo>/
+      AI_PROVIDERS: ${{ vars.AI_PROVIDERS }}   # optional; see newsbot/ai.py
     steps:
       - uses: actions/checkout@v5
+
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: Fetch and post
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # 1) fetch sources, read article pages, translate, save data/articles, fill the outbox
+      - name: Prepare news
+        id: prepare
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.CLAUDE_API_TOKEN }}
+        run: python main.py prepare
+
+      # 2) build + deploy the site before sending, so "Дэлгэрэнгүй" links already work
+      - name: Build site
+        run: python build_site.py
+
+      - name: Upload site
+        if: steps.prepare.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        if: steps.prepare.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true   # Telegram keeps working even if Pages is not available
+        uses: actions/deploy-pages@v4
+
+      # 3) send the outbox to Telegram (runs even if the site deploy failed)
+      - name: Send to Telegram
+        if: ${{ !cancelled() && steps.prepare.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # optional: route a category to its own channel/group
-          TELEGRAM_CHAT_ID_FOOTBALL: ${{ secrets.TELEGRAM_CHAT_ID_FOOTBALL }}
-          TELEGRAM_CHAT_ID_HACKER: ${{ secrets.TELEGRAM_CHAT_ID_HACKER }}
-          TELEGRAM_CHAT_ID_DOTA: ${{ secrets.TELEGRAM_CHAT_ID_DOTA }}
-          TELEGRAM_CHAT_ID_TREND: ${{ secrets.TELEGRAM_CHAT_ID_TREND }}
-          TELEGRAM_CHAT_ID_MONGOLIA: ${{ secrets.TELEGRAM_CHAT_ID_MONGOLIA }}
-          TELEGRAM_CHAT_ID_AI: ${{ secrets.TELEGRAM_CHAT_ID_AI }}
-        run: python news_bot.py
-      - name: Save state
+        run: python main.py send
+
+      # Runs even if a step above failed, so already-sent items are not sent twice.
+      - name: Commit state and articles
+        if: ${{ !cancelled() }}
         run: |
+          git add state data
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            exit 0
+          fi
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add state/seen.json
-          git diff --staged --quiet || (git commit -m "Update seen state" && git push)
+          git commit -q -m "chore: update news state [skip ci]"
+          git pull --rebase -q origin "${GITHUB_REF_NAME}"
+          git push -q origin "HEAD:${GITHUB_REF_NAME}"
