@@ -200,6 +200,25 @@ sources:
     block: false
     ai_hint: "Keep only articles reporting a finished CS2 match result of BC.Game."
 
+  - name: CS2 The MongolZ news
+    type: google_news
+    subtopic: cs2
+    url: "https://news.google.com/rss/search?q=%22The+MongolZ%22+%28CS2+OR+Counter-Strike%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+    title_regex: "mongolz"
+    exclude: "chess|pubg|prediction|odds|betting|casino|bet on|promo"
+    limit: 5
+    block: false
+    ai_hint: "News about the CS2 team The MongolZ: roster, upcoming matches, tournament draws, interviews, results. Drop betting tips and predictions."
+  - name: CS2 BC.Game news
+    type: google_news
+    subtopic: cs2
+    url: "https://news.google.com/rss/search?q=%22BC.Game%22+%28CS2+OR+Counter-Strike+OR+s1mple%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+    title_regex: "bc\\.game|s1mple"
+    exclude: "chess|pubg|prediction|odds|betting|casino|bet on|promo|bonus|slots"
+    limit: 5
+    block: false
+    ai_hint: "News about the CS2 team BC.Game: roster, upcoming matches, tournament draws, interviews, results. Drop betting tips, casino promos and predictions."
+
   # ======================= Trend / Mongolia =======================
   - {name: Hacker News, url: "https://hnrss.org/frontpage?points=100", subtopic: tech-trend, limit: 8, block: false}
   - {name: Lobsters, url: "https://lobste.rs/rss", subtopic: tech-trend, limit: 5, block: false}

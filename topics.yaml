@@ -105,7 +105,7 @@ sections:
     emoji: "🔫"
     thread: 3
     subtopics:
-      - {id: cs2, name: CS2, hashtag: CS2, dedicated: true, about: "Counter-Strike 2 match results of The MongolZ and BC.Game"}
+      - {id: cs2, name: CS2, hashtag: CS2, dedicated: true, about: "Counter-Strike 2 news, upcoming matches and results of The MongolZ and BC.Game"}
 
   - id: trend
     name: Trend
