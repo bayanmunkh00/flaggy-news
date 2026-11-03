@@ -1,0 +1,19 @@
+{
+ "id": "a2ca823e1f220916",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/vercel-security-review",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7K3vwNIOstTSdFvmCXesrh/f6979b502573b08898ff42c15d9d4063/image__37_.png",
+ "title": "Introducing Vercel Security Review",
+ "summary_en": "Today, we are launching Vercel Security Review in public beta. Security Review is a new capability in Vercel Agent , alongside Code Review and Investigation. Once enabled, it scans for vulnerabilities on every push to a team's connected GitHub repositories. Findings appear as comments on pull requests, are listed in the Security dashboard, and are available via CLI. With your permission, Vercel Agent can also validate and push fixes for findings. How it works Security reviews are triggered by GitHub push events, including direct pushes to your production branch. In monorepos, reviews are…",
+ "lines": [],
+ "title_mn": "Vercel Security Review хэрэгслийг нийтийн бета хувилбараар гаргалаа",
+ "summary_mn": "Vercel компани код шалгах, эмзэг байдал илрүүлэх Vercel Security Review хэрэгслээ олон нийтийн бета хувилбараар танилцууллаа. Энэхүү агент нь GitHub дээрх хувь нэмэр бүрийг шалгаж, pull request дээр санал үлдээх боломжтой.",
+ "body_mn": "Vercel компани Vercel Agent-ийн шинэ боломж болох Vercel Security Review-г олон нийтийн бета хувилбараар гаргаснаа зарлалаа. Энэхүү хэрэгсэл нь багийн холбогдсон GitHub репозитор руу код түлхэх бүрт эмзэг байдлыг автоматаар шалгах зорилготой юм.\n\nШинэ функц нь зөвшөөрөл дутуу эсвэл нууц мэдээлэл ил гарсан эсэхийг кодны өөрчлөлт дээр үндэслэн хэдхэн секундийн дотор илрүүлдэг. Олдсонд дүн шинжилгээ хийсний дараа GitHub-ын pull request дээр сэтгэгдэл үлдээж, аюулгүй байдлын хяналтын самбарт бүртгэдэг байна.\n\nХэрэглэгчид хүсвэл Vercel Agent ашиглан автоматаар засвар хийх эсвэл өөрийн код бичих агент ашиглан алдааг залруулах боломжтой. Мөн багийн аюулгүй байдлын бодлогыг энгийн хэлээр бичиж төслүүдэд хэрэгжүүлэх боломжтойгоороо давуу талтай.",
+ "published": "2026-11-02T13:00:00Z",
+ "added": "2026-11-03T23:13:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

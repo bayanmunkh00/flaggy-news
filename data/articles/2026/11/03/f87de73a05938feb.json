@@ -1,0 +1,19 @@
+{
+ "id": "f87de73a05938feb",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/ai/articles/speedrun-ai-labs-builder-cybersecurity-230000747.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/52f75bafb4124cccca055b0da4acb594bae4eb9258788b440ffdc8f239150f04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2Fcd6693ae04399377f7e1a5f3f4fd5065.jpg",
+ "title": "Speedrun AI Labs, Builder of Cybersecurity and Compliance Agents, Accepted Into Anthropic's Claude Startups Program",
+ "summary_en": "Speedrun AI Labs, Builder of Cybersecurity and Compliance Agents, Accepted Into Anthropic's Claude Startups Program Yahoo Finance",
+ "lines": [],
+ "title_mn": "Speedrun AI Labs компани Anthropic-ийн Claude Startups хөтөлбөрт багтжээ",
+ "summary_mn": "Кибер аюулгүй байдлын агент хөгжүүлэгч Сиднейн Speedrun AI Labs лаборатори Anthropic-ийн Claude Startups хөтөлбөрт тэнцжээ. Тус хөтөлбөр нь Claude дээр суурилсан гарааны бизнесүүдэд дэмжлэг үзүүлэх зорилготой юм.",
+ "body_mn": "Кибер аюулгүй байдал болон зохицуулалтын агент бүтээдэг Сиднейн Speedrun AI Labs лаборатори Anthropic-ийн Claude Startups хөтөлбөрт албан ёсоор нэгдсэн байна.\n\nSpeedrun AI Labs нь системийн сул талыг шалгадаг Антон болон санхүүгийн байгууллагуудад зориулсан Жозеф гэсэн хоёр агентийг хөгжүүлдэг. Хөтөлбөрийн хүрээнд тус компани Anthropic-ийн Applied AI багтай хамтран ажиллах, API эрхийн бичиг болон төрөл бүрийн хөнгөлөлт эдлэх юм.\n\nAnthropic компани энэхүү хөтөлбөрт хүлээлтээс өндөр сонирхол ирсний улмаас бүртгэлийг хугацаанаас нь өмнө хаасан бөгөөд Speedrun AI Labs нь тус хаалттай бүлэгт багтсан цөөн компаниудын нэг болжээ.",
+ "published": "2026-11-02T23:00:00Z",
+ "added": "2026-11-03T23:13:43Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
