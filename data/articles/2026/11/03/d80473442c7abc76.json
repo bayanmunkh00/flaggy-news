@@ -1,0 +1,19 @@
+{
+ "id": "d80473442c7abc76",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tflB6yfzJv3UijqJlfCikzOQx0NHz9AVTh13vDvWu-LfAfFfBDjGbKI79Cb3dd2Ca_ck2KNP46WwYKcuweVD9Wc1srFpRkBimsG-EQS567tR92Yyg1DKPWqhhZHc1sP71qHWQoUxndY2VzDlqVsd2gx2GPcMx7pjVG8ws13bfMKXDtqz5q7EiJ22Mmr_/s1600/wp.jpg",
+ "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+ "summary_en": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract",
+ "lines": [],
+ "title_mn": "CryptoPayment Gateway зарим сул талыг ашиглан халдлага үйлдэж байна",
+ "summary_mn": "WordPress-ийн CryptoPayment Gateway залгаас дахь CVE-2026-81648 дугаартай хамгийн өндөр эрсдэлтэй сул талыг хакерууд ашиглаж эхэлжээ. Уг эмзэг байдал нь хэрэглэгчийн хэтэвчний эрхийг алдагдуулж, сервер дэх дурын файлыг устгах аюултай байна.",
+ "body_mn": "WordPress-ийн CryptoPayment Gateway залгаас дахь CVSS 10.0 үнэлгээтэй, хамгийн өндөр эрсдэлтэй CVE-2026-81648 сул талыг хакерууд ашиглаж эхэлснийг Defused Cyber аюулгүй байдлын судлаачид мэдээллээ. Уг эмзэг байдал нь 1.2.1-ээс 1.2.2 хувилбаруудад илэрсэн байна.\n\nУг сул талын улмаас баталгаажилт хийгээгүй хэрэглэгчид сервер дэх дурын файлыг устгах, төлбөрийн хэрэгслийн тохиргоог өөрчлөх, хадгалагдсан хэтэвчний мэдээллийг тодорхой байдлаар олж авах боломжтой ажээ. Аюулгүй байдлын үүднээс уг залгаасыг хэдийнэ WordPress-ийн сангаас хассан байна.\n\nОдоогоор албан ёсны засах шийдвэр (patch) гараагүй байгаа тул сайт эзэмшигчдэд уг залгаасыг системээсээ бүр мөсөн устгах, түлхүүрүүдийг солих, сэжигтэй өөрчлөлт байгаа эсэхийг шалгахыг зөвлөж байна. Халдлага үйлдэгчид голдуу нэрээ нууцсан, KYC шаардлагагүй VPS үйлчилгээ үзүүлэгчдийг ашиглаж байгаа аж.",
+ "published": "2026-11-03T05:34:37Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

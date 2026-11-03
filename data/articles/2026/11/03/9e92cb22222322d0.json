@@ -1,0 +1,19 @@
+{
+ "id": "9e92cb22222322d0",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CyberSecurityNews",
+ "url": "https://cybersecuritynews.com/anthropic-enables-edr-monitoring/",
+ "image": "",
+ "title": "Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity",
+ "summary_en": "Anthropic Enables EDR Monitoring in Claude Cowork to Detect Hidden AI Agent Activity CyberSecurityNews",
+ "lines": [],
+ "title_mn": "Anthropic компани Claude Cowork системд EDR хяналтыг нэвтрүүллээ",
+ "summary_mn": "Anthropic компани хиймэл оюун ухааны агентуудын нууц үйл ажиллагааг илрүүлэх зорилгоор Claude Cowork системд EDR хяналтын функцийг нэмжээ.",
+ "body_mn": "Anthropic компани хэрэглэгчдийн аюулгүй байдлыг сайжруулах зорилгоор Claude Cowork платформдоо Endpoint Detection and Response (EDR) хяналтын боломжийг идэвхжүүллээ. Энэ нь хиймэл оюун ухааны агентуудын үйл ажиллагааг илүү нарийвчлан хянах боломжийг олгох юм.\n\nШинэ функц нь систем дэх болзошгүй эрсдэл болон далд үйл ажиллагааг илрүүлэхэд чухал үүрэг гүйцэтгэнэ. AI агентуудын бие даасан байдал нэмэгдэхийн хэрээр аюулгүй байдлын хяналтыг сайжруулах зайлшгүй шаардлага үүсч байгаа юм.\n\nAnthropic энэхүү шинэчлэлээр дамжуулан хэрэглэгчдэд аюулгүй орчныг бүрдүүлэх зорилготой байна.",
+ "published": "2026-11-03T04:53:56Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

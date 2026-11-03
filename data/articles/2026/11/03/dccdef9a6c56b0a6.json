@@ -1,0 +1,21 @@
+{
+ "id": "dccdef9a6c56b0a6",
+ "section": "hacker",
+ "subtopic": "cve",
+ "source": "NVD critical CVEs",
+ "source_label": "NVD",
+ "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-120518",
+ "image": "",
+ "title": "CVE-2026-120518 · CVSS 9.1 CRITICAL",
+ "summary_en": "The BuddyPress XProfile Image Field plugin for WordPress is vulnerable to arbitrary file deletion in all versions up to, and including, 3.1.0. This is due to bpxp_image_field_update_on_user_activation() calling unlink() on a path built from visitor-supplied signup metadata with no realpath() resolution, no containment check against the profile-image directory and no extension allow-list…",
+ "lines": [
+  "The BuddyPress XProfile Image Field plugin for WordPress is vulnerable to arbitrary file deletion in all versions up to, and including, 3.1.0. This is due to bpxp_image_field_update_on_user_activation() calling unlink() on a path built from visitor-supplied signup metadata with no realpath() resolution, no containment check against the profile-image directory and no extension allow-list…"
+ ],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T05:18:31Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "",
+ "score": null
+}

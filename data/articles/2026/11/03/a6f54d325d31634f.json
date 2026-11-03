@@ -1,0 +1,19 @@
+{
+ "id": "a6f54d325d31634f",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/transformers-mic",
+ "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png",
+ "title": "Transformers Model Integration Contracts",
+ "summary_en": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+ "lines": [],
+ "title_mn": "Hugging Face загварын интеграцийн алдаанаас урьдчилан сэргийлэх шийдэл нэвтрүүлжээ",
+ "summary_mn": "Hugging Face баг олон зуун загварын туршилтыг хямд бөгөөд хурдан гүйцэтгэх зорилгоор жижигрүүлсэн загвар ашиглах Model Integration Contracts (MIC) стандартыг санал болгож байна. Энэ нь кодын сан руу алдаатай өөрчлөлт орохоос урьдчилан сэргийлнэ.",
+ "body_mn": "Transformers санд өмнө нь гарсан UMT5 загварын алдаа шалгалтын явцад шууд мэдэгдэхгүйгээр үндсэн код руу нэвтэрч байжээ. Жинхэнэ том хэмжээтэй загваруудыг бүрэн ачаалж турших нь GPU нөөц их шаарддаг тул бүх таталтыг шалгах боломжгүй байдаг.\n\nҮүнийг шийдхийн тулд жижигрүүлсэн загвар ашиглан хурдавчилсан интеграцийн туршилт хийх Model Integration Contracts (MIC) аргыг нэвтрүүлжээ. Энэ нь загварын бүтцийг хадгалж үлдсэн боловч хэмжээгээр нь багасгасан тусгай жишиг загвар юм.\n\nЭнэхүү стандартын тусламжтайгаар хувьсагчдын үр дүн, сургалтын алдаа болон градиент зөв эсэхийг хямд CPU сервер дээр шалгах боломжтой болж байна. Ингэснээр хөгжүүлэгчид кодын өөрчлөлт оруулах явцдаа гарч болзошгүй алдааг эрт илрүүлэх нөхцөл бүрджээ.",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

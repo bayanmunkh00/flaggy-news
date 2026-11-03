@@ -1,0 +1,19 @@
+{
+ "id": "a174c8d8b63d6719",
+ "section": "trend",
+ "subtopic": "tech-trend",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+ "image": "https://opengraph.githubassets.com/85911583d914faeb60ee63a919001c15ed43f14e7dbab8881614997a1fe673f3/JiaFeiMiao-K-Cat/DiscImageStudio",
+ "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+ "summary_en": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 151 # Comments: 33",
+ "lines": [],
+ "title_mn": "DiscImageStudio: CD, DVD болон Blu-ray дээр зураг дүрс сийлэх хэрэгсэл",
+ "summary_mn": "Дискэн дээр нүдэнд харагдах зураг дүрс гаргах зориулалттай DiscImageStudio хэрэгсэл гарлаа. Энэ нь Windows хувилбартай бөгөөд Linux, macOS үйлдлийн системд зориулсан туршилтын команд мөрийн хувилбартай.",
+ "body_mn": "Disc Image Studio хэрэгсэл нь CD, DVD болон дан давхаргатай BD-R дискийг физик түвшинд өөрчилж, дискний гадаргуу дээр нүдэнд харагдах зураг дүрс гаргах боломжийг олгодог. Windows хэрэглэгчид графиклайр ашиглах боломжтой бол Linux болон macOS хэрэглэгчид CLI буюу команд мөрийн хувилбарыг ашиглах боломжтой аж.\n\nЭнэхүү хэрэгсэл нь хэрэглэгчдийн оруулсан зургийг боловсруулж, ISO, RAW эсвэл WAV+CUE формат руу хөрвүүлэх эсвэл шууд хоосон дискэн дээр бичих боломж олгоно. Мөн тусгай标定 буюу калибртрацийн алгоритмын тусламжтайгаар дискний физик өгөгдлийн нарийвчлалыг мэдэгдэхүйц сайжруулжээ.\n\nТөсөл нь GNU GPL v3.0 болон түүнээс хойшхи лицензээр нээлттэй тархаж байгаа бөгөөд CDImage төслөөс санаа авч хөгжүүлсэн байна.",
+ "published": "2026-11-03T01:33:43Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

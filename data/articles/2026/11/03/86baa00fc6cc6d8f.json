@@ -1,0 +1,19 @@
+{
+ "id": "86baa00fc6cc6d8f",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The CapTable",
+ "url": "https://the-captable.com/2026/11/why-claude-maker-anthropic-turned-to-a-vedanta-monk-to-discuss-ai/",
+ "image": "https://images.the-captable.com/cs/158/c5c652a0fb5a11eca125d7821ea2fbc4/CTConvoSwamiFeatureImage-1793680219420.jpg",
+ "title": "Why Claude-maker Anthropic turned to a Vedanta monk to discuss AI",
+ "summary_en": "Why Claude-maker Anthropic turned to a Vedanta monk to discuss AI The CapTable",
+ "lines": [],
+ "title_mn": "Anthropic компани хиймэл оюун ухааны ёс зүйн асуудлаар Энэтхэгийн ламтай ярилцжээ",
+ "summary_mn": "Claude загварыг бүтээгч Anthropic компани хиймэл оюун ухааны ёс зүй, ухамсарын талаар ярилцахаар ёс зүйн эрдэмтэн, лам Swami Sarvapriyananda-г урьжээ.",
+ "body_mn": "Claude чатботыг бүтээгч Anthropic компани хиймэл оюун ухааны технологийн ёс зүйн асуудлыг хэлэлцэх өвөрмөц алхам хийлээ. Тэд Сан-Франциско дахь төв байрандаа Энэтхэгийн гүн ухааныг дэлхий нийтэд таниулдаг лам Swami Sarvapriyananda-г урьж ярилцсан байна.\n\nУулзалтаар хиймэл оюун ухааны бие даасан байдал, машин ухамсартай болох эсэх болон технологийн хөгжлийн улмаас нийгэмд үүсч болох өөрчлөлтүүдийн талаар хэлэлцжээ. Swami Sarvapriyananda нь хүний ухамсарыг оршихуйн гол суурь гэж үздэг Advaita Vedanta философийг заадаг юм.\n\nЭнэхүү уулзалт нь технологийн компаниуд хиймэл оюун ухааны ирээдүйг тодорхойлоход философын болон ёс зүйн үүднээс хандаж байгааг харуулсан сонирхолтой үйл явдал болжээ.",
+ "published": "2026-11-03T05:19:09Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

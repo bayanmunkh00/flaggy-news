@@ -1,0 +1,19 @@
+{
+ "id": "92958f923c4a1ac5",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "India Today",
+ "url": "https://www.indiatoday.in/technology/news/story/can-ai-fix-another-ais-brain-mit-researchers-use-gpt-6-astra-to-boost-qwens-maths-skills-3031134-2026-11-03",
+ "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/astra-fixes-qwen-031805711-16x9_0.png?VersionId=z_SWoq7YSStutqU82RHuyWDDiEYalFz.",
+ "title": "Can AI fix another AI's brain? MIT researchers use GPT-6 Astra to boost Qwen's maths skills",
+ "summary_en": "Can AI fix another AI's brain? MIT researchers use GPT-6 Astra to boost Qwen's maths skills India Today",
+ "lines": [],
+ "title_mn": "OpenAI-ийн загвар Alibaba-ийн Qwen загварын математикийн чадварыг сайжруулжээ",
+ "summary_mn": "MIT-ийн судлаачид OpenAI-ийн GPT-6 Astra загварыг ашиглан Alibaba-ийн Qwen загварын дотоод тохиргоог өөрчилж, математикийн чадварыг нь дахин сургалтгүйгээр сайжрууллаа.",
+ "body_mn": "Массачусетсийн технологийн хүрээлэнгийн (MIT) судлаачид хиймэл оюун ухаан өөр нэг хиймэл оюун ухааныг засах боломжтой эсэхийг туршиж үзжээ. Тэд OpenAI-ийн GPT-6 Astra загварыг ашиглан Alibaba-ийн Qwen3.5-0.8B загварын дотоод жинг шууд өөрчилсөн байна.\n\nTуршилтаар Astra загвар нь Qwen-ийн давтагдаж алдаа гаргадаг хэсгийг олж тогтоожээ. Улмаар жингийн ердөө 0.016 хувийг өөрчилснөөр математикийн бодлого бодох чадвар нь хэд дахин өссөн байна. Тухайлбал, MATH-500 болон GSM8K тестүүдийн үр дүн мэдэгдэхүйц сайжиржээ.\n\nЭнэхүү арга нь хиймэл оюун ухааныг дахин шинээр сургалгүйгээр дотоод бүтцийг нь шууд өөрчлөх боломжтойг харуулсан чухал туршилт болсон юм. Судлаачид уг туршилтын бүртгэлийг олон нийтэд нээлттэй болгожээ.",
+ "published": "2026-11-03T04:18:19Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

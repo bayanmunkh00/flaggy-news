@@ -1,0 +1,19 @@
+{
+ "id": "c98a4c2d251e8cad",
+ "section": "trend",
+ "subtopic": "tech-trend",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://hackertimes.ca/",
+ "image": "",
+ "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+ "summary_en": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 196 # Comments: 59",
+ "lines": [],
+ "title_mn": "Hacker Times: New York Times загвартай Hacker News мэдээний сайт",
+ "summary_mn": "Hacker News болон New York Times сонины хэв маягийг хослуулсан Hacker Times нэртэй шинэ сонирхолтой хувилбар гарчээ. Энэхүү хуудсанд төрөл бүрийн технологийн сонирхолтой туршилт, хэлэлцүүлгүүд багтсан байна.",
+ "body_mn": "MIT CSAIL баг хиймэл оюуны тусламжтайгаар мэдрэлийн сүлжээний жинг өөрчлөх туршилт хийсэн тухай мэдээлэл гарсан байна. Тухайлбал, жижиг хэмжээний өөрчлөлт хийхэд л математикийн болон заавар биелүүлэх чадвар эрс сайжирсан ч үр дүн нь одоогоор урьдчилсан шатанд байгаа аж.\n\nҮүний зэрэгцээ Hacker News уншигчдын дунд түгээмэл болсон YouTube видео цуглуулга, AI код бичих хэрэгсэл ашиглан хийсэн хөтөч болон бусад сонирхолтой хэлэлцүүлгүүд багтжээ. Тухайлбал, томоохон хэмжээний телевизийг Apple TV-ийн дэлгэц болгон ашиглах тухай болон бие даасан хувийн нөөц хуулбар хийх талаар хэлэлцсэн байна.\n\nМөн математикийн судалгаанд хиймэл оюун нэвтэрч буй өнөө үед эрдэмтэд судалгааны үнэ цэн болон хүний гүйцэтгэх үүргийн талаар байр сууриа илэрхийлжээ. Эдгээр мэдээллүүд нь технологийн салбарт өрнөж буй гол сэдвүүдийг онцолж байна.",
+ "published": "2026-11-03T01:53:34Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

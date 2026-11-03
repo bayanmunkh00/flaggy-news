@@ -1,0 +1,19 @@
+{
+ "id": "6e0deaf81cb58275",
+ "section": "trend",
+ "subtopic": "tech-trend",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+ "image": "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2026/11/02162002/tracker-1.jpeg",
+ "title": "Polyend releases the Tracker firmware source code",
+ "summary_en": "Article URL: https://polyend.com/whats-up/tracker-the-biggest-update-yet/ Comments URL: https://news.ycombinator.com/item?id=50340159 Points: 122 # Comments: 38",
+ "lines": [],
+ "title_mn": "Polyend компани Tracker хөгжмийн төхөөрөмжийн эх кодыг нээлттэй болголоо",
+ "summary_mn": "Polyend компани Tracker, Tracker+ болон Tracker Mini төхөөрөмжүүдийнхээ програм хангамжийн эх кодыг GitHub дээр нийтэлжээ. Мөн Tracker Community Edition 1.0 хувилбарыг шинэ боломжуудтайгаар гаргалаа.",
+ "body_mn": "Polyend компани анхны Tracker, Tracker+ болон Tracker Mini загваруудынхаа програм хангамжийн эх кодыг албан ёсоор GitHub дээр нээлттэй болголоо. Үүний зэрэгцээ олон шинэ боломж, сайжруулалтыг багтаасан Tracker Community Edition 1.0 хувилбарыг танилцуулсан байна.\n\nШинэ шинэчлэлтээр дамжуулан хэрэглэгчид төхөөрөмж дээрээ хувийн програм хангамж суулгах, код өөрчлөх боломжтой болжээ. Бүх гурван загварт wavetable дугтуй болон LFO, төхөөрөмжийн ачаалах хурд сайжирснаас гадна хөтөч дээр суурилсан өнгө загвар, фонт зохиох боломж нэмэгдсэн байна.\n\nЭнэхүү алхам нь хөгжим бүтээгчид болон хөгжүүлэгчдэд төхөөрөмжийнхөө боломжийг өөрсдийн хүссэнээр өргөжүүлэх, шинэ хэрэгсэл бүтээхэд туслах зорилготой юм.",
+ "published": "2026-11-02T17:20:13Z",
+ "added": "2026-11-03T07:45:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
