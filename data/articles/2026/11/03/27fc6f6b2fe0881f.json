@@ -1,0 +1,19 @@
+{
+ "id": "27fc6f6b2fe0881f",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "FourWeekMBA",
+ "url": "https://fourweekmba.com/ai-bytedances-doubao-hits-419m-users-daily-base-6x-qwens/",
+ "image": "",
+ "title": "ByteDance’s Doubao Hits 419M Users; Daily Base 6x Qwen’s",
+ "summary_en": "ByteDance’s Doubao Hits 419M Users; Daily Base 6x Qwen’s FourWeekMBA",
+ "lines": [],
+ "title_mn": "ByteDance-ийн Doubao хэрэглэгчийн тоогоор Qwen-ийг хол хаяжээ",
+ "summary_mn": "ByteDance компанийн бүтээсэн Doubao хиймэл оюуны туслах 419 сая хэрэглэгчтэй болж, өдөр тутмын идэвхтэй хэрэглэгчийн тоогоороо Alibaba-гийн Qwen-ээс 6 дахин давуу байна.",
+ "body_mn": "FourWeekMBA сайтаас мэдээлснээр ByteDance компанийн хөгжүүлсэн Doubao хиймэл оюуны хэрэглэгчдийн тоо 419 саяд хүрчээ. Энэ нь хятадын зах зээлд томоохон амжилт бөгөөд өдөр тутмын идэвхтэй хэрэглэгчдийн суурь нь Alibaba-гийн Qwen загвараас даруй 6 дахин их байгааг харуулж байна.",
+ "published": "2026-11-03T10:31:24Z",
+ "added": "2026-11-03T17:44:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

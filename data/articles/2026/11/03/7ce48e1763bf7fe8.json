@@ -1,0 +1,19 @@
+{
+ "id": "7ce48e1763bf7fe8",
+ "section": "trend",
+ "subtopic": "tech-trend",
+ "source": "Hacker News",
+ "source_label": "Hacker News",
+ "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+ "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-2560x1440.jpg",
+ "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+ "summary_en": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 194 # Comments: 76",
+ "lines": [],
+ "title_mn": "Fujifilm хиймэл оюуны өсөлттэй холбоотойгоор соронзон туузны үйлдвэрлэлээ 5 дахин нэмэгдүүлнэ",
+ "summary_mn": "Fujifilm компани хиймэл оюуны өгөгдлийн асар их өсөлтөөс үүдэлтэй архивлалтын эрэлтийг хангахын тулд Канагава дахь үйлдвэрлэлийн хүчин чадлаа тав дахин нэмэгдүүлэхээр 10 тэрбум иенийн хөрөнгө оруулалт хийхээр болжээ.",
+ "body_mn": "Хиймэл оюуны технологи эрчимтэй хөгжиж, дэлхий даяар өгөгдлийн хэмжээ огцом өсөж байгаатай холбоотойгоор Fujifilm компани соронзон тууз (magnetic tape) үйлдвэрлэлийн хүчин чадлаа 5 дахин өсгөхөөр болсноо зарлалаа. Тус компани 2026-2028 оны санхүүгийн жилүүдэд Канагава дахь үйлдвэртээ ойролцоогоор 10 тэрбум иен буюу 63 сая ам.долларын хөрөнгө оруулалт хийхээр төлөвлөжээ.\n\nЭнэхүү хөрөнгө оруулалт нь голчлон хамгийн сүүлийн үеийн \"FUJIFILM LTO Ultrium10\" өгөгдөл хадгалах туузыг үйлдвэрлэхэд зориулагдах бөгөөд үүлэн тооцооллын аварга компаниуд болон дата төвүүд зардал багатай, найдвартай архивлалтын шийдэл болгон соронзон туузыг өргөнөөр ашигласаар байна.\n\nМөн соронзон тууз нь цахим халдлага, тэр дундаа ransomware зэрэг аюулаас өгөгдлийг хамгаалах сүүлийн шугам буюу офлайн байдлаар хадгалах боломжтойгоороо кибер аюулгүй байдлын салбарт дахин анхаарал татаж эхэлжээ.",
+ "published": "2026-11-02T14:02:42Z",
+ "added": "2026-11-03T17:44:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

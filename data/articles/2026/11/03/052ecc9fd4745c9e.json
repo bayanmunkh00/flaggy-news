@@ -1,0 +1,19 @@
+{
+ "id": "052ecc9fd4745c9e",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1V9G8MOlvglqgShUthjNtu/44c1c1315edd57a8e31804ec873e45dd/customer_story_og_image_og_card.jpg",
+ "title": "How OpenEvidence scales medical search for 650K doctors",
+ "summary_en": "OpenEvidence on Vercel Serves 650,000 doctors with medical search Completes production deployments in about five minutes Absorbs traffic spikes without additional capacity provisioning Reduced serverless spend by 90% with Fluid compute Updates doctor- and patient-facing applications independently OpenEvidence helps physicians find medical evidence during care, whether they’re checking a dosage on intensive care rounds or handling a case outside their specialty without a specialist nearby. Answers draw on peer-reviewed literature and include citations, so doctors can examine the sources…",
+ "lines": [],
+ "title_mn": "OpenEvidence платформ Vercel ашиглан 650,000 эмчид анагаах ухааны хайлт хүргэж байна",
+ "summary_mn": "Эмч нарт зориулсан анагаах ухааны хайлтын систем OpenEvidence нь Vercel платформын тусламжтайгаар серверлесс зарцуулалтаа 90 хувиар бууруулж, сая сая хэрэглэгчдийн ачааллыг амжилттай давж байна.",
+ "body_mn": "OpenEvidence нь эмч нар болон эрүүл мэндийн мэргэжилтнүүдэд эмнэлзүйн нотолгоо, судалгааны материалыг шуурхай олоход тусалдаг платформ юм. Тус систем нь 650,000 гаруй эмчид үйлчилдэг бөгөөд 2025 онд 100 сая гаруй өвчтөнийг эмчлэхэд хувь нэмэр оруулжээ.\n\nЭмнэлгийн шийдвэр гаргахад тусалдаг энэхүү программ хангамжийн хувьд найдвартай ажиллагаа болон хурд маш чухал байдаг. OpenEvidence баг Next.js фрэймворк болон Vercel платформыг ашигласнаар хөгжүүлэлтийн явцад шинэ боломжуудыг хялбархан туршиж, продакшнд богино хугацаанд нэвтрүүлдэг байна.\n\nMun мөн TikTok дээр гэнэт вирус болж хандалт нь эрс өссөн үед ч ямар нэгэн нэмэлт нөөц төлөвлөлгүйгээр серверлесс тооцооллын тусламжтайгаар хурдан бөгөөд алдаагүй ажиллаж чадсан байна. Энэ нь серверлесс зардлыг 90%-иар бууруулахад тусалжээ.",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-03T17:44:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

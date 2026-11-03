@@ -1,0 +1,19 @@
+{
+ "id": "63945bc794809749",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/cwe-bench",
+ "image": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
+ "title": "CWE-bench v2: More coverage, quality, and transparency",
+ "summary_en": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+ "lines": [],
+ "title_mn": "Collinear AI компани CWE-bench v2 үнэлгээний шинэчилсэн хувилбарыг гаргажээ",
+ "summary_mn": "Collinear AI компани хиймэл оюуны кибер аюулгүй байдлын чадавхыг сориход зориулсан CWE-bench v2 benchmark-ийг олон нийтэд нээлттэй болголоо. Энэхүү шинэ хувилбарт 100 даалгавар багтаж, загваруудын код дахь сул талыг олох чадварыг шалгадаг.",
+ "body_mn": "Collinear AI компаниас хиймэл оюуны хөгжүүлэлтийн дэвшилтэт чадварыг шалгахад зориулсан CWE-bench v2 хувилбарыг танилцууллаа. Энэхүү олон нийтэд нээлттэй багц нь бодит нээлттэй эх сурвалж бүхий репозиторуудаас бүрдэх бөгөөд AI агент ямар нэгэн функц эвдэхгүйгээр программ хангамжийн сул талыг олж засварлах чадварыг үнэлдэг байна.\n\nШинэ хувилбар нь 91 өөр төрлийн сул талыг хамарсан 100 даалгаврыг багтаасан бөгөөд үр дүнг автоматжуулсан байдлаар ямар ч нэмэлт зардлаар шалгах боломжтой. Үнэлгээний үр дүнгээс харахад Gemini 4 Argon болон Claude Opus 5.5 зэрэг загварууд тэргүүлж байгаа аж.\n\nЭнэхүүbenchmark-ийн хүрээлэн буй орчин болон шалгуур хэрэгслүүдийг Harbor ашиглан шууд ажиллуулах боломжтой бөгөөд цаашид хамгаалалтын агентуудыг сургахад ч ашиглах боломжтой юм.",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-03T17:44:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "1758f68afa54b9c4",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3MaKYmvnGD325MooTB4FLl/a0e0e0fc99d41615a5ad1a797c159b38/customer_story_og_image_og_card.jpg",
+ "title": "How Zapier turns ideas into working software in hours with Vercel",
+ "summary_en": "Zapier on Vercel Interactive partner demos in under two hours with v0, replacing a process that could take weeks First versions of three internal applications, each built in one day A shared daily briefing for more than 60 marketers, replacing individual efforts to assemble the same information 3.3 million sandboxes created in one month, isolating the code execution behind Zapier’s AI workloads Before the industry had a word for agents, Zapier was building them. Today Zapier is the AI orchestration platform connecting AI to the workflows, data, and systems businesses use every day. Zapier…",
+ "lines": [],
+ "title_mn": "Zapier компани Vercel ашиглан программ хангамж бүтээх хугацаагаа хэдхэн цаг болгон богиносголоо",
+ "summary_mn": "Zapier компани v0 болон Vercel платформыг ашиглан түншүүдийн демо болон дотоод аппликейшн бүтээх явцыг хэдэн долоо хоногоос хэдхэн цаг болгон хурдасгажээ.",
+ "body_mn": "Хиймэл оюуны урсгал болон бизнесийн системүүдийг холбогч Zapier компани Vercel платформыг ашиглан дотоод бүтээмж болон түншүүдтэй хамтран ажиллах хурдаа эрс сайжруулжээ. Тус компани олон төрлийн интерактив демо болон дотоод хэрэгцээний аппликейшнүүдийг Vercel дээр хөгжүүлдэг байна.\n\nЖишээлбэл, Powered by Zapier баг нь v0 хэрэгслийг ашиглан түнш компаниудад зориулсан интерактив прототипийг хэдхэн цагийн дотор бүтээдэг болжээ. Өмнө нь энэ ажилд хэдэн долоо хоног зарцуулагддаг байсан юм.\n\nМөн маркетинг болон бусад багууд код бичих туршлагагүйгээр дотоод мэдээллийн сан, аппликейшн бүтээж, Vercel-ийн аюулгүй байдлын хяналтын дор хамтран ажиллах боломжтой болсон байна.",
+ "published": "2026-11-03T04:00:00Z",
+ "added": "2026-11-03T17:44:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

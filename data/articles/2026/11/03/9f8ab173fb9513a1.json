@@ -1,0 +1,19 @@
+{
+ "id": "9f8ab173fb9513a1",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5vGpD5V08d8nBJdtHDny9Y/8b374ea52dff57e94f7de466a46466bf/customer_story_og_card_og_card__1_.jpg",
+ "title": "How Mercor ships internal apps and billions of production tokens on one platform",
+ "summary_en": "Mercor on Vercel Batch jobs cut from 12 hours to 2 hours 18M requests and 63B tokens routed through AI Gateway in 10 days Expert access provisioned in seconds via Vercel Passport Over 2,000 projects created by hundreds of internal builders Mercor connects hundreds of thousands of domain experts with frontier AI labs, helping those labs generate the human data they need to train and evaluate leading models. It also runs large batches of automated grading jobs to evaluate models for labs and enterprises. Demand arrives in bursts that can push model traffic to peak capacity for days, even as…",
+ "lines": [],
+ "title_mn": "Mercor компани Vercel AI Gateway ашиглан олон тэрбум токен дамжуулж байна",
+ "summary_mn": "Mercor компани Vercel AI Gateway-ийг ашиглан ердөө 10 хоногийн дотор 63 тэрбум токен болон 18 сая хүсэлтийг ямар ч хязгаарлалтад оролгүйгээр амжилттай боловсруулжээ.",
+ "body_mn": "Хиймэл оюуны лабораториудад шаардлагатай хүний өгөгдлийг бэлтгэж өгдөг Mercor компани Vercel AI Gateway болон Passport үйлчилгээг нэвтрүүлжээ. Энэ нь тэдэнд загварын хүсэлтийг хурдан шуурхай чиглүүлж, хугацаа шаардсан ажлуудыг амжилттай гүйцэтгэх боломжийг олгосон байна.\n\nAI Gateway-ийг ашигласнаар хэрэглэгчийн хүсэлтүүд хурдны хязгаарлалтад (rate limits) өртөхөө больж, өмнө нь 12 цагаас илүү үргэлжилдэг байсан багц ажлууд 2-3 цагийн дотор дуусдаг болжээ. Эхний 10 хоногт тэд 18 сая хүсэлт, 63 тэрбум токен дамжуулсан байна.\n\nМөн Mercor-ын зуу зуун инженер болон ажилтнууд Vercel дээр тусгай хязгаарлалт, хяналтын дор дотоод аппликейшнүүдийг хөгжүүлж, төслийн үр ашгаа өндөр түвшинд байлгаж байна.",
+ "published": "2026-11-03T04:00:00Z",
+ "added": "2026-11-03T17:44:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
