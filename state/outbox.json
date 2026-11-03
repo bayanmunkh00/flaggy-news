@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "kind": "article",
+  "article": {
+   "id": "661c21ac663e183c",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "PYMNTS.com",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-buys-one-person-biotech-to-prove-claude-can-make-drugs/",
+   "image": "https://www.pymnts.com/wp-content/uploads/2026/11/AI-biotech-1.jpg",
+   "title": "Anthropic Buys One-Person Biotech to Prove Claude Can Make Drugs",
+   "summary_en": "Anthropic Buys One-Person Biotech to Prove Claude Can Make Drugs PYMNTS.com",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-03T01:34:33Z",
+   "added": "2026-11-03T02:12:58Z",
+   "ai": "",
+   "score": null
+  }
+ }
+]
