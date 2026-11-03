@@ -31,6 +31,14 @@ def link_key(url: str) -> str:
     return short_key(normalize_url(url))
 
 
+def keyword_pattern(keywords: list[str]) -> re.Pattern | None:
+    """Whole-word, case-insensitive, optional plural 's' ("AI" does not match "said")."""
+    if not keywords:
+        return None
+    alts = "|".join(re.escape(k) for k in sorted(keywords, key=len, reverse=True))
+    return re.compile(rf"(?<![\w/.-])(?:{alts})s?(?![\w])", re.I)
+
+
 def strip_html(text: str) -> str:
     text = re.sub(r"<(script|style)\b.*?</\1>", " ", text or "", flags=re.S | re.I)
     text = re.sub(r"<[^>]+>", " ", text)

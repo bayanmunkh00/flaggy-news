@@ -66,6 +66,13 @@ def build_item(entry, src: Source) -> Item | None:
     if not link or not title:
         return None
     publisher = ""
+    summary_html = entry.get("summary") or entry.get("description") or ""
+    if src.type == "github_release":
+        if entry.get("content"):
+            summary_html = entry["content"][0].get("value", summary_html)
+        repo = src.url.rstrip("/").split("/")[-2] if "/releases" in src.url else ""
+        if repo and repo.lower() not in title.lower():
+            title = f"{repo} {title}"  # "v2.1.290" -> "claude-code v2.1.290"
     if src.type == "google_news":
         publisher = (entry.get("source") or {}).get("title", "")
         if publisher and title.endswith(f" - {publisher}"):
@@ -74,7 +81,7 @@ def build_item(entry, src: Source) -> Item | None:
     id_key = short_key(entry["id"]) if entry.get("id") else lk
     return Item(
         source=src, title=title, link=link,
-        summary=strip_html(entry.get("summary") or entry.get("description") or ""),
+        summary=strip_html(summary_html),
         published=entry_time(entry), keys=list(dict.fromkeys([id_key, lk])),
         publisher=publisher, feed_image=entry_image(entry),
     )
@@ -133,6 +140,17 @@ def collect(cfg: Config, state: State, now: datetime, workers: int = 8) -> tuple
             if not src.accepts_title(item.title):
                 state.mark(item.keys, today)
                 continue
+            text = f"{item.title}\n{item.summary}"
+            if src.keywords and not src.keywords.search(text):
+                state.mark(item.keys, today)
+                continue
+            if src.subtopic:
+                item.subtopic = cfg.subtopics[src.subtopic]
+            else:
+                item.subtopic = cfg.classify(text, src.section)
+                if item.subtopic is None:
+                    state.mark(item.keys, today)
+                    continue  # about none of our topics
             if any(k in run_keys for k in item.keys):
                 continue
             run_keys.update(item.keys)

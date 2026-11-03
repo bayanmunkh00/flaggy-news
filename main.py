@@ -42,10 +42,17 @@ def site_url() -> str:
     return url.rstrip("/") + "/" if url else ""
 
 
-def to_article(item: Item, tr: dict | None, now: datetime) -> dict:
+def to_article(item: Item, tr: dict | None, cfg: Config, now: datetime) -> dict:
+    sub = item.subtopic
+    ai_sub = cfg.subtopics.get((tr or {}).get("subtopic", ""))
+    # Dedicated sources keep their subtopic; mixed sources take the AI's pick (inside their section).
+    if ai_sub and not item.source.subtopic and \
+            (not item.source.section or ai_sub.section.id == item.source.section):
+        sub = ai_sub
     return {
         "id": item.id,
-        "category": item.source.category,
+        "section": sub.section.id if sub else "",
+        "subtopic": sub.id if sub else "",
         "source": item.source.name,
         "source_label": item.publisher or item.source.name,
         "url": item.extra.get("url") or item.link,
@@ -63,23 +70,11 @@ def to_article(item: Item, tr: dict | None, now: datetime) -> dict:
     }
 
 
-def blocked_reason(cfg: Config, item: Item) -> str | None:
-    title = item.title.lower()
-    host = (item.extra.get("url") or item.link).lower()
-    who = f"{item.publisher.lower()} {host}"
-    for kw in cfg.block_keywords:
-        if kw in title:
-            return f"title keyword {kw!r}"
-    for pub in cfg.block_publishers:
-        if pub in who:
-            return f"publisher {pub!r}"
-    return None
-
-
 def drop_blocked(items: list[Item], cfg: Config, state: store.State, today: str) -> list[Item]:
     kept = []
     for it in items:
-        why = None if it.ready else blocked_reason(cfg, it)
+        why = "" if it.ready or not it.source.block else cfg.block.reason(
+            it.title, it.publisher, it.extra.get("url") or it.link)
         if why:
             log.info("Blocked (%s), skipping: %s", why, it.title[:80])
             state.mark(it.keys, today)
@@ -160,13 +155,16 @@ def prepare(state: store.State, cfg: Config, data_dir: Path, dry_run: bool) -> b
         if tr and tr["duplicate"]:
             log.info("AI: duplicate story, skipping: %s", it.title[:70])
             continue
-        if tr and tr["score"] < cfg.min_score:
+        # release notes from a dedicated repo are always kept; the rest must be useful
+        if tr and tr["score"] < cfg.min_score and it.source.type != "github_release":
             log.info("AI: low value (score %d), skipping: %s", tr["score"], it.title[:70])
             continue
-        art = to_article(it, tr, now)
+        art = to_article(it, tr, cfg, now)
+        if not art["subtopic"]:
+            continue
         if dry_run:
             print("=" * 60)
-            print(f"[{art['category']}] {art['title_mn'] or art['title']}  ({art['ai'] or 'no AI'})")
+            print(f"[{art['subtopic']}] {art['title_mn'] or art['title']}  ({art['ai'] or 'no AI'})")
             print(f"  url:   {art['url']}\n  image: {art['image'] or '-'}")
         else:
             store.save_article(art, data_dir)
@@ -191,7 +189,11 @@ def send(state: store.State, cfg: Config, dry_run: bool, ignore_hours: bool = Fa
                  cfg.send_hours_text, len(state.outbox))
         return 0
 
-    tg = Telegram(token, chat_id, dry_run)
+    tg = Telegram(token, chat_id, state.telegram, dry_run)
+    try:
+        tg.setup_topics(cfg)  # create forum topics for sections without a fixed thread id
+    except (TelegramRejected, TelegramFatalError) as exc:
+        log.warning("Telegram topic setup failed: %s", exc)
     base = site_url()
     sent, exit_code, done = 0, 0, 0
     remaining = list(state.outbox)

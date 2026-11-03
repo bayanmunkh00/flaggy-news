@@ -127,7 +127,9 @@ def enrich_item(session: requests.Session, item: Item) -> None:
     if image.startswith("//"):
         image = "https:" + image
     text = page.get("text") or ""
-    if len(text) < 200:
+    if item.source.type == "github_release":
+        text = item.summary  # the release notes in the feed beat the GitHub page text
+    elif len(text) < 200:
         text = "\n".join(t for t in (page.get("description", ""), item.summary, text) if t)
     item.extra.update({
         "url": url,

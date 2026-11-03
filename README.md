@@ -11,22 +11,27 @@ sources (config.yaml)
   → Telegram forum topics (photo + caption, 08:00-21:00 Mongolia time)
 ```
 
-Categories and Telegram topics (`config.yaml`):
+Sections (= Telegram topics) and what feeds them. Structure and the developer sources follow
+https://github.com/Bat3orig/ai-news-bot; the rest are flaggy-news's own.
 
-| Category | Topic | Sources |
+| Section | Subtopics (hashtags) | Sources |
 |---|---|---|
-| football | sport | Premier League + Champions League results with stats (ESPN) |
-| hacker | hacking | CISA KEV and NVD critical CVEs, security news, bug bounty writeups |
-| dota, cs2 | esport | r/DotA2; headlines on The MongolZ and BC.Game results |
-| trend | trend | Hacker News, Lobsters |
-| mongolia | mongolia | ikon.mn |
-| ai | ai | TechCrunch AI, Hugging Face, OpenAI |
+| AI | OpenAI, Gemini, Anthropic, xAI, Qwen, Kimi, AI DevTools, AI News | official blogs, Google News, GitHub releases, TechCrunch AI, Hugging Face |
+| Software | React, React Native, Next.js, NestJS, Tauri, Electron, Node.js, Vercel/Cloud, Packages | blogs, GitHub releases, JS/Node/React/Frontend weekly newsletters |
+| UI/UX | shadcn/ui, Tailwind, Motion, Design systems, CSS/Web | blogs, releases, Figma, Smashing, CSS-Tricks, web.dev |
+| GitHub | TypeScript/JS, Python, Rust | daily trending repos |
+| Vibe coding | Vibe coding | Simon Willison, Addy Osmani, Harper Reed, Builder.io, Cursor changelog |
+| Football | Premier League, Champions League | results with stats (ESPN) |
+| Hacking | CVE, Security news, Bug bounty | CISA KEV, NVD critical, security news and writeups |
+| Dota 2 / CS2 | Dota2, CS2 | r/DotA2; headlines on The MongolZ and BC.Game results |
+| Trend / Mongolia | Trending, Mongolia | Hacker News, Lobsters / ikon.mn |
 
 ## Layout
 
 | Path | Role |
 |---|---|
-| `config.yaml` | categories, topic ids, sources, block list, send hours |
+| `topics.yaml` | sections, subtopics (hashtags, keywords), Telegram topic ids, send hours, score threshold |
+| `sources.yaml` | all sources and the block list |
 | `main.py` | `prepare` (fetch/enrich/translate/save/outbox) and `send` (Telegram) |
 | `build_site.py` | static site from `data/articles` → `public/` |
 | `newsbot/` | `feeds`, `structured` (ESPN/CVE), `enrich`, `ai`, `telegram`, `store`, `config` |
@@ -36,7 +41,8 @@ Categories and Telegram topics (`config.yaml`):
 ## Setup
 
 1. **Bot and group:** create a bot with @BotFather, make a group, turn on Topics, add the bot as admin.
-   Put each topic's id into `config.yaml` (`thread:`). Get an id by copying a message link in the
+   Sections with a `thread:` in `topics.yaml` use that topic id; for the others the bot creates the
+   topic itself (it needs the **Manage Topics** admin right). Get an id by copying a message link in the
    topic: `t.me/c/<group>/<topic>/<message>`. The chat id is `-100<group>`.
 2. **Secrets** (repo → Settings → Secrets and variables → Actions):
 
@@ -59,8 +65,8 @@ Categories and Telegram topics (`config.yaml`):
 
 - **New source:** its current items are recorded silently; only later items are sent.
 - **Sending hours:** Telegram 08:00-21:00 UTC+8, at most 10 messages per run. Items found at night
-  wait in `state/outbox.json`. Change in `config.yaml → telegram`.
-- **Noise:** `block:` in `config.yaml` (publishers, title keywords), AI score below
+  wait in `state/outbox.json`. Change in `topics.yaml → telegram`.
+- **Noise:** `block:` in `sources.yaml` (publishers, title keywords), AI score below
   `filter.min_score`, near-identical headlines from the last 7 days, and the AI duplicate check.
 - **Duplicates:** items are remembered 30 days by id and by normalized URL.
 - GitHub's scheduled runs can be late or skipped; an external timer that calls
@@ -75,7 +81,9 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python build_site.py --data-dir /tmp/d --out /tmp/site
 ```
 
-Add a source: append to `sources:` in `config.yaml` (`name`, `category`, `url`; optional `limit`,
-`include`/`exclude` regex, `max_age_hours`, `ai_hint`).
+Add a source: append to `sources:` in `sources.yaml` (`name`, `url`, `subtopic`; optional `type`,
+`keywords`, `title_regex`, `exclude`, `skip_prereleases`, `limit`, `max_age_hours`, `ai_hint`, `block`).
+A source without `subtopic` is classified by the subtopic keywords in `topics.yaml`; items that match
+nothing are dropped. Add a subtopic in `topics.yaml`.
 
 Design ideas (outbox, send hours, AI scoring, site) follow https://github.com/Bat3orig/ai-news-bot.

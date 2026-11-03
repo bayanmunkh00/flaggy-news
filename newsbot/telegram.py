@@ -43,8 +43,8 @@ def _visible(text: str) -> int:
 
 def format_article(art: dict, cfg: Config, limit: int) -> str:
     """HTML message; `limit` is the visible-character budget (caption 1024 / text 4096)."""
-    cat = cfg.categories.get(art["category"])
-    header = f"{cat.emoji} <b>{_e(cat.name)}</b> · #{art['category']}\n" if cat else ""
+    sec, sub = cfg.sections.get(art.get("section", "")), cfg.subtopics.get(art.get("subtopic", ""))
+    header = f"{sec.emoji} <b>{_e(sec.name)}</b> · #{sub.hashtag}\n" if sec and sub else ""
     title = art.get("title_mn") or art["title"]
     body = "\n".join(art["lines"]) if art.get("lines") else \
         (art.get("summary_mn") or art.get("summary_en") or "")
@@ -68,11 +68,17 @@ def format_article(art: dict, cfg: Config, limit: int) -> str:
 
 
 class Telegram:
-    def __init__(self, token: str, chat_id: str, dry_run: bool = False):
+    def __init__(self, token: str, chat_id: str, state: dict, dry_run: bool = False):
         self.base = f"https://api.telegram.org/bot{token}/"
         self.chat_id = chat_id
         self.dry_run = dry_run
         self.session = requests.Session()
+        # state = State.telegram: {"chat_id": ..., "forum": bool, "threads": {section_id: topic id}}
+        if state.get("chat_id") != chat_id:
+            state.clear()
+            state["chat_id"] = chat_id
+        state.setdefault("threads", {})
+        self.state = state
 
     def call(self, method: str, payload: dict) -> dict:
         for attempt in range(1, RETRIES + 1):
@@ -102,6 +108,34 @@ class Telegram:
             time.sleep(SEND_DELAY * attempt)
         raise TelegramFatalError(f"Telegram {method} unavailable after retries")
 
+    def setup_topics(self, cfg: Config) -> None:
+        """Create forum topics for sections that have no fixed `thread` in topics.yaml."""
+        if self.dry_run:
+            return
+        chat = self.call("getChat", {"chat_id": self.chat_id})
+        self.state["forum"] = bool(chat.get("is_forum"))
+        if not self.state["forum"]:
+            return
+        for sec in cfg.sections.values():
+            if sec.thread or sec.id in self.state["threads"]:
+                continue
+            try:
+                topic = self.call("createForumTopic", {"chat_id": self.chat_id, "name": sec.name})
+            except TelegramRejected as exc:
+                log.warning("Could not create topic %r (the bot needs the Manage Topics right): %s",
+                            sec.name, exc)
+                continue
+            self.state["threads"][sec.id] = topic["message_thread_id"]
+            log.info("Created Telegram topic %r (thread %s)", sec.name, topic["message_thread_id"])
+
+    def thread_for(self, section_id: str, cfg: Config) -> int | None:
+        sec = cfg.sections.get(section_id)
+        if sec and sec.thread:
+            return sec.thread
+        if not self.state.get("forum"):
+            return None
+        return self.state["threads"].get(section_id)
+
     def send_text(self, text: str, thread: int | None = None, preview_url: str | None = None) -> None:
         if self.dry_run:
             print("-" * 60, f"\n[thread={thread}] {text}")
@@ -114,13 +148,13 @@ class Telegram:
         self.call("sendMessage", payload)
 
     def send_article(self, art: dict, cfg: Config) -> None:
-        cat = cfg.categories.get(art["category"])
-        thread = cat.thread if cat else None
+        thread = self.thread_for(art["section"], cfg)
         try:
             self._send_article(art, cfg, thread)
         except TelegramRejected as exc:
             if thread and "thread not found" in exc.description.lower():
-                log.warning("Topic %s for %s is gone; posting to General", thread, art["category"])
+                log.warning("Topic %s for %s is gone; posting to General", thread, art["section"])
+                self.state["threads"].pop(art["section"], None)  # re-created next run
                 self._send_article(art, cfg, None)
             else:
                 raise

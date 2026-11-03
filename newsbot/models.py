@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 
-from .config import Source
+from .config import Source, Subtopic
 
 
 @dataclass
@@ -13,6 +13,7 @@ class Item:
     link: str
     summary: str = ""                 # plain text from the feed
     published: datetime | None = None
+    subtopic: Subtopic | None = None
     keys: list[str] = field(default_factory=list)  # dedup keys; keys[0] is the item id
     publisher: str = ""               # Google News: original outlet
     feed_image: str = ""

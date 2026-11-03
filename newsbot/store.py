@@ -47,6 +47,7 @@ class State:
         self.sources: list[str] = list(seen.get("sources", []))
         self.seen: dict[str, str] = dict(seen.get("items", {}))
         self.outbox: list[dict] = read_json(state_dir / "outbox.json", [])
+        self.telegram: dict = read_json(state_dir / "telegram.json", {})  # {"threads": {section: id}}
 
     @property
     def first_run(self) -> bool:
@@ -70,6 +71,7 @@ class State:
         write_json(self.dir / "seen.json",
                    {"sources": sorted(self.sources), "items": dict(sorted(self.seen.items()))})
         write_json(self.dir / "outbox.json", self.outbox)
+        write_json(self.dir / "telegram.json", self.telegram)
 
 
 # --- articles: data/articles/YYYY/MM/DD/<id>.json -------------------------------------------

@@ -1,0 +1,122 @@
+# Sections and subtopics.
+#   section   = a Telegram forum topic (and a tab on the site)
+#   subtopic  = hashtag and site filter
+#
+# Section fields:  id, name, emoji, thread (Telegram topic id; omit and the bot creates the topic)
+# Subtopic fields: id (unique, used in URLs), name, hashtag, about (for the AI),
+#                  keywords (classify items from mixed sources; whole word, case-insensitive),
+#                  dedicated (true = only sources that name it get it; the AI never picks it)
+
+site:
+  title: "Flaggy News"
+  keep_days: 180          # delete saved articles older than this (0 = keep forever)
+
+telegram:
+  send_hours: [8, 21]     # only send between these local hours (items wait in state/outbox.json)
+  utc_offset: 8           # Mongolia
+  max_per_send: 10        # messages per run
+
+filter:
+  # AI usefulness score 1-5; items below this are dropped (needs an AI key; GitHub releases exempt).
+  min_score: 3
+
+sections:
+  # ------------------------------ developer news (from Bat3orig/ai-news-bot) ------------------------------
+  - id: ai
+    name: AI
+    emoji: "🤖"
+    thread: 8
+    subtopics:
+      - {id: ai-news, name: AI News, hashtag: AI, dedicated: true, about: "General AI news, research and products"}
+      - {id: openai, name: OpenAI, hashtag: OpenAI, keywords: [OpenAI, ChatGPT, GPT-5, GPT-6, Sora, Sam Altman], about: "OpenAI company, ChatGPT, GPT models, Sora, OpenAI API"}
+      - {id: gemini, name: Gemini, hashtag: Gemini, keywords: [Gemini, Google DeepMind, DeepMind, Gemma, NotebookLM, Google AI Studio], about: "Google Gemini models and apps, Google DeepMind, Gemma, Google AI products"}
+      - {id: anthropic, name: Anthropic, hashtag: Anthropic, keywords: [Anthropic, Claude], about: "Anthropic company and Claude models/apps"}
+      - {id: xai, name: xAI, hashtag: xAI, keywords: [xAI, Grok], about: "xAI company and Grok models"}
+      - {id: qwen, name: Qwen, hashtag: Qwen, keywords: [Qwen, Tongyi Qianwen], about: "Alibaba Qwen models"}
+      - {id: kimi, name: Kimi, hashtag: Kimi, keywords: [Kimi, Moonshot AI], about: "Moonshot AI and Kimi models"}
+      - {id: ai-devtools, name: AI DevTools, hashtag: AIDevTools, keywords: [GitHub Copilot, Copilot, Cursor, Claude Code, Codex, MCP, Model Context Protocol, Ollama, coding agent, AI agent, Windsurf, vibe coding, LLM], about: "AI tools for software developers: coding assistants/agents, Copilot, Claude Code, Codex, Cursor, MCP, local LLM runners, AI SDKs"}
+
+  - id: software
+    name: Software
+    emoji: "⚛️"
+    subtopics:
+      - {id: react, name: React, hashtag: React, keywords: [React, React 19, React 20, React Compiler, React Server Components], about: "React library (web)"}
+      - {id: react-native, name: React Native, hashtag: ReactNative, keywords: [React Native, Expo], about: "React Native and Expo mobile development"}
+      - {id: nextjs, name: Next.js, hashtag: NextJS, keywords: [Next.js, NextJS, Turbopack], about: "Next.js framework"}
+      - {id: nestjs, name: NestJS, hashtag: NestJS, keywords: [NestJS], about: "NestJS backend framework"}
+      - {id: tauri, name: Tauri, hashtag: Tauri, keywords: [Tauri], about: "Tauri desktop/mobile app framework"}
+      - {id: electron, name: Electron, hashtag: Electron, keywords: [Electron, ElectronJS], about: "Electron desktop app framework (not the physics particle)"}
+      - {id: node, name: Node.js, hashtag: NodeJS, keywords: [Node.js, NodeJS, npm], about: "Node.js runtime and npm ecosystem"}
+      - {id: vercel-cloud, name: Vercel/Cloud, hashtag: Vercel, keywords: [Vercel, Netlify, Cloudflare Workers, serverless, edge functions], about: "Vercel platform and frontend/serverless cloud hosting"}
+      - {id: packages, name: Packages, hashtag: Packages, keywords: [npm, pnpm, Yarn, Bun, Deno, Vite, Vitest, JSR, PyPI, crates.io], about: "Notable new or popular libraries, frameworks, runtimes and npm/PyPI/crates packages not covered by another subtopic"}
+
+  - id: uiux
+    name: UI/UX
+    emoji: "🎨"
+    subtopics:
+      - {id: shadcn, name: shadcn/ui, hashtag: shadcn, keywords: [shadcn, shadcn/ui], about: "shadcn/ui component collection"}
+      - {id: tailwind, name: Tailwind CSS, hashtag: TailwindCSS, keywords: [Tailwind, Tailwind CSS, TailwindCSS], about: "Tailwind CSS framework"}
+      - {id: motion, name: Motion, hashtag: Motion, keywords: [Framer Motion, motion.dev, Motion Studio], about: "Motion (formerly Framer Motion) animation library"}
+      - {id: design-systems, name: Design systems, hashtag: DesignSystems, keywords: [design system, design systems, design tokens, Figma, component library], about: "Design systems, design tokens, Figma, UI component libraries, UX design practice"}
+      - {id: css-web, name: CSS/Web platform, hashtag: CSS, keywords: [CSS, HTML, Web platform, Baseline, WebGPU, View Transitions, Interop], about: "CSS, HTML and new web platform/browser features"}
+
+  # Trending GitHub repositories. Only sources that name the subtopic feed it.
+  - id: github
+    name: GitHub
+    emoji: "🐙"
+    subtopics:
+      - {id: gh-js, name: TypeScript/JS, hashtag: TypeScript, dedicated: true, about: "Trending GitHub repositories written in TypeScript or JavaScript"}
+      - {id: gh-python, name: Python, hashtag: Python, dedicated: true, about: "Trending GitHub repositories written in Python"}
+      - {id: gh-rust, name: Rust, hashtag: Rust, dedicated: true, about: "Trending GitHub repositories written in Rust"}
+
+  - id: vibe
+    name: Vibe coding
+    emoji: "✨"
+    subtopics:
+      - {id: vibe-coding, name: Vibe coding, hashtag: VibeCoding, keywords: [vibe coding, vibe-coding, vibecoding, vibe coded, vibe-coded], about: "Practical use of AI coding tools (Claude Code, Cursor, Codex, Copilot agents): tips, workflows, prompts, how-tos for building software with AI"}
+
+  # ------------------------------ flaggy-news topics ------------------------------
+  - id: football
+    name: Football
+    emoji: "⚽"
+    thread: 4
+    subtopics:
+      - {id: premier-league, name: Premier League, hashtag: PremierLeague, dedicated: true, about: "Premier League match results with statistics"}
+      - {id: champions-league, name: Champions League, hashtag: ChampionsLeague, dedicated: true, about: "Champions League match results with statistics"}
+
+  - id: hacker
+    name: Hacking
+    emoji: "🕵️"
+    thread: 5
+    subtopics:
+      - {id: cve, name: CVE, hashtag: CVE, dedicated: true, about: "New critical or actively exploited vulnerabilities"}
+      - {id: security-news, name: Security news, hashtag: Security, dedicated: true, about: "Cybersecurity news: breaches, malware, attacks, research"}
+      - {id: bug-bounty, name: Bug bounty, hashtag: BugBounty, dedicated: true, about: "Bug bounty and vulnerability research writeups"}
+
+  - id: dota
+    name: Dota 2
+    emoji: "🎮"
+    thread: 3
+    subtopics:
+      - {id: dota2, name: Dota 2, hashtag: Dota2, dedicated: true, about: "Dota 2 patches, tournaments, pro scene and results. Memes and fan art are low value."}
+
+  - id: cs2
+    name: CS2
+    emoji: "🔫"
+    thread: 3
+    subtopics:
+      - {id: cs2, name: CS2, hashtag: CS2, dedicated: true, about: "Counter-Strike 2 match results of The MongolZ and BC.Game"}
+
+  - id: trend
+    name: Trend
+    emoji: "🔥"
+    thread: 6
+    subtopics:
+      - {id: tech-trend, name: Trending, hashtag: Trending, dedicated: true, about: "Trending technology and internet stories developers talk about"}
+
+  - id: mongolia
+    name: Mongolia
+    emoji: "🇲🇳"
+    thread: 7
+    subtopics:
+      - {id: mongolia-news, name: Mongolia, hashtag: Mongolia, dedicated: true, about: "News from Mongolia. Source text is already Mongolian."}

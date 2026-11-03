@@ -1,0 +1,206 @@
+# News sources. Sections and subtopics are defined in topics.yaml.
+#
+# Fields:
+#   name              (required) unique. Renaming = a new source: its current items are marked seen silently.
+#   url               RSS / Atom feed (not needed for espn / cisa_kev / nvd_critical)
+#   type              rss | github_release | google_news | espn | cisa_kev | nvd_critical   (default rss)
+#   subtopic          topics.yaml subtopic id. If set, every item goes there. If not set, items are
+#                     classified by topics.yaml keywords (limited to `section` if given) and items that
+#                     match nothing are dropped.
+#   section           restrict keyword classification to this section
+#   keywords          extra filter: the title or summary must contain one of these
+#   title_regex       only items whose title matches this regex
+#   exclude           drop items whose title matches this regex
+#   skip_prereleases  true = skip canary/alpha/beta/rc/nightly releases
+#   limit             take only the newest N new items per run (rest marked seen)
+#   max_age_hours     ignore items older than this (default 72)
+#   ai_hint           extra instruction for the AI about this source
+#   block             false = do not apply the block list below to this source
+#   enabled           false = switch off
+
+# Dropped before the AI sees them (saves tokens). Publishers match the outlet name or URL host;
+# keywords match whole words in the title. Case-insensitive.
+block:
+  publishers:
+    - orcarouter
+    - tech-insider
+    - shattered.io
+    - pillitteri
+    - biggo
+    - futunn
+    - 富途牛牛
+    - basenor
+    - linkedin
+    - cryptonews
+    - beincrypto
+    - cryptonomist
+    - forklog
+    - yellow.com
+    - decrypt.co
+    - 247wallst
+    - 24/7 wall st
+    - benzinga
+    - tradingview
+    - streetinsider
+    - seekingalpha
+    - seeking alpha
+    - indexbox
+    - globenewswire
+    - prnewswire
+    - pr newswire
+    - forkast
+    - dealroom
+    - casino
+    - coinpedia
+  keywords:
+    - price prediction
+    - XRP
+    - Bitcoin
+    - Ethereum
+    - Dogecoin
+    - Chainlink
+    - Solana
+    - crypto
+    - stock price
+    - stocks to buy
+    - IPO
+    - casino
+    - promo code
+    - airdrop
+    - betting tips
+
+sources:
+  # ======================= AI =======================
+  - {name: OpenAI News, url: "https://openai.com/news/rss.xml", subtopic: openai}
+  - {name: Google DeepMind, url: "https://deepmind.google/blog/rss.xml", subtopic: gemini}
+  - {name: Google AI Blog, url: "https://blog.google/technology/ai/rss/", subtopic: gemini}
+  - {name: Google Developers Blog, url: "https://developers.googleblog.com/feeds/posts/default", subtopic: gemini, keywords: [Gemini, Gemma, AI Studio, AI, agent, model]}
+  - {name: Anthropic (Google News), url: "https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en", type: google_news, subtopic: anthropic}
+  - {name: xAI (Google News), url: "https://news.google.com/rss/search?q=xAI+Grok&hl=en-US&gl=US&ceid=US:en", type: google_news, subtopic: xai}
+  - {name: Qwen (Google News), url: "https://news.google.com/rss/search?q=Qwen+Alibaba&hl=en-US&gl=US&ceid=US:en", type: google_news, subtopic: qwen}
+  - {name: Kimi (Google News), url: "https://news.google.com/rss/search?q=Kimi+Moonshot+AI&hl=en-US&gl=US&ceid=US:en", type: google_news, subtopic: kimi}
+  - {name: GitHub Changelog, url: "https://github.blog/changelog/feed/", subtopic: ai-devtools, keywords: [AI, Copilot, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, agent, model, MCP]}
+  - {name: GitHub Blog, url: "https://github.blog/feed/", subtopic: ai-devtools, keywords: [AI, Copilot, LLM, GPT, OpenAI, Gemini, Claude, Anthropic, agent, model, MCP]}
+  - {name: anthropics/claude-code, url: "https://github.com/anthropics/claude-code/releases.atom", type: github_release, subtopic: ai-devtools}
+  - {name: openai/codex, url: "https://github.com/openai/codex/releases.atom", type: github_release, subtopic: ai-devtools, skip_prereleases: true}
+  - {name: openai/openai-python, url: "https://github.com/openai/openai-python/releases.atom", type: github_release, subtopic: ai-devtools}
+  - {name: ollama/ollama, url: "https://github.com/ollama/ollama/releases.atom", type: github_release, subtopic: ai-devtools, skip_prereleases: true}
+  # general AI news (flaggy-news)
+  - {name: TechCrunch AI, url: "https://techcrunch.com/category/artificial-intelligence/feed/", subtopic: ai-news}
+  - {name: Hugging Face, url: "https://huggingface.co/blog/feed.xml", subtopic: ai-news}
+
+  # ===================== Software =====================
+  - {name: React Blog, url: "https://react.dev/rss.xml", subtopic: react}
+  - {name: facebook/react, url: "https://github.com/facebook/react/releases.atom", type: github_release, subtopic: react, skip_prereleases: true}
+  - {name: React Native Blog, url: "https://reactnative.dev/blog/rss.xml", subtopic: react-native}
+  - {name: facebook/react-native, url: "https://github.com/facebook/react-native/releases.atom", type: github_release, subtopic: react-native, skip_prereleases: true}
+  - {name: Expo Changelog, url: "https://expo.dev/changelog/rss.xml", subtopic: react-native}
+  - {name: Next.js Blog, url: "https://nextjs.org/feed.xml", subtopic: nextjs}
+  - {name: vercel/next.js, url: "https://github.com/vercel/next.js/releases.atom", type: github_release, subtopic: nextjs, skip_prereleases: true}
+  - {name: nestjs/nest, url: "https://github.com/nestjs/nest/releases.atom", type: github_release, subtopic: nestjs, skip_prereleases: true}
+  - {name: Tauri Blog, url: "https://tauri.app/blog/rss.xml", subtopic: tauri}
+  # tauri-apps/tauri publishes many packages; only the main "tauri vX" release
+  - {name: tauri-apps/tauri, url: "https://github.com/tauri-apps/tauri/releases.atom", type: github_release, subtopic: tauri, skip_prereleases: true, title_regex: "^tauri v"}
+  - {name: Electron Blog, url: "https://www.electronjs.org/blog/rss.xml", subtopic: electron}
+  - {name: electron/electron, url: "https://github.com/electron/electron/releases.atom", type: github_release, subtopic: electron, skip_prereleases: true}
+  - {name: Node.js Blog, url: "https://nodejs.org/en/feed/blog.xml", subtopic: node}
+  - {name: Vercel, url: "https://vercel.com/atom", subtopic: vercel-cloud}
+
+  # Weekly newsletters: new packages, frameworks, tools
+  - name: JavaScript Weekly
+    url: "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
+    subtopic: packages
+    ai_hint: &newsletter >-
+      Weekly newsletter issue. Write about the 3-5 most notable libraries, frameworks, packages,
+      tools and releases in it (what each is and why developers care), not about the newsletter.
+      title_mn names the main highlight(s). Score 4 unless the issue has nothing notable.
+  - {name: Node Weekly, url: "https://cprss.s3.amazonaws.com/nodeweekly.com.xml", subtopic: packages, ai_hint: *newsletter}
+  - {name: React Status, url: "https://cprss.s3.amazonaws.com/react.statuscode.com.xml", subtopic: packages, ai_hint: *newsletter}
+  - {name: Frontend Focus, url: "https://cprss.s3.amazonaws.com/frontendfoc.us.xml", subtopic: packages, ai_hint: *newsletter}
+
+  # ====================== UI/UX ======================
+  - {name: shadcn/ui, url: "https://ui.shadcn.com/rss.xml", subtopic: shadcn}
+  - {name: shadcn-ui/ui, url: "https://github.com/shadcn-ui/ui/releases.atom", type: github_release, subtopic: shadcn, skip_prereleases: true, title_regex: "^shadcn@"}
+  - {name: Tailwind CSS Blog, url: "https://tailwindcss.com/feeds/feed.xml", subtopic: tailwind}
+  - {name: tailwindlabs/tailwindcss, url: "https://github.com/tailwindlabs/tailwindcss/releases.atom", type: github_release, subtopic: tailwind, skip_prereleases: true}
+  - {name: Motion Blog, url: "https://motion.dev/blog/rss.xml", subtopic: motion}
+  - {name: motiondivision/motion, url: "https://github.com/motiondivision/motion/releases.atom", type: github_release, subtopic: motion, skip_prereleases: true}
+  - {name: Figma Blog, url: "https://www.figma.com/blog/feed/atom.xml", subtopic: design-systems}
+  - {name: Smashing Magazine, url: "https://www.smashingmagazine.com/feed/", section: uiux}
+  - {name: CSS-Tricks, url: "https://css-tricks.com/feed/", subtopic: css-web}
+  - {name: web.dev, url: "https://web.dev/static/blog/feed.xml", subtopic: css-web}
+  - {name: Chrome for Developers, url: "https://developer.chrome.com/static/blog/feed.xml", subtopic: css-web}
+
+  # ====================== GitHub trending ======================
+  # Daily trending repos (RSS of github.com/trending). limit = new repos per run per feed.
+  - name: GitHub Trending TypeScript
+    url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/typescript.xml"
+    subtopic: gh-js
+    limit: 2
+    ai_hint: &trending >-
+      Trending GitHub repository (title = owner/name, text = its description and README).
+      Introduce it: what it does, key features, tech stack, who it is for and how to try it.
+      title_mn: "<repo name>: <what it does>".
+  - {name: GitHub Trending JavaScript, url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/javascript.xml", subtopic: gh-js, limit: 2, ai_hint: *trending}
+  - {name: GitHub Trending Python, url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml", subtopic: gh-python, limit: 3, ai_hint: *trending}
+  - {name: GitHub Trending Rust, url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/rust.xml", subtopic: gh-rust, limit: 3, ai_hint: *trending}
+
+  # ==================== Vibe coding ====================
+  # Usage-side content: tips, workflows, how-tos (not business news)
+  - name: Simon Willison
+    url: "https://simonwillison.net/atom/entries/"
+    subtopic: vibe-coding
+    ai_hint: &vibe >-
+      Vibe coding topic: practical knowledge for people building software with AI tools
+      (tips, workflows, prompts, how-tos, new features of AI coding tools and how to use them).
+      Score 4-5 for that; general AI/model news, business or opinion without practical takeaways
+      gets 2. In body_mn focus on what the reader can try.
+  - {name: Addy Osmani, url: "https://addyo.substack.com/feed", subtopic: vibe-coding, ai_hint: *vibe}
+  - {name: Harper Reed, url: "https://harper.blog/index.xml", subtopic: vibe-coding, ai_hint: *vibe}
+  - {name: Builder.io Blog, url: "https://www.builder.io/blog/feed.xml", subtopic: vibe-coding, ai_hint: *vibe}
+  - {name: Cursor Changelog, url: "https://cursor.com/changelog/rss.xml", subtopic: vibe-coding, ai_hint: *vibe}
+
+  # ======================= Football =======================
+  - {name: ESPN Premier League, type: espn, subtopic: premier-league, league: eng.1, league_name: Premier League, block: false}
+  - {name: ESPN Champions League, type: espn, subtopic: champions-league, league: uefa.champions, league_name: Champions League, block: false}
+
+  # ======================= Hacking =======================
+  - {name: CISA KEV, type: cisa_kev, subtopic: cve, block: false}
+  - {name: NVD critical CVEs, type: nvd_critical, subtopic: cve, block: false}
+  - {name: BleepingComputer, url: "https://www.bleepingcomputer.com/feed/", subtopic: security-news, block: false}
+  - {name: The Hacker News, url: "https://feeds.feedburner.com/TheHackersNews", subtopic: security-news, block: false}
+  - {name: Krebs on Security, url: "https://krebsonsecurity.com/feed/", subtopic: security-news, block: false}
+  - {name: PortSwigger Research, url: "https://portswigger.net/research/rss", subtopic: bug-bounty, max_age_hours: 168, block: false}
+  - {name: GitHub Security, url: "https://github.blog/security/feed/", subtopic: security-news, max_age_hours: 168, block: false}
+  - {name: Project Zero, url: "https://googleprojectzero.blogspot.com/feeds/posts/default", subtopic: bug-bounty, max_age_hours: 168, block: false}
+  - name: Medium bug bounty
+    url: "https://medium.com/feed/tag/bug-bounty"
+    subtopic: bug-bounty
+    block: false
+    ai_hint: &writeup "Bug bounty writeup. Keep real vulnerability writeups; drop beginner listicles, career advice and ads."
+  - {name: Medium bug bounty writeup, url: "https://medium.com/feed/tag/bug-bounty-writeup", subtopic: bug-bounty, block: false, ai_hint: *writeup}
+  - {name: InfoSec Write-ups, url: "https://infosecwriteups.com/feed", subtopic: bug-bounty, block: false, ai_hint: *writeup}
+
+  # ======================= Dota 2 / CS2 =======================
+  - {name: r/DotA2, url: "https://www.reddit.com/r/DotA2/top/.rss?t=day", subtopic: dota2, limit: 3, ai_hint: "Reddit top posts. Keep patch notes, tournament news and results; drop memes."}
+  - name: CS2 The MongolZ
+    type: google_news
+    subtopic: cs2
+    url: "https://news.google.com/rss/search?q=%22The+MongolZ%22+CS2+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen"
+    title_regex: "(?=.*mongolz)(?=.*(beat|defeat|win|won|wins|lose|loses|lost|advance|eliminat|upset|sweep|knock|conquer|survive|qualif|crash out|dispatch|\\d\\s?[-–:]\\s?\\d))"
+    exclude: "chess|pubg|vrs|prediction|odds|betting|casino|sign|bench|coach|rank|price"
+    block: false
+    ai_hint: "Keep only articles reporting a finished CS2 match result of The MongolZ."
+  - name: CS2 BC.Game
+    type: google_news
+    subtopic: cs2
+    url: "https://news.google.com/rss/search?q=%22BC.Game%22+%28CS2+OR+%22Counter-Strike%22+OR+s1mple%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen"
+    title_regex: "(?=.*(bc\\.game|s1mple))(?=.*(beat|defeat|win|won|wins|lose|loses|lost|advance|eliminat|upset|sweep|knock|conquer|survive|qualif|crash out|dispatch|\\d\\s?[-–:]\\s?\\d))"
+    exclude: "chess|pubg|vrs|prediction|odds|betting|casino|sign|bench|coach|rank|price"
+    block: false
+    ai_hint: "Keep only articles reporting a finished CS2 match result of BC.Game."
+
+  # ======================= Trend / Mongolia =======================
+  - {name: Hacker News, url: "https://hnrss.org/frontpage?points=100", subtopic: tech-trend, limit: 8, block: false}
+  - {name: Lobsters, url: "https://lobste.rs/rss", subtopic: tech-trend, limit: 5, block: false}
+  - {name: ikon.mn, url: "https://ikon.mn/rss", subtopic: mongolia-news, limit: 10, block: false}

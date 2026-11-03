@@ -33,8 +33,10 @@ AI_TIMEOUT = 180
 SYSTEM_TEMPLATE = """You are the editor of a Mongolian-language news channel. You receive news items as
 JSON. For EVERY item return one object with the same "id":
 
-- relevant: true if the item really belongs to its "category" (see the list below). false if it
-  matched only by coincidence, is spam, or is clearly off-topic.
+- relevant: true if the item really is about one of its "subtopic_options" (see the list below).
+  false if it matched only by coincidence (e.g. "Electron" the particle), is spam, or is clearly
+  off-topic. Items with a single option come from a dedicated source: keep them true unless clearly
+  unrelated.
 - duplicate: true if the item reports the same event, announcement or story as a headline in
   "already_published" ("date: headline", up to a week old) or as an EARLIER item in this batch.
   It IS a duplicate when another outlet reports it, when it appears days later, when the wording
@@ -47,6 +49,7 @@ JSON. For EVERY item return one object with the same "id":
   3 = ordinary but relevant news
   2 = marginal: business chatter, opinion, listicles, memes, beginner tutorials, gossip
   1 = spam, ads, SEO, unrelated. Use 1 when relevant is false.
+- subtopic: exactly one id from that item's "subtopic_options".
 - title_mn: a natural Mongolian headline (Cyrillic), at most 110 characters.
 - summary_mn: 2-3 sentences, at most 320 characters: the key news for a Telegram post.
 - body_mn: 3-5 short paragraphs (150-300 words): what happened, the important details and numbers,
@@ -61,9 +64,9 @@ Rules:
 - Use only facts from the provided text. Do not invent numbers, dates, quotes or features.
 - If the text is thin (only a headline), keep body_mn to 1-2 paragraphs stating what is known.
 - Respond with JSON only: {{"items": [{{"id": ..., "relevant": ..., "duplicate": ..., "score": ...,
-  "title_mn": ..., "summary_mn": ..., "body_mn": ...}}]}}.
+  "subtopic": ..., "title_mn": ..., "summary_mn": ..., "body_mn": ...}}]}}.
 
-Categories:
+Subtopics:
 {taxonomy}"""
 
 
@@ -76,7 +79,8 @@ class QuotaError(ProviderError):
 
 
 def _taxonomy(cfg: Config) -> str:
-    return "\n".join(f"- {c.id}: {c.name}. {c.about}" for c in cfg.categories.values())
+    return "\n".join(f"- {s.id}: {s.name} ({s.section.name}) — {s.about}"
+                     for s in cfg.subtopics.values())
 
 
 def _related(items: list[Item], past: list[tuple[str, str]]) -> list[str]:
@@ -100,13 +104,21 @@ def _related(items: list[Item], past: list[tuple[str, str]]) -> list[str]:
     return [f"{past[i][0]}: {past[i][1]}" for i in sorted(picked)]
 
 
-def _payload(items: list[Item], already: list[str]) -> str:
+def _payload(items: list[Item], cfg: Config, already: list[str]) -> str:
     rows = []
     for it in items:
+        if it.source.subtopic:
+            options = [it.source.subtopic]
+        else:  # mixed source: any non-dedicated subtopic (inside its section, if limited)
+            options = [s.id for s in cfg.subtopics.values()
+                       if not s.dedicated and (not it.source.section or s.section.id == it.source.section)]
+            if it.subtopic and it.subtopic.id in options:  # keyword guess goes first
+                options.remove(it.subtopic.id)
+                options.insert(0, it.subtopic.id)
         row = {
-            "id": it.id, "category": it.source.category,
-            "source": it.publisher or it.source.name,
+            "id": it.id, "source": it.publisher or it.source.name,
             "title": it.title, "text": it.extra.get("text") or it.summary,
+            "subtopic_options": options,
         }
         if it.source.ai_hint:
             row["editor_note"] = it.source.ai_hint
@@ -179,7 +191,7 @@ def provider_chain() -> list[tuple[str, str]]:
 
 # --- public API --------------------------------------------------------------------------------
 
-def _parse(text: str, expected: set[str]) -> dict[str, dict]:
+def _parse(text: str, expected: set[str], cfg: Config) -> dict[str, dict]:
     text = text.strip()
     if text.startswith("```"):
         text = text.strip("`").removeprefix("json").strip()
@@ -191,6 +203,8 @@ def _parse(text: str, expected: set[str]) -> dict[str, dict]:
         if not all(isinstance(row.get(k), str) and row[k].strip()
                    for k in ("title_mn", "summary_mn", "body_mn")):
             continue
+        if row.get("subtopic") not in cfg.subtopics:
+            row["subtopic"] = ""
         row["relevant"] = row.get("relevant") is not False
         row["duplicate"] = row.get("duplicate") is True
         try:
@@ -225,8 +239,8 @@ def translate(items: list[Item], cfg: Config, recent: list[tuple[str, str]]) -> 
                 continue
             try:
                 already = _related(pending, recent) + [f"{today}: {t}" for t in kept]
-                text = PROVIDERS[name][0](model, system, _payload(pending, already))
-                got = _parse(text, {it.id for it in pending})
+                text = PROVIDERS[name][0](model, system, _payload(pending, cfg, already))
+                got = _parse(text, {it.id for it in pending}, cfg)
             except QuotaError as exc:
                 log.warning("AI %s:%s quota/rate limit, falling back: %s", name, model, exc)
                 exhausted.add((name, model))

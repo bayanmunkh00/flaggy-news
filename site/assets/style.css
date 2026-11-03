@@ -25,6 +25,7 @@ a { color: inherit; text-decoration: none; }
 .cats { display: flex; gap: 8px; overflow-x: auto; padding: 0 16px 12px; max-width: 1000px; margin: 0 auto; }
 .cats a { white-space: nowrap; padding: 4px 12px; border: 1px solid var(--line); border-radius: 999px;
   background: var(--surface); font-size: 14px; }
+.sub { color: var(--tag-text); }
 .cats small { color: var(--muted); }
 main { max-width: 1000px; margin: 0 auto; padding: 0 16px 48px; }
 .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
