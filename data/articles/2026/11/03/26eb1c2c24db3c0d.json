@@ -1,0 +1,19 @@
+{
+ "id": "26eb1c2c24db3c0d",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Krebs on Security",
+ "source_label": "Krebs on Security",
+ "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+ "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/xcpe-map.png",
+ "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+ "summary_en": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T02:24:31Z",
+ "added": "2026-11-03T03:11:16Z",
+ "ai": "",
+ "score": null
+}
