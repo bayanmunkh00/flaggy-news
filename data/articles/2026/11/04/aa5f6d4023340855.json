@@ -1,0 +1,19 @@
+{
+ "id": "aa5f6d4023340855",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+ "image": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp",
+ "title": "Re-Implementing :nth-child() With Modern CSS",
+ "summary_en": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements. Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "lines": [],
+ "title_mn": "Орчин үеийн CSS ашиглан :nth-child() функцэд өөрчлөлт оруулах нь",
+ "summary_mn": "Орчин үеийн CSS болон style queries ашиглан :nth-child() сонгогчийг динамикаар дахин хэрэгжүүлэх боломж болон шинэ арга техникийг тайлбарлав.",
+ "body_mn": "CSS хэлний шинэ боломжууд болох style() болон if() синтакс ашиглан :nth-child() сонгогчийг хэрхэн дахин бүтээж болохыг энэхүү нийтлэлд дэлгэрэнгүй тайлбарлажээ. Үндсэн зорилго нь хувьсагч ашиглан элементийн индекцийг динамикаар өөрчлөх боломжийг бүрдүүлэх явдал юм.\n\nЗохиогч энэхүү арга нь кодын хувьд арай илүү төвөгтэй санагдаж болох ч шинэ боломжуудыг туршиж үзэх, суралцах сайхан боломж гэдгийг онцолсон байна. Тухайлбал mod() функц болон харьцуулалтын операторууд ашиглан тодорхой элементүүдийг сонгох боломжтой ажээ.\n\nЭнэхүү арга нь хэдийгээр өдөр тутмын хөгжүүлэлтэд байнга ашиглагдаад байхгүй ч вэб хөгжүүлэгчдэд CSS-ийн шинэ боломжуудыг гүнзгийрүүлэн ойлгоход туслах юм.",
+ "published": "2026-11-03T14:50:32Z",
+ "added": "2026-11-04T16:32:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

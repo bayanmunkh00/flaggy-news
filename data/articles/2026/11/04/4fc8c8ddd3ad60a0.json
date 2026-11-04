@@ -1,0 +1,19 @@
+{
+ "id": "4fc8c8ddd3ad60a0",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg",
+ "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+ "summary_en": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+ "lines": [],
+ "title_mn": "Британийн сургуулиудад хиймэл оюун ашигласан байж болзошгүй 3AM ransomware халдлаг",
+ "summary_mn": "Британийн сургуулийн сүлжээнд 3AM ransomware халдлага гарч, хиймэл оюун ухааны автоматжуулсан агент ашигласан байж болзошгүйг судлагчид тогтоожээ.",
+ "body_mn": "Британийн сургуулийн цахим сүлжээнд 3AM ransomware бүлгийн халдлага гарч, удирдлагагүй хостоос 50 шахам машины 37-г нь амжилттай шифрлэжээ. Bitdefender компанийн судлаачдын үзэж байгаагаар халдлага үйлдэгч нь хиймэл оюун ухаанаар үүсгэсэн команцууд болон автомат агент ашигласан байж болзошгүй байна.\n\nХалдлага үйлдэгч нь тодорхой интервалтайгаар бага зэрэг өөрчлөгдсөн командуудыг дараалан өгсөн нь агентын үйл ажиллагааг санагдуулж байжээ. Тэд PowerShell хэрэгсэл ашиглан итгэмжлэлүүдийг олж авч, Veeam болон Chrome мэдээллийн сан руу нэвтэрсэн байна. Мөн сүлжээний админ эрхтэй хуурамч эрх үүсгэж, хамгаалалтын программ хангамжуудыг устгахыг оролджээ.\n\nЭнэхүү халдлага нь ransomware бүлгүүд хиймэл оюун ухааны хэрэгслийг үйл ажиллагаандаа идэвхтэй ашиглаж эхэлснийг харуулж байна. Британийн Үндэсний кибер аюулгүй байдлын төвөөс чухал дэд бүтцүүдийг ийм төрлийн эрсдэлээс урьдчилан сэргийлэхийг уриалжээ.",
+ "published": "2026-11-03T14:00:00Z",
+ "added": "2026-11-04T16:32:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

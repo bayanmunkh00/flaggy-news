@@ -1,0 +1,19 @@
+{
+ "id": "7a78f5e71c17f185",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/Barracuda.jpg",
+ "title": "Barracuda warns of critical flaws allowing root access to devices",
+ "summary_en": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T15:06:16Z",
+ "added": "2026-11-04T16:32:15Z",
+ "ai": "",
+ "score": null
+}

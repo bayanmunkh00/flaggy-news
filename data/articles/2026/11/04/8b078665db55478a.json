@@ -1,0 +1,19 @@
+{
+ "id": "8b078665db55478a",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+ "image": "https://www.bleepstatic.com/content/posts/2026/10/28/future-soc-roles-header.jpg",
+ "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+ "summary_en": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
+ "lines": [],
+ "title_mn": "Gartner: 2028 он гэхэд SOC багуудад шинжээчдээс илүү инженерүүд ажиллана",
+ "summary_mn": "Хиймэл оюун ухаанд суурилсан аюулгүй байдлын үйл ажиллагааны төвүүдэд 2028 он гэхэд инженерүүдийн тоо шинжээчдээс 50 хувиар илүү байх ажээ.",
+ "body_mn": "Gartner компанийн шинэ тайланд дурдсанаар 2028 он гэхэд кибер аюулгүй байдлын үйл ажиллагааны төвүүдэд (SOC) ажиллагсдын бүтцэд өөрчлөлт орж, систем бүтээх, тохируулах инженерүүдийн тоо анхааруулга шалгах шинжээчдээс 50 хувиар олон болох ажээ.\n\nУчир нь хиймэл оюун ухааны агентууд ердийн болон давтагдсан анхааруулга боловсруулах ажлыг автоматаар гүйцэтгэх болсноор хүний хийх ажил өөрчлөгдөж байна. Шинжээчид энгийн анхааруулга шалгахаас илүүтэйгээр кейсийг бүрэн хянах, хариу арга хэмжээ авахад анхаарлаа хандуулах юм.\n\nЭнэхүү өөрчлөлт нь аюулгүй байдлын багийн хэмжээг багасгахгүй бөгөөд харин ажилтнуудыг илүү дэвшилтэт илрүүлэлтийн инженерчлэл болон эрсдэлийн удирдлагын чиглэлд шилжүүлэх боломжийг олгоно гэж тайланд онцолжээ.",
+ "published": "2026-11-03T15:00:10Z",
+ "added": "2026-11-04T16:32:15Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

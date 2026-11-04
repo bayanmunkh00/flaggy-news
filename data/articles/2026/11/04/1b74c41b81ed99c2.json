@@ -1,0 +1,19 @@
+{
+ "id": "1b74c41b81ed99c2",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@0xCaptainFahim/exploiting-trust-dom-clobbering-to-same-origin-script-execution-in-intigritis-registry-61dffe119c69?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1753/1*z_0WOsXTFUE4JwyEuNQklg.png",
+ "title": "“Exploiting Trust: DOM Clobbering to Same-Origin Script Execution in Intigriti’s Registry…",
+ "summary_en": "Author: Md. Fahim Shakil Chowdhury Target: Intigriti BRP Challenge 1026 challenge-brp.challenges.intigriti.io Vulnerability Class… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T15:01:37Z",
+ "added": "2026-11-04T16:32:15Z",
+ "ai": "",
+ "score": null
+}

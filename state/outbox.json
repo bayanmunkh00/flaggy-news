@@ -882,5 +882,115 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4fc8c8ddd3ad60a0",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "BleepingComputer",
+   "source_label": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg",
+   "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+   "summary_en": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+   "lines": [],
+   "title_mn": "Британийн сургуулиудад хиймэл оюун ашигласан байж болзошгүй 3AM ransomware халдлаг",
+   "summary_mn": "Британийн сургуулийн сүлжээнд 3AM ransomware халдлага гарч, хиймэл оюун ухааны автоматжуулсан агент ашигласан байж болзошгүйг судлагчид тогтоожээ.",
+   "body_mn": "Британийн сургуулийн цахим сүлжээнд 3AM ransomware бүлгийн халдлага гарч, удирдлагагүй хостоос 50 шахам машины 37-г нь амжилттай шифрлэжээ. Bitdefender компанийн судлаачдын үзэж байгаагаар халдлага үйлдэгч нь хиймэл оюун ухаанаар үүсгэсэн команцууд болон автомат агент ашигласан байж болзошгүй байна.\n\nХалдлага үйлдэгч нь тодорхой интервалтайгаар бага зэрэг өөрчлөгдсөн командуудыг дараалан өгсөн нь агентын үйл ажиллагааг санагдуулж байжээ. Тэд PowerShell хэрэгсэл ашиглан итгэмжлэлүүдийг олж авч, Veeam болон Chrome мэдээллийн сан руу нэвтэрсэн байна. Мөн сүлжээний админ эрхтэй хуурамч эрх үүсгэж, хамгаалалтын программ хангамжуудыг устгахыг оролджээ.\n\nЭнэхүү халдлага нь ransomware бүлгүүд хиймэл оюун ухааны хэрэгслийг үйл ажиллагаандаа идэвхтэй ашиглаж эхэлснийг харуулж байна. Британийн Үндэсний кибер аюулгүй байдлын төвөөс чухал дэд бүтцүүдийг ийм төрлийн эрсдэлээс урьдчилан сэргийлэхийг уриалжээ.",
+   "published": "2026-11-03T14:00:00Z",
+   "added": "2026-11-04T16:32:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "aa5f6d4023340855",
+   "section": "uiux",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+   "image": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp",
+   "title": "Re-Implementing :nth-child() With Modern CSS",
+   "summary_en": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements. Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "lines": [],
+   "title_mn": "Орчин үеийн CSS ашиглан :nth-child() функцэд өөрчлөлт оруулах нь",
+   "summary_mn": "Орчин үеийн CSS болон style queries ашиглан :nth-child() сонгогчийг динамикаар дахин хэрэгжүүлэх боломж болон шинэ арга техникийг тайлбарлав.",
+   "body_mn": "CSS хэлний шинэ боломжууд болох style() болон if() синтакс ашиглан :nth-child() сонгогчийг хэрхэн дахин бүтээж болохыг энэхүү нийтлэлд дэлгэрэнгүй тайлбарлажээ. Үндсэн зорилго нь хувьсагч ашиглан элементийн индекцийг динамикаар өөрчлөх боломжийг бүрдүүлэх явдал юм.\n\nЗохиогч энэхүү арга нь кодын хувьд арай илүү төвөгтэй санагдаж болох ч шинэ боломжуудыг туршиж үзэх, суралцах сайхан боломж гэдгийг онцолсон байна. Тухайлбал mod() функц болон харьцуулалтын операторууд ашиглан тодорхой элементүүдийг сонгох боломжтой ажээ.\n\nЭнэхүү арга нь хэдийгээр өдөр тутмын хөгжүүлэлтэд байнга ашиглагдаад байхгүй ч вэб хөгжүүлэгчдэд CSS-ийн шинэ боломжуудыг гүнзгийрүүлэн ойлгоход туслах юм.",
+   "published": "2026-11-03T14:50:32Z",
+   "added": "2026-11-04T16:32:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8b078665db55478a",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "BleepingComputer",
+   "source_label": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+   "image": "https://www.bleepstatic.com/content/posts/2026/10/28/future-soc-roles-header.jpg",
+   "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+   "summary_en": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
+   "lines": [],
+   "title_mn": "Gartner: 2028 он гэхэд SOC багуудад шинжээчдээс илүү инженерүүд ажиллана",
+   "summary_mn": "Хиймэл оюун ухаанд суурилсан аюулгүй байдлын үйл ажиллагааны төвүүдэд 2028 он гэхэд инженерүүдийн тоо шинжээчдээс 50 хувиар илүү байх ажээ.",
+   "body_mn": "Gartner компанийн шинэ тайланд дурдсанаар 2028 он гэхэд кибер аюулгүй байдлын үйл ажиллагааны төвүүдэд (SOC) ажиллагсдын бүтцэд өөрчлөлт орж, систем бүтээх, тохируулах инженерүүдийн тоо анхааруулга шалгах шинжээчдээс 50 хувиар олон болох ажээ.\n\nУчир нь хиймэл оюун ухааны агентууд ердийн болон давтагдсан анхааруулга боловсруулах ажлыг автоматаар гүйцэтгэх болсноор хүний хийх ажил өөрчлөгдөж байна. Шинжээчид энгийн анхааруулга шалгахаас илүүтэйгээр кейсийг бүрэн хянах, хариу арга хэмжээ авахад анхаарлаа хандуулах юм.\n\nЭнэхүү өөрчлөлт нь аюулгүй байдлын багийн хэмжээг багасгахгүй бөгөөд харин ажилтнуудыг илүү дэвшилтэт илрүүлэлтийн инженерчлэл болон эрсдэлийн удирдлагын чиглэлд шилжүүлэх боломжийг олгоно гэж тайланд онцолжээ.",
+   "published": "2026-11-03T15:00:10Z",
+   "added": "2026-11-04T16:32:15Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1b74c41b81ed99c2",
+   "section": "hacker",
+   "subtopic": "bug-bounty",
+   "source": "Medium bug bounty writeup",
+   "source_label": "Medium bug bounty writeup",
+   "url": "https://medium.com/@0xCaptainFahim/exploiting-trust-dom-clobbering-to-same-origin-script-execution-in-intigritis-registry-61dffe119c69?source=rss------bug_bounty_writeup-5",
+   "image": "https://cdn-images-1.medium.com/max/1753/1*z_0WOsXTFUE4JwyEuNQklg.png",
+   "title": "“Exploiting Trust: DOM Clobbering to Same-Origin Script Execution in Intigriti’s Registry…",
+   "summary_en": "Author: Md. Fahim Shakil Chowdhury Target: Intigriti BRP Challenge 1026 challenge-brp.challenges.intigriti.io Vulnerability Class… Continue reading on Medium »",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-03T15:01:37Z",
+   "added": "2026-11-04T16:32:15Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7a78f5e71c17f185",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "BleepingComputer",
+   "source_label": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/Barracuda.jpg",
+   "title": "Barracuda warns of critical flaws allowing root access to devices",
+   "summary_en": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-03T15:06:16Z",
+   "added": "2026-11-04T16:32:15Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]
