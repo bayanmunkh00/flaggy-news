@@ -2,226 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "e945a2ba13ab3074",
-   "section": "ai",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "X",
-   "url": "https://x.com/MarioNawfal/status/2117519648459829354/video/1",
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2117487531633565696/img/pjRZuxXJwFM6nV61?format=webp&name=large",
-   "title": "One press of your iPhone's Action Button and Grok can SEE what you're looking at. That's pretty damn useful. Watching a video, reading an article, or scrolling through 𝕏? Grok can analyse what's on your screen and answer questions about it. No more taking s",
-   "summary_en": "One press of your iPhone's Action Button and Grok can SEE what you're looking at. That's pretty damn useful. Watching a video, reading an article, or scrolling through 𝕏? Grok can analyse what's on your screen and answer questions about it. No more taking s X",
-   "lines": [],
-   "title_mn": "iPhone-ий Action Button товчлуураар Grok шууд дэлгэц харах боломжтой болжээ",
-   "summary_mn": "iPhone гар утсанд Action Button товчлуурыг нэг удаа дарснаар Grok туслах таны дэлгэцэн дээр юу гарч байгааг шууд шинжилж, асуултад хариулах боломжтой боллоо.",
-   "body_mn": "xAI компанийн Grok хиймэл оюун ухааны туслах хэрэглэгчдэд илүү хялбар байдлаар ашиглагдах шинэ боломжийг нээжээ. iPhone утсанд байрлах Action Button товчлуурыг нэг удаа дарснаар Grok дэлгэцэн дээр юу харагдаж байгааг шууд харах боломжтой болсон байна.\n\nЭнэхүү шинэ функц нь видео үзэх, нийтлэг унших эсвэл олон нийтийн сүлжээгээр аялах үед дэлгэцэн дээрх мэдээлэлд шууд дүн шинжилгээ хийж, асуултад хариулах чадвартай юм. Ингэснээр хэрэглэгчид дэлгэцийн зургийг авч, бусад руу хуулах шаардлагагүйгээр цаг хугацааг ихээхэн хэмнэх юм.\n\nТехнологийн салбарт энэ мэтчилэн хиймэл оюун ухааныг гар утасны үйлдлийн системтэй гүнзгий нэгтгэх хандлага эрчимтэй хөгжиж байгаа бөгөөд хэрэглэгчдийн бүтээмжийг нэмэгдүүлэхэд чухал алхам болж байна.",
-   "published": "2026-11-03T07:30:00Z",
-   "added": "2026-11-03T09:58:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c1f55cef4f334ab2",
-   "section": "mongolia",
-   "subtopic": "mongolia-news",
-   "source": "ikon.mn",
-   "source_label": "ikon.mn",
-   "url": "https://ikon.mn/n/3rgt",
-   "image": "https://content.ikon.mn/news/2026/11/3/aw7pyg_Niitlel-06_x974.jpg",
-   "title": "Монгол хэлтэй AI оператор: Үйлчилгээний салбарт юу өөрчлөх вэ?",
-   "summary_en": "Хиймэл оюун ухаан одоо Монгол хэлээр хэрэглэгчийн дуудлагад хариулж, яриаг бичвэр болгон хөрвүүлж, мэдээлэлд дүн шинжилгээ хийж чаддаг боллоо. Энэ нь үйлчилгээний байгууллагуудад зардлаа бууруулж, үйлчилгээгээ сайжруулах бодит боломж олгож байна. Харин AI хүнийг орлох уу, эсвэл ажлыг нь хөнгөвчлөх үү гэдэг нь байгууллагууд технологийг хэрхэн ашиглахаас хамаарна. MongolGPT нь TelcoCom-той хамтран дуудлагын төв болон үйлчилгээний байгууллагуудад зориулсан Монгол хэлтэй AI шийдлүүдийг санал болгож байна. AI оператор: 24 цаг ажилладаг, дараалалгүй үйлчилгээ Дуудлагын төв нь хэрэглэгчтэй харилцах…",
-   "lines": [],
-   "title_mn": "Монгол хэлтэй AI оператор үйлчилгээний салбарт ямар өөрчлөлт авчрах вэ?",
-   "summary_mn": "MongolGPT болон TelcoCom компаниуд хамтран үйлчилгээний байгууллагуудад зориулсан Монгол хэлтэй AI оператор шийдлийг нэвтрүүлж байна. Энэ нь дуудлагын төвийн ачааллыг бууруулж, зардлыг 40 хувь хүртэл хэмнэх боломжтой.",
-   "body_mn": "Хиймэл оюун ухаан одоо Монгол хэлээр хэрэглэгчийн дуудлагад хариулж, яриаг бичвэр болгон хөрвүүлж, мэдээлэлд дүн шинжилгээ хийдэг болжээ. Энэ нь үйлчилгээний байгууллагуудад зардлаа бууруулах, үйлчилгээний чанараа сайжруулах бодит боломж олгож байна. MongolGPT нь TelcoCom-той хамтран дуудлагын төв болон үйлчилгээний байгууллагуудад зориулсан Монгол хэлтэй хиймэл оюун ухааны шийдлүүдийг санал болгож байна.\n\nУламжлалт дуудлагын төвүүд нь ачаалалтай үеийн дараалал, шөнийн цагийн үйлчилгээ болон ажилтны тогтвортой байдал зэрэг олон асуудалтай тулгардаг. Харин AI оператор нь Facebook, Instagram, имэйл болон утасны дуудлага зэрэг сувгуудтай холбогдож, 24 цагийн турш Монгол хэлээр ямар ч дараалал үүсгэлгүйгээр хариулах чадвартай юм.\n\nТооцоолсноор, 10 оператортой дуудлагын төвийн хувьд жилд ойролцоогоор 175 сая төгрөг буюу 40 орчим хувийг хэмнэх боломжтой байна. Мөн байгууллагынхаа дотоод GPU сервер дээр уг системийг суулгах боломжтой тул хэрэглэгчийн мэдээллийн аюулгүй байдал бүрэн хангагдах юм.",
-   "published": "2026-11-03T07:33:00Z",
-   "added": "2026-11-03T09:58:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5501028060fe7e4a",
-   "section": "mongolia",
-   "subtopic": "mongolia-news",
-   "source": "ikon.mn",
-   "source_label": "ikon.mn",
-   "url": "https://ikon.mn/n/3rgv",
-   "image": "https://content.ikon.mn/news/2026/11/3/tzkoof_crop_x974.jpg",
-   "title": "Гавьяат тамирчин Н.Нандинхүсэлийн баг улирлын нээлтийн тоглолтод хожлоо",
-   "summary_en": "Монгол Улсын Гавьяат тамирчин, 3х3 эмэгтэй сагсан бөмбөгийн шигшээ багийн гишүүн Нямжавын Нандинхүсэл АНУ-ын оюутны лигийн Теннесси их сургуулийн \"Tennessee State Lady Tigers\" багт энэ улирлаас тоглож эхэлсэн билээ. Оюутны лиг буюу NCAA-гийн нэгдүгээр зэрэглэлд хамаардаг тус их сургуулийн баг нээлтийн тоглолтоо \"Toccoa Falls Eagles\" багийг талбайдаа хүлээн авсан юм. Талбайн эзэд тоглолтын эхнээс л санаачилгыг авч, давамгайллаа төгсгөл хүртэл хадгалсаар 95:46-гаар буулган авлаа. Н.Нандинхүсэл уг тоглолтод гараанд гарч, нийт 17 минут тоглохдоо 9 оноо, 7 самбараас бөмбөг авчээ. Түүний багаас…",
-   "lines": [],
-   "title_mn": "Гавьяат тамирчин Н.Нандинхүсэлийн баг улирлын нээлтийн тоглолтод хожлоо",
-   "summary_mn": "Монгол Улсын Гавьяат тамирчин Н.Нандинхүсэлийн тоглодог АНУ-ын Теннесси их сургуулийн баг улирлын нээлтийн тоглолтод өрсөлдөгчөө 95:46 харьцаагаар буулган авлаа.",
-   "body_mn": "Монгол Улсын Гавьяат тамирчин, 3х3 эмэгтэй сагсан бөмбөгийн шигшээ багийн гишүүн Нямжавын Нандинхүсэл АНУ-ын оюутны лигийн Теннесси их сургуулийн Tennessee State Lady Tigers багт энэ улирлаас амжилттай тоглож эхэлжээ.\n\nОюутны лигийн нэгдүгээр зэрэглэлд багтдаг тус сургуулийн баг улирлын нээлтийн тоглолтоо Toccoa Falls Eagles багийн эсрэг хийж, талбайдаа 95:46-гаар илт давуу ялалт байгууллаа. Тоглолтын эхнээс л санаачилгыг гартаа авсан талбайн эзэд тоглолтыг төгсгөл хүртэл өөрсдийн хяналтад байлгасан байна.\n\nГавьяат тамирчин Н.Нандинхүсэл уг тоглолтод гарааны бүрэлдэхүүнд гарч, 17 минут тоглохдоо 9 оноо авч, 7 удаа самбараас бөмбөг авчээ. Lady Tigers дараагийн тоглолтоо энэ сарын 6-ны өдөр William & Mary Tribe багийн талбайд хийхээр төлөвлөжээ.",
-   "published": "2026-11-03T07:35:00Z",
-   "added": "2026-11-03T09:58:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3670891b11aeb841",
-   "section": "mongolia",
-   "subtopic": "mongolia-news",
-   "source": "ikon.mn",
-   "source_label": "ikon.mn",
-   "url": "https://ikon.mn/n/3rgw",
-   "image": "https://content.ikon.mn/news/2026/11/3/lwfxac_MPA_PHOTO_2025-0989_x974.jpg",
-   "title": "Ө.Шижир: Тахилтад сургуулийн нэг метр квадрат талбайг ₮45,000-аар түрээсэлж байгааг зах зээлийн үнэ гээд хэлчихлээ",
-   "summary_en": "УИХ-ын Төсвийн зарлагын хяналтын дэд хорооны өнөөдрийн хуралдаанаар “Гэрт ойрхон сургууль-хамгийн сайн сургууль” арга хэмжээний талаарх Боловсролын сайдын мэдээллийг сонслоо. Энэ үеэр Боловсролын ерөнхий газрын дарга Х.Тамир \"Ачаалал үүссэн тойргуудын байршлыг тогтоож, сургуулиудыг сонгож явдаг. Ачааллын байршлуудын хэсгийг зааж, нийслэлийн боловсролын газрын пэйж хуудсаар нээлттэй зар явуулсан. Зарын дагуу 66 байршлыг гаргаж ирсэн. 2022 онд дундаж түрээсийн үнэ 45,000 төгрөг байсан. Зах зээлийн үнийн судалгаа, холбогдох төрийн байгууллагын ажлын хэсгийн гаргасан үр дүнгээр энэ жилийн хувьд…",
-   "lines": [],
-   "title_mn": "Тахилтад сургуулийн 1 мкв талбайг 45,000 төгрөгөөр түрээсэлж байгааг шүүмжиллээ",
-   "summary_mn": "УИХ-ын Төсвийн зарлагын хяналтын дэд хорооны хуралдаанаар “Гэрт ойрхон сургууль” арга хэмжээний хэрэгжилтийг хэлэлцлээ. Энэ үеэр зарим байршилд сургуулийн түрээсийн үнэ хотын төвийн А зэрэглэлийн барилгын түрээсээс ч өндөр байгааг гишүүд шүүмжлэв.",
-   "body_mn": "УИХ-ын Төсвийн зарлагын хяналтын дэд хорооны хуралдаанаар Боловсролын сайдын мэдээллийг сонсож, \"Гэрт ойрхон сургууль\" хөтөлбөрийн хэрэгжилтийн талаар хэлэлцлээ. Хурлын үеэр Боловсролын ерөнхий газрын удирдлага ачаалал үүссэн 66 байршилд түрээсийн үнэ дунджаар 50,000 төгрөг болсныг танилцуулав.\n\nГэвч гишүүд Сонгинохайрхан дүүргийн 33 дугаар хороо, Тахилтад сургуулийн нэг метр квадрат талбайг 45,000 төгрөгөөр түрээсэлж байгааг шүүмжилжээ. Тухайлбал, хотын төвийн АА зэрэглэлд орших Монголбанк болон Тагнуулын ерөнхий газрын эсрэг талын барилгын түрээс 35,000 төгрөг байхад зах зээлийн үнэ нэрийн дор түрээсийн зардал хэт өндөр гарч байгааг онцоллоо.\n\nБоловсролын салбарын түрээсийн зардал 2020 онд 20 тэрбум төгрөг байсан бол 2027 оны төсөвт 64.6 тэрбум төгрөг болж өсжээ. Сургууль, цэцэрлэгийн барилгыг хугацаанд нь ашиглалтад оруулаагүйгээс төсвийн хөрөнгө үр ашиггүй зарцуулагдаж байгааг гишүүд хэлвээ.",
-   "published": "2026-11-03T07:43:00Z",
-   "added": "2026-11-03T09:58:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9c59a38943c4d0ce",
-   "section": "hacker",
-   "subtopic": "security-news",
-   "source": "The Hacker News",
-   "source_label": "The Hacker News",
-   "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg18lSM19IJpBCuAofy8CZNsJ-05CtvqxdL8BcHUS65fn_Oph-FAXqpdDE9c11G78nq7I1pVtt4XAotc_hszgea-QpNDTt-RzstD3k7yfXHP3JUnBViplsRzL_4q_LM-jujcv6NbMUUYBMWtJKSdKcBYlbSkm7Mx9LaTbVRW88uFh723nDOGYYDxiwkfYFr/s1600/synology-ransomware.jpg",
-   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-   "summary_en": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM. \"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
-   "lines": [],
-   "title_mn": "Synology NAS төхөөрөмжүүдийг шинээр барьцаалагч вирусээр дайрч байна",
-   "summary_mn": "Synology компани DiskStation Manager (DSM) үйлдлийн системийн хуучин хувилбаруудыг ашигладаг NAS төхөөрөмжүүдийг ransomware буюу барьцаалагч вирусээр дайрч байгааг анхааруулав. Хакерууд 2024 оны 12 дугаар сард нөхөгдсөн эмзэгдлийг ашиглан хэрэглэгчдийн файлыг түгжиж байна.",
-   "body_mn": "Synology компани өөрийн сүлжээнд холбогдох хадгалах төхөөрөмж буюу NAS төхөөрөмжүүдэд хандаж буй хэрэглэгчдийг DiskStation Manager (DSM) программ хангамжаа яаралтай шинэчлэхийг уриалжээ. Сүүлийн үед гарсан халдлагуудын үеэр хакерууд хуучин хувилбаруудын эмзэгдлийг ашиглан өгөгдлийг шифрлэж, мөнгө нэхэх болсон байна.\n\nЭнэхүү халдлагын үеэр хэрэглэгчид C3RB3R нэртэй ransomware-д өртөж, файлыг \".L0CK3D\" өргөтгөлтэй болгон түгжүүлж байгаа аж. Synology компани тодорхой нэг эмзэгдлийн нэрийг дурдаагүй ч 2024 оны 11 дүгээр сард гаргасан аюулгүй байдлын зөвлөмжид холбогдох засваруудыг тусгасан байжээ.\n\nӨмнө нь ч QNAP болон Synology брэндийн төхөөрөмжүүд рүү хэрэглэгчийн нэр, нууц үг таах болон бусад эмзэгдлүүдийг ашиглан халдаж байсан түүхтэй. Иймд компани хэрэглэгчдэд системийн шинэчлэлтийг цаг алдалгүй хийх, автомат шинэчлэлтийг идэвхжүүлэхийг хатуу зөвлөж байна.",
-   "published": "2026-11-03T07:43:07Z",
-   "added": "2026-11-03T09:58:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d1caac696a3b90d2",
-   "section": "mongolia",
-   "subtopic": "mongolia-news",
-   "source": "ikon.mn",
-   "source_label": "ikon.mn",
-   "url": "https://ikon.mn/n/3rgx",
-   "image": "https://content.ikon.mn/news/2026/11/3/fmpkc4_MPA_PHOTO_2016-4276_x974.jpg",
-   "title": "С.Наранцогт: Ханш нэмэгдсэн мэт мэдээлэл өчигдөр нэлээд явлаа. Тийм юм байхгүй, ханш тогтвортой байгаа",
-   "summary_en": "Валютын ханш өссөн талаарх мэдээлэл өчигдөр олон нийтийн сүлжээнд гарч, иргэдийг анхаарлыг татсан. Гадаад Валютын Албан Нөөц(ГВАН) түүхэн дээд хэмжээндээ байгаа гэсэн ч төгрөгийн ханш суларч байгаа гэх энэхүү мэдээллийн талаар өнөөдөр Монголбанканд болсон хэвлэлийн хурлын үеэр сэтгүүлч тодрууллаа. Монголбанкны ерөнхийлөгч С.Наранцогт \"Баярын эсвэл амралтын өдрийг тааруулж бидний хэлдгээр \"Найман шарга\" дээр үе үе спекуляц маягийн зүйл болоод байгаа. Монголбанкны албан ханш тогтвортой байна. Бид долоо хоног бүр банкнуудаас ирж буй хүсэлтийг 100 хувь биелүүлдэг. Үүн дээр шатахууны импортын…",
-   "lines": [],
-   "title_mn": "С.Наранцогт: Ханш өссөн гэх мэдээлэл ташаа бөгөөд валютын нөөц хангалттай байна",
-   "summary_mn": "Монголбанкны ерөнхийлөгч С.Наранцогт валютын ханш өссөн тухай олон нийтийн сүлжээнд тархсан мэдээллийг үгүйсгэв. Тэрбээр албан ханш тогтвортой байгаа ба гадаад валютын албан нөөц түүхэн дээд хэмжээнд буюу 8.9 тэрбум ам.доллартай байгааг мэдээллээ.",
-   "body_mn": "Валютын ханш өссөн гэх мэдээлэл олон нийтийн сүлжээнд гарснтай холбогдуулан Монголбанкаас хэвлэлийн хурал хийж мэдээлэл өглөө. Монголбанкны ерөнхийлөгч С.Наранцогт амралтын өдрүүдийг тааруулан \"Найман шарга\" орчимд зарим этгээдүүд спекуляц буюу ханш өсгөх оролдлого хийснийг онцлов.\n\nМонголбанкны албан ханш тогтвортой бөгөөд банкнуудаас ирж буй валютын хүсэлтийг ямар нэг хязгаарлалтгүйгээр 100 хувь биелүүлж байна. Тухайлбал, шатахууны импортын төлбөрийг ямар нэг саадгүйгээр шийдвэрлэж байгаа аж. Одоогоор Гадаад валютын албан нөөц (ГВАН) 8.9 тэрбум ам.долларт хүрсэн бөгөөд үүний 1.7 тэрбум ам.доллар нь Ирээдүйн өв сангийн хөрөнгө юм.\n\nӨмнөх жилүүдийн хүндрэлтэй үетэй харьцуулахад валютын нөөц хангалттай өндөр түвшинд байгаа нь ханшийг тогтвортой барих гол суурь болж байгааг төв банкныхан тодотголоо.",
-   "published": "2026-11-03T07:49:00Z",
-   "added": "2026-11-03T09:58:42Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "d8db4e22c147b4ce",
-   "section": "trend",
-   "subtopic": "tech-trend",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://toit.io/blog/toit-v2-0-0/",
-   "image": "",
-   "title": "Toit v2.0.0",
-   "summary_en": "Article URL: https://toit.io/blog/toit-v2-0-0/ Comments URL: https://news.ycombinator.com/item?id=50321605 Points: 176 # Comments: 59",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-01T00:25:04Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cb77eb4d1d98fd76",
-   "section": "trend",
-   "subtopic": "tech-trend",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/f762144b-25e4-49ae-8c17-f7a981e7a723.jpg?crop=0.706xw:0.529xh;0.259xw,0.305xh&resize=1200:*",
-   "title": "Life with Down Syndrome",
-   "summary_en": "Article URL: https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/ Comments URL: https://news.ycombinator.com/item?id=50327088 Points: 103 # Comments: 56",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-01T16:26:21Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "88238ce00d568f69",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "CNN",
-   "url": "https://edition.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
-   "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295330098.jpg?c=16x9&q=w_800,c_fill",
-   "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
-   "summary_en": "Anthropic says you can’t be mean to Claude. It’s not about feelings CNN",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-01T17:00:16Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e045e7d809c402e9",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Independent",
-   "url": "https://www.independent.co.uk/tech/claude-anthropic-text-watermark-ai-b3077596.html",
-   "image": "https://static.the-independent.com/2026/10/27/15/2026-10-15T205551Z_1697502751_RC29LNAIRMB6_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
-   "title": "Anthropic’s Claude will now leave a trail that shows whether a text was made with AI",
-   "summary_en": "Anthropic’s Claude will now leave a trail that shows whether a text was made with AI The Independent",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-02T15:13:00Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "48decfeb637d3fdc",
    "section": "ai",
    "subtopic": "anthropic",
@@ -877,6 +657,186 @@
    "added": "2026-11-03T23:13:43Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "019edb616369c332",
+   "section": "ai",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "image": "",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "summary_en": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "lines": [],
+   "title_mn": "OpenAI корпорацийн харилцааны газрын захирлаар Жилл Хазелбейкер томилогдов",
+   "summary_mn": "Жилл Хазелбейкер OpenAI компанид Корпорацийн харилцааны газрын захирлаар томилогдож, дэлхий дахины харилцаа холбоог удирдахаар болжээ.",
+   "body_mn": "Жилл Хазелбейкер OpenAI компанид шинээр байгуулагдсан Корпорацийн харилцааны газрын захирлаар (Chief Corporate Affairs Officer) ажиллахаар болсон байна. Тэрээр тус компанийн дэлхий дахины харилцаа холбоо болон стратегийн байр суурийг бэхжүүлэх ажлыг удирдан чиглүүлэх ажээ.\n\nЭнэхүү томилгоо нь OpenAI компанийн гадаад харилцаа, олон нийтийн бодлого болон бизнесийн байр сууриа өргөжүүлэх чухал үе шатанд хийгдэж байгаагаараа онцлог юм. Жилл Хазелбейкер нь өмнө нь технологийн салбарт томоохон албан тушаал хашиж байсан туршлагатай нэгэн юм.",
+   "published": "2026-11-03T00:00:00Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ae220fbb5d394734",
+   "section": "software",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Qq1edetewS59zvCuHHGI0/d5787b9ebff64a8fdf4df5104f1a6a78/slack-imgs.jpg",
+   "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+   "summary_en": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project link, and your project configuration in vercel.json . It also reports active incidents from the Vercel status page. Each check reports OK, Warning, Failed, or Skipped. When vercel upgrade can't update the installed CLI, the install check shows where the CLI runs from and how to reinstall it. Doctor runs without a login or a linked project, and it never prompts, logs in, or links a project, so…",
+   "lines": [],
+   "title_mn": "Vercel CLI хэрэгсэлд алдаа оношлох vercel doctor командыг нэмжээ",
+   "summary_mn": "Vercel CLI-д тохиргооны асуудлыг шалгаж, засах командуудыг санал болгодог vercel doctor хэрэгсэл нэмэгдлээ. Энэ нь кодын агент болон хөгжүүлэгчдэд зориулагдсан.",
+   "body_mn": "Vercel компани өөрийн команд мөрийн хэрэгсэлдээ (CLI) шинээр vercel doctor функцийг нэмсэн байна. Энэхүү хэрэгсэл нь суулгац, хувилбар, нэвтрэлт, төслийн холболт болон vercel.json тохиргоог шалгаж, илэрсэн асуудлыг хэрхэн засах талаар тодорхой зааварчилгаа өгдөг юм.\n\nШинэ функц нь ямар нэгэн нэвтрэлт шаардахгүйгээр ажилладаг тул хөгжүүлэгчдийн автоматжуулсан агентууд ямар нэгэн таамаглал дэвшүүлэхгүйгээр шууд шалгах боломжтой. Мөн --json параметрийг ашиглан бүтцийн өгөгдөл хэлбэрээр үр дүнг авах боломжтой бөгөөд энэ нь хөгжүүлэгчдийн ажлыг ихээхэн хөнгөвчлөх юм.",
+   "published": "2026-11-03T00:00:00Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c10cb30e1e92b02b",
+   "section": "hacker",
+   "subtopic": "cve",
+   "source": "CISA KEV",
+   "source_label": "CISA",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+   "image": "",
+   "title": "CVE-2026-119977 added to CISA KEV (exploited in the wild)",
+   "summary_en": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.",
+   "lines": [
+    "WordPress WordPress Core: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+    "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.",
+    "Patch by: 2026-11-06"
+   ],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-03T00:00:00Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "34e7d62615202d0d",
+   "section": "ai",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/cisco-cyber",
+   "image": "",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "summary_en": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+   "lines": [],
+   "title_mn": "Cisco компани OpenAI-тай хамтран сүлжээний аюулгүй байдлаа сайжруулж байна",
+   "summary_mn": "Cisco сүлжээний тагнуулын мэдээллийг OpenAI-ийн загваруудтай хослуулан байгууллагын аюулгүй байдлын хамгаалалтыг бэхжүүлж байна.",
+   "body_mn": "Cisco компани сүлжээний ухаалаг системээ OpenAI-ийн хиймэл оюун ухааны загваруудтай нэгтгэснээр байгууллагын аюулгүй байдлыг хангах шинэ арга барилыг нэвтрүүлж байна. Энэхүү хамтын ажиллагаа нь аюул заналхийллийг ил илрүүлж, илүү уян хатан хамгаалалтын системийг бүтээхэд чиглэжээ.\n\nТехнологийн энэхүү нэгдэл нь кибер аюулгүй байдлын салбар дахь хариу арга хэмжээг хурдасгаж, болзошгүй эрсдэлээс урьдчилан сэргийлэхэд чухал үүрэг гүйцэтгэх юм. Cisco болон OpenAI-ийн хамтын ажиллагааны дэлгэрэнгүй мэдээлэл цаашид илүү өргөжих төлөвтэй байна.",
+   "published": "2026-11-03T08:00:00Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1d777511388f2155",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-anthropic-110b-investor-hg-back-claude-services-for-europe/",
+   "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/11/auth_w665_wide-1.png?fit=1600%2C900&ssl=1",
+   "title": "Anthropic, $110B Investor Hg Back Claude Services for Europe",
+   "summary_en": "Anthropic, $110B Investor Hg Back Claude Services for Europe FourWeekMBA",
+   "lines": [],
+   "title_mn": "Hg болон Anthropic компаниуд Европын бизнест зориулсан AI үйлчилгээг дэмжинэ",
+   "summary_mn": "Хөрөнгө оруулалтын Hg компани Anthropic-тай хамтран Европын бизнесүүдэд зориулсан хиймэл оюун ухаанд суурилсан шинэ зөвлөх үйлчилгээний компани байгуулахаар болжээ.",
+   "body_mn": "Лондонд төвтэй Hg компани Anthropic болон бусад хөрөнгө оруулагчидтай хамтран Европын бизнесүүдэд зориулсан хиймэл оюун ухааныг нэвтрүүлэх шинэ компани байгуулахаа зарлалаа. Шинэ компани нь Claude загварт суурилсан дэвшилтэт шийдлүүдийг санал болгох юм.\n\nЭнэхүү санаачилга нь Европын зах зээлийн нарийн төвөгтэй хэл болон зохицуулалтын орчинд компаниудад бодит үнэ цэнэ бүтээхэд туслах зорилготой аж. Anthropic болон Hg компаниуд өмнө нь ч мөн хамтарч ажиллаж байсан бөгөөд энэхүү шинэ түншлэл нь Европ дахь AI технологийн хэрэглээг шинэ түвшинд гаргах төлөвтэй байна.",
+   "published": "2026-11-03T11:21:39Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b84cad2a2e67203e",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg",
+   "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+   "summary_en": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
+   "lines": [],
+   "title_mn": "Linux TCP сүлжээний код дахь критикийн зэрэглэлтэй эмзэг байдалд засвар гарлаа",
+   "summary_mn": "Linux цөмийн IPv4 TCP код дахь алсын зайнаас код ажиллуулах боломжтой 9.8 оноотой эмзэг байдалд Red Hat болон Canonical компаниуд засвар гаргажээ.",
+   "body_mn": "Linux цөмийн IPv4 TCP хэсэгт илэрсэн, алсын зайнаас ямар нэгэн баталгаажуулалтгүйгээр код ажиллуулах боломжтой CVE-2026-98432 дугаартай эмзэг байдалд Red Hat болон Canonical компаниуд засвар хүргэлээ. CVSS оноогоор 9.8 буюу критик түвшинд үнэлэгдсэн уг алдаа нь Linux 4.4 хувилзраас хойш оршин байжээ.\n\nХалдагч уг уралдааны нөхцөлийг ашиглан сервер рүү тусгай IP сонголтуудыг илгээх замаар санах ойн алдаа үүсгэх боломжтой аж. Red Hat компани RHEL 8, 9, 10 хувилбаруудад албан ёсны шинэчлэлтийг гаргасан бөгөөд системээ шинэчилсний дараа дахин ачаалах шаардлагатайг анхааруулжээ.\n\nХарин Ubuntu системүүдийн хувьд албан ёсны туршилтын сувагт засварууд байршиж байгаа бөгөөд тогтвортой хувилбарт удахгүй орох төлөвтэй байна. Одоогоор уг эмзэг байдлыг бодит халдлагад ашигласан тохиолдол бүртгэгдээгүй байгаа боловч систем админуудыг яаралтай шинэчлэлт хийхийг зөвлөж байна.",
+   "published": "2026-11-03T11:23:53Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "25493a43cba550c7",
+   "section": "ai",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "image": "",
+   "title": "Accelerating engineering for the physical world",
+   "summary_en": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "lines": [],
+   "title_mn": "ChatGPT болон Codex инженерчлэлийн ажлыг хурдасгаж байна",
+   "summary_mn": "ChatGPT болон Codex хэрэгслүүд инженерүүдэд CAD, PCB дизайн болон симуляцийн ажлыг илүү хурдан хийхэд тусалж байна.",
+   "body_mn": "Физик бодит ертөнцийн инженерчлэлийн ажлыг хурдасгахад ChatGPT болон Codex загварууд ямар хувь нэмэр оруулж байгаа талаар мэдээллээ. Эдгээр хэрэгсэл нь CAD загварчлал, PCB буюу хавтангийн дизайн以及 симуляцийн ажлын явцыг хялбарчилж байна.\n\nЭнэ нь инженерүүдэд бүтээгдэхүүн хөгжүүлэлтийн хугацааг богиносгож, алдаа гарах магадлалыг бууруулах боломжийг олгож байна. Хиймэл оюун ухааны энэхүү хэрэглээ нь инженерчлэлийн салбарт шинэ стандарт тогтоох хандлагатай байна.",
+   "published": "2026-11-03T12:00:00Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1358dd463efa6463",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "BleepingComputer",
+   "source_label": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/Google-headpic.jpg",
+   "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+   "summary_en": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+   "lines": [],
+   "title_mn": "Google Cloud аюулгүй байдлын шагналт хөтөлбөртөө 250,000 ам.долларын шагнал нэмжээ",
+   "summary_mn": "Google Cloud VRP хөтөлбөртөө Cloud орчныг бүрэн хянах боломжтой архитектурын эмзэг байдлыг илрүүлэгчдэд зориулсан дээд шагналыг нэмлээ.",
+   "body_mn": "Google компани өөрийн Cloud Vulnerability Reward Program (VRP) хөтөлбөрөө өргөжүүлж, архитектурын өндөр нөлөөтэй эмзэг байдлуудад олгох дээд шагналыг 250,000 ам.доллар болгон өсгөжээ. Судлаачид Google Cloud байгууллагууд болон төслүүдийг бүрэн захирах боломжтой Root-in-Cloud төрлийн алдааг илрүүлж уг шагналыг авах боломжтой.\n\nШинэ шагналыг авахын тулд халддагчид ямар нэгэн урьдчилсан эрхгүйгээр администраторын түвшний хяналтыг баталж харуулах шаардлагатай бөгөөд аюулгүй байдлыг хангах үүднээс тодорхой дүрмүүдийг мөрдөх ёстой аж. Google компани нь аюулгүй байдлын судалгааг дэмжих зорилгоор жил бүр олон сая долларын шагналыг судлаачдад олгодог билээ.",
+   "published": "2026-11-03T12:05:52Z",
+   "added": "2026-11-04T04:00:50Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

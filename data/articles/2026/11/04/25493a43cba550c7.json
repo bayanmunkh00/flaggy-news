@@ -1,0 +1,19 @@
+{
+ "id": "25493a43cba550c7",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+ "image": "",
+ "title": "Accelerating engineering for the physical world",
+ "summary_en": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+ "lines": [],
+ "title_mn": "ChatGPT болон Codex инженерчлэлийн ажлыг хурдасгаж байна",
+ "summary_mn": "ChatGPT болон Codex хэрэгслүүд инженерүүдэд CAD, PCB дизайн болон симуляцийн ажлыг илүү хурдан хийхэд тусалж байна.",
+ "body_mn": "Физик бодит ертөнцийн инженерчлэлийн ажлыг хурдасгахад ChatGPT болон Codex загварууд ямар хувь нэмэр оруулж байгаа талаар мэдээллээ. Эдгээр хэрэгсэл нь CAD загварчлал, PCB буюу хавтангийн дизайн以及 симуляцийн ажлын явцыг хялбарчилж байна.\n\nЭнэ нь инженерүүдэд бүтээгдэхүүн хөгжүүлэлтийн хугацааг богиносгож, алдаа гарах магадлалыг бууруулах боломжийг олгож байна. Хиймэл оюун ухааны энэхүү хэрэглээ нь инженерчлэлийн салбарт шинэ стандарт тогтоох хандлагатай байна.",
+ "published": "2026-11-03T12:00:00Z",
+ "added": "2026-11-04T04:00:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

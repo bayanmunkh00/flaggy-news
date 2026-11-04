@@ -1,0 +1,19 @@
+{
+ "id": "ae220fbb5d394734",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Qq1edetewS59zvCuHHGI0/d5787b9ebff64a8fdf4df5104f1a6a78/slack-imgs.jpg",
+ "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+ "summary_en": "Vercel CLI now includes vercel doctor , which checks your setup and shows the command that fixes each problem it finds. It checks the CLI version and install, your login and current team, the project link, and your project configuration in vercel.json . It also reports active incidents from the Vercel status page. Each check reports OK, Warning, Failed, or Skipped. When vercel upgrade can't update the installed CLI, the install check shows where the CLI runs from and how to reinstall it. Doctor runs without a login or a linked project, and it never prompts, logs in, or links a project, so…",
+ "lines": [],
+ "title_mn": "Vercel CLI хэрэгсэлд алдаа оношлох vercel doctor командыг нэмжээ",
+ "summary_mn": "Vercel CLI-д тохиргооны асуудлыг шалгаж, засах командуудыг санал болгодог vercel doctor хэрэгсэл нэмэгдлээ. Энэ нь кодын агент болон хөгжүүлэгчдэд зориулагдсан.",
+ "body_mn": "Vercel компани өөрийн команд мөрийн хэрэгсэлдээ (CLI) шинээр vercel doctor функцийг нэмсэн байна. Энэхүү хэрэгсэл нь суулгац, хувилбар, нэвтрэлт, төслийн холболт болон vercel.json тохиргоог шалгаж, илэрсэн асуудлыг хэрхэн засах талаар тодорхой зааварчилгаа өгдөг юм.\n\nШинэ функц нь ямар нэгэн нэвтрэлт шаардахгүйгээр ажилладаг тул хөгжүүлэгчдийн автоматжуулсан агентууд ямар нэгэн таамаглал дэвшүүлэхгүйгээр шууд шалгах боломжтой. Мөн --json параметрийг ашиглан бүтцийн өгөгдөл хэлбэрээр үр дүнг авах боломжтой бөгөөд энэ нь хөгжүүлэгчдийн ажлыг ихээхэн хөнгөвчлөх юм.",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-04T04:00:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

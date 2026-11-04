@@ -1,0 +1,19 @@
+{
+ "id": "1358dd463efa6463",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/Google-headpic.jpg",
+ "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+ "summary_en": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+ "lines": [],
+ "title_mn": "Google Cloud аюулгүй байдлын шагналт хөтөлбөртөө 250,000 ам.долларын шагнал нэмжээ",
+ "summary_mn": "Google Cloud VRP хөтөлбөртөө Cloud орчныг бүрэн хянах боломжтой архитектурын эмзэг байдлыг илрүүлэгчдэд зориулсан дээд шагналыг нэмлээ.",
+ "body_mn": "Google компани өөрийн Cloud Vulnerability Reward Program (VRP) хөтөлбөрөө өргөжүүлж, архитектурын өндөр нөлөөтэй эмзэг байдлуудад олгох дээд шагналыг 250,000 ам.доллар болгон өсгөжээ. Судлаачид Google Cloud байгууллагууд болон төслүүдийг бүрэн захирах боломжтой Root-in-Cloud төрлийн алдааг илрүүлж уг шагналыг авах боломжтой.\n\nШинэ шагналыг авахын тулд халддагчид ямар нэгэн урьдчилсан эрхгүйгээр администраторын түвшний хяналтыг баталж харуулах шаардлагатай бөгөөд аюулгүй байдлыг хангах үүднээс тодорхой дүрмүүдийг мөрдөх ёстой аж. Google компани нь аюулгүй байдлын судалгааг дэмжих зорилгоор жил бүр олон сая долларын шагналыг судлаачдад олгодог билээ.",
+ "published": "2026-11-03T12:05:52Z",
+ "added": "2026-11-04T04:00:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

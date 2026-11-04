@@ -1,0 +1,19 @@
+{
+ "id": "b84cad2a2e67203e",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg",
+ "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+ "summary_en": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
+ "lines": [],
+ "title_mn": "Linux TCP сүлжээний код дахь критикийн зэрэглэлтэй эмзэг байдалд засвар гарлаа",
+ "summary_mn": "Linux цөмийн IPv4 TCP код дахь алсын зайнаас код ажиллуулах боломжтой 9.8 оноотой эмзэг байдалд Red Hat болон Canonical компаниуд засвар гаргажээ.",
+ "body_mn": "Linux цөмийн IPv4 TCP хэсэгт илэрсэн, алсын зайнаас ямар нэгэн баталгаажуулалтгүйгээр код ажиллуулах боломжтой CVE-2026-98432 дугаартай эмзэг байдалд Red Hat болон Canonical компаниуд засвар хүргэлээ. CVSS оноогоор 9.8 буюу критик түвшинд үнэлэгдсэн уг алдаа нь Linux 4.4 хувилзраас хойш оршин байжээ.\n\nХалдагч уг уралдааны нөхцөлийг ашиглан сервер рүү тусгай IP сонголтуудыг илгээх замаар санах ойн алдаа үүсгэх боломжтой аж. Red Hat компани RHEL 8, 9, 10 хувилбаруудад албан ёсны шинэчлэлтийг гаргасан бөгөөд системээ шинэчилсний дараа дахин ачаалах шаардлагатайг анхааруулжээ.\n\nХарин Ubuntu системүүдийн хувьд албан ёсны туршилтын сувагт засварууд байршиж байгаа бөгөөд тогтвортой хувилбарт удахгүй орох төлөвтэй байна. Одоогоор уг эмзэг байдлыг бодит халдлагад ашигласан тохиолдол бүртгэгдээгүй байгаа боловч систем админуудыг яаралтай шинэчлэлт хийхийг зөвлөж байна.",
+ "published": "2026-11-03T11:23:53Z",
+ "added": "2026-11-04T04:00:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

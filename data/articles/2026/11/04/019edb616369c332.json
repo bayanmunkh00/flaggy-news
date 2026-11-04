@@ -1,0 +1,19 @@
+{
+ "id": "019edb616369c332",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+ "image": "",
+ "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+ "summary_en": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+ "lines": [],
+ "title_mn": "OpenAI корпорацийн харилцааны газрын захирлаар Жилл Хазелбейкер томилогдов",
+ "summary_mn": "Жилл Хазелбейкер OpenAI компанид Корпорацийн харилцааны газрын захирлаар томилогдож, дэлхий дахины харилцаа холбоог удирдахаар болжээ.",
+ "body_mn": "Жилл Хазелбейкер OpenAI компанид шинээр байгуулагдсан Корпорацийн харилцааны газрын захирлаар (Chief Corporate Affairs Officer) ажиллахаар болсон байна. Тэрээр тус компанийн дэлхий дахины харилцаа холбоо болон стратегийн байр суурийг бэхжүүлэх ажлыг удирдан чиглүүлэх ажээ.\n\nЭнэхүү томилгоо нь OpenAI компанийн гадаад харилцаа, олон нийтийн бодлого болон бизнесийн байр сууриа өргөжүүлэх чухал үе шатанд хийгдэж байгаагаараа онцлог юм. Жилл Хазелбейкер нь өмнө нь технологийн салбарт томоохон албан тушаал хашиж байсан туршлагатай нэгэн юм.",
+ "published": "2026-11-03T00:00:00Z",
+ "added": "2026-11-04T04:00:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

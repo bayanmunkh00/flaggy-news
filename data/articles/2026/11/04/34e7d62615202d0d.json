@@ -1,0 +1,19 @@
+{
+ "id": "34e7d62615202d0d",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/cisco-cyber",
+ "image": "",
+ "title": "How Cisco defends at machine speed with OpenAI",
+ "summary_en": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+ "lines": [],
+ "title_mn": "Cisco компани OpenAI-тай хамтран сүлжээний аюулгүй байдлаа сайжруулж байна",
+ "summary_mn": "Cisco сүлжээний тагнуулын мэдээллийг OpenAI-ийн загваруудтай хослуулан байгууллагын аюулгүй байдлын хамгаалалтыг бэхжүүлж байна.",
+ "body_mn": "Cisco компани сүлжээний ухаалаг системээ OpenAI-ийн хиймэл оюун ухааны загваруудтай нэгтгэснээр байгууллагын аюулгүй байдлыг хангах шинэ арга барилыг нэвтрүүлж байна. Энэхүү хамтын ажиллагаа нь аюул заналхийллийг ил илрүүлж, илүү уян хатан хамгаалалтын системийг бүтээхэд чиглэжээ.\n\nТехнологийн энэхүү нэгдэл нь кибер аюулгүй байдлын салбар дахь хариу арга хэмжээг хурдасгаж, болзошгүй эрсдэлээс урьдчилан сэргийлэхэд чухал үүрэг гүйцэтгэх юм. Cisco болон OpenAI-ийн хамтын ажиллагааны дэлгэрэнгүй мэдээлэл цаашид илүү өргөжих төлөвтэй байна.",
+ "published": "2026-11-03T08:00:00Z",
+ "added": "2026-11-04T04:00:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

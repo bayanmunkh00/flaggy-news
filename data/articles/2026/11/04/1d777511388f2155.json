@@ -1,0 +1,19 @@
+{
+ "id": "1d777511388f2155",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "FourWeekMBA",
+ "url": "https://fourweekmba.com/ai-anthropic-110b-investor-hg-back-claude-services-for-europe/",
+ "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/11/auth_w665_wide-1.png?fit=1600%2C900&ssl=1",
+ "title": "Anthropic, $110B Investor Hg Back Claude Services for Europe",
+ "summary_en": "Anthropic, $110B Investor Hg Back Claude Services for Europe FourWeekMBA",
+ "lines": [],
+ "title_mn": "Hg болон Anthropic компаниуд Европын бизнест зориулсан AI үйлчилгээг дэмжинэ",
+ "summary_mn": "Хөрөнгө оруулалтын Hg компани Anthropic-тай хамтран Европын бизнесүүдэд зориулсан хиймэл оюун ухаанд суурилсан шинэ зөвлөх үйлчилгээний компани байгуулахаар болжээ.",
+ "body_mn": "Лондонд төвтэй Hg компани Anthropic болон бусад хөрөнгө оруулагчидтай хамтран Европын бизнесүүдэд зориулсан хиймэл оюун ухааныг нэвтрүүлэх шинэ компани байгуулахаа зарлалаа. Шинэ компани нь Claude загварт суурилсан дэвшилтэт шийдлүүдийг санал болгох юм.\n\nЭнэхүү санаачилга нь Европын зах зээлийн нарийн төвөгтэй хэл болон зохицуулалтын орчинд компаниудад бодит үнэ цэнэ бүтээхэд туслах зорилготой аж. Anthropic болон Hg компаниуд өмнө нь ч мөн хамтарч ажиллаж байсан бөгөөд энэхүү шинэ түншлэл нь Европ дахь AI технологийн хэрэглээг шинэ түвшинд гаргах төлөвтэй байна.",
+ "published": "2026-11-03T11:21:39Z",
+ "added": "2026-11-04T04:00:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
