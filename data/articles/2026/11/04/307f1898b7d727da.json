@@ -1,0 +1,19 @@
+{
+ "id": "307f1898b7d727da",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "marketscreener.com",
+ "url": "https://www.marketscreener.com/news/anthropic-using-claude-to-help-design-in-house-chips-ce785fdedb8af621",
+ "image": "",
+ "title": "Anthropic Using Claude to Help Design In-House Chips",
+ "summary_en": "Anthropic Using Claude to Help Design In-House Chips marketscreener.com",
+ "lines": [],
+ "title_mn": "Anthropic компани өөрийн дотоодын чипийг бүтээхэд Claude-ийг ашиглаж эхэлжээ",
+ "summary_mn": "Anthropic компани өөрийн зориулалтын чипүүдийг бүтээх үйл явцдаа Claude загварыг ашиглаж эхэлсэн тухай мэдээллээ. Энэ нь тэдний техник хангамжийн салбар дахь шинэ алхам юм.",
+ "body_mn": "Anthropic компани өөрийн дотоод хэрэгцээнд зориулсан хагас дамжуулагч чипүүдийг зохион бүтээх ажлыг эрчимжүүлж, уг үйл явцыг хурдасгах зорилгоор өөрийн Claude загварыг ашиглаж эхэлжээ.\n\nТехнологийн компаниуд хиймэл оюун ухааны тооцоолол хийх хүчин чадлыг нэмэгдүүлэхийн тулд өөрсдийн зориулалтын чиpiйг бүтээх хандлагатай байгаа бөгөөд Anthropic энэ чиглэлд тодорхой алхмуудыг хийж байна.\n\nЭнэхүү санаачилга нь тэдний хөгжүүлэлтийн хурдыг нэмэгдүүлж, гуравдагч талын чип үйлдвэрлэгчдээс хараат байдлыг бууруулахад туслах юм.",
+ "published": "2026-11-03T15:08:35Z",
+ "added": "2026-11-04T18:50:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

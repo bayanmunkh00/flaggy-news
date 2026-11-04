@@ -992,5 +992,93 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "62c7dd578ed2bcaa",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "www.marketscreener.com",
+   "url": "https://www.marketscreener.com/news/sentinelone-inc-announces-integration-with-anthropic-claude-cowork-to-extend-ai-security-coverage-ce785fdedb8af62c",
+   "image": "",
+   "title": "SentinelOne, Inc. Announces Integration With Anthropic Claude Cowork To Extend AI Security Coverage",
+   "summary_en": "SentinelOne, Inc. Announces Integration With Anthropic Claude Cowork To Extend AI Security Coverage www.marketscreener.com",
+   "lines": [],
+   "title_mn": "SentinelOne болон Anthropic хамтран Claude Cowork-ийн аюулгүй байдлыг өргөжүүлнэ",
+   "summary_mn": "SentinelOne компани Anthropic-ийн Claude Cowork системтэй нэгдэж, хиймэл оюун ухааны агентуудын аюулгүй байдлын хамгаалалтыг өргөжүүлж байгаагаа зарлалаа.",
+   "body_mn": "SentinelOne компани Anthropic-ийн Claude Cowork хэрэгсэлтэй интеграци хийснээ зарлаж, байгууллагын түвшний хиймэл оюун ухааны агентуудын аюулгүй байдлын хамгаалалтыг сайжруулахаар болжээ.\n\nЭнэхүү хамтын ажиллагаа нь компаниудад өөрсдийн ашиглаж буй AI агентуудын үйл ажиллагааг хянах, болзошгүй эрсдэлээс хамгаалах боломжийг олгох юм.\n\nClaude Cowork платформын аюулгүй байдлын чадавхыг SentinelOne-ийн дэвшилтэт технологиор өргөжүүлж байгаа нь байгууллагуудад AI-г илүү найдвартай нэвтрүүлэхэд чухал алхам болж байна.",
+   "published": "2026-11-02T19:18:00Z",
+   "added": "2026-11-04T18:50:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "307f1898b7d727da",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "marketscreener.com",
+   "url": "https://www.marketscreener.com/news/anthropic-using-claude-to-help-design-in-house-chips-ce785fdedb8af621",
+   "image": "",
+   "title": "Anthropic Using Claude to Help Design In-House Chips",
+   "summary_en": "Anthropic Using Claude to Help Design In-House Chips marketscreener.com",
+   "lines": [],
+   "title_mn": "Anthropic компани өөрийн дотоодын чипийг бүтээхэд Claude-ийг ашиглаж эхэлжээ",
+   "summary_mn": "Anthropic компани өөрийн зориулалтын чипүүдийг бүтээх үйл явцдаа Claude загварыг ашиглаж эхэлсэн тухай мэдээллээ. Энэ нь тэдний техник хангамжийн салбар дахь шинэ алхам юм.",
+   "body_mn": "Anthropic компани өөрийн дотоод хэрэгцээнд зориулсан хагас дамжуулагч чипүүдийг зохион бүтээх ажлыг эрчимжүүлж, уг үйл явцыг хурдасгах зорилгоор өөрийн Claude загварыг ашиглаж эхэлжээ.\n\nТехнологийн компаниуд хиймэл оюун ухааны тооцоолол хийх хүчин чадлыг нэмэгдүүлэхийн тулд өөрсдийн зориулалтын чиpiйг бүтээх хандлагатай байгаа бөгөөд Anthropic энэ чиглэлд тодорхой алхмуудыг хийж байна.\n\nЭнэхүү санаачилга нь тэдний хөгжүүлэлтийн хурдыг нэмэгдүүлж, гуравдагч талын чип үйлдвэрлэгчдээс хараат байдлыг бууруулахад туслах юм.",
+   "published": "2026-11-03T15:08:35Z",
+   "added": "2026-11-04T18:50:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2b4786f99076579d",
+   "section": "ai",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+   "image": "https://github.blog/wp-content/uploads/2026/11/689797142-96dbb0c9-dccb-41f6-8990-acf5c575db04.png",
+   "title": "GitHub Copilot is now available in JetBrains Air",
+   "summary_en": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your…",
+   "lines": [],
+   "title_mn": "GitHub Copilot одоо JetBrains Air орчинд ашиглах боломжтой боллоо",
+   "summary_mn": "JetBrains Air хэрэглэгчид одоо GitHub Copilot-ийг ашиглан кодлох даалгавруудыг гүйцэтгэж, агентын тусламжтайгаар ажиллах боломжтой боллоо.",
+   "body_mn": "GitHub Copilot хэрэгсэл JetBrains Air орчинд албан ёсоор нэгдэж, хөгжүүлэгчдэд код бичих болон даалгавар гүйцэтгэх шинэ боломжийг нээж өглөө. Энэхүү интеграци нь Agent Client Protocol (ACP)-ийг ашигладаг байна.\n\nХөгжүүлэгчид орон нутгийн орчин эсвэл үүлэн дэд бүтцэд суурилсан Docker контейнеруудад Copilot-ийг ашиглан код бүтээх, турших боломжтой болжээ.\n\nҮүлэн дээр ажиллах үед бүх өгөгдөл болон сүлжээний урсгал тусгай проксигоор дамжин аюулгүй байдлыг хангаж, локал орчинд ямар нэгэн өөрчлөлт үлдээхгүйгээр ажилладаг байна.",
+   "published": "2026-11-03T15:11:46Z",
+   "added": "2026-11-04T18:50:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c3e615c4c5d6d791",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png",
+   "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+   "summary_en": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. In a later disclosure, OPSSHIELD said about 2,950 customer servers ran the script,",
+   "lines": [],
+   "title_mn": "cPGuard аюулгүй байдлын хэрэгслийн шинэчлэлтийн суваг хакердуулжээ",
+   "summary_mn": "OPSSHIELD компанийн cPGuard аюулгүй байдлын хэрэгслийн шинэчлэлтийн системд халдаж, Linux серверүүдэд хортой скрипт суулган нууц үгийн хаэш цуглуулжээ.",
+   "body_mn": "OPSSHIELD компанийн бүтээсэн cPGuard аюулгүй байдлын хэрэгслийн шинэчлэлтийн сувагт халдагчид нэвтэрч, 5.88.12-оос 5.88.19 хувилбаруудаар дамжуулан хортой скрипт түгээжээ. Уг халдлагын улмаас ойролцоогоор 2,950 хэрэглэгчийн сервер өртсөн байна.\n\nХортой скрипт нь серверийн /etc/shadow, /etc/passwd файл болон SSH хувийн түлхүүрүүд, мөн мэдээллийн баазын нууц үгсийг цуглуулж халдагчдын сервер рүү илгээжээ. Компанийн зүгээс уг асуудлыг илрүүлж, 5.88.26 хувилбарыг гарган аюулгүй байдлыг хангасан байна.\n\nСерверийн админуудад нэн даруй шинэчлэлт хийж, системд холбогдох бүх нууц үг болон түлхүүрүүдийг солихыг анхааруулж байна.",
+   "published": "2026-11-03T15:16:32Z",
+   "added": "2026-11-04T18:50:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]

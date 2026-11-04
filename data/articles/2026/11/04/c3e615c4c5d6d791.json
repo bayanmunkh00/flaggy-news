@@ -1,0 +1,19 @@
+{
+ "id": "c3e615c4c5d6d791",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png",
+ "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+ "summary_en": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. In a later disclosure, OPSSHIELD said about 2,950 customer servers ran the script,",
+ "lines": [],
+ "title_mn": "cPGuard аюулгүй байдлын хэрэгслийн шинэчлэлтийн суваг хакердуулжээ",
+ "summary_mn": "OPSSHIELD компанийн cPGuard аюулгүй байдлын хэрэгслийн шинэчлэлтийн системд халдаж, Linux серверүүдэд хортой скрипт суулган нууц үгийн хаэш цуглуулжээ.",
+ "body_mn": "OPSSHIELD компанийн бүтээсэн cPGuard аюулгүй байдлын хэрэгслийн шинэчлэлтийн сувагт халдагчид нэвтэрч, 5.88.12-оос 5.88.19 хувилбаруудаар дамжуулан хортой скрипт түгээжээ. Уг халдлагын улмаас ойролцоогоор 2,950 хэрэглэгчийн сервер өртсөн байна.\n\nХортой скрипт нь серверийн /etc/shadow, /etc/passwd файл болон SSH хувийн түлхүүрүүд, мөн мэдээллийн баазын нууц үгсийг цуглуулж халдагчдын сервер рүү илгээжээ. Компанийн зүгээс уг асуудлыг илрүүлж, 5.88.26 хувилбарыг гарган аюулгүй байдлыг хангасан байна.\n\nСерверийн админуудад нэн даруй шинэчлэлт хийж, системд холбогдох бүх нууц үг болон түлхүүрүүдийг солихыг анхааруулж байна.",
+ "published": "2026-11-03T15:16:32Z",
+ "added": "2026-11-04T18:50:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

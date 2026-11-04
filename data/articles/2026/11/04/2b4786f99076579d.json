@@ -1,0 +1,19 @@
+{
+ "id": "2b4786f99076579d",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+ "image": "https://github.blog/wp-content/uploads/2026/11/689797142-96dbb0c9-dccb-41f6-8990-acf5c575db04.png",
+ "title": "GitHub Copilot is now available in JetBrains Air",
+ "summary_en": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your…",
+ "lines": [],
+ "title_mn": "GitHub Copilot одоо JetBrains Air орчинд ашиглах боломжтой боллоо",
+ "summary_mn": "JetBrains Air хэрэглэгчид одоо GitHub Copilot-ийг ашиглан кодлох даалгавруудыг гүйцэтгэж, агентын тусламжтайгаар ажиллах боломжтой боллоо.",
+ "body_mn": "GitHub Copilot хэрэгсэл JetBrains Air орчинд албан ёсоор нэгдэж, хөгжүүлэгчдэд код бичих болон даалгавар гүйцэтгэх шинэ боломжийг нээж өглөө. Энэхүү интеграци нь Agent Client Protocol (ACP)-ийг ашигладаг байна.\n\nХөгжүүлэгчид орон нутгийн орчин эсвэл үүлэн дэд бүтцэд суурилсан Docker контейнеруудад Copilot-ийг ашиглан код бүтээх, турших боломжтой болжээ.\n\nҮүлэн дээр ажиллах үед бүх өгөгдөл болон сүлжээний урсгал тусгай проксигоор дамжин аюулгүй байдлыг хангаж, локал орчинд ямар нэгэн өөрчлөлт үлдээхгүйгээр ажилладаг байна.",
+ "published": "2026-11-03T15:11:46Z",
+ "added": "2026-11-04T18:50:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

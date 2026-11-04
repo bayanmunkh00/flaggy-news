@@ -1,0 +1,19 @@
+{
+ "id": "62c7dd578ed2bcaa",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "www.marketscreener.com",
+ "url": "https://www.marketscreener.com/news/sentinelone-inc-announces-integration-with-anthropic-claude-cowork-to-extend-ai-security-coverage-ce785fdedb8af62c",
+ "image": "",
+ "title": "SentinelOne, Inc. Announces Integration With Anthropic Claude Cowork To Extend AI Security Coverage",
+ "summary_en": "SentinelOne, Inc. Announces Integration With Anthropic Claude Cowork To Extend AI Security Coverage www.marketscreener.com",
+ "lines": [],
+ "title_mn": "SentinelOne болон Anthropic хамтран Claude Cowork-ийн аюулгүй байдлыг өргөжүүлнэ",
+ "summary_mn": "SentinelOne компани Anthropic-ийн Claude Cowork системтэй нэгдэж, хиймэл оюун ухааны агентуудын аюулгүй байдлын хамгаалалтыг өргөжүүлж байгаагаа зарлалаа.",
+ "body_mn": "SentinelOne компани Anthropic-ийн Claude Cowork хэрэгсэлтэй интеграци хийснээ зарлаж, байгууллагын түвшний хиймэл оюун ухааны агентуудын аюулгүй байдлын хамгаалалтыг сайжруулахаар болжээ.\n\nЭнэхүү хамтын ажиллагаа нь компаниудад өөрсдийн ашиглаж буй AI агентуудын үйл ажиллагааг хянах, болзошгүй эрсдэлээс хамгаалах боломжийг олгох юм.\n\nClaude Cowork платформын аюулгүй байдлын чадавхыг SentinelOne-ийн дэвшилтэт технологиор өргөжүүлж байгаа нь байгууллагуудад AI-г илүү найдвартай нэвтрүүлэхэд чухал алхам болж байна.",
+ "published": "2026-11-02T19:18:00Z",
+ "added": "2026-11-04T18:50:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
