@@ -1,0 +1,19 @@
+{
+ "id": "f1a111e72742f0df",
+ "section": "vibe",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+ "image": "",
+ "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+ "summary_en": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen 3.8 27B running on my…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T16:29:48Z",
+ "added": "2026-11-05T04:00:44Z",
+ "ai": "",
+ "score": null
+}

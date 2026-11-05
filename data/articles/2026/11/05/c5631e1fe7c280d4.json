@@ -1,0 +1,19 @@
+{
+ "id": "c5631e1fe7c280d4",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png",
+ "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+ "summary_en": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T15:41:53Z",
+ "added": "2026-11-05T04:00:44Z",
+ "ai": "",
+ "score": null
+}

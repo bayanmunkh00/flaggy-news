@@ -1,0 +1,19 @@
+{
+ "id": "4d3938441f216409",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+ "image": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
+ "title": "Palette: teaching a small model to build decks in your design language",
+ "summary_en": "A Blog post by IBM Research on Hugging Face",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T16:35:36Z",
+ "added": "2026-11-05T04:00:44Z",
+ "ai": "",
+ "score": null
+}

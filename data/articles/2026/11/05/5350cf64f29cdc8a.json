@@ -1,0 +1,19 @@
+{
+ "id": "5350cf64f29cdc8a",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCvGJCkYjldhAvsjMo47UqxGOTfVY1zCcjZQzgebkO8j1__fa0cFOn3CAV1jPTUpzwDDISQKPQP5eVGOl9BzRLBX7KlWuU2HMpzuHRWV2wyaItDwYgPu0X7m3qE5V1kgFzKZ1QYcRBcZyDqkUTFberiOWXBfV_-suYC1QQWq_TwBMeyme4F0FsOZnpijhC/s1600/barracuda.png",
+ "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+ "summary_en": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T15:59:19Z",
+ "added": "2026-11-05T04:00:44Z",
+ "ai": "",
+ "score": null
+}
