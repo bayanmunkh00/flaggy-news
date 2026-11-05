@@ -2,226 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "ea6eefa061f4bb48",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Techzine Global",
-   "url": "https://www.techzine.eu/news/privacy-compliance/145505/anthropic-sees-recursive-self-improvement-on-the-horizon/",
-   "image": "",
-   "title": "Anthropic sees recursive self-improvement on the horizon",
-   "summary_en": "Anthropic sees recursive self-improvement on the horizon Techzine Global",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-03T09:41:58Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "dedc6a4cf7a46532",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "The Decoder",
-   "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/Anthropic-Claude-Mario.png",
-   "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
-   "summary_en": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs The Decoder",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-03T09:52:08Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5dac3a74e1afd9f8",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Wccftech",
-   "url": "https://wccftech.com/anthropic-warns-self-improving-ai-milestone-may-be-imminent-as-claude-writes-over-90-of-its-code/",
-   "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-3.jpg",
-   "title": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code.",
-   "summary_en": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. Wccftech",
-   "lines": [],
-   "title_mn": "Anthropic: Кодны 90 гаруй хувийг Claude бичиж байгаа нь өөрөө хөгжих эрсдэл дагуулж болзошгүй",
-   "summary_mn": "Anthropic компани Claude загвар өөрийнх нь кодны дийлэнх хэсгийг бичиж байгааг SEC-ийн тайландаа дурджээ. Энэ нь хиймэл оюун уюу өөрөө өөрийгөө хөгжүүлэх босгод тун дөхөж магадгүйг анхааруулсан байна.",
-   "body_mn": "Anthropic компани АНУ-ын Үнэт цаас, биржийн хороонд (SEC) ирүүлсэн S-1/A тайландаа хиймэл оюун уюу өөрөө өөрийгөө хөгжүүлэх (recursive self-improvement) чухал үе шатанд ойртож магадгүй талаар анхааруулжээ. Тус компанийн дотоод тооцооллоор ирээдүйн загварууд нь удахгүй хариуцлагатай хөгжүүлэлтийн бодлогын хурдасгасан дэвшлийн босгыг давж болзошгүй аж.\n\nЭнэ оны есдүгээр сарын байдлаар Anthropic-ийн кодын сангийн хувь нэмрийн 90 гаруй хувийг Claude загвар бичсэн байна. Гуравдугаар улиралд нэг инженер ногдох өдрийн кодын бүтээмж 2024 оныхоос 45 дахин өссөн нь энэхүү хамаарал хэр зэрэг өндөр байгааг харуулж байна. Гэсэн хэдий ч энэ нь кодны хэмжээг хэмжсэн үзүүлэлт бөгөөд хүний судлаачид судалгааны зорилго тавих болон шинжлэх ухааны шүүлтүүр ашиглахад чухал давуу хэвээр байгаа аж.\n\nКомпанийн зүгээс хөгжүүлэлтийн хурд нь аюулгүй байдал, зохицуулалтын арга хэмжээнээс түрүүлж болзошгүй гэж үзэж байна. Одоогоор Claude загварт хүний хяналтгүйгээр дараагийн үеийн загваруудыг бие даан хөгжүүлэх боломж олгохоор төлөвлөөгүй байгаа ба хяналтыг хадгалах нэмэлт хамгаалалтуудыг авч хэлэлцэж байна.\n\nЭнэхүү дэвшил нь шинжлэх ухааны нээлтүүдийг хурдасгах сайн талтай ч хиймэл оюуны хөгжил хүн төрөлхтний хяналтаас гарах эрсдэлээс сэргийлэх сорилтуудыг дагуулж байна.",
-   "published": "2026-11-03T09:52:17Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ff7d1b20051c1eea",
-   "section": "uiux",
-   "subtopic": "css-web",
-   "source": "Smashing Magazine",
-   "source_label": "Smashing Magazine",
-   "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-   "image": "https://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
-   "title": "Modern CSS Might Make Your Front-End More Complex",
-   "summary_en": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
-   "lines": [],
-   "title_mn": "Орчин үеийн CSS нь фронтенд хөгжүүлэлтийг илүү төвөгтэй болгож байна уу?",
-   "summary_mn": "Орчин үеийн CSS функцууд кодын мөрийг цөөлж байгаа ч кодын суурийг ойлгоход төвөгтэй болгож, JavaScript болон браузерийн үзүүлэлттэй зөрчилдөх эрсдэлтэйг шинжээчид хөнджээ.",
-   "body_mn": "Фронтенд хөгжүүлэгч Габриел орчин үеийн CSS-ийн шинэ боломжууд кодын хэмжээг багасгаж байгаа мэт боловч програм хангамжийн ерөнхий бүтцийг илүү төвөгтэй болгож болзошгүй талаар бичжээ. Бид resizeobserver-ийн оронд container query ашиглан олон мөр JavaScript кодыг цөөн мөр CSS-ээр сольж болох юм.\n\nГэвч хэдэн долоо хоногийн дараа ямар нэг байрлал эвдрэх, толгой хэсэг томрох зэрэг алдаанууд гарч ирэхэд энэ нь шинээр бичсэн CSS-тэй шууд холбоотой байдаг. Энэ нь CSS-ийн шинэ боломж хуучин код болон JavaScript-тэй хэрхэн зохицож байгаагаас шалтгаалдаг.\n\nЭнэхүү сэдэв нь хөгжүүлэгчдийн дунд маргаан дагуулж байгаа бөгөөд фронтенд фрэймворкууд заримдаа хэрэгтэйгээсээ илүү төвөгтэй байдлыг бий болгодог гэж үзэх хүмүүс ч байна. Уугуул шийдэл нь өмнөх кодыг бүрэн орлож, бусад системтэйгээ зөрчилдөхгүй байж гэмээнэ төвөгтэй байдлыг багасгадаг байна.",
-   "published": "2026-11-03T10:00:00Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7e32236ffb1f197a",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "marketscreener.com",
-   "url": "https://www.marketscreener.com/news/crowdstrike-integrates-falcon-guardian-security-into-anthropic-s-claude-cowork-ce785fd9d188ff24",
-   "image": "",
-   "title": "CrowdStrike Integrates Falcon Guardian Security Into Anthropic's Claude Cowork",
-   "summary_en": "CrowdStrike Integrates Falcon Guardian Security Into Anthropic's Claude Cowork marketscreener.com",
-   "lines": [],
-   "title_mn": "CrowdStrike аюулгүй байдлын Falcon Guardian системийг Anthropic-ийн Claude Cowork-т нэгтгэлээ",
-   "summary_mn": "CrowdStrike компани өөрийн Falcon Guardian аюулгүй байдлын шийдлийг Anthropic-ийн Claude Cowork орчинд нэгтгэж эхэлснийг зарлав.",
-   "body_mn": "CrowdStrike компани кибер аюулгүй байдлын Falcon Guardian системийг Anthropic-ийн Claude Cowork хэрэгсэлд нэгтгэснээр хиймэл оюуны агентуудын үйл ажиллагааг хянах, аюулгүй байдлыг хангах боломжийг бүрдүүллээ. Энэхүү хамтын ажиллагаа нь хиймэл оюуны хэрэглээ өргөжиж буй энэ үед байгууллагын аюулгүй байдлын түвшнийг өндөр хэмжээнд байлгахад чиглэгдэж байна.",
-   "published": "2026-11-03T10:01:03Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "ba75c9c0d2d05edb",
-   "section": "ai",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "YourStory.com",
-   "url": "https://yourstory.com/ai-story/gpt-6-astra-boosts-qwen-maths-skills",
-   "image": "https://images.yourstory.com/cs/286/07f6d7f0ed8e11ed819979969b4b51e2/AInews2-1793697083312.jpg",
-   "title": "GPT-6 Astra helps MIT researchers improve Alibaba’s Qwen maths skills",
-   "summary_en": "GPT-6 Astra helps MIT researchers improve Alibaba’s Qwen maths skills YourStory.com",
-   "lines": [],
-   "title_mn": "MIT-ийн судлаачид GPT-6 Astra ашиглан Alibaba-гийн Qwen загварын математикийн чадварыг сайжруулжээ",
-   "summary_mn": "MIT-ийн судлаачид OpenAI-ийн GPT-6 Astra загварыг ашиглан Alibaba-гийн Qwen загварын дотоод тохиргоонд шууд өөрчлөлт оруулан математикийн гүйцэтгэлийг нь эрс сайжрууллаа.",
-   "body_mn": "Массачусетсийн Технологийн Их Сургуулийн (MIT) судлаачид хиймэл оюуны нэг загвар өөр нэг загварын дотоод тохиргоо буюу жинг шууд өөрчлөх замаар дахин сургалт хийхгүйгээр гүйцэтгэлийг сайжруулж болохыг харууллаа. Туршилтаар OpenAI-ийн GPT-6 Astra загварыг ашиглан Alibaba-гийн Qwen3.5-0.8B загварын дотоод жинг өөрчилсөн байна.\n\nУг арга нь Weights-Space Programming буюу жингийн орон зайн програмчлал нэртэй бөгөөд Qwen загвар математикийн бодлого бодох явцдаа давталттай гогцоонд орж гацдаг сул талыг илрүүлжээ. Нийт 800 сая жинтэй загварын ердөө 0.016 хувь буюу 131,072 жинг өөрчлөхөд хангалттай байсан аж.\n\nҮр дүнд нь MATH-500 тест дэх оноо 7.9 хувиас 48.1 хувь болж өссөн бол GSM8K тест дэх гүйцэтгэл 13.8 хувиас 67.1 хувьд хүрсэн байна. Энэ нь хиймэл оюун ухаан шинээр дахин сургалт явуулахгүйгээр бусад загварын алдааг олж засварлах шинэ боломж нээж болохыг харуулж байна.",
-   "published": "2026-11-03T10:14:44Z",
-   "added": "2026-11-03T16:00:52Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7ce48e1763bf7fe8",
-   "section": "trend",
-   "subtopic": "tech-trend",
-   "source": "Hacker News",
-   "source_label": "Hacker News",
-   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-2560x1440.jpg",
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "summary_en": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 194 # Comments: 76",
-   "lines": [],
-   "title_mn": "Fujifilm хиймэл оюуны өсөлттэй холбоотойгоор соронзон туузны үйлдвэрлэлээ 5 дахин нэмэгдүүлнэ",
-   "summary_mn": "Fujifilm компани хиймэл оюуны өгөгдлийн асар их өсөлтөөс үүдэлтэй архивлалтын эрэлтийг хангахын тулд Канагава дахь үйлдвэрлэлийн хүчин чадлаа тав дахин нэмэгдүүлэхээр 10 тэрбум иенийн хөрөнгө оруулалт хийхээр болжээ.",
-   "body_mn": "Хиймэл оюуны технологи эрчимтэй хөгжиж, дэлхий даяар өгөгдлийн хэмжээ огцом өсөж байгаатай холбоотойгоор Fujifilm компани соронзон тууз (magnetic tape) үйлдвэрлэлийн хүчин чадлаа 5 дахин өсгөхөөр болсноо зарлалаа. Тус компани 2026-2028 оны санхүүгийн жилүүдэд Канагава дахь үйлдвэртээ ойролцоогоор 10 тэрбум иен буюу 63 сая ам.долларын хөрөнгө оруулалт хийхээр төлөвлөжээ.\n\nЭнэхүү хөрөнгө оруулалт нь голчлон хамгийн сүүлийн үеийн \"FUJIFILM LTO Ultrium10\" өгөгдөл хадгалах туузыг үйлдвэрлэхэд зориулагдах бөгөөд үүлэн тооцооллын аварга компаниуд болон дата төвүүд зардал багатай, найдвартай архивлалтын шийдэл болгон соронзон туузыг өргөнөөр ашигласаар байна.\n\nМөн соронзон тууз нь цахим халдлага, тэр дундаа ransomware зэрэг аюулаас өгөгдлийг хамгаалах сүүлийн шугам буюу офлайн байдлаар хадгалах боломжтойгоороо кибер аюулгүй байдлын салбарт дахин анхаарал татаж эхэлжээ.",
-   "published": "2026-11-02T14:02:42Z",
-   "added": "2026-11-03T17:44:36Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "63945bc794809749",
-   "section": "ai",
-   "subtopic": "ai-news",
-   "source": "Hugging Face",
-   "source_label": "Hugging Face",
-   "url": "https://huggingface.co/blog/cwe-bench",
-   "image": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
-   "title": "CWE-bench v2: More coverage, quality, and transparency",
-   "summary_en": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-   "lines": [],
-   "title_mn": "Collinear AI компани CWE-bench v2 үнэлгээний шинэчилсэн хувилбарыг гаргажээ",
-   "summary_mn": "Collinear AI компани хиймэл оюуны кибер аюулгүй байдлын чадавхыг сориход зориулсан CWE-bench v2 benchmark-ийг олон нийтэд нээлттэй болголоо. Энэхүү шинэ хувилбарт 100 даалгавар багтаж, загваруудын код дахь сул талыг олох чадварыг шалгадаг.",
-   "body_mn": "Collinear AI компаниас хиймэл оюуны хөгжүүлэлтийн дэвшилтэт чадварыг шалгахад зориулсан CWE-bench v2 хувилбарыг танилцууллаа. Энэхүү олон нийтэд нээлттэй багц нь бодит нээлттэй эх сурвалж бүхий репозиторуудаас бүрдэх бөгөөд AI агент ямар нэгэн функц эвдэхгүйгээр программ хангамжийн сул талыг олж засварлах чадварыг үнэлдэг байна.\n\nШинэ хувилбар нь 91 өөр төрлийн сул талыг хамарсан 100 даалгаврыг багтаасан бөгөөд үр дүнг автоматжуулсан байдлаар ямар ч нэмэлт зардлаар шалгах боломжтой. Үнэлгээний үр дүнгээс харахад Gemini 4 Argon болон Claude Opus 5.5 зэрэг загварууд тэргүүлж байгаа аж.\n\nЭнэхүүbenchmark-ийн хүрээлэн буй орчин болон шалгуур хэрэгслүүдийг Harbor ашиглан шууд ажиллуулах боломжтой бөгөөд цаашид хамгаалалтын агентуудыг сургахад ч ашиглах боломжтой юм.",
-   "published": "2026-11-03T00:00:00Z",
-   "added": "2026-11-03T17:44:36Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "052ecc9fd4745c9e",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1V9G8MOlvglqgShUthjNtu/44c1c1315edd57a8e31804ec873e45dd/customer_story_og_image_og_card.jpg",
-   "title": "How OpenEvidence scales medical search for 650K doctors",
-   "summary_en": "OpenEvidence on Vercel Serves 650,000 doctors with medical search Completes production deployments in about five minutes Absorbs traffic spikes without additional capacity provisioning Reduced serverless spend by 90% with Fluid compute Updates doctor- and patient-facing applications independently OpenEvidence helps physicians find medical evidence during care, whether they’re checking a dosage on intensive care rounds or handling a case outside their specialty without a specialist nearby. Answers draw on peer-reviewed literature and include citations, so doctors can examine the sources…",
-   "lines": [],
-   "title_mn": "OpenEvidence платформ Vercel ашиглан 650,000 эмчид анагаах ухааны хайлт хүргэж байна",
-   "summary_mn": "Эмч нарт зориулсан анагаах ухааны хайлтын систем OpenEvidence нь Vercel платформын тусламжтайгаар серверлесс зарцуулалтаа 90 хувиар бууруулж, сая сая хэрэглэгчдийн ачааллыг амжилттай давж байна.",
-   "body_mn": "OpenEvidence нь эмч нар болон эрүүл мэндийн мэргэжилтнүүдэд эмнэлзүйн нотолгоо, судалгааны материалыг шуурхай олоход тусалдаг платформ юм. Тус систем нь 650,000 гаруй эмчид үйлчилдэг бөгөөд 2025 онд 100 сая гаруй өвчтөнийг эмчлэхэд хувь нэмэр оруулжээ.\n\nЭмнэлгийн шийдвэр гаргахад тусалдаг энэхүү программ хангамжийн хувьд найдвартай ажиллагаа болон хурд маш чухал байдаг. OpenEvidence баг Next.js фрэймворк болон Vercel платформыг ашигласнаар хөгжүүлэлтийн явцад шинэ боломжуудыг хялбархан туршиж, продакшнд богино хугацаанд нэвтрүүлдэг байна.\n\nMun мөн TikTok дээр гэнэт вирус болж хандалт нь эрс өссөн үед ч ямар нэгэн нэмэлт нөөц төлөвлөлгүйгээр серверлесс тооцооллын тусламжтайгаар хурдан бөгөөд алдаагүй ажиллаж чадсан байна. Энэ нь серверлесс зардлыг 90%-иар бууруулахад тусалжээ.",
-   "published": "2026-11-03T00:00:00Z",
-   "added": "2026-11-03T17:44:36Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "1758f68afa54b9c4",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3MaKYmvnGD325MooTB4FLl/a0e0e0fc99d41615a5ad1a797c159b38/customer_story_og_image_og_card.jpg",
-   "title": "How Zapier turns ideas into working software in hours with Vercel",
-   "summary_en": "Zapier on Vercel Interactive partner demos in under two hours with v0, replacing a process that could take weeks First versions of three internal applications, each built in one day A shared daily briefing for more than 60 marketers, replacing individual efforts to assemble the same information 3.3 million sandboxes created in one month, isolating the code execution behind Zapier’s AI workloads Before the industry had a word for agents, Zapier was building them. Today Zapier is the AI orchestration platform connecting AI to the workflows, data, and systems businesses use every day. Zapier…",
-   "lines": [],
-   "title_mn": "Zapier компани Vercel ашиглан программ хангамж бүтээх хугацаагаа хэдхэн цаг болгон богиносголоо",
-   "summary_mn": "Zapier компани v0 болон Vercel платформыг ашиглан түншүүдийн демо болон дотоод аппликейшн бүтээх явцыг хэдэн долоо хоногоос хэдхэн цаг болгон хурдасгажээ.",
-   "body_mn": "Хиймэл оюуны урсгал болон бизнесийн системүүдийг холбогч Zapier компани Vercel платформыг ашиглан дотоод бүтээмж болон түншүүдтэй хамтран ажиллах хурдаа эрс сайжруулжээ. Тус компани олон төрлийн интерактив демо болон дотоод хэрэгцээний аппликейшнүүдийг Vercel дээр хөгжүүлдэг байна.\n\nЖишээлбэл, Powered by Zapier баг нь v0 хэрэгслийг ашиглан түнш компаниудад зориулсан интерактив прототипийг хэдхэн цагийн дотор бүтээдэг болжээ. Өмнө нь энэ ажилд хэдэн долоо хоног зарцуулагддаг байсан юм.\n\nМөн маркетинг болон бусад багууд код бичих туршлагагүйгээр дотоод мэдээллийн сан, аппликейшн бүтээж, Vercel-ийн аюулгүй байдлын хяналтын дор хамтран ажиллах боломжтой болсон байна.",
-   "published": "2026-11-03T04:00:00Z",
-   "added": "2026-11-03T17:44:36Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "9f8ab173fb9513a1",
    "section": "software",
    "subtopic": "vercel-cloud",
@@ -1079,6 +859,28 @@
    "added": "2026-11-04T18:50:25Z",
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cfdc6c623a244827",
+   "section": "hacker",
+   "subtopic": "bug-bounty",
+   "source": "Medium bug bounty writeup",
+   "source_label": "Medium bug bounty writeup",
+   "url": "https://abdelnasserr.medium.com/stealing-app-internal-files-via-intent-redirection-to-insecure-webview-9defd06aa0c6?source=rss------bug_bounty_writeup-5",
+   "image": "https://cdn-images-1.medium.com/max/600/1*OgonCyqohSPb-4UH6NOz6w.png",
+   "title": "Stealing App Internal Files via Intent Redirection to Insecure WebView",
+   "summary_en": "بِسْمِ اَللَّهِ وَالْحَمْدِ لِلَّهِ الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ وَالصَّلَاةَ وَالسَّلَامَ عَلَى… Continue reading on Medium »",
+   "lines": [],
+   "title_mn": "Intent redirection ашиглан аппликейшний дотоод файлуудыг хулгайлах нь",
+   "summary_mn": "Android аппликейшний аюулгүй байдлын сул талыг ашиглан Intent redirection болон найдваргүй WebView-ээр дамжуулан дотоод файлуудад хандах халдлагын шинэ судалгаа нийтлэгдлээ.",
+   "body_mn": "Medium дээр Android болон гар утасны аюулгүй байдлын чиглэлээр шинэ эмзэг байдлын судалгаа нийтлэгдсэн байна. Энэхүү судалгаагаар хөгжүүлэгчид Intent redirection буюу хүсэлтийг буруу тийш чиглүүлэх болон аюулгүй байдлын шаардлага хангаагүй WebView бүрэлдэхүүн хэсгийг хослуулан ашигласнаар аппликейшний дотоод файлуудад хэрхэн зөвшөөрөлгүйгээр хандах боломжтойг харуулжээ.\n\nСудалгааны хүрээнд хакерууд хэрхэн хортой intent илгээж, эмзэг WebView-ээр дамжуулан чухал өгөгдөл хулгайлж болохыг практик жишээн дээр тайлбарласан байна. Энэ төрлийн сул тал нь гар утасны аппликейшн хөгжүүлэлтэд оролцож буй инженерүүдээс оролт боловсруулах түвшинд илүү хатуу хяналт тавих шаардлагатайг сануулж байна.\n\nЭнэхүү writeup нь аюулгүй байдлын судлаачид болон хөгжүүлэгчдэд өөрсдийн бүтээгдэхүүнд ижил төстэй сул тал байгаа эсэхийг шалгах, хамгаалалтаа сайжруулахад чухал гарын авлага болж байна.",
+   "published": "2026-11-03T15:20:26Z",
+   "added": "2026-11-05T00:18:38Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
   }
  }
 ]

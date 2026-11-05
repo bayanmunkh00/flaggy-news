@@ -1,0 +1,19 @@
+{
+ "id": "cfdc6c623a244827",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://abdelnasserr.medium.com/stealing-app-internal-files-via-intent-redirection-to-insecure-webview-9defd06aa0c6?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/600/1*OgonCyqohSPb-4UH6NOz6w.png",
+ "title": "Stealing App Internal Files via Intent Redirection to Insecure WebView",
+ "summary_en": "بِسْمِ اَللَّهِ وَالْحَمْدِ لِلَّهِ الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ وَالصَّلَاةَ وَالسَّلَامَ عَلَى… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Intent redirection ашиглан аппликейшний дотоод файлуудыг хулгайлах нь",
+ "summary_mn": "Android аппликейшний аюулгүй байдлын сул талыг ашиглан Intent redirection болон найдваргүй WebView-ээр дамжуулан дотоод файлуудад хандах халдлагын шинэ судалгаа нийтлэгдлээ.",
+ "body_mn": "Medium дээр Android болон гар утасны аюулгүй байдлын чиглэлээр шинэ эмзэг байдлын судалгаа нийтлэгдсэн байна. Энэхүү судалгаагаар хөгжүүлэгчид Intent redirection буюу хүсэлтийг буруу тийш чиглүүлэх болон аюулгүй байдлын шаардлага хангаагүй WebView бүрэлдэхүүн хэсгийг хослуулан ашигласнаар аппликейшний дотоод файлуудад хэрхэн зөвшөөрөлгүйгээр хандах боломжтойг харуулжээ.\n\nСудалгааны хүрээнд хакерууд хэрхэн хортой intent илгээж, эмзэг WebView-ээр дамжуулан чухал өгөгдөл хулгайлж болохыг практик жишээн дээр тайлбарласан байна. Энэ төрлийн сул тал нь гар утасны аппликейшн хөгжүүлэлтэд оролцож буй инженерүүдээс оролт боловсруулах түвшинд илүү хатуу хяналт тавих шаардлагатайг сануулж байна.\n\nЭнэхүү writeup нь аюулгүй байдлын судлаачид болон хөгжүүлэгчдэд өөрсдийн бүтээгдэхүүнд ижил төстэй сул тал байгаа эсэхийг шалгах, хамгаалалтаа сайжруулахад чухал гарын авлага болж байна.",
+ "published": "2026-11-03T15:20:26Z",
+ "added": "2026-11-05T00:18:38Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
