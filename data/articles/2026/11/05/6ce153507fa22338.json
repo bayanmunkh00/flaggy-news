@@ -1,0 +1,19 @@
+{
+ "id": "6ce153507fa22338",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.43.0",
+ "image": "https://opengraph.githubassets.com/e3f3f9019cb06613b071e6fd9e4c6213287b1e01961a70e1894dca514d67cd9a/openai/openai-python/releases/tag/v3.43.0",
+ "title": "openai-python v3.43.0",
+ "summary_en": "3.43.0 (2026-11-03) Features api: expand Live Responses delegation tools ( #4233 ) ( f6e8480 ) responses: accumulate rich WebSocket progress ( #4224 ) ( 48cdad3 ) responses: add WebSocket lane overflow isolation ( #4225 ) ( 16bdad1 ) Chores deps: bump actions/setup-node from 4.4.0 to 7.1.0 ( #4229 ) ( abbfb27 ) deps: bump actions/setup-python from 7.0.0 to 7.1.0 ( #4232 ) ( 49f9a59 ) deps: bump pypa/gh-action-pypi-publish from 1.14.2 to 1.14.3 ( #4228 ) ( f43f29b )",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T18:05:44Z",
+ "added": "2026-11-05T07:18:58Z",
+ "ai": "",
+ "score": null
+}

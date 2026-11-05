@@ -1,0 +1,19 @@
+{
+ "id": "8d86676710497099",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/allenai/statebench",
+ "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
+ "title": "StateBench: Testing how language models track state changes over long documents",
+ "summary_en": "A Blog post by Ai2 on Hugging Face",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T17:15:21Z",
+ "added": "2026-11-05T07:18:58Z",
+ "ai": "",
+ "score": null
+}

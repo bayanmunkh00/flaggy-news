@@ -1,0 +1,19 @@
+{
+ "id": "d72e2316abd8ac03",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6TBLiyunUHOsnzTtW2EwQw/e56fc3a30e3546bd26834529383ac69f/image__64_.png",
+ "title": "Vercel CI no longer requires a linked Vercel project",
+ "summary_en": "Vercel CI can now run on a GitHub repository that has no Vercel project. Until now you had to create an empty project just to connect the repository. To enable it, you need: The Vercel GitHub App installed with access to the repository Your GitHub account connected to your Vercel account Write or admin permission on the repository Then, from a clone of the repository, run: CI is enabled for the team your CLI is set to. Pass --scope <team> to use a different one. From the next push, tasks run as configured in your repository. Private GitHub repositories only. Public repositories and other Git…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T18:00:00Z",
+ "added": "2026-11-05T07:18:58Z",
+ "ai": "",
+ "score": null
+}
