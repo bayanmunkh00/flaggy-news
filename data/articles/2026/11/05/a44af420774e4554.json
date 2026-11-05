@@ -1,0 +1,19 @@
+{
+ "id": "a44af420774e4554",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2tlcRn6BrKMsBOUba3hFub/8723cf68a4fdc428f597a31abc14b13d/image__63_.png",
+ "title": "Vercel Security Review now in public beta",
+ "summary_en": "Vercel Security Review is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are reported in the Vulnerabilities dashboard . What triggers a review Security Review runs automatically when code is pushed to a connected GitHub repository. Because reviews start from push events rather than pull requests, direct and force pushes to your production branch are reviewed as well. Every project affected by a single push is reviewed together. What a finding includes Each finding records…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T20:00:00Z",
+ "added": "2026-11-05T15:46:42Z",
+ "ai": "",
+ "score": null
+}

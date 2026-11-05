@@ -1,0 +1,19 @@
+{
+ "id": "4c700a9925383864",
+ "section": "software",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v15.5.29",
+ "image": "https://opengraph.githubassets.com/92f43d19c1336ebff4b1214fb8e5c354279dcea6285406635b1f94f868ec02d7/vercel/next.js/releases/tag/v15.5.29",
+ "title": "next.js v15.5.29",
+ "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js image optimization HttpOnly cookie exposure through internal response header on Next.js Edge runtime routes",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T18:38:27Z",
+ "added": "2026-11-05T15:46:42Z",
+ "ai": "",
+ "score": null
+}

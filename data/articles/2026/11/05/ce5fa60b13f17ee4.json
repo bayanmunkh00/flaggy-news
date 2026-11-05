@@ -1,0 +1,19 @@
+{
+ "id": "ce5fa60b13f17ee4",
+ "section": "software",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.5",
+ "image": "https://opengraph.githubassets.com/60001ec6e065d15ea99699c8c3130f30e7a6ca7f40011b7ac95945470aa112a3/vercel/next.js/releases/tag/v16.4.5",
+ "title": "next.js v16.4.5",
+ "summary_en": "This release contains security fixes for the following advisories: Moderate Cross-tenant sensitive information disclosure in Next.js 'use cache' when called through unstable_cache Cache leak across root param values in nested 'use cache' functions (follow-up) Cache poisoning of shared fallback shells in Cache Components via request-supplied placeholder route params Cross-user cache disclosure and poisoning in Next.js use cache with binary arguments Cross-client response injection and disclosure in self-hosted Next.js applications forwarding fetched responses SVG rejection bypass in Next.js…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T18:38:39Z",
+ "added": "2026-11-05T15:46:42Z",
+ "ai": "",
+ "score": null
+}

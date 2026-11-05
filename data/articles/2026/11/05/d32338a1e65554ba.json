@@ -1,0 +1,19 @@
+{
+ "id": "d32338a1e65554ba",
+ "section": "software",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.2.2",
+ "image": "https://opengraph.githubassets.com/85ba554c51219a2b200b4ca252ebf8a170e2bf0f0707f92b7c16fe7830bcdb83/electron/electron/releases/tag/v45.2.2",
+ "title": "electron v45.2.2",
+ "summary_en": "Release Notes for v45.2.2 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55571 (Also in 43 , 44 , 46 ) Fixed removeInsertedCSS() not removing cssOrigin: 'user' stylesheets. #55538 (Also in 46 ) Other Changes Updated Chromium to 156.0.8078.80. #55512 Updated Node.js to v24.22.2. #55474",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T19:31:31Z",
+ "added": "2026-11-05T15:46:42Z",
+ "ai": "",
+ "score": null
+}

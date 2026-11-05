@@ -1,0 +1,19 @@
+{
+ "id": "8d4357c4fd1cd453",
+ "section": "software",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v44.10.2",
+ "image": "https://opengraph.githubassets.com/1fb5e9257b9742539953cd01e62ff1b439f1a4869c2817e2f71b77b2ec987c2a/electron/electron/releases/tag/v44.10.2",
+ "title": "electron v44.10.2",
+ "summary_en": "Release Notes for v44.10.2 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55572 (Also in 43 , 45 , 46 ) Other Changes Backported fixes from upstream ANGLE, Chromium, libaom, libvpx, PDFium, Skia, V8 and WebRTC. #55515 Updated Node.js to v24.22.2. #55473",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T18:56:47Z",
+ "added": "2026-11-05T15:46:42Z",
+ "ai": "",
+ "score": null
+}

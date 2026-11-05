@@ -1,0 +1,19 @@
+{
+ "id": "a064bbfd00a70046",
+ "section": "software",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v43.8.7",
+ "image": "https://opengraph.githubassets.com/fcf86544157e945a3f0e9e328a21f9003abd30a2495b596099be140ef1c11aaf/electron/electron/releases/tag/v43.8.7",
+ "title": "electron v43.8.7",
+ "summary_en": "Release Notes for v43.8.7 Fixes Fixed a crash when using hidden window as the parent in Wayland. #55569 (Also in 44 , 45 , 46 )",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-03T18:56:48Z",
+ "added": "2026-11-05T15:46:42Z",
+ "ai": "",
+ "score": null
+}
