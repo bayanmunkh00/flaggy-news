@@ -1,0 +1,19 @@
+{
+ "id": "456edf6ab40f52b4",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Business Insider",
+ "url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+ "image": "https://i.insider.com/6aea5c61cd2cd3a46a0f0872?width=1200&format=jpeg",
+ "title": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup",
+ "summary_en": "Top Anthropic product leader Cat Wu, one of the faces of Claude Code, has left the startup Business Insider",
+ "lines": [],
+ "title_mn": "Anthropic-ийн бүтээгдэхүүний удирдлага, Claude Code-ийн гол хүн Cat Wu компаниа орхижээ",
+ "summary_mn": "Claude Code хэрэгслийг хөгжүүлж, олны танил болгоход чухал үүрэг гүйцэтгэсэн Anthropic-ийн бүтээгдэхүүний тэргүүн менежер Cat Wu компаниасаа гарчээ. Тэрээр энэ тухай Мягмар гарагт X хуудсаараа дамжуулан мэдэгдсэн байна.",
+ "body_mn": "Anthropic компанийн гол бүтээгдэхүүнүүдийн нэг болох Claude Code хэрэгслийг ард нь удирдаж байсан бүтээгдэхүүний тэргүүн менежер Cat Wu баасан гарагт компаниа орхисон байна. Тэрээр энэ тухай Мягмар гарагт олон нийтийн сүлжээнд бичиж, Claude Code-ийн баг болон хэрэглэгчдэд талархал илэрхийлжээ.\n\nCat Wu нь уг хэрэгслийг анх үүсгэн байгуулагч Boris Cherny-тэй хамт компаниа төлөөлөн олон нийтэд сурталчлах гол хүмүүсийн нэг байсан юм. Тэдний удирдлага дор Claude Code нь програм хангамжийн инженерүүдийн өдөр тутмын ажлыг хөнгөвчилсөн хиймэл оюун ухааны түүхэн дэх хамгийн чухал бүтээгдэхүүнүүдийн нэг болон хувирсан билээ. Тус хэрэгслийн амжилт нь Anthropic компанид орлогоо өсгөх, тооцооллын хүчин чадлын санхүүжилт татах том түлхэц болсон юм.\n\nWu ямар шалтгаанаар компаниа орхиж байгаагаа тодорхой дурдаагүй бөгөөд Anthropic компани түүний явсныг албан ёсоор баталжээ. Энэхүү өөрчлөлт нь тус компани ойрын үед хийхээр төлөвлөж буй анхдагч олон нийтийн хувьцаа гаргах (IPO) чухал цаг үетэй давхцаж байна.",
+ "published": "2026-11-03T23:55:00Z",
+ "added": "2026-11-06T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

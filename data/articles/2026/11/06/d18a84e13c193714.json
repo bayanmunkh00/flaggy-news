@@ -1,0 +1,19 @@
+{
+ "id": "d18a84e13c193714",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-ai-getting-cheaper-thats-215017576.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/a2ad201a5b75159e5fa6a6d71cb8ef5fb4f179eb27de1c9f6bb0b25dade141b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F5636b8d864f5a9ed1a35dea1d31b775c.jpg",
+ "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+ "summary_en": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business Yahoo Finance",
+ "lines": [],
+ "title_mn": "Anthropic компанийн хиймэл оюун ухааны хэрэглээ хямдарч байгаа нь бизнест сорилт болж байна",
+ "summary_mn": "Anthropic компани Claude загваруудынхаа үнийг бууруулж, илүү хямд болгосон нь хэрэглээг өсгөж байгаа хэдий ч серверийн зардал өссөөр байгаа тул санхүүгийн үзүүлэлтүүдэд нь сорилт үүсгэж байна.",
+ "body_mn": "Anthropic компани өөрийн Claude хиймэл оюун ухааны загваруудын үнийг бууруулж, хэрэглэгчдэд илүү хүртээмжтэй болгосон хэдий ч энэ нь тус компанийн санхүүд тодорхой сорилтуудыг авчирч байна. Компанийн гаргасан тайлангаас үзэхэд үнийн бууралт болон гэрээний хөнгөлөлтүүд нь орлогын өсөлтийг тодорхой хэмжээгээр хязгаарлажээ.\n\nҮүний зэрэгцээ тооцоолол болон дэд бүтцийн зардал өмнөх улирлаас мэдэгдэхүйц өсөж, орлогоосоо давсан үзүүлэлттэй гарсан байна. Anthropic шинээр гаргасан Claude Opus 5.5 болон Haiku 5.5 загваруудаараа дамжуулан хэрэглэгчдийн даалгаврын өртгийг бууруулах бодлого баримталж байгаа бөгөөд энэ нь хэрэглэгчдийн хэрэглээг улам бүр өргөжүүлэх зорилготой аж.\n\nГэсэн хэдий ч компани дэд бүтцийн хүчин чадлыг урьдчилан захиалах шаардлагатай байдаг тул зардлаа тооцоолох тал дээр томоохон үүрэг хүлээж байна. Хэдийгээр Claude-ийн эрэлт өндөр хэвээр байгаа ч Anthropic загваруудынхаа өртгийг тэдгээрийг ажиллуулах дэд бүтцийн зардлаас илүү хурдан бууруулж чадах эсэх нь анхаарал татсан асуудал болоод байна.",
+ "published": "2026-11-03T21:50:17Z",
+ "added": "2026-11-06T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "dfb551037908ec28",
+ "section": "software",
+ "subtopic": "node",
+ "source": "Node.js Blog",
+ "source_label": "Node.js Blog",
+ "url": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+ "image": "https://nodejs.org/en/next-data/og/vulnerability/Node.js%20%E2%80%94%20Wednesday,%20November%2011,%202026%20Security%20Releases",
+ "title": "Wednesday, November 11, 2026 Security Releases",
+ "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+ "lines": [],
+ "title_mn": "Node.js 11 дүгээр сарын аюулгүй байдлын шинэчлэлт гаргахаар зарлав",
+ "summary_mn": "Node.js төсөл 26.x, 24.x болон 22.x хувилбаруудад зориулсан аюулгүй байдлын шинэчлэлтийг энэ сарын 11-нд гаргахаа мэдэгдлээ. Энэхүү шинэчлэлтээр өндөр буюу HIGH эрсдэлтэй эмзэг байдлуудыг засварлах ажээ.",
+ "body_mn": "Node.js төслийн баг 26.x, 24.x, болон 22.x хувилбарын шугамуудад зориулсан шинэ шинэчлэлтүүдийг 2026 оны 11 дүгээр сарын 11-ний өдөр буюу түүнтэй ойролцоогоор гаргахаар төлөвлөж байна. Энэхүү шинэчлэлтээр засагдаж буй хамгийн өндөр түвшний асуудал нь HIGH буюу өндөр зэрэглэлтэй байх юм.\n\nХөгжүүлэгчид болон систем админуудад зориулан гаргаж буй энэхүү мэдэгдэлд ашиглалтын хугацаа нь дууссан (EOL) хувилбарууд аюулгүй байдлын шинэчлэлт авахаа больдгийг сануулжээ. Тиймээс системээ найдвартай байлгахын тулд албан ёсны хуваарийн дагуу хамгийн сүүлийн үеийн дэмжигдсэн хувилбар руу шилжих шаардлагатай.\n\nШинэчлэлтүүд гармагц Node.js-ийн албан ёсны сувгуудаар дамжуулан татаж авах боломжтой болно. Мөн хэрэглэгчид аюулгүй байдлын мэдээллийг цаг алдалгүй авахын тулд nodejs-sec мэдээллийн жагсаалтад бүртгүүлэх боломжтой юм.",
+ "published": "2026-11-03T23:00:00Z",
+ "added": "2026-11-06T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
