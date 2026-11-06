@@ -1,0 +1,19 @@
+{
+ "id": "70125f96ba822381",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+ "image": "https://opengraph.githubassets.com/fb444ca8a63df3d86261007d4a1089268e36ab3f46a2ab0aacf2a9266caed703/anthropics/claude-code/releases/tag/v2.1.318",
+ "title": "claude-code v2.1.318",
+ "summary_en": "What's changed Added a record of your answer when Claude Code asks to turn on the mods it writes in a session Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer AWS cost attribution Added an effort option to a mod's $.model.fork , so a quick side job can run at low whatever effort the session uses; the result reports the effort sent Added the date a stored claude.ai sign-in ends to claude auth status ( loginExpiresAt ) and to claude -p JSON results ( credential_expires_at ) Added a one-line stderr warning to claude -p…",
+ "lines": [],
+ "title_mn": "claude-code v2.1.318 хувилбар шинэ боломжуудтайгаар гарлаа",
+ "summary_mn": "Claude Code хэрэгслийн шинэ хувилбарт AWS зарцуулалтын хуваарилалт, сессийн сайжруулалт болон олон алдаа засвар оржээ.",
+ "body_mn": "Claude Code хэрэгслийн v2.1.318 хувилбар шинэчлэгдэн гарч, хөгжүүлэгчдэд зориулсан олон шинэ боломж нэмэгдлээ. Тухайлбал AWS орчин дахь хөгжүүлэгчийн зардлын хуваарилалтыг хянах зорилгоор mantle upstreams дээр assume_role нэмэгдсэн байна.\n\nMөн бага болон их хүчин чадал шаардсан ажлуудыг ялгаж ажиллах effort сонголтыг нэвтрүүлжээ. Энэхүү шинэчлэлтээр сесс хадгалах явц дахь зарим алдаануудыг зассан бөгөөд macOS орчинд олон команд зэрэг ажиллах үед гаудаг гацалтыг арилгасан байна.\n\nХөгжүүлэгчдийн ажиллах тав тухыг сайжруулах үүднээс хэрэглэгчийн эрх баталгаажуулалт болон тохиргооны хадгалалттай холбоотой алдаануудыг бүрэн зассан нь уг хувилбарын гол онцлог юм.",
+ "published": "2026-11-04T00:01:03Z",
+ "added": "2026-11-06T09:48:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

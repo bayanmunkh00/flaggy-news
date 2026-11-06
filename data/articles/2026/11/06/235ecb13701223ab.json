@@ -1,0 +1,19 @@
+{
+ "id": "235ecb13701223ab",
+ "section": "software",
+ "subtopic": "packages",
+ "source": "Frontend Focus",
+ "source_label": "Frontend Focus",
+ "url": "https://frontendfoc.us/issues/765",
+ "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1793796147/eduaw5bendeycfhsuy0l.png",
+ "title": "Safari will 'dark mode' your site for you",
+ "summary_en": "🚀 Frontend Focus #​765 — November 4, 2026 | Read on the web Safari Introduces Adaptive Dark Mode — A new (opt-in) feature added to the Safari 27.3 beta that automatically adapts light sites to dark ones. It's here because although around 40% of pages are loaded by users using dark mode, only 10% of page loads directly support it. WebKit Agents Didn’t Clear Your Plate. They Dumped Reviews on It — Your agents write PRs in minutes, then eat your afternoon in review. When did ‘saving time’ start to mean babysitting agents’ work? Meticulous verifies every UI change, with no developer effort. Devs…",
+ "lines": [],
+ "title_mn": "Safari-ын бараан горим болон front-end хөгжүүлэлтийн шинэчлэлтүүд",
+ "summary_mn": "Safari 27.3 хувилбар сайтад автоматаар бараан горим оруулах функцийг туршиж эхэлсэн бөгөөд CSS болон вэб платформд олон шинэчлэлт хийгдлээ.",
+ "body_mn": "Frontend Focus мэдээллээр Safari 27.3 хувилбарын бета хувилбарт гэрэлтэй загвартай сайтуудыг автоматаар бараан горимд шилжүүлэх Adaptive Dark Mode боломж нэмэгджээ. Хэрэглэгчдийн 40 орчим хувь нь бараан горим ашигладаг ч дөнгөж 10 хувь нь үүнийг шууд дэмждэг тул энэхүү шинэчлэлт чухал ач холбогдолтой юм.\n\nМөн орчин үеийн CSS технологийн тусламжтайгаар кодны хэмжээг багасгах боломжтой болсон ч байрлалын алдаа гарах магадлалтайг мэргэжилтнүүд анхааруулж байна. Тухайлбал container queries болон :has() элементүүдийг ашиглах үед анхаарах зүйлсийн талаар хуваалцжээ.\n\nҮүнээс гадна Chrome 158 хувилбарын бета хувилбар гарч, шинэ элементүүд болон хиймэл оюун ухааны сургалтын тохиргоог дэмжих robots.txt шинэчлэлтүүд хийгдсэн байна.",
+ "published": "2026-11-04T00:00:00Z",
+ "added": "2026-11-06T09:48:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

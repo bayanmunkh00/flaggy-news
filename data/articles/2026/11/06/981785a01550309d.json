@@ -1,0 +1,19 @@
+{
+ "id": "981785a01550309d",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/devrev-enterprise-self-service",
+ "image": "",
+ "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+ "summary_en": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+ "lines": [],
+ "title_mn": "DevRev компани GPT-6.1 Sol загварт суурилсан үйлчилгээгээ гаргав",
+ "summary_mn": "DevRev компани байгууллагын хэрэглэгчдэд зориулсан бие даасан үйлчилгээний системийг шинээр танилцууллаа.",
+ "body_mn": "DevRev компани GPT-6.1 Sol загварыг ашиглан байгууллагын үйлчилгээний системийг автоматжуулах шийдлээ танилцууллаа. Энэхүү шинэ систем нь хурд, зардал болон логик дүгнэлт гаргах чадварыг оновчтой хослуулсан байна.\n\nШинэ технологийн тусламжтайгаар компаниуд хэрэглэгчдэдээ илүү чанартай бие даасан үйлчилгээг хүргэх боломжтой болж байна. Энэ нь байгууллагын харилцагчийн үйлчилгээний үр ашгийг нэмэгдүүлэхэд чухал алхам болж байна.",
+ "published": "2026-11-04T00:00:00Z",
+ "added": "2026-11-06T09:48:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

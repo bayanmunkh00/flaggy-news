@@ -1,0 +1,19 @@
+{
+ "id": "295354ff422b0d4d",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/introducing-images-2-6",
+ "image": "",
+ "title": "Introducing Images 2.6",
+ "summary_en": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+ "lines": [],
+ "title_mn": "OpenAI Images 2.6 загвараа танилцууллаа",
+ "summary_mn": "OpenAI компани зураг бүтээх хурдыг сайжруулж, GIF үүсгэх, нарийвчилсан засвар хийх боломж бүхий Images 2.6 хувилбарыг API болон ChatGPT-д нэвтрүүллээ.",
+ "body_mn": "OpenAI компани Images 2.6 нэртэй шинэ хувилбараа албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр зураг болон дүрслэл бүтээх хурд мэдэгдэхүйц сайжирснаас гадна хөдөлгөөнт GIF файлыг шууд үүсгэх шинэ боломж нэмэгдсэн байна.\n\nМөн хэрэглэгчид зурган дээр илүү нарийвчлалтай засвар хийх боломжтой болжээ. OpenAI уг шинэ боломжуудыг ChatGPT, Codex болон хөгжүүлэгчдэд зориулсан API системүүдэд бүрэн нэгтгэснээр бүтээгдэхүүний чанар, хэрэглэгчийн туршлагыг шинэ түвшинд гаргаж байна.\n\nЭнэхүү шинэчлэл нь хиймэл оюун ухаанаар контент бүтээгчид болон хөгжүүлэгчдэд илүү хурдан, уян хатан ажиллах нөхцөлийг бүрдүүлж байгаагаараа онцлог юм.",
+ "published": "2026-11-04T00:00:00Z",
+ "added": "2026-11-06T09:48:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

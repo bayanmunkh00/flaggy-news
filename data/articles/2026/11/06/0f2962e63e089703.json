@@ -1,0 +1,19 @@
+{
+ "id": "0f2962e63e089703",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9IgE0BWDAvYzjY8wFSMADIRn69AMLYxUa-oPoOISNBOpPbxwBNoWrbXWzI6P0deiU6WDqitiIZx1gFXSAlR8xX9rj56BuU48veMEPJAGSsmQTbVPirFOCuyMc_KQxtbPfc841GZGZ-3HSYYHCGbHnzrihtwQUaMlXrT3leLzI2USh00hc9OBw4k1SCJt4/s1600/wp-exploit.jpg",
+ "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+ "summary_en": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
+ "lines": [],
+ "title_mn": "WordPress системийг шинэчлэх үед ашиглагддаг аюултай цоорхойг CISA баталлаа",
+ "summary_mn": "Америкийн CISA байгууллага WordPress Core систем дэх CVE-2026-119977 дугаартай кодын гүйцэтгэлийн ноцтой цоорхойг идэвхтэй ашиглаж буйг баталлаа.",
+ "body_mn": "Америкийн Нэгдсэн Улсын Кибер аюулгүй байдал, дэд бүтцийн хамгаалалтын агентлаг (CISA) WordPress Core системд илэрсэн ноцтой аюулгүй байдлын сул талыг идэвхтэй ашиглаж байгаа Known Exploited Vulnerabilities жагсаалтад албан ёсоор нэмлээ.\n\nCVE-2026-119977 дугаартай, CVSS 8.1 оноотой уг сул тал нь систем шинэчлэгдэх явцад этгээдүүдэд ямар ч эрхгүйгээр сервер дээр дур мэдэн код гүйцэтгэх боломжийг олгох аюултай юм. Уг цоорхой нь бүрэн хэмжээний шинэчлэл хийх үеийн завсар зайг ашигладаг болохыг аюулгүй байдлаас хамгаалах компаниуд тогтоожээ.\n\nХолбогдох байгууллагууд болон төрийн албан хаагчид уг сул талын эсрэг засварыг яаралтай хийх шаардлагатай байгаа бөгөөд хакерууд уг цоорхойг ашиглан олон тооны халдлага үйлдэхийг завдсан байна.",
+ "published": "2026-11-04T05:43:11Z",
+ "added": "2026-11-06T09:48:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

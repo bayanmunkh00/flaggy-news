@@ -1,0 +1,19 @@
+{
+ "id": "3120cb53fbc5954e",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+ "image": "https://github.blog/wp-content/uploads/2026/11/692697342-1fcb18df-03bf-4266-a109-f6f85f5e2427.jpeg",
+ "title": "BYOK and enterprise custom models in the Copilot usage API",
+ "summary_en": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of…",
+ "lines": [],
+ "title_mn": "GitHub Copilot хэрэглээний API-д өөрийн түлхүүр ашиглах боломж нэмэгдлээ",
+ "summary_mn": "GitHub Copilot хэрэглээний тайлангийн API нь хөгжүүлэгчдэд өөрийн API түлхүүр болон локал загваруудын хэрэглээг ялган харах боломжийг олгож байна.",
+ "body_mn": "GitHub Copilot-ын хэрэглээний метрик API-д шинэчлэлт орж, хөгжүүлэгчид өөрийн хувийн API түлхүүр (BYOK) ашиглах болон дотоод систем дэх загваруудын хэрэглээг үндсэн системээс ялган хянах боломжтой боллоо.\n\nЭнэхүү шинэ боломж нь байгууллага болон хувь хэрэглэгчийн тайланд 1 болон 28 хоногийн хугацаатайгаар харагдах юм. Локал байдлаар Ollama, LM Studio болон llama-server зэрэг хэрэгслүүдийг ашиглаж буй хөгжүүлэгчид үүнийг илүү үр дүнтэйгээр ашиглах боломж бүрдэж байна.\n\nЭнэхүү өөрчлөлт нь Copilot-ын нөөцийн хэрэглээг илүү тодорхой болгож, байгууллагуудад зардлаа хянах боломжийг олгож байгаагаараа чухал юм.",
+ "published": "2026-11-04T00:32:19Z",
+ "added": "2026-11-06T09:48:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

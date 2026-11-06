@@ -1,0 +1,19 @@
+{
+ "id": "33c76d41fa119f10",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.45.0",
+ "image": "https://opengraph.githubassets.com/a9bb3c676b34c0816ec2bc7b3309668478f4437a1d474b7a5d97e7e4e199c6d4/openai/openai-python/releases/tag/v3.45.0",
+ "title": "openai-python v3.45.0",
+ "summary_en": "3.45.0 (2026-11-03) Features api: add 12-hour Responses caching and cache-write usage ( #4240 ) ( 5f717b5 ) api: add project service tier settings ( #4239 ) ( 1a2a3d0 ) Documentation clarify generated-file ownership ( #4241 ) ( 0309a8c )",
+ "lines": [],
+ "title_mn": "openai-python v3.45.0 хувилбар шинэ боломжтойгоор гарлаа",
+ "summary_mn": "OpenAI Python сангийн шинэ хувилбарт 12 цагийн хариулт түр санах ойн (caching) болон төслийн үйлчилгээний түвшний тохиргоонууд нэмэгдлээ.",
+ "body_mn": "OpenAI Python хөгжүүлэлтийн сангийн v3.45.0 хувилбар албан ёсоор гарлаа. Энэхүү шинэчлэлтээр API хариуг 12 цаг хүртэл хугацаагаар түр санах ойд хадгалах (caching) болон кэш бичих хэрэглээг хянах шинэ боломжууд нэмэгджээ.\n\nMөн төслийн түвшний үйлчилгээний тохиргоонуудыг хийх боломжтой болсон бөгөөд баримт бичгийн хэсэгт үүсгэгдсэн файлын өмчлөлийн талаарх заалтуудыг илүү тодорхой болгосон байна.\n\nЭдгээр өөрчлөлтүүд нь хөгжүүлэгчдэд OpenAI API ашиглан програм хангамж бүтээх явцыг илүү хурдан бөгөөд хэмнэлттэй болгоход туслах юм.",
+ "published": "2026-11-04T02:23:23Z",
+ "added": "2026-11-06T09:48:10Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
