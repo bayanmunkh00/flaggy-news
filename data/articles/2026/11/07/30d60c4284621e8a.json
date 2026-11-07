@@ -1,0 +1,19 @@
+{
+ "id": "30d60c4284621e8a",
+ "section": "software",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.2.3",
+ "image": "https://opengraph.githubassets.com/5c3291ec12a5bfde3554e40561eda03ed372d225e190c080f2189389780a322a/electron/electron/releases/tag/v45.2.3",
+ "title": "electron v45.2.3",
+ "summary_en": "Release Notes for v45.2.3 Other Changes Backported fixes from upstream ANGLE, Chromium, Dawn, FFmpeg, minigbm, PDFium, Skia and V8. #55592 Documentation Documentation changes: #55600",
+ "lines": [],
+ "title_mn": "Electron v45.2.3 хувилбар шинэчлэлтүүдтэйгээр гарлаа",
+ "summary_mn": "Electron фреймворкийн шинэ v45.2.3 хувилбар худалдаанд гарч, Chromium болон бусад үндсэн сангуудын алдаа засалтуудыг багтаажээ.",
+ "body_mn": "Electron баг v45.2.3 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр Chromium, ANGLE, Dawn, FFmpeg, Skia болон V8 зэрэг үндсэн бүрэлдэхүүн хэсгүүдээс чухал засваруудыг нэгтгэсэн байна.\n\nМөн хөгжүүлэгчдэд зориулсан баримт бичгийн шинэчлэлтүүдийг хийжээ. Хөгжүүлэгчид энэхүү хувилбарт шилжсэнээр өмнөх хувилбаруудын тогтвортой байдлын асуудлуудыг шийдвэрлэх боломжтой.",
+ "published": "2026-11-04T21:21:59Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

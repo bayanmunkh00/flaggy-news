@@ -1,0 +1,19 @@
+{
+ "id": "98082d5e81222800",
+ "section": "uiux",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/c5cbcf8c4cf48ebef3a68f5be108915e8051d6b3-1056x594.jpg?w=1200&q=70&fit=max&auto=format",
+ "title": "Workflow lab: Test ideas with code layers and the Figma agent",
+ "summary_en": "Bringing code onto the canvas gives teams a shared space to compare working prototypes side by side, refine a direction, and collaborate on ideas with teammates. This workflow shows how a designer uses code layers and the Figma agent to explore a new feature.",
+ "lines": [],
+ "title_mn": "Figma платформ дээр кодын давхарга болон агент ашиглах боломжтой боллоо",
+ "summary_mn": "Figma компани багуудад зориулсан кодын давхаргыг нээлттэй бета хувилбараар гаргаж, агентийн тусламжтайгаар загвар боловсруулах шинэ боломжийг танилцууллаа.",
+ "body_mn": "Figma платформ дээр ажлын урсгалыг сайжруулах зорилготой кодын давхаргууд (code layers) нээлттэй бета туршилтад шилжлээ. Энэ нь дизайны багуудад ажлын талбар дээрээ код дээр суурилсан загваруудыг зэрэгцүүлэн харьцуулах боломжийг олгож байна.\n\nШинэчлэлтийн хүрээнд дизайнерууд GitHub дээрх төслүүдээ Figma руу шууд татаж, агентийн тусламжтайгаар төрөл бүрийн хувилбаруудыг автоматаар үүсгэх боломжтой болжээ. Figma агент нь номын сангийн шинэчлэлт хийх, шүүмж боловсруулах зэрэг ажлуудыг гүйцэтгэнэ.\n\nЭнэхүү боломж нь Uber, Atlassian зэрэг томоохон компаниудын багуудад загвар зохиох болон кодын хоорондын хамтын ажиллагааг илүү хурдан бөгөөд үр дүнтэй болгоход туслах юм.",
+ "published": "2026-11-04T22:12:00Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

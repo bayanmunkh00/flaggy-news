@@ -1,0 +1,19 @@
+{
+ "id": "d53634b505a78ccb",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+ "image": "https://github.blog/wp-content/uploads/2026/11/694394305-f9d288c4-2862-48ff-aadf-b307e5ead674.png",
+ "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+ "summary_en": "You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with…",
+ "lines": [],
+ "title_mn": "GitHub Copilot Xcode орчинд албан ёсоор нэвтэрлээ",
+ "summary_mn": "GitHub Copilot хэрэгсэл одоо Xcode-ийн суурилуулсан код бичих туслах хэсэгт нэмэгдэж, хөгжүүлэгчдэд илүү хялбар боломжийг олгож байна.",
+ "body_mn": "Apple-ийн Xcode хөгжүүлэлтийн орчинд GitHub Copilot шууд ажиллах боломжтой болсноо зарлалаа. Xcode 27.3 beta хувилбараас эхлэн уг интеграци нь олон нийтийн урьдчилсан байдлаар нээгдээд байна.\n\nӨмнө нь Xcode-д зориулсан тусдаа өргөтгөл ашигладаг байсан бол одоо үндсэн код бичих туслах дотор шууд ажиллах боломжтой болсноороо онцлог юм. Үүнийг ашиглахын тулд macOS Tahoe 26.6 болон түүнээс хойших үйлдлийн систем шаардлагатай аж.\n\nХөгжүүлэгчид Xcode тохиргоо руу орж Copilot хэрэгслээ идэвхжүүлэн ашиглах боломжтой бөгөөд бүх төрлийн Copilot эрхүүдийг дэмжих юм байна.",
+ "published": "2026-11-04T19:10:40Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

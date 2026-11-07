@@ -1,0 +1,19 @@
+{
+ "id": "28cc7a562c85ad38",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg",
+ "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+ "summary_en": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
+ "lines": [],
+ "title_mn": "SonicWall хуучирсан систем дэх эмзэг байдлыг засахгүй гэдгээ мэдэгдэв",
+ "summary_mn": "SonicWall компани дэмжлэг нь дууссан GMS системийн эмзэг байдлуудад ямар нэг засвар гаргахгүй гэдгээ анхаарууллаа. Хэрэглэгчдийг шинэ систем рүү шилжихийг уриалж байна.",
+ "body_mn": "SonicWall компани SonicWall GMS 9.5.2 болон түүнээс өмнөх хувилбаруудыг хамарсан хоёр эмзэг байдлын талаар мэдээлэл гаргасан бөгөөд эдгээр бүтээгдэхүүний дэмжлэг дууссан (EoL) тул ямар нэг аюулгүй байдлын шинэчлэлт хийгдэхгүй гэдгийг мэдэгдэв.\n\nКомпанийн зүгээс хэрэглэгчдэд учирч болзошгүй эрсдэлээс сэргийлж, SonicWall Network Security Manager (NSM) систем рүү шилжихийг зөвлөж байна. Энэхүү шийдвэр нь өмнө нь илэрсэн критикал түвшний SSRF эмзэг байдал (CVE-2026-102255) идэвхтэй ашиглагдаж эхэлсэнтэй давхцаж байна.\n\nСудалгааны мэдээллээр дээрх эмзэг байдлыг ашиглах оролдлогууд олон тоогоор бүртгэгдсэн бөгөөд кибер аюулгүй байдлын байгууллагууд байгууллагуудыг системээ яаралтай шинэчлэхийг анхааруулсаар байна.",
+ "published": "2026-11-04T17:00:38Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

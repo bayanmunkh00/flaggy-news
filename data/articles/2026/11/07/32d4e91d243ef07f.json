@@ -1,0 +1,19 @@
+{
+ "id": "32d4e91d243ef07f",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+ "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png",
+ "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+ "summary_en": "A Blog post by Dharma-AI on Hugging Face",
+ "lines": [],
+ "title_mn": "Dharma Field Extractor: Ямар ч баримтаас JSON формат руу өгөгдөл гаргана",
+ "summary_mn": "Дөчин тэрбум параметр бүхий Dharma Field Extractor загвар нь ямар ч бичиг баримтаас хүссэн талбаруудыг нарийн бүтэцтэй JSON хэлбэрээр ялгаж авах боломжтой болжээ.",
+ "body_mn": "Шинээр танилцуулсан Dharma Field Extractor нь гэрээ, нэхэмжлэх, маягт зэрэг төрөл бүрийн бичиг баримтаас шаардлагатай мэдээллийг нарийвчлалтайгаар ялган авч, систем шууд унших боломжтой JSON формат руу хөрвүүлэх зориулалттай загвар юм.\n\nУг загвар нь DharmaOCR-LITE суурь дээр бүтээгдсэн бөгөөд хуудас бүрийг бүтнээр нь OCR хийхийн оронд хэрэглэгчийн хүссэн тодорхой талбарууд болон схемүүдийг шууд шүүж гаргадгаараа давуу талтай. Ингэснээр бизнесийн байгууллагууд нэхэмжлэх эсвэл гэрээний мэдээллийг өгөгдлийн сан руу автоматаар оруулах зардлыг эрс бууруулах юм.\n\nЗагвар нь нээлттэй хүсэлт болон тодорхой схем гэсэн хоёр үндсэн горимоор ажиллах ба хэрэглэгчийн өгсөн шаардлагын дагуу өгөгдлийг алдаагүйгээр боловсруулж чаддаг байна.",
+ "published": "2026-11-04T17:50:10Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

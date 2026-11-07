@@ -1,0 +1,19 @@
+{
+ "id": "f72f567cab23b3cb",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg",
+ "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+ "summary_en": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
+ "lines": [],
+ "title_mn": "Debian болон Ubuntu-гийн APT багц менежерт ноцтой эмзэг байдал илэржээ",
+ "summary_mn": "Debian болон Ubuntu үйлдлийн системийн APT багц менежерт халдлага үйлдэгч пакетуудыг сольж, системд root эрхээр код ажиллуулах боломж олгох эмзэг байдал илэрлээ.",
+ "body_mn": "Debian, Ubuntu болон APT хөгжүүлэгчдийн мэдээлснээр уг эмзэг байдал (CVE-2026-109518) нь халдлага үйлдэгч HTTP траффикт оролцож, татан авалтыг дахин оролдох горимыг ашиглан багцуудыг хуурамчаар сольж ажиллуулах боломжийг олгодог байна.\n\nУг эмзэг байдал нь Debian 12 болон Ubuntu 22.04-өөс хойших хувилбаруудад татан авалт амжилтгүй болоход автоматаар дахин оролцдог тохиргооноос үүдэлтэй юм. Ubuntu үүнийг өндөр зэрэглэлийн (CVSS 7.7) асуудал гэж үзэж байгаа бөгөөд холбогдох засваруудыг гаргаад байна.\n\nХөгжүүлэгчид болон түгээгчид хэрэглэгчдэд системээ яаралтай шинэчлэх буюу аюулгүй байдлын шинэчлэлтүүдийг суулгахыг зөвлөж байна.",
+ "published": "2026-11-04T17:00:46Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "cb1ede1d0c4f94bb",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "www.trendingtopics.eu",
+ "url": "https://www.trendingtopics.eu/tencent-hy4-open-weight-alibaba-qwen-en/",
+ "image": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/tencent-zentrale-shenzhen-scaled-social.jpg",
+ "title": "Tencent Follows Alibaba Into Open-Weight A.I. With Hy4",
+ "summary_en": "Tencent Follows Alibaba Into Open-Weight A.I. With Hy4 www.trendingtopics.eu",
+ "lines": [],
+ "title_mn": "Tencent компани Hy4 нэртэй шинэ том хэмжээтэй AI загвараа танилцууллаа",
+ "summary_mn": "Хятадын технологийн бас нэгэн аварга Tencent компани нээлттэй жинтэй Hy4 загвараа танилцууллаа. Энэхүү загвар нь WeChat болон бусад үйлчилгээнд нэгтгэгдсэн бөгөөд салбартаа өрсөлдөхүйц үзүүлэлттэй байна.",
+ "body_mn": "Хятадын технологийн бас нэгэн томоохон төлөөлөл Tencent компани өөрийн хамгийн том хиймэл оюун ухааны загвар болох Hy4-ийг албан ёсоор танилцууллаа. Өмнө нь Alibaba компани Qwen загвараараа энэ зах зээлд тэргүүлж байсан бол Tencent мөн нээлттэй жинтэй загварын салбарт хүч үзэж эхэлжээ.\n\nHy4 нь холимог шинжээчдийн (Mixture-of-Experts) архитектуртай бөгөөд хүсэлт бүрт параметрүүдийн зөвхөн зарим хэсгийг ашигладаг байна. Тус компани энэхүү загвараа Yuanbao чатбот болон WeCom байгууллагын платформ зэрэг өөрийн үйлчилгээнүүддээ хэдийн нэгтгээд байна.\n\nКибер аюулгүй байдлын хувьд уг загварын сургалтыг програм хангамжийн алдаа олох, засах зэрэг хамгаалалтын зорилгоор хязгаарласан гэдгээ Tencent онцолжээ. Загварын гүйцэтгэлийн хувьд зарим тестүүдээр өрсөлдөгч системүүдээс давж гарсан ч математикийн бодлого болон программ хангамжийн төслүүд дээр АНУ-ын шилдэг загваруудаас дутуу хэвээр байгаа аж.",
+ "published": "2026-11-04T20:44:46Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

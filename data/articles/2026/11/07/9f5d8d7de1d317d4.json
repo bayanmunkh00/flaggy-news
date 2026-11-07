@@ -1,0 +1,19 @@
+{
+ "id": "9f5d8d7de1d317d4",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-uses-claude-to-show-bacterial-and-phage-proteins-form-vaults/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-uses-claude-to-show-bacterial-and-phage-proteins-form-vaults.jpg",
+ "title": "Anthropic Uses Claude to Show Bacterial and Phage Proteins Form Vaults",
+ "summary_en": "Anthropic Uses Claude to Show Bacterial and Phage Proteins Form Vaults Unite.AI",
+ "lines": [],
+ "title_mn": "Anthropic: Бактерийн уураг vault хэлбэрийн бүтэц үүсгэж чадахыг Claude тусламжтайгаар тогтоожээ",
+ "summary_mn": "Anthropic компанийн судлаачид Claude тусламжтайгаар прокариот болон фажийн уураг нь vault хэлбэрийн хоосон бөмбөлөг бүтэц үүсгэж болохыг лаборатор дээр баталлаа.",
+ "body_mn": "Anthropic компани бактери болон вирусын төрлийн уургууд нь E. coli дотор vault хэлбэрийн том уургийн бүрхүүл үүсгэж угсрагдах чадвартай болохыг олж тогтоожээ. Уг судалгаанд Claude Science туслах хэрэгслийг ашиглан 15 тэрбум уургийн датабаазаас хайлт хийж, үр дүнг тооцоолсон байна.\n\nСудлаачид сонгогдсон уургийн дарааллыг Claude-ийн тусламжтайгаар хөгжүүлэлтийн орчинд тохируулан DNA загвар болгон хувиргаж, туршилт хийснээр крио-электрон микроскопоор тэдгээр уургууд нь өвөрмөц хэлбэртэй бүтцийг үүсгэж байгааг баталгаажуулжээ. Энэхүү ололт нь цаашид эмийн тээвэрлэлт болон биотехнологийн чиглэлд чухал алхам болох юм.\n\nМөн энэхүү судалгааны ажилд Claude программ хангамж нь туршилтын дизайн боловсруулах болон chromatographic оновчлол хийхэд гол үүрэг гүйцэтгэсэн байна.",
+ "published": "2026-11-04T20:12:05Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

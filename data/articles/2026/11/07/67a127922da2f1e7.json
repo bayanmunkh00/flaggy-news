@@ -1,0 +1,19 @@
+{
+ "id": "67a127922da2f1e7",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Courthouse News",
+ "url": "https://www.courthousenews.com/music-publishers-suffer-setback-in-copyright-case-against-anthropic",
+ "image": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg",
+ "title": "Music publishers suffer setback in copyright case against Anthropic",
+ "summary_en": "Music publishers suffer setback in copyright case against Anthropic Courthouse News",
+ "lines": [],
+ "title_mn": "Anthropic компани зохиогчийн эрхийн шүүх хурал дээр хүндрэлтэй тулгарлаа",
+ "summary_mn": "Холбооны шүүгч Anthropic компанид холбогдох зохиогчийн эрхийн зөрчлийн хэрэг дээр хөгжүүлэгдсэн бүтээлүүдийн тоог тодорхой болгохыг шаардлаа.",
+ "body_mn": "Сан Хосе хотын холбооны шүүхэд явагдсан хөгжмийн зохиогчдын Anthropic компанид холбогдох шүүх хурал дээр шүүгч нэмэлт тайлбар шаардлаа. Хөгжмийн хэвлэн нийтлэгчид Anthropic компани Claude загвараа сургахдаа зохиогчийн эрхтэй олон мянган бүтээлийг хууль бусаар ашигласан хэмээн буруутгаж байна.\n\nШүүгч Eumi Lee зохиогчийн эрхийг зөрчсөн гэх 20,517 бүтээлийн жагсаалт хэрхэн үүссэн талаар тодорхой бус байна гэж үзжээ. Anthropic-ийн өмгөөлөгчдийн зүгээс Claude загварынoutputs хэсэгт зохиогчийн эрхтэй үг хэллэгийг гаргахгүйн тулд тусгай хамгаалалтуудыг хийсэн гэдгээ хамгаалсан байна.\n\nМөн шүүгч Anthropic-ийн гүйцэтгэх захирал Дарио Амодейг шууд хариуцлага хүлээлгэх хэсгийг түр хэрэгсэхгүй болгосон боловч хоёрдогч зөрчлийн асуудлаар шүүх ажиллагаа үргэлжлэх төлөвтэй байна.",
+ "published": "2026-11-04T22:56:45Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

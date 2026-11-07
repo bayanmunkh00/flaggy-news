@@ -1,0 +1,19 @@
+{
+ "id": "9c7e0f9ef29e94e2",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1t2DaV8IVnp7ibDYvEqXvN/3292f4d1cf23f6e6bbf4e12d1a2c9923/image__65_.png",
+ "title": "Workflow SDK adds idempotent starts",
+ "summary_en": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages inside the run The claimed Hook exists from the moment the run is admitted, so resumeHook works even before the run begins executing, and early payloads are buffered and delivered in order. Inside the workflow, createHook({ token }) with the same token binds to the…",
+ "lines": [],
+ "title_mn": "Workflow SDK нь давхардсан ажлуудыг аюулгүйгээр хянах боломжтой боллоо",
+ "summary_mn": "Vercel-ийн Workflow SDK-ийн start() функц нь ажлыг нэг алхамаар эхлүүлж, давхардсан дуудлагыг найдвартай сааруулах боломжтой болж шинэчлэгдлээ.",
+ "body_mn": "Workflow SDK-ийн start() функц нь хуучин хувилбарын алдааг засварлаж, шинэ run үүсгэх болон token баталгаажуулах үйлдлийг нэг атомын алхам болгон нэгтгэснээр давхардсан эхлэлүүдээс үүсэх маргаантай нөхцөл байдлыг арилгажээ.\n\nШинэчлэлтийн хүрээнд захиалга, нэхэмжлэх эсвэл хүсэлтийн дугаар зэрэг өвөрмөц token-ийг ашиглан idempotency буюу давхардалгүй ажиллах нөхцөлийг бүрэн хангасан байна. Хэрэв давхардсан start() хүсэлт ирвэл систем алдаа гаргаж, бусад үйл ажиллагааг сааруулахгүйгээр аюулгүйгээр зогсоодог.\n\nХөгжүүлэгчид workflow 5.4.0 хувилбар руу шинэчлэгдэн уг боломжийг ашиглаж эхлэх боломжтой болжээ.",
+ "published": "2026-11-04T18:55:00Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "81d65575d8acdbeb",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-expands-claude-marketplace-with-partner-agents-and-products/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-expands-claude-marketplace-with-partner-agents-and-products.jpg",
+ "title": "Anthropic Expands Claude Marketplace with Partner Agents and Products",
+ "summary_en": "Anthropic Expands Claude Marketplace with Partner Agents and Products Unite.AI",
+ "lines": [],
+ "title_mn": "Anthropic Claude Marketplace үйлчилгээгээ түнш байгууллагуудын бүтээгдэхүүнээр өргөжүүллээ",
+ "summary_mn": "Anthropic компани Claude Marketplace-д аюулгүй байдал, хөгжүүлэгчдийн дэд бүтэц болон бүтээмжийн чиглэлийн 25 гаруй түнш бүтээгдэхүүнийг нэмлээ.",
+ "body_mn": "Anthropic компани Claude Marketplace платформдоо Chainguard, Checkmarx, Datadog болон Netlify зэрэг томоохон түншүүдийн бүтээгдэхүүн, агентуудыг нэмж өргөжүүлснээ зарлалаа. Энэхүү зах зээл дээр аюулгүй байдал, хөгжүүлэлтийн дэд бүтэц, бүтээмжийн чиглэлийн 25 гаруй шийдэл багтаж байна.\n\nТомоохон байгууллагын үйлчлүүлэгчид өөрсдийн Anthropic-ийн төсвөөсөө энэхүү түнш програмууд руу хуваарилах боломжтой бөгөөд энэ нь Claude болон бусад програм хангамжийг нэгдсэн худалдан авалтын гэрээгээр авах нөхцөлийг бүрдүүлж байна.\n\nЭнэхүү шинэ өргөтгөл нь байгууллагуудад хиймэл оюун ухааны агентуудыг аюулгүйгээр удирдах, кодын чанар болон бүтээмжийг сайжруулах олон талын боломж олгож байгаа юм.",
+ "published": "2026-11-04T19:30:01Z",
+ "added": "2026-11-07T15:52:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
