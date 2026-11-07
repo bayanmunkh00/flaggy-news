@@ -1,0 +1,19 @@
+{
+ "id": "1be4fdd8e6ca80f0",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/openai-to-acquire-pierre",
+ "image": "",
+ "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+ "summary_en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+ "lines": [],
+ "title_mn": "OpenAI Pierre Computer Company-г худалдаж авлаа",
+ "summary_mn": "OpenAI компани кодыг зохиох, ойлгох, хянах хэрэгслүүдээ өргөжүүлэх зорилгоор Pierre Computer Company-г худалдаж авлаа.",
+ "body_mn": "OpenAI компани Pierre Computer Company-г өөрийн бүрэлдэхүүнд нэгтгэснээр Codex хэрэгслийн боломжийг мэдэгдэхүйц өргөжүүлж байна. Энэхүү худалдан авалт нь програм хангамж бүтээх, кодыг илүү гүнзгий ойлгох болон хянан шалгах чадварыг сайжруулахад чиглэжээ.\n\nКомпанийн зүгээс уг хэлэлцээрийн санхүүгийн болон бусад нарийн ширийн мэдээллийг хараахан олон нийтэд дэлгээгүй байна. Гэсэн хэдий ч энэ нь хиймэл оюун ухаанд суурилсан код бичих туслахуудын чадавхыг шинэ түвшинд гаргах чухал алхам болж байна.\n\nOpenAI-ийн хувьд хөгжүүлэгчдэд зориулсан бүтээгдэхүүнийхээ экосистемийг бэхжүүлэх стратегидаа энэхүү нэгдлийг амжилттай хэрэгжүүлэхээр зорьж байна.",
+ "published": "2026-11-04T14:30:00Z",
+ "added": "2026-11-07T09:11:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "a6b2d3a163735b2e",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "PortSwigger Research",
+ "source_label": "PortSwigger Research",
+ "url": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
+ "image": "https://portswigger.net/cms/images/dc/fa/477a-twittercard-header-injection-social-2400x1260_1.png",
+ "title": "Making HTTP header injection critical with one prompt",
+ "summary_en": "You can now escalate HTTP header injection to a CRLF-Powered Desync and exploit it to serve random users a redirect to your collaborator, in a single prompt. We’ve just introduced a new scan check for",
+ "lines": [],
+ "title_mn": "PortSwigger HTTP header injection болон CRLF desync халдлагыг автоматжуулжээ",
+ "summary_mn": "PortSwigger компани HTTP header injection болон CRLF-Powered Desync халдлагыг ганцхан промптоор гүйцэтгэж, эмзэгдлийг илрүүлэх шинэ боломжийг Burp AT хэрэгсэлд нэмлээ.",
+ "body_mn": "ПортСвиггерийн судалгааны баг HTTP request smuggling буюу хүсэлт хуваах халдлагыг илрүүлэх, шалгах процессыг автоматжуулсан шинэ боломжийг Burp AT хэрэгсэлд нэмсэн байна. Энэхүү шинэ функц нь судлаачдад HTTP header injection эмзэгдлийг CRLF-Powered Desync болгон өргөжүүлж, хэрэглэгчдийг өөр рүү чиглүүлсэн руэдирект хийх боломжийг олгодог.\n\nУг шинэ чадвар нь халдагчийн хүсэлт дамжуулах болон дамжиж буй толгой хэсгүүдийг (headers) шинжлэх замаар серверийн зөрүүг илрүүлдэг олон үе шаттай аргачлалыг цаанаа автоматаар гүйцэтгэдэг. Ингэснээр туршлагатай шалгагчид гар аргаар цаг алдалгүйгээр эгзэгтэй эмзэгдлүүдийг илүү хурдан бөгөөд үр дүнтэйгээр илрүүлэх боломж бүрдэж байна.\n\nГэсэн хэдий ч болзошгүй эрсдэлээс сэргийлж, зарим аюултай exploitation аргуудыг (Response Queue Poisoning гэх мэт) хязгаарлаж, илүү аюулгүй туршилтын замаар шалгах боломжтойгоор хөгжүүлжээ. Энэ нь кибер аюулгүй байдлын чиглэлээр ажиллагсдад томоохон дэвшил авчирч байна.",
+ "published": "2026-11-04T15:12:29Z",
+ "added": "2026-11-07T09:11:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

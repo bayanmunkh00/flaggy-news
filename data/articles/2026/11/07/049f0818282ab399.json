@@ -1,0 +1,19 @@
+{
+ "id": "049f0818282ab399",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg",
+ "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+ "summary_en": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
+ "lines": [],
+ "title_mn": "OpenAI Codex-ийн jailbreak хэрэгслээс зар сурталчилгааны хортой программ илрүүлжээ",
+ "summary_mn": "Аюулгүй байдлын судлаачид OpenAI Codex загварын хязгаарлалтыг тойрч гардаг хуурамч багцаас хэрэглэгчдийн агент руу зар сурталчилгаа шахдаг Haiou нэртэй prompt adware илрүүлжээ.",
+ "body_mn": "Check Point Research компани OpenAI Codex-ийн аюулгүй байдлын хязгаарлалтыг эвдэх зорилготой Haiou (Цахлай) нэртэй jailbreak багцад дүн шинжилгээ хийж, сонирхолтой үр дүн танилцуулжээ. Уг багц нь хиймэл оюун ухааны агентын үндсэн зааварчилгааг өөрчилж, хэрэглэгчийн асуултад хариулах явцдаа гуравдагч талын төлбөртэй LLM гарцын зар сурталчилгааг автоматаар оруулахаар зохион байгуулагдсан байна.\n\nЭнэхүү халдлагыг судлаачид prompt adware буюу промптод суурилсан зар сурталчилгааны хортой програм гэж нэрлэжээ. Халдагчид уг хэрэгслийг GitHub болон бусад платформаар дамжуулан хөгжүүлэгчдэд хэрэгтэй локал сайжруулалт нэрээр тарааж, олон зуун удаа татагдсан байна. Энэ нь хиймэл оюун ухааны агентуудын хэрэглээ өсөхийн хэрээр гуравдагч талын бүрэлдэхүүн хэсгүүд болон промтууд аюулгүй байдлын томоохон эрсдэл дагуулж болохыг харуулж байна.\n\nМэргэжилтнүүдийн анхааруулж буйгаар байгууллагууд AI агентуудыг дотоод сүлжээндээ нэвтрүүлэхдээ тэдгээрийн ашиглаж буй тохиргоо, зааварчилгаа болон гуравдагч талын скриптүүдэд хатуу хяналт тавих шаардлагатай ажээ.",
+ "published": "2026-11-04T16:06:43Z",
+ "added": "2026-11-07T09:11:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

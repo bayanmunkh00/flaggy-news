@@ -1,0 +1,19 @@
+{
+ "id": "cb8530add53e2b69",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "ad-hoc-news.de",
+ "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/alibaba-s-qwen-push-meets-its-first-real-test-paying-customers/70457936",
+ "image": "https://mdb.ad-hoc-news.de/bild/bild-2841066_1920_1080.webp",
+ "title": "Alibaba's Qwen Push Meets Its First Real Test: Paying Customers",
+ "summary_en": "Alibaba's Qwen Push Meets Its First Real Test: Paying Customers ad-hoc-news.de",
+ "lines": [],
+ "title_mn": "Alibaba Qwen үйлчилгээ болон Apple-ийн хамтын ажиллагаа",
+ "summary_mn": "Alibaba-ийн Qwen загвар Apple Intelligence-тэй нэгдэх туршилтаа эхлүүлж, төлбөртэй үйлчилгээний борлуулалтаараа анхны сорилтуудтай тулгарч байна.",
+ "body_mn": "Alibaba компани өөрийн хиймэл оюун ухааны Qwen загварыг зах зээлд нэвтрүүлэх болон мөнгө олох гарцуудыг идэвхтэй хайж байна. Тухайлбал, Таобао болон Тмалл платформ дээр QwenWork захиалгын үйлчилгээ богино хугацаанд өндөр борлуулалт үзүүлсэн нь хэрэглэгчдийн төлбөр төлөх чадварыг сорьсон чухал алхам болжээ.\n\nҮүний зэрэгцээ Хятад дахь Apple Intelligence-ийн хэрэглээнд Qwen загварыг ашиглах туршилтын ажлууд эхэлсэн бөгөөд арванхоёрдугаар сард албан ёсоор нээлтээ хийхээр төлөвлөгдөж байна. Энэхүү интеграци нь Siri болон бусад визуал ухаалаг хэрэгслүүдийг дэмжих зорилготой юм.\n\nГэсэн хэдий ч энэхүү хамтын ажиллагааны санхүүгийн нарийн нөхцөл, хэрэглэгчдийн идэвхтэй хэрэглээ хэр удаан үргэлжлэх нь одоогоор тодорхойгүй байна. Компани удахгүй болох санхүүгийн тайлангаараа дамжуулан эдгээр асуултад хариу өгөх хүлээлттэй байна.",
+ "published": "2026-11-04T15:40:58Z",
+ "added": "2026-11-07T09:11:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

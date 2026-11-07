@@ -1,0 +1,19 @@
+{
+ "id": "639da1a915140db7",
+ "section": "uiux",
+ "subtopic": "design-systems",
+ "source": "Figma Blog",
+ "source_label": "Figma Blog",
+ "url": "https://www.figma.com/blog/how-figma-manages-sandboxes-at-scale/",
+ "image": "https://cdn.sanity.io/images/599r6htc/regionalized/1f632f8ec0296b43dd068d97d6d3228ef1197ae9-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+ "title": "How Figma manages sandboxes at scale",
+ "summary_en": "Figma’s AI products require tens of thousands of sandboxes to run untrusted code safely. That’s why we built Nimbus: a platform that makes sandboxes fast, reliable, and easy for Figma product teams and operators to manage.",
+ "lines": [],
+ "title_mn": "Figma өөрийн бүтээгдэхүүнд зориулсан Nimbus сандбоксын системийг танилцууллаа",
+ "summary_mn": "Figma компани хиймэл оюун ухааны бүтээгдэхүүнүүддээ аюулгүйгээр код ажиллуулах боломжийг олгох Nimbus нэртэй төвлөрсөн сандбоксын платформыг хөгжүүлжээ.",
+ "body_mn": "Figma-гийн зүгээс хиймэл оюун ухааны шинэ бүтээгдэхүүнүүд болон код генераторууддаа найдвартай ажиллах орчин бүрдүүлэх зорилгоор Nimbus хэмээх сандбоксын шинэ платформыг бүтээжээ. Энэхүү систем нь бүтээгдэхүүний багуудад аюултай байж болзошгүй кодыг тусгаарлагдсан орчинд аюулгүйгээр ажиллуулах боломжийг олгодог.\n\nNimbus нь Kubernetes операторын загвартай төстэй байдлаар ажилладаг бөгөөд бүтээгдэхүүний багууд шаардлагатай нөөц болон аюулгүй байдлын бодлогоо тодорхойлоход хяналтын систем нь бүх нөөц хуваарилалт, сүлжээний тохиргоог автоматаар удирддаг байна. Мөн sandboxd демоны тусламжтайгаар процессуудыг нарийвчлан хянаж, санах ой болон CPU-ийн хэрэглээг бодит цаг хугацаанд хянах боломжтой ажээ.\n\nЭнэхүү шийдэл нь Figma-д хиймэл оюун ухааны функцүүдийг өргөжүүлэх, хөгжүүлэгчдийн ажлын урсгалыг хялбарчлах, мөн системийн аюулгүй байдлыг өндөр түвшинд хангах чухал суурь болж өгч байна.",
+ "published": "2026-11-04T16:23:00Z",
+ "added": "2026-11-07T09:11:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

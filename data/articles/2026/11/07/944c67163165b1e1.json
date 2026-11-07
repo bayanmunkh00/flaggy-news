@@ -1,0 +1,19 @@
+{
+ "id": "944c67163165b1e1",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/225AWAIWv2RMha71Mbfsw/edfbfcc4a6f9ff01d4be571d03d672f4/Vercel_x_Moonshot.png",
+ "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+ "summary_en": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carry long agent runs from a small fix to a full project. Both models have a 1M-token context window and accept image input, and Highspeed suits interactive work like coding agents, where response time matters. Call either model through the AI SDK , the Chat Completions , Responses…",
+ "lines": [],
+ "title_mn": "Kimi K3.1 Pro загварууд Vercel AI Gateway дээр Zero DataRetention дэмжлэгтэйгээр нэмэгдлээ",
+ "summary_mn": "Moonshot AI-ийн Kimi K3.1 Pro болон K3.1 Pro Highspeed загварууд Vercel AI Gateway дээр илүү олон ZDR үйлчилгээ үзүүлэгчтэйгээр гарлаа.",
+ "body_mn": "Vercel компани өөрийн AI Gateway үйлчилгээнд Moonshot AI-ийн бүтээсэн Kimi K3.1 Pro болон хурдавчилсан K3.1 Pro Highspeed загваруудыг нэмсэн байна. Өмнө нь зөвхөн Moonshot AI өөрөө эдгээр загваруудыг санал болгодог байсан юм.\n\nШинэ загварууд нь код бичих, 3D загварчлал болон санхүүгийн шинжилгээ хийх чадвараараа өмнөх хувилбаруудаасаа сайжирсан бөгөөд 1 сая токенийн контекст цонхыг дэмждэг. Ялангуяа Highspeed хувилбар нь код бичих агент зэрэг хариу өгөх хугацаа чухал шаардлагатай интерактив ажлуудад илүү тохиромжтой ажээ.\n\nХэрэглэгчид AI Gateway ашиглан Эдгээр загваруудыг AI SDK, Chat Completions API болон Claude Code, Cursor зэрэг код бичих агентуудтай холбон ашиглах боломжтой болсон бөгөөд Zero DataRetention (ZDR) тохиргоогоор дамжуулан мэдээллийн аюулгүй байдлаа хангах боломжтой.",
+ "published": "2026-11-04T17:00:00Z",
+ "added": "2026-11-07T09:11:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
