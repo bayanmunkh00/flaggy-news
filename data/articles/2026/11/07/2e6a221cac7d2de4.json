@@ -1,0 +1,19 @@
+{
+ "id": "2e6a221cac7d2de4",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/introducing-vercel-schedules",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/a8qC8AzRhcMq7pyEnyzsP/36b609a62176ba645bbde61ef0af23d1/image.png",
+ "title": "Introducing Vercel Schedules",
+ "summary_en": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and recurring schedules through code, without redeploying. What are Vercel Schedules? Schedules builds on the static approach…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-04T13:00:00Z",
+ "added": "2026-11-07T04:00:49Z",
+ "ai": "",
+ "score": null
+}

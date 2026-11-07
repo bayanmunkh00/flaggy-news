@@ -1,0 +1,19 @@
+{
+ "id": "2d0102cbc785a2dc",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Czfbb2sJlw59NPcdMH9rd/0f654bd8fe1f74a5c57e283b8668dc37/Vercel_token_scanning_expands_to_more_public_sources_og.png",
+ "title": "Vercel token scanning expands to more public sources",
+ "summary_en": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token is revoked, you’ll receive an email from us explaining why. Truffle Security reports tokens exposed in public sources including GitHub, GitLab, Docker, npm, PyPI, Hugging Face, Android APKs, and Firefox Add-ons. Vercel has revoked hundreds of tokens reported by Truffle Security…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-04T13:00:00Z",
+ "added": "2026-11-07T04:00:49Z",
+ "ai": "",
+ "score": null
+}

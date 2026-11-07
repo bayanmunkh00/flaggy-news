@@ -1,0 +1,19 @@
+{
+ "id": "f4b7ff866caa5870",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1600/ios-exploit.jpg",
+ "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+ "summary_en": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
+ "lines": [],
+ "title_mn": "APT29 бүлэглэл вэб аналитик скрипт ашиглан iOS болон Android рүү халджээ",
+ "summary_mn": "Оростой холбоотой APT29 хакерын бүлэглэл Plerdy SEO Tracker гэх вэб аналитик үйлчилгээг хакердаж, iOS болон Android хэрэглэгчдийг чиглэсэн аюултай халдлага явуулжээ. Халдагчид төхөөрөмжийн мэдээлэл болон хөтчийн күүки хулгайлах зорилготой байна.",
+ "body_mn": "Оростой холбоотой гэгдэж буй APT29 буюу Cozy Bear бүлэглэл вэб сайтууд болон гуравдагч талын ханган нийлүүлэлтийн сүлжээг ашиглан гар утасны хэрэглэгчдийг хор хохиролд хүргэх кампанит ажил эхлүүлснийг Sekoia компани илрүүлжээ. Халдлагад Украины Plerdy SEO Tracker вэб аналитик үйлчилгээг хортой код суулгах замаар ашигласан байна.\n\nСудалгаагаар халдагчид хэрэглэгчийн хөтөч болон төхөөрөмжийн мэдээллийг цуглуулах JavaScript код тарьж, iOS болон Android үйлдлийн системд зориулсан N-day эмзэгдлийн гинжин хэлхээг ашигласан аж. Энэхүү халдлагын гол зорилго нь хөтчийн күүки, Wi-Fi сүлжээний нууц үг болон төхөөрөмжийн өгөгдлийг хулгайлах юм.\n\nХалдлагад өртсөн вэб сайтуудын дунд химийн салбарын худалдааны холбоо, Европын улс төрийн намууд болон цэргийн холбогдолтой сайтууд багтаж байна. iOS хэрэглэгчдэд DarkSword ашигласан бол Android хэрэглэгчдэд мэдээлэл хулгайлах хортой програмуудыг тараажээ. Мэргэжилтнүүд төхөөрөмжийн программ хангамжаа тогтмол шинэчилж байхыг анхааруулж байна.",
+ "published": "2026-11-04T14:27:52Z",
+ "added": "2026-11-07T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
