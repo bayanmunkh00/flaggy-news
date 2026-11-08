@@ -1,0 +1,19 @@
+{
+ "id": "dd9d10ec61939a97",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif",
+ "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+ "summary_en": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. \"The flaw could enable silent chat data theft, phishing,",
+ "lines": [],
+ "title_mn": "ChatGPT-ийн Lockdown Mode-ийг тойрч чатын өгөгдлийг хулгайлах цоорхой илэрчээ",
+ "summary_mn": "Check Point-ийн судлаачид ChatGPT-ийн Lockdown Mode хамгаалалтыг тойрч, хэрэглэгчийн харилцан яриаг сэм хулгайлах боломжтой ноцтой эмзэг байдлыг илрүүлжээ. Энэхүү цоорхойг OpenAI есдүгээр сарын 18-нд засварласан байна.",
+ "body_mn": "Кибер аюулгүй байдлын Check Point компанийн судлаачид OpenAI ChatGPT-ийн Lockdown Mode хамгаалалтыг тойрч гарах эмзэг байдлыг илрүүлж, мэдээлсний дараа засварлуулсан байна. Lockdown Mode нь өгөгдөл гадагш алдагдах эрсдэлийг хязгаарлах зорилгоор 2026 оны зургаадугаар сард нэвтрүүлсэн хамгаалалтын тохиргоо байсан юм.\n\nСудлаачдын тогтоосноор асуудал нь ChatGPT дээрх HTML урьдчилан харах (preview) боломжид байжээ. Хэдийгээр HTML контентыг sandbox орчинд тусгаарлаж, гаднын сүлжээний хүсэлтийг хаадаг ч попап цонх боловсруулах явцад давхар жааз (nested frame) ашиглан sandbox-оос мултрах цоорхой үүссэн байв. Үүний үр дүнд халдагчид хортой prompt, тусгайлан бэлтгэсэн GPT эсвэл хуваалцсан чатаар дамжуулан хэрэглэгчийн ярианы өгөгдлийг чимээгүйхэн хулгайлах боломжтой болсон байжээ.\n\nУг алдаа нь зөвхөн Electron дээр суурилсан десктоп аппликэйшнээр хязгаарлагдахгүй бөгөөд хиймэл оюуны загвараас гадна түүнийг тойрсон аппликэйшний бүрэн бүтэн байдал чухал болохыг харууллаа. OpenAI уг эмзэг байдлыг мэдээллийн дагуу 2026 оны 9-р сарын 18-нд бүрэн хааж засварласан байна.",
+ "published": "2026-11-05T16:42:32Z",
+ "added": "2026-11-08T13:14:05Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

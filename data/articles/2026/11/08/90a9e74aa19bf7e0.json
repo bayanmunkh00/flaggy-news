@@ -1,0 +1,19 @@
+{
+ "id": "90a9e74aa19bf7e0",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
+ "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+ "summary_en": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
+ "lines": [],
+ "title_mn": "OpenSSH-д урт нууц үгээр баталгаажуулалтыг тойрох ноцтой алдаа илэрчээ",
+ "summary_mn": "Alpine Linux зэрэг musl сан ашигладаг системүүдэд OpenSSH-ийн нэвтрэлтийг тойрч гарах ноцтой цоорхой илэрсэн тул 10.6p2 яаралтай шинэчлэлтийг гаргалаа. Энэ нь нууц үггүй хэрэглэгчийн эрхээр 257-1024 байт урттай нууц үг ашиглан нэвтрэх боломжийг олгодог байна.",
+ "body_mn": "OpenSSH төслөөс musl C санг ашигладаг системүүдэд SSH нэвтрэлтийг шууд тойрч гарах боломжтой ноцтой эмзэг байдлыг зассан 10.6p2 яаралтай шинэчлэлтийг гаргалаа. Уг цоорхой нь openssh-server нь PAM модулийг ашиглахгүйгээр ажилладаг, нууц үгээр нэвтрэхийг зөвшөөрсөн, мөн системд ядаж нэг нууц үгтэй хэрэглэгч байгаа үед идэвхждэг байна.\n\nХалдагчид сервер лүү сүлжээгээр хандах эрх, нууц үггүй хэрэглэгчийн нэр болон 257-оос 1024 байтын урттай дурын тэмдэгт оруулахад л уг дансаар шууд нэвтрэх боломж бүрдэж байжээ. Alpine Linux-ийн openssh-server багц нь PAM-гүй баригддаг бөгөөд нууц үгээр нэвтрэх тохиргоо анхнаасаа нээлттэй байдаг тул хамгийн өндөр эрсдэлд орсон байна. Мөн OpenWrt, Buildroot, Yocto зэрэг musl ашигладаг системүүд шалгагдах шаардлагатай гэж мэдээлэв.\n\nAlpine Linux нь 3.16-аас эхлэн бүх хувилбартаа засварын багцыг хүргэж эхэлжээ. Сервер админууд OpenSSH 10.6p2 хувилбар руу шинэчлээд sshd үйлчилгээгээ дахин ачаалах, эсвэл нэн даруй PasswordAuthentication=no тохиргоог идэвхжүүлж SSH нууц үгээр нэвтрэх хандалтыг хаахыг зөвлөж байна.",
+ "published": "2026-11-05T16:42:46Z",
+ "added": "2026-11-08T13:14:05Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

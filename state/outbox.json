@@ -834,5 +834,247 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d9c26b8095c9a8ec",
+   "section": "ai",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+   "image": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
+   "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+   "summary_en": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC CNBC",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T13:34:14Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0e8d647d9012c994",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Geeky Gadgets",
+   "url": "https://www.geeky-gadgets.com/elon-musk-grokbot-cost-problem/",
+   "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/grokbot-ai-agent.jpg",
+   "title": "Elon Musk’s xAI Fights Surging GrokBot Maintenance Bills",
+   "summary_en": "Elon Musk’s xAI Fights Surging GrokBot Maintenance Bills Geeky Gadgets",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T13:46:28Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7ffa5ebc6bd48e97",
+   "section": "ai",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/moonshot-ai-discussed-european-blackwell-leases-amid-u-s-chip-curbs/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/11/moonshot-ai-discussed-european-blackwell-leases-amid-us-chip-curbs.jpg",
+   "title": "Moonshot AI Discussed European Blackwell Leases Amid U.S. Chip Curbs",
+   "summary_en": "Moonshot AI Discussed European Blackwell Leases Amid U.S. Chip Curbs Unite.AI",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T14:05:03Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7d3fdba5d29111d0",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg",
+   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+   "summary_en": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T14:41:10Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "33edc5cc6f7856b3",
+   "section": "uiux",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
+   "image": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png",
+   "title": "Taming Typography: Building a Modern CSS Reset",
+   "summary_en": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts. Taming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T14:55:31Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "61f941f642d4f27c",
+   "section": "ai",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/chinas-moonshot-ai-seeks-nvidia-blackwell-access-in-europe-cnbc-reports-5005041",
+   "image": "",
+   "title": "China’s Moonshot AI seeks Nvidia Blackwell access in Europe, CNBC reports",
+   "summary_en": "China’s Moonshot AI seeks Nvidia Blackwell access in Europe, CNBC reports Investing.com",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T15:24:04Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1cfa3285f7d19361",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Microsoft",
+   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/05/bringing-claude-models-in-microsoft-copilot-into-the-eu-data-boundary/",
+   "image": "https://www.microsoft.com/en-us/copilot/blog/wp-content/uploads/sites/2/2026/11/EUDB-8-1-1024x576.png",
+   "title": "Bringing Claude models in Microsoft Copilot into the EU Data Boundary",
+   "summary_en": "Bringing Claude models in Microsoft Copilot into the EU Data Boundary Microsoft",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T16:00:00Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ec4ef3ed342c756c",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "summary_en": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-05T16:16:45Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "51949d92c14788bd",
+   "section": "ai",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "remio",
+   "url": "https://www.remio.ai/post/moonshot-ai-releases-kimi-k3-1-pro-weights-expanding-deployment-choices",
+   "image": "https://static.wixstatic.com/media/8fc0e9_22aef6954de8433ebfde52b4a6ca52fc~mv2.png/v1/fill/w_2000,h_1125,al_c,q_95,usm_0.66_1.00_0.01/8fc0e9_22aef6954de8433ebfde52b4a6ca52fc~mv2.png",
+   "title": "Moonshot AI Releases Kimi K3.1 Pro Weights, Expanding Deployment Choices",
+   "summary_en": "Moonshot AI Releases Kimi K3.1 Pro Weights, Expanding Deployment Choices remio",
+   "lines": [],
+   "title_mn": "Moonshot AI Kimi K3.1 Pro загварынхаа жинг Hugging Face дээр нээлттэй байршууллаа",
+   "summary_mn": "Moonshot AI 2.8 их наяд параметртэй Kimi K3.1 Pro загварынхаа жинг Hugging Face дээр нээлттэй татаж авахаар байршууллаа. Нийт 1.56 TB хэмжээтэй тус файлууд нь байгууллагуудад загварыг өөрсдийн дэд бүтцэд бүрэн хяналттай ажиллуулах боломжийг олгож байна.",
+   "body_mn": "Хятадын хиймэл оюуны Moonshot AI компани Kimi K3.1 Pro загварынхаа жинг (weights) Hugging Face талбарт нийтэллээ. Тус загвар нь нийт 2.8 их наяд параметртэй бөгөөд загварын жингийн файлууд, тохиргоо болон боловсруулалтын кодууд нийлээд 1.56 TB хэмжээтэй байна. Ингэснээр хөгжүүлэгчид зөвхөн бэлэн сервисийн API ашиглахаас гадна загварыг өөрсдийн дэд бүтцэд бие даан ажиллуулах сонголттой боллоо.\n\nЗагварын жинг бүрэн татаж авах боломжтой болсон нь байгууллагуудад өгөгдлийн хяналт, аюулгүй байдлаа өөрсдөө удирдах давуу талыг өгнө. Жишээлбэл, байгууллагын дотоод кодын туслах систем ажиллуулахад гаднын клауд үйлчилгээнээс хараат бус байж, батлагдсан хувилбарыг урт хугацаанд тогтвортой хадгалах боломж бүрдэж байна.\n\nСудлаачдын хувьд ч тухайн загварын бодит чадвар болон бүтцийг бие даан шалгах, шинжлэх өргөн үүд нээгдлээ. Гэсэн хэдий ч 1.56 TB бүхий асар том загварыг дотооддоо ажиллуулахад дэд бүтцийн зардал болон серверийн хүчин чадал ихээр шаардагдах тул хэрэглэгчид өөрсдийн хэрэгцээнд тохируулан сонгох шаардлагатай.",
+   "published": "2026-11-05T16:40:49Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "dd9d10ec61939a97",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif",
+   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "summary_en": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. \"The flaw could enable silent chat data theft, phishing,",
+   "lines": [],
+   "title_mn": "ChatGPT-ийн Lockdown Mode-ийг тойрч чатын өгөгдлийг хулгайлах цоорхой илэрчээ",
+   "summary_mn": "Check Point-ийн судлаачид ChatGPT-ийн Lockdown Mode хамгаалалтыг тойрч, хэрэглэгчийн харилцан яриаг сэм хулгайлах боломжтой ноцтой эмзэг байдлыг илрүүлжээ. Энэхүү цоорхойг OpenAI есдүгээр сарын 18-нд засварласан байна.",
+   "body_mn": "Кибер аюулгүй байдлын Check Point компанийн судлаачид OpenAI ChatGPT-ийн Lockdown Mode хамгаалалтыг тойрч гарах эмзэг байдлыг илрүүлж, мэдээлсний дараа засварлуулсан байна. Lockdown Mode нь өгөгдөл гадагш алдагдах эрсдэлийг хязгаарлах зорилгоор 2026 оны зургаадугаар сард нэвтрүүлсэн хамгаалалтын тохиргоо байсан юм.\n\nСудлаачдын тогтоосноор асуудал нь ChatGPT дээрх HTML урьдчилан харах (preview) боломжид байжээ. Хэдийгээр HTML контентыг sandbox орчинд тусгаарлаж, гаднын сүлжээний хүсэлтийг хаадаг ч попап цонх боловсруулах явцад давхар жааз (nested frame) ашиглан sandbox-оос мултрах цоорхой үүссэн байв. Үүний үр дүнд халдагчид хортой prompt, тусгайлан бэлтгэсэн GPT эсвэл хуваалцсан чатаар дамжуулан хэрэглэгчийн ярианы өгөгдлийг чимээгүйхэн хулгайлах боломжтой болсон байжээ.\n\nУг алдаа нь зөвхөн Electron дээр суурилсан десктоп аппликэйшнээр хязгаарлагдахгүй бөгөөд хиймэл оюуны загвараас гадна түүнийг тойрсон аппликэйшний бүрэн бүтэн байдал чухал болохыг харууллаа. OpenAI уг эмзэг байдлыг мэдээллийн дагуу 2026 оны 9-р сарын 18-нд бүрэн хааж засварласан байна.",
+   "published": "2026-11-05T16:42:32Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "90a9e74aa19bf7e0",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
+   "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+   "summary_en": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
+   "lines": [],
+   "title_mn": "OpenSSH-д урт нууц үгээр баталгаажуулалтыг тойрох ноцтой алдаа илэрчээ",
+   "summary_mn": "Alpine Linux зэрэг musl сан ашигладаг системүүдэд OpenSSH-ийн нэвтрэлтийг тойрч гарах ноцтой цоорхой илэрсэн тул 10.6p2 яаралтай шинэчлэлтийг гаргалаа. Энэ нь нууц үггүй хэрэглэгчийн эрхээр 257-1024 байт урттай нууц үг ашиглан нэвтрэх боломжийг олгодог байна.",
+   "body_mn": "OpenSSH төслөөс musl C санг ашигладаг системүүдэд SSH нэвтрэлтийг шууд тойрч гарах боломжтой ноцтой эмзэг байдлыг зассан 10.6p2 яаралтай шинэчлэлтийг гаргалаа. Уг цоорхой нь openssh-server нь PAM модулийг ашиглахгүйгээр ажилладаг, нууц үгээр нэвтрэхийг зөвшөөрсөн, мөн системд ядаж нэг нууц үгтэй хэрэглэгч байгаа үед идэвхждэг байна.\n\nХалдагчид сервер лүү сүлжээгээр хандах эрх, нууц үггүй хэрэглэгчийн нэр болон 257-оос 1024 байтын урттай дурын тэмдэгт оруулахад л уг дансаар шууд нэвтрэх боломж бүрдэж байжээ. Alpine Linux-ийн openssh-server багц нь PAM-гүй баригддаг бөгөөд нууц үгээр нэвтрэх тохиргоо анхнаасаа нээлттэй байдаг тул хамгийн өндөр эрсдэлд орсон байна. Мөн OpenWrt, Buildroot, Yocto зэрэг musl ашигладаг системүүд шалгагдах шаардлагатай гэж мэдээлэв.\n\nAlpine Linux нь 3.16-аас эхлэн бүх хувилбартаа засварын багцыг хүргэж эхэлжээ. Сервер админууд OpenSSH 10.6p2 хувилбар руу шинэчлээд sshd үйлчилгээгээ дахин ачаалах, эсвэл нэн даруй PasswordAuthentication=no тохиргоог идэвхжүүлж SSH нууц үгээр нэвтрэх хандалтыг хаахыг зөвлөж байна.",
+   "published": "2026-11-05T16:42:46Z",
+   "added": "2026-11-08T13:14:05Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
  }
 ]
