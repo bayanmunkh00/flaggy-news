@@ -1,0 +1,19 @@
+{
+ "id": "616c68177b707eae",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+ "image": "",
+ "title": "Australian universities are creating AI-native graduates",
+ "summary_en": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+ "lines": [],
+ "title_mn": "Австралийн их сургуулиуд сургалтдаа ChatGPT нэвтрүүлж байна",
+ "summary_mn": "Австралийн их сургуулиуд оюутнуудыг хиймэл оюуны эрин үед бэлтгэх зорилгоор ChatGPT-д хандах эрхийг өргөжүүлж, хичээл сургалтдаа нэвтрүүлж байна.",
+ "body_mn": "Австралийн их сургуулиуд оюутнуудаа хиймэл оюун ухаанд суурилсан хөдөлмөрийн зах зээлд бэлтгэх зорилгоор шинэ санаачилга гаргажээ. Тус улсын дээд боловсролын байгууллагууд ChatGPT ашиглах боломжийг өргөжүүлж, сургалт болон судалгааны үйл ажиллагаандаа хиймэл оюуныг идэвхтэй нэвтрүүлж эхэлсэн байна.\n\nЭнэхүү алхам нь оюутнуудын хиймэл оюунтай ажиллах ур чадварыг хөгжүүлэх, орчин үеийн ажлын байрны шаардлагад нийцсэн төгсөгчдийг бэлтгэхэд чиглэжээ. Их сургуулиуд хиймэл оюуныг сургалтын үйл явцад зөв зохистой, үр дүнтэйгээр ашиглах арга зүйд анхаарч байна.\n\nБоловсролын салбарт OpenAI-ийн технологи өргөнөөр нэвтэрч байгаа нь оюутнуудад шинэ боломж нээж, сургалтын чанарыг сайжруулахад чухал хувь нэмэр оруулж байна.",
+ "published": "2026-11-05T17:00:00Z",
+ "added": "2026-11-08T16:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
