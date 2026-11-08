@@ -1,0 +1,19 @@
+{
+ "id": "fbbd39a2c10610b5",
+ "section": "ai",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "Pandaily",
+ "url": "https://pandaily.com/superclue-office-agent-benchmark-doubao-work-kimi-work-workbuddy",
+ "image": "https://cms-image.pandaily.com/1/superclue_baa3417d3d.png",
+ "title": "SuperCLUE Office Agent Benchmark Crowns Doubao Work Ahead of Kimi Work and WorkBuddy",
+ "summary_en": "SuperCLUE Office Agent Benchmark Crowns Doubao Work Ahead of Kimi Work and WorkBuddy Pandaily",
+ "lines": [],
+ "title_mn": "SuperCLUE тестээр Doubao Work оффисын агент шинжилгээнд тэргүүлжээ",
+ "summary_mn": "SuperCLUE-ийн 2026 оны 10 дүгээр сарын оффисын агентын шалгалтаар Doubao Work 85.33 оноогоор тэргүүлж, Kimi Work болон WorkBuddy удаалжээ.",
+ "body_mn": "SuperCLUE байгууллагаас гаргасан 2026 оны 10 дүгээр сарын оффисын агентын үнэлгээний дүнгээр Doubao Work загвар 85.33 оноогоор жагсаалтыг тэргүүллээ. Энэхүү шалгалт нь баримт бичиг боловсруулах, бичих болон өгөгдөл анализын чиглэлээр хийгдсэн байна.\n\nТус жагсаалтад Kimi Work болон Tencent WorkBuddy загварууд тун ойролцоо оноогоор удаалсан бөгөөд хиймэл оюуны оффисын хэрэгслүүдийн өрсөлдөөн улам ширүүсч байгааг харуулж байна. Эдгээр агентууд нь өдөр тутмын оффисын ажлыг автоматжуулах чиглэлд чухал үүрэг гүйцэтгэж байна.",
+ "published": "2026-11-05T07:13:48Z",
+ "added": "2026-11-08T05:51:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "d2b8633e1a6f94d6",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg",
+ "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+ "summary_en": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
+ "lines": [],
+ "title_mn": "Zyxel GS1900 сүлжээний свичийн шинэчилсэн засвар сул талыг хааж чадсангүй",
+ "summary_mn": "Zyxel GS1900 свичийн өмнөх засвар нь хакеруудын ашиглаж буй алсын командын эмзэг байдлыг бүрэн хааж чадаагүй болохыг судлаачид тогтоожээ. Компани шинэ Patch 3 програм хангамжийг гаргасан байна.",
+ "body_mn": "Zyxel компани GS1900 загварын сүлжээний свичин дэх өмнөх Patch 2 засвараар бүрэн хаагдаагүй байсан аюултай сул талыг засахаар шинэ программ хангамж гаргажээ. Binarly компанийн судлаачдын тогтоосноор уг эмзэг байдал нь сүлжээний вэб удирдлагын хэсэгт нэвтэрч ямар ч баталгаажуулалтгүйгээр root эрхтэйгээр команд гүйцэтгэх боломжийг олгож байсан аж.\n\nЭнэхүү сул тал нь CVE-2026-7273 болон CVE-2026-107441 кодтойгоор тэмдэглэгдсэн бөгөөд хакерууд аль хэдийн бодит халдлагад ашиглаж эхэлсэн байжээ. Хүсэлт боловсруулах явцад параметрийн хэмжээг шалгадаггүй алдаанаас үүдэн санах ойн хальдал үүсч, халдагч дурын команд ажиллуулах нөхцөл бүрддэг байна.\n\nZyxel 10 өөр GS1900 загварын төхөөрөмжид зориулсан шинэ Patch 3 хувилбарыг гаргасан бөгөөд хэрэглэгчдийг системээ яаралтай шинэчлэхийг анхааруулж байна. Одоогоор үүнтэй холбоотой өөр тойруулан засварлах арга байхгүй байгаа бөгөөд хуучин хувилбартай свивчүүд эрсдэлтэй хэвээр байна.",
+ "published": "2026-11-05T07:06:33Z",
+ "added": "2026-11-08T05:51:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

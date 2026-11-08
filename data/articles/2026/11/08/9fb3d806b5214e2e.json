@@ -1,0 +1,19 @@
+{
+ "id": "9fb3d806b5214e2e",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg",
+ "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+ "summary_en": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
+ "lines": [],
+ "title_mn": "Энэтхэгийн CERT-In байгууллага хиймэл оюун ашигласан кибер халдлагуудад анхаарууллаа",
+ "summary_mn": "Crafty Falcon гэх бүлэг санхүүгийн салбарыг чиглэсэн хиймэл оюуны хэрэгслүүдээр халдлага үйлдэж байгааг Энэтхэгийн CERT-In анхаарууллаа.",
+ "body_mn": "Энэтхэгийн Компьютерийн яаралтай тусламжийн төв (CERT-In) тус улсын санхүү, банкны салбарын байгууллагуудыг хиймэл оюун ашигласан кибер халдлагууд чиглэж байгааг зарлалаа. Crafty Falcon хэмээх халдагч бүлэг ARTEX, PentAGI болон CyberStrikeAI зэрэг нээлттэй эх сурвалжтай хиймэл оюуны хэрэгслүүдийг ашиглаж байна.\n\nЭдгээр хэрэгслүүд нь халдлагын бүтцийг автомат байдлаар боловсруулж, скриптүүдийг хурдацтай үүсгэн, байгууллагын хамгаалалтын системээс нуугдах зорилгоор IP хаягаа байнга солих чадвартай аж. Мөн криптовалютын биржүүд болон дижитал хөрөнгө үйлчилгээ үзүүлэгчдийг чиглэсэн халдлагууд идэвхтэй явагдаж байна.\n\nҮүнтэй холбоотойгоор CERT-In байгууллага хиймэл оюуны системийн аюулгүй байдал, засаглал, нууцлалыг хангах шинэ удирдамж боловсруулжээ. Уг удирдамж нь AI агентуудын эрх мэдэл, хүний хяналт болон яаралтай зогсоох механизмыг нэвтрүүлэх шаардлагыг тавьж байна.",
+ "published": "2026-11-05T08:42:03Z",
+ "added": "2026-11-08T05:51:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "db9792e954d44701",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/merge-builds-with-openai",
+ "image": "",
+ "title": "Merge builds product and business tools with OpenAI technology",
+ "summary_en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+ "lines": [],
+ "title_mn": "Merge компани OpenAI-ийн технологиор бүтээгдэхүүн хөгжүүлж байна",
+ "summary_mn": "Merge компани GPT-6 Astra, ChatGPT болон Codex технологиудыг ашиглан бүтээгдэхүүний код шалгах, маркетинг дэмжих ажлуудаа хэрэгжүүлж байна.",
+ "body_mn": "Merge компани бизнес болон бүтээгдэхүүний хэрэгслүүдээ сайжруулахад OpenAI-ийн дэвшилтэт технологиудыг амжилттай нэвтрүүлж байна. Тэд GPT-6 Astra, ChatGPT болон Codex загваруудыг программ хангамжийн код хянах, маркетинг төлөвлөх ажилд ашиглаж эхэлжээ.\n\nТүүнчлэн тус компанийн багууд хиймэл оюуны тусламжтайгаар удирдлагын уулзалт төлөвлөх, борлуулалтын тайлан бэлтгэх зэрэг өдөр тутмын үйл ажиллагаагаа хялбарчилж байна.",
+ "published": "2026-11-05T08:00:00Z",
+ "added": "2026-11-08T05:51:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

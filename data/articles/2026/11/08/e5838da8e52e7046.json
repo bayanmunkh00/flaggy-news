@@ -1,0 +1,19 @@
+{
+ "id": "e5838da8e52e7046",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg",
+ "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+ "summary_en": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
+ "lines": [],
+ "title_mn": "АНУ-ын бизнесийн байгууллагуудад заналхийлж буй кибер халдлагууд",
+ "summary_mn": "Судлаачид АНУ-ын компаниудад заналхийлж буй шинэ фишинг болон хуурамч AI аппликейшн ашигласан кибер халдлагуудын талаар мэдээллээ.",
+ "body_mn": "2026 оны аравдугаар сард АНУ-ын бизнесүүдэд чиглэсэн кибер аюул занал өссөн бөгөөд халдагчид баталгаажуулалтын систем болон алдартай платформ хэрэгслүүдийг ашиглаж байна. Тухайлбал, SkyW4lker хэмээх фишинг хэрэгсэл нь Microsoft-ын төхөөрөмжийн кодыг баталгаажуулах хууль ёсны процессыг ашиглан нууц үг хулгайлахгүйгээр корпорацын хаяг руу нэвтэрч байгаа аж.\n\nҮүнээс гадна халдагчид алдартай хиймэл оюуны үйлчилгээ болох ChatGPT, Claude зэрэг програмуудын нэрийг ашиглан хуурамч татаж авалт үүсгэж, хэрэглэгчдийн мэдээллийг хулгайлах оролдлого гаргажээ. Тухайлбал, жинхэнэ Claude суулгагч ажиллах явцдаа хөтчийн сессийн күүкийг хулгайлах нууц процессуудыг ажиллуулж байсан тохиолдол илэрсэн байна.\n\nБайгууллагууд энэхүү аюулаас урьдчилан сэргийлэхийн тулд зөвшөөрөгдсөн AI хэрэгслүүдийг ашиглаж, Microsoft Entra нөхцөлт хандалтын тохиргоогоор төхөөрөмжийн кодыг хязгаарлах шаардлагатайг мэргэжилтнүүд зөвлөж байна.",
+ "published": "2026-11-05T10:06:19Z",
+ "added": "2026-11-08T05:51:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

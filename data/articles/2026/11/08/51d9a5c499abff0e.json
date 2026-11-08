@@ -1,0 +1,19 @@
+{
+ "id": "51d9a5c499abff0e",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg",
+ "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+ "summary_en": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
+ "lines": [],
+ "title_mn": "Apple компани iCloud-ын нийтийн холбоосуудыг шалгаж эхлэхээр болжээ",
+ "summary_mn": "Apple компани iOS 27.3 болон бусад үйлдлийн системийн шинэчлэлтээр iCloud дэх нийтийн холбоосоор хуваалцсан агуулгыг шалгадаг болохоо зарлалаа.",
+ "body_mn": "Apple компани iOS 27.3, iPadOS 27.3, macOS 27.3 болон visionOS 27.3 хувилбруудаас эхлэн iCloud-ын нийтийн холбоосуудыг хортой агуулгатай эсэхэд шалгадаг болно гэдгээ мэдэгдлээ. Энэхүү өөрчлөлт нь хэрэглэгчид зураг болон файл хуваалцахдаа холбоосыг \"Холбоостой хэн бүхэн\" гэсэн сонголтоор үүсгэсэн тохиолдолд хамаарах юм.\n\nИйм байдлаар хуваалцсан агуулга нь Apple компанид харагдах тул төгсгөл хоорондын шифрлэлт (E2EE) үйлчлэхгүй байх талтай аж. Тус компани хортой агуулга илэрсэн тохиолдолд файлыг устгах болон Apple Аккаунтыг түгжих зэрэг арга хэмжээ авахаа анхааруулжээ.\n\nОдоогоор энэхүү өөрчлөлтийг хийх болсон яг ямар шалтгаан байгаа нь тодорхойгүй байгаа бөгөөд хэрэглэгчийн нууцлал болон аюулгүй байдлын талаарх маргааныг дагуулж болзошгүй байна.",
+ "published": "2026-11-05T09:13:28Z",
+ "added": "2026-11-08T05:51:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
