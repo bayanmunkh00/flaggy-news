@@ -1010,5 +1010,93 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ecdb9339a0c4b2dd",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-tests-claude-trading-and-sabotage-detection-in-eve/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-tests-claude-trading-and-sabotage-detection-in-eve.jpg",
+   "title": "Anthropic Tests Claude Trading and Sabotage Detection in EVE",
+   "summary_en": "Anthropic Tests Claude Trading and Sabotage Detection in EVE Unite.AI",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-06T20:51:03Z",
+   "added": "2026-11-09T20:39:49Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "41d29db7533ce7d5",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3412bc3ca96f5ba0b24b3d2284c81a70b0e574df-1668x1238.png",
+   "title": "Project EVE: Claude plays MMORPGs",
+   "summary_en": "Project EVE: Claude plays MMORPGs Anthropic",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-06T20:52:05Z",
+   "added": "2026-11-09T20:39:49Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3a6eeefee3f421a0",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Business Journals",
+   "url": "https://www.bizjournals.com/houston/news/2026/11/06/montgomery-county-food-bank-anthropic-claude-ai.html",
+   "image": "",
+   "title": "After aviation and corporate jobs, Montgomery County Food Bank CEO is ready to serve",
+   "summary_en": "After aviation and corporate jobs, Montgomery County Food Bank CEO is ready to serve The Business Journals",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-06T20:54:00Z",
+   "added": "2026-11-09T20:39:49Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1b4254c65d9be0ff",
+   "section": "software",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7GBRL4iPtI99gtYPzGUJgT/89543d900cd8337eb22bb11c9712218c/image.png",
+   "title": "Chat SDK agents can now stream generative UI with json-render",
+   "summary_en": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The catalog covers tables, charts, buttons, and more, so there’s no separate tool to build and maintain for each message shape. Stream cards as the model writes streamCard posts the card once its root element has content and updates the message as new elements stream in. Edits go out…",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-06T21:00:00Z",
+   "added": "2026-11-09T20:39:49Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]
