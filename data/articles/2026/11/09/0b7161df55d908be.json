@@ -1,0 +1,19 @@
+{
+ "id": "0b7161df55d908be",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEFFUv1MUNRoFx03Jcw0k5NZCU0EOf5qEpbvAEQoTSTzoxHWPk1rc7XgQeG1USPP9vVB0ePI_lzQLqBU5bHdQ7-YrwEXFo8gJwayqwCvCtcDrw1JYMxKYxieV3bcQeCRAJAxt8CRfifzMzL22_ab0Z0OxwWrNckC36gPEOnubZnzagv6DkV7iY4AQJfA/s1600/paint-rce.jpg",
+ "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+ "summary_en": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
+ "lines": [],
+ "title_mn": "Microsoft Paint-ийн код ажиллуулах цоорхойн засвар Microsoft Store дээр гарлаа",
+ "summary_mn": "Windows Paint программд илэрсэн CVE-2026-83844 дугаартай алсын зайнаас код ажиллуулах эмзэг байдлын засвар Microsoft Store-оор дамжин тархаж байна.",
+ "body_mn": "Windows Paint програмын шинэ хувилбарт илэрсэн CVE-2026-83844 дугаартай чухал цоорхойн засвар албан ёсоор гарлаа. Гэсэн хэдий ч уг засвар нь ердийн Windows Update үйлчилгээгээр бус, зөвхөн Microsoft Store шинэчлэлтээр дамжин хэрэглэгчдэд хүрэх ажээ.\n\nCVSS үнэлгээгээр 8.1 буюу 'Чухал' гэж үнэлэгдсэн уг эмзэг байдал нь халдлага үйлдэгчид сүлжээгээр дамжуулан дур мэдэн код ажиллуулах боломжийг олгож болзошгүй юм. Шинэчилсэн 11.2609.401.0 болон түүнээс дээш хувилбарууд дээр уг асуудал засварлагдсан байна.\n\nМэргэжилтнүүд хэрэглэгчдэд Microsoft Store-оор дамжуулан програмаа яаралтай шинэчлэхийг зөвлөж байна. Хэрэв тухайн хэрэглэгчийн компьютер дээр уг программ шаардлагагүй бол устгах нь аюулгүй байдлыг хангах нэг арга гэж үзэж байна.",
+ "published": "2026-11-06T12:06:43Z",
+ "added": "2026-11-09T09:38:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

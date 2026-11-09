@@ -1,0 +1,19 @@
+{
+ "id": "4d594555ff87ccd7",
+ "section": "software",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.4.0",
+ "image": "https://opengraph.githubassets.com/8ef808c2dd7cd26b81d3df7cd1294531fe479ad49c6d975a0179010fec3e31c7/nestjs/nest/releases/tag/v12.4.0",
+ "title": "nest v12.4.0",
+ "summary_en": "v12.4.0 (2026-11-06) Features platform-node #18396 feat(node): let the node adapter set locals for every view ( @thekhegay ) Bug fixes microservices #18418 fix(microservices): ignore an mqtt server's own replies under wildcards ( @pavstev ) #18413 fix(microservices): reach handlers whose string pattern reads as json ( @pavstev ) #18392 fix(microservices): forward grpc call options on request streams ( @DenisCDev ) #18393 fix(microservices): await the mqtt close and reset the client state ( @hktitof ) common #18419 fix(common): keep the fields of grouped item errors in parse array pipe (…",
+ "lines": [],
+ "title_mn": "NestJS v12.4.0 хувилбар шинэ боломж болон алдаа засвартайгаар гарлаа",
+ "summary_mn": "NestJS фреймворкийн шинэ v12.4.0 хувилбар гарч, микросервис болон платформын алдаануудыг зассан байна.",
+ "body_mn": "Алдартай Node.js бэкенд фреймворк болох NestJS шинэ v12.4.0 хувилбараа албан ёсоор гаргалаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдийн хүсэн хүлээсэн олон шинэ боломжууд нэмэгдэж, хэд хэдэн чухал алдаанууд засагджээ.\n\nТухайлбал, platform-node болон микросервисийн хэсэгт MQTT болон gRPC протоколуудын ажиллагааг сайжруулсан байна. Мөн view боловсруулах явцад Content-Length болон charset тохиргоог зөв дамжуулдаг болжээ.\n\nТүүнчлэн @fastify/cors багцыг шинэчилж v11.4.1 болгосон бөгөөд код бичих явцыг илүү тогтвортой болгох үүдэн дэд хамаарал болон кэшлэлтийн засваруудыг хийсэн байна.",
+ "published": "2026-11-06T10:11:54Z",
+ "added": "2026-11-09T09:38:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

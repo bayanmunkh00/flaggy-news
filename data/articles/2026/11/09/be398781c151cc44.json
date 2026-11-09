@@ -1,0 +1,19 @@
+{
+ "id": "be398781c151cc44",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRlCxdfW4sb5-1zEBHpFyJfxetSva89fr67wc8zSfvidW5W4KQKckoTrRxOAUbjM94U2ydFjiXybLJPrp6pm1V-WUuC4IpkJjhIT56OG8go8E_8fR8cK-llV0UtXdRIxZS5XxuVwEbRj1G_zAErMjpkMHVdzkGBQrB46VErPyE7MBaW6sj0N64pRd3_A/s1600/FLOOD.jpg",
+ "title": "The Flood is Coming And The Pipes Were Already Full",
+ "summary_en": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
+ "lines": [],
+ "title_mn": "Хиймэл оюуны эрин үе дэх кибер аюулгүй байдал ба эмзэг байдлын сорилтууд",
+ "summary_mn": "Хиймэл оюун ухаан хөгжихийн хэрээр программ хангамжийн хуучин цоорхойнууд болон засвар хийх үйл явц хэрхэн өөрчлөгдөж буйг шинжлэгчид хөнджээ.",
+ "body_mn": "Хиймэл оюун ухааны хурдацтай хөгжил нь кибер аюулгүй байдлын салбарт цоо шинэ сорилтуудыг авчирч байна. Загварууд улам боловсронгуй болж, код дахь эмзэг байдлыг олох чадвар нь эрс сайжирснаар хуучин системүүдэд нуугдаж байсан цоорхойнууд олноор илрэх болжээ.\n\nГэсэн хэдий ч гол асуудал нь цоорхойг олохдоо бус, харин тэдгээрийг хэр хурдан засварлаж, хэрэглэгчдэд хүргэх вэ гэдэг дээр оршиж байна. Олон жилийн өмнө бичигдсэн хуучин программ хангамжууд өнөөг хүртэл ажилласаар байгаа нь халдлага үйлдэх таатай нөхцөлийг бүрдүүлж байна.\n\nШинжээчдийн үзэж байгаагаар технологийн хөгжлийн хурдыг гүйцэхын тулд программ хангамжийн аюулгүй байдлыг сайжруулах, ялангуяа хуучин хувилбаруудыг шинэчлэх үйл явцыг эрс эрчимжүүлэх шаардлагатай байгаа ажээ.",
+ "published": "2026-11-06T11:30:00Z",
+ "added": "2026-11-09T09:38:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

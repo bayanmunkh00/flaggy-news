@@ -1,0 +1,19 @@
+{
+ "id": "16d4294c76fce64e",
+ "section": "ai",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "www.tokenpost.com",
+ "url": "https://www.tokenpost.com/news/technology/50044",
+ "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/941f2a1ffb86735225bb72bee948b2adb2b0acc2725822b566debdf5559979b7.webp",
+ "title": "Tencent’s Hy4 Matches Grok 4.7 at 35 on AI Intelligence Index",
+ "summary_en": "Tencent’s Hy4 Matches Grok 4.7 at 35 on AI Intelligence Index www.tokenpost.com",
+ "lines": [],
+ "title_mn": "Tencent-ийн Hy4 загвар AI Intelligence Index үнэлгээнд Grok 4.7-той тэнцжээ",
+ "summary_mn": "Tencent компанийн Hy4 загвар Artificial Analysis үнэлгээгээр 35 оноо авч, Хятадын лабораториуд дунд хоёрдугаар байрт бичигдлээ.",
+ "body_mn": "Tencent компанийн боловсруулсан Hy4 загвар Artificial Analysis Intelligence Index v5 үнэлгээгээр 35 оноо авч, Grok 4.7 загвартай ижил түвшинд хүрсэн байна. Энэ нь Хятадын хиймэл оюун ухааны лабораториудын дунд хоёрдугаарт орох үзүүлэлт юм.\n\nЖагсаалтыг Moonshot AI компанийн Kimi K3.1 Pro загвар 46 оноогоор тэргүүлсэн бөгөөд тэдгээрийн хооронд 11 онооны зөрүүтэй байна. Hy4 загвар нь агент кодлох болон санхүүгийн үнэлгээний тестүүдэд сайн үр дүн үзүүлжээ.\n\nTencent компани уг загварын албан ёсны хувилбарыг гаргаж, харааны болон хэрэгсэл дуудах чадваруудыг нэмсэн байна. Мөн судлаачдад зориулж загварын жинг нээлттэй болгохоор төлөвлөжээ.",
+ "published": "2026-11-06T11:40:39Z",
+ "added": "2026-11-09T09:38:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

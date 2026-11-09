@@ -1,0 +1,19 @@
+{
+ "id": "25cfeb7476a406d7",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/D-Link-logo.jpg",
+ "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+ "summary_en": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+ "lines": [],
+ "title_mn": "D-Link: DGS-3130 цувралын шилжүүлэгчдэд олон тооны шинэ эмзэгдэл илэрлээ",
+ "summary_mn": "D-Link компани DGS-3130 цувралын удирдлагатай сүлжээний төхөөрөмжүүдэд илэрсэн патчгүй эмзэгдэл болон аюулгүй байдлын зөвлөмжүүдийг хуваалцжээ.",
+ "body_mn": "Сүлжээний төхөөрөмж үйлдвэрлэгч D-Link компани DGS-3130 цувралын удирдлагатай Gigabit stackable шилжүүлэгчдэд нөлөөлж буй олон тооны патч хийгдээгүй аюулгүй байдлын сул талуудыг мэдээллээ. Эдгээр төхөөрөмж нь голдуу жижиг болон дунд бизнесүүд болон метро Ethernet сүлжээнд өгөгдлийн саатал багасгах зорилгоор ашиглагддаг юм.\n\nЭмзэгдлүүдийг Spectrum Community Solutions сүлжээний инженер Гиреш Кумар Энугу илрүүлсэн бөгөөд D-Link Discovery Protocol (DDP) баталгаажуулалт, хандалтын хяналт болон мэдээлэл боловсруулах хэсгүүдэд тулгарч байна. Хэрэв халдагчид үүнийг амжилттай ашиглавал төхөөрөмжийн нууц мэдээллийг олж авах, зөвшөөрөлгүйгээр тохиргоо өөрчлөх, SNMP мэдээлэл алдагдуулах эсвэл сүлжээний үйлчилгээг тасалдуулах эрсдэлтэй.\n\nКомпани одоогоор эдгээр алдааг засах шинэ firmware гаргахаар ажиллаж байгаа бөгөөд админуудад түр зуурын арга хэмжээ авахыг зөвлөжээ. Үүнд DDP протоколыг идэвхгүй болгох, илүүдэл SNMP мэдээллийн мөрүүдийг устгах, мөн SSH болон web UI хандалтыг зөвхөн тусгаарлагдсан админ сүлжээнд хязгаарлах зэрэг багтаж байна.",
+ "published": "2026-11-06T12:37:22Z",
+ "added": "2026-11-09T09:38:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

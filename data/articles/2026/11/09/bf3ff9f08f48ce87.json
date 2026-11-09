@@ -1,0 +1,19 @@
+{
+ "id": "bf3ff9f08f48ce87",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil2RWGFxPYdzFDr1Tl0G6604dLCacXJDMaR-i0nSdrR7vBGgK-lUkZbE5eZYMbWO0Geqw_rDbN2qUkWpEadukl6gccv-xuUWJfEOx2_FWFiZxjVs4uNPiRK3JYOBo0QI1Lx08xd9Iz3-8TFN_kf-njbCQ-AFDcLNNRy6JcwsZyoM12qLt99OzNQNhmaGs/s1600/claude-dispatch.jpg",
+ "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+ "summary_en": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
+ "lines": [],
+ "title_mn": "Хортой өргөтгөлүүд Claude Desktop-ийг ашиглан хэрэглэгчийн компьютер дээр код ажиллуулж болзошгүй",
+ "summary_mn": "Судлаачид хөтчийн хортой өргөтгөлүүд Claude Desktop-ийн Dispatch функцийг ашиглан хэрэглэгчийн компьютер дээр дур мэдэн команд гүйцэтгэх боломжтойг илрүүлжээ.",
+ "body_mn": "Forever Security компанийн аюулгүй байдлын судлаачид хөтчийн хортой эсвэл эмзэг байдалтай өргөтгөлүүд claude.ai сайт дамжуулан Claude Desktop дээр программ хангамж ажиллуулах боломжтойг туршилтаар харуулжээ. Энэхүү халдлага нь хэрэглэгчийн утсаа ашиглан Claude Desktop руу даалгавар илгээх боломжийг олгодог Dispatch хэмээх функцийг ашигладаг байна.\n\nСудалгаагаар Dispatch нь claude.ai сайт дээрх идэвхтэй сессийг ямар нэгэн баталгаажуулалтгүйгээр хүлээн авч байжээ. Ингэснээр хөтчийн өргөтгөл нь хэрэглэгчийн өмнөөс Claude руу команд илгээж, computer ашигланnpm багц суулгах зэрэг үйлдлийг хийх боломжтой болсон байна. Claude анхааруулга асуудаг ч хортой скрипт зөвшөөрөх товчийг автоматаар дарж чаддаг аж.\n\nAnthropic компани энэ асуудлыг өмнө нь дотооддоо илрүүлсэн байсан бөгөөд Dispatch функцийг хаахаар төлөвлөж байжээ. Гэсэн хэдий ч хөгжүүлэгчид Claude Code Remote Control болон Claude Cowork зэрэг бусад функцууд мөн ижил төстэй эрсдэл дагуулж болзошгүйг анхааруулж байна.",
+ "published": "2026-11-06T12:06:35Z",
+ "added": "2026-11-09T09:38:35Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
