@@ -1,0 +1,19 @@
+{
+ "id": "49d728a69cd065da",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
+ "title": "After the midterms, is the AI industry in for a rough two years?",
+ "summary_en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+ "lines": [],
+ "title_mn": "АНУ-ын завsрын сонгууль технологийн салбарт хэрхэн нөлөөлөх вэ?",
+ "summary_mn": "АНУ-ын завсарлагааны сонгуульд Ардчилсан нам ялалт байгуулж, өгөгдлийн төвүүдийн бүтээн байгуулалтад хатуу хяналт тогтоох бодлого олширлоо. Энэ нь технологийн аварга компаниуд болон хиймэл оюун ухааны салбарт төрийн зохицуулалт чангарахын дохио болж байна.",
+ "body_mn": "АНУ-д болж өнгөрсөн завсрын сонгуулийн үр дүнд Ардчилсан нам түүхэн ялалт байгуулж, технологийн салбарын ирээдүйд томоохон өөрчлөлт авчрахаар боллоо. Тухайлбал, сонгогчид өгөгдлийн төвүүдийн хөгжилд илүү хатуу хязгаарлалт тогтоохыг олонхиороо дэмжжээ.\n\nТехнологийн салбарт шинээр сонгогдсон ардчилсан намаас гаралтай удирдагчид болон хууль тогтоогчид том технологийн компаниудад тавих хяналтаа чангатгах төлөвтэй байна. OpenAI болон бусад компаниуд өгөгдлийн төвүүдээ өөрөөр нэрлэж, олон нийтийн эсэргүүцлийг зөөлрүүлэх оролдлогууд хийж байгаа билээ.\n\nTechCrunch-ийн Equity подкастаар энэ сонгуулийн үр дүн зөвхөн дата төв төдийгүй Big Tech буюу томоохон технологийн компаниудад засгийн газрын зүгээс үзүүлэх дарамт шахалт хэрхэн нэмэгдэх талаар хэлэлцсэн юм. Хөрөнгө оруулагчид болон салбарынхан энэ өөрчлөлтийг анхааралтай ажиглаж байна.",
+ "published": "2026-11-06T17:23:52Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

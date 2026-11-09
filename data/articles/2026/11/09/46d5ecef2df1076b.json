@@ -1,0 +1,19 @@
+{
+ "id": "46d5ecef2df1076b",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CNET",
+ "url": "https://www.cnet.com/tech/services-and-software/roundup-chatgpt-claude-gpt-6-cyber-images-2-6-personal-finance/",
+ "image": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_1957197742_Editorial_Use_Only.jpeg",
+ "title": "OpenAI and Anthropic Drop New AI Tools for Cybersecurity, Images and Finance",
+ "summary_en": "OpenAI and Anthropic Drop New AI Tools for Cybersecurity, Images and Finance CNET",
+ "lines": [],
+ "title_mn": "OpenAI болон Anthropic компаниуд кибер аюулгүй байдал болон санхүүгийн шинэ хэрэгслүүд танилцууллаа",
+ "summary_mn": "OpenAI компани кибер аюулгүй байдлын судалгаанд зориулсан GPT-6 Cyber загвар болон сайжруулсан Images 2.6 хэрэгслээ гаргалаа. Харин Anthropic компани хэрэглэгчдийн санхүүг хянах Claude Personal Finance хэрэгслийг танилцуулжээ.",
+ "body_mn": "Хиймэл оюун ухааны салбарт өрсөлдөөн ширүүсч байгаа энэ үед OpenAI болон Anthropic компаниуд хэрэглэгчид болон мэргэжилтнүүдэд зориулсан шинэ шинэчлэлтүүдээ зарлалаа. Энэ нь төрийн зохицуулалт болон хөрөнгө оруулагчдын анхаарал төвлөрсөн цаг үед зах зээл дэх байр сууриа бэхжүүлэх чухал алхам болж байна.\n\nOpenAI компани кибер аюулгүй байдлын чиглэлээр дагналсан GPT-6 Cyber загвараа танилцуулсан бөгөөд энэ нь эмзэг байдлыг олж илрүүлэх өндөр чадвартай юм. Мөн хиймэл оюун ухаанаар зураг бүтээх ChatGPT Images 2.6 хувилбарыг гаргасан нь өмнөхөөсөө 50 хувиар илүү хурдан бөгөөд зургийг богино GIF хэлбэртэй хөдөлгөөнт дүрс болгох боломжийг олгож байна.\n\nҮүний зэрэгцээ Anthropic компани Plaid платфоржтой хамтран хэрэглэгчдийн санхүүгийн гүйлгээг хянах шинэ боломжийг нэвтрүүлжээ. Эдгээр шинэчлэлтүүд нь хиймэл оюун ухааны загваруудын хэрэглээг улам өргөжүүлж, өдөр тутмын амьдралд бодит үнэ цэн авчрах зорилготой юм.",
+ "published": "2026-11-06T18:10:18Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

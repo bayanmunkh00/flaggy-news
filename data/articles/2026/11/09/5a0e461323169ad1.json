@@ -1,0 +1,19 @@
+{
+ "id": "5a0e461323169ad1",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5O1nScEAsgImxmd7n86khW/9e2732cbb5285089e77fe686448a324d/image__68_.png",
+ "title": "Vercel Tracing is now generally available",
+ "summary_en": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the Logs page. The new Traces page shows every trace and span in one place, for a project or your whole team. Switch between a Spans list and a Traces list, filter each, and search with Kibana Query Language (KQL). A Live mode streams new traces as they arrive. A query like…",
+ "lines": [],
+ "title_mn": "Vercel Tracing үйлчилгээ бүх хэрэглэгчдэд нээлттэй боллоо",
+ "summary_mn": "Vercel компани Tracing хэрэгслээ бүх багцын хэрэглэгчдэд албан ёсоор нээлттэй болгосноо зарлаж, шинэ боломжуудыг танилцууллаа.",
+ "body_mn": "Vercel компани өөрийн Tracing үйлчилгээгээ бүх төлөвлөгөөний хэрэглэгчдэд албан ёсоор нээлттэй болголоо. Одоо хэрэглэгчид хяналтын самбар эсвэл Vercel CLI ашиглан хүсэлтийн мөрийг хайж, шалгах бүрэн боломжтой болсон бөгөөд шинэ Next.js төслүүдэд энэ функц анхдагчаар идэвхжих юм.\n\nШинэ Traces хуудас нь бүх ул мөр болон хэсгүүдийг нэг дор харуулах бөгөөд Kibana Query Language (KQL) ашиглан шүүлт хийх боломжтой. Мөн Live горим нь шинээр ирж буй ул мөрийг бодит цаг хугацаанд дамжуулах аж. Үүний тусламжтайгаар хөгжүүлэгчид удааширсан өгөгдлийн баазын хүсэлт болон алдааг хялбархан илрүүлэх боломжтой.\n\nҮүний зэрэгцээ Hobby, Pro болон Enterprise багцуудын мэдээлэл хадгалах хугацааг мэдэгдэхүйц сунгажээ. Тухайлбал Hobby багц ул мөрийг 3 хоног, Pro болон Enterprise багцууд 14 хоногийн турш хадгалах юм.",
+ "published": "2026-11-06T17:00:00Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

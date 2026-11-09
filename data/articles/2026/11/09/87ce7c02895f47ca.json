@@ -1,0 +1,19 @@
+{
+ "id": "87ce7c02895f47ca",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
+ "image": "https://opengraph.githubassets.com/3bd638a75ca0f900947b08b9a5b0467ff908ac6cbb38da671ae8df9474a9e573/anthropics/claude-code/releases/tag/v2.1.319",
+ "title": "claude-code v2.1.319",
+ "summary_en": "What's changed Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't check are asked about or denied, with no fallback to the built-in classifier; set CLAUDE_CODE_AUTO_MODE_SERVER=0 to keep using it (Bedrock, Vertex and Foundry are unchanged) Changed auto mode behind an LLM gateway: CLAUDE_CODE_AUTO_MODE_SERVER=1 turns on the server-side check even with CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS set; if managed settings set the latter, they must set the 1 too Added support for MCP tasks in the terminal: when an MCP server runs a tool call as…",
+ "lines": [],
+ "title_mn": "Claude Code v2.1.319 хувилбар шинэчлэгдэн гарлаа",
+ "summary_mn": "Anthropic компани Claude Code хэрэгслийнхээ v2.1.319 хувилбарыг гаргаж, терминал дахь MCP даалгавар болон бусад сайжруулалтыг нэмжээ.",
+ "body_mn": "Anthropic компани хөгжүүлэгчдэд зориулсан Claude Code хэрэгслийн v2.1.319 шинэ хувилбарыг гаргалаа. Энэхүү шинэчлэлтээр терминал дотор MCP (Model Context Protocol) даалгавруудыг дэмжих болсон бөгөөд хэрэгсэл ажиллах явцад шууд цаана нь гүйцэтгэх боломжтой болжээ.\n\nМөн авто горимын тохиргоонд өөрчлөлт оруулж, LLM гарц ашиглах үеийн сервер талын шалгалтуудыг сайжруулсан байна. Үүнээс гадна хөгжүүлэгчдэд зориулж өнөөдрийн болон энэ долоо хоногийн зарцуулалтыг /usage команд дээр харуулах функц нэмэгджээ.\n\nШинэ хувилбарт мөн Claude apps gateway болон бусад холболтуудын алдааг засч, үйл ажиллагааны лог файлыг JSON форматаар гаргах боломжийг бүрдүүлсэн байна.",
+ "published": "2026-11-06T17:04:01Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

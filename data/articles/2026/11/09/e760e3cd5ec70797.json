@@ -1,0 +1,19 @@
+{
+ "id": "e760e3cd5ec70797",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Schneier on Security",
+ "source_label": "Schneier on Security",
+ "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
+ "image": "",
+ "title": "Pinpointing Location of Videos from Background Airplane Sounds",
+ "summary_en": "This is fascinating : The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because of the Doppler effect. This is the same familiar Doppler effect that causes the frequency of a siren to rise as it approaches and then fall as it passes by and moves away. More generally, it’s the phenomenon whereby the frequency of a wave…",
+ "lines": [],
+ "title_mn": "Онгоцны дууны долгионоор видеоны байршлыг тогтоох арга гаржээ",
+ "summary_mn": "Судлаачид видео бичлэг дэх онгоцны дууны Доплерийн муруйг шинжлэх замаар бичлэг хаана хийгдсэнийг нарийн тогтоох шинэ аргыг танилцууллаа.",
+ "body_mn": "Шинэ судалгаагаар ямар нэгэн ялгах тэмдэггүй видео бичлэгийн цаана сонсогдох онгоцны дууг шинжлэх замаар байршлыг нь тогтоох боломжтойг харуулжээ. Энэхүү арга нь Доплерийн эффектийг ашигладаг бөгөөд онгоц өнгөрөх үед дууны давтамж өөрчлөгддөг зарчим дээр суурилдаг байна.\n\nСудалгааны явцад онгоцны байршлын мэдээллийг олон нийтэд нээлттэй байдаг ADS-B (Automatic Dependent Surveillance-Broadcast) системээс авч ашигладаг аж. Энэхүү систем нь онгоцны байршил, хурд, өндрийн мэдээллийг цуглуулдаг бөгөөд видео бичлэг хийгдсэн цаг хугацаатай тулган шалгахад тусалдаг байна.\n\nЭнэхүү арга нь хуучин дэлхийн дайны үеийн дуу чимээ илрүүлэх төхөөрөмжүүдийн зарчимтай төстэй боловч орчин үеийн нислэгийн нээлттэй өгөгдөлтэй хослуулснаараа илүү өргөн боломжийг олгож байна. Гэхдээ уг аргыг хэрэгжүүлэхэд эхлэлийн цэг болон цаг хугацааг нарийн тодорхойлох шаардлагатай байдаг аж.",
+ "published": "2026-11-06T14:57:48Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

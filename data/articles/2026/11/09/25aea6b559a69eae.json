@@ -1,0 +1,19 @@
+{
+ "id": "25aea6b559a69eae",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/QNAP.jpg",
+ "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+ "summary_en": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+ "lines": [],
+ "title_mn": "QNAP хэрэглэгчдийг Plex2Shell халдлагаас сэрэмжлүүллээ",
+ "summary_mn": "QNAP компани халдагчид Plex Media Server-ийн эмзэг байдлыг ашиглан NAS төхөөрөмжүүдэд халдаж буй тул яаралтай шинэчлэхийг анхаарууллаа.",
+ "body_mn": "QNAP компани хэрэглэгчдээ Plex Media Server-ийг хамгийн сүүлийн үеийн хувилбар руу яаралтай шинэчлэхийг уриаллаа. Учир нь халдагчид Plex2Shell гэж нэрлэгдэх эмзэг байдлын гинжин хэлхээг ашиглан сүлжээнд холбогдсон хадгалах төхөөрөмжүүдэд (NAS) амжилттай халдаж байгаа аж.\n\nPlex2Shell нь Plex Media Server дээрх дөрвөн өөр эмзэг байдлыг (CVE-2026-96652 гэх мэт) хослуулан ашигладаг бөгөөд энэ оны аравдугаар сараас эхлэн идэвхтэй ашиглагдаж эхэлжээ. АНУ-ын CISA байгууллага уг эмзэг байдлуудыг мэдэгдэж буй аюулын жагсаалтад оруулсан байна.\n\nQNAP-ын зүгээс хэрэглэгчдэд Plex серверээ 1.43.3.10861 эсвэл түүнээс дээш хувилбар руу шинэчлэх, хэрэв алсаас хандах шаардлагагүй бол холбогдох функцуудыг хааж, VPN ашиглахыг зөвлөж байна. Хэрэв төхөөрөмж аль хэдийн халдлагад өртсөн бол үйлдлийн системийг цэвэрлэж, шинээр суулгахыг анхааруулжээ.",
+ "published": "2026-11-06T17:04:23Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

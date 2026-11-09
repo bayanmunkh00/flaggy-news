@@ -812,5 +812,203 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e760e3cd5ec70797",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "Schneier on Security",
+   "source_label": "Schneier on Security",
+   "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
+   "image": "",
+   "title": "Pinpointing Location of Videos from Background Airplane Sounds",
+   "summary_en": "This is fascinating : The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening. It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because of the Doppler effect. This is the same familiar Doppler effect that causes the frequency of a siren to rise as it approaches and then fall as it passes by and moves away. More generally, it’s the phenomenon whereby the frequency of a wave…",
+   "lines": [],
+   "title_mn": "Онгоцны дууны долгионоор видеоны байршлыг тогтоох арга гаржээ",
+   "summary_mn": "Судлаачид видео бичлэг дэх онгоцны дууны Доплерийн муруйг шинжлэх замаар бичлэг хаана хийгдсэнийг нарийн тогтоох шинэ аргыг танилцууллаа.",
+   "body_mn": "Шинэ судалгаагаар ямар нэгэн ялгах тэмдэггүй видео бичлэгийн цаана сонсогдох онгоцны дууг шинжлэх замаар байршлыг нь тогтоох боломжтойг харуулжээ. Энэхүү арга нь Доплерийн эффектийг ашигладаг бөгөөд онгоц өнгөрөх үед дууны давтамж өөрчлөгддөг зарчим дээр суурилдаг байна.\n\nСудалгааны явцад онгоцны байршлын мэдээллийг олон нийтэд нээлттэй байдаг ADS-B (Automatic Dependent Surveillance-Broadcast) системээс авч ашигладаг аж. Энэхүү систем нь онгоцны байршил, хурд, өндрийн мэдээллийг цуглуулдаг бөгөөд видео бичлэг хийгдсэн цаг хугацаатай тулган шалгахад тусалдаг байна.\n\nЭнэхүү арга нь хуучин дэлхийн дайны үеийн дуу чимээ илрүүлэх төхөөрөмжүүдийн зарчимтай төстэй боловч орчин үеийн нислэгийн нээлттэй өгөгдөлтэй хослуулснаараа илүү өргөн боломжийг олгож байна. Гэхдээ уг аргыг хэрэгжүүлэхэд эхлэлийн цэг болон цаг хугацааг нарийн тодорхойлох шаардлагатай байдаг аж.",
+   "published": "2026-11-06T14:57:48Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1e2a549beb7f56f6",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Mac Observer",
+   "url": "https://www.macobserver.com/news/anthropic-adds-bank-account-linking-to-claude-for-personal-finance/",
+   "image": "https://www.macobserver.com/wp-content/uploads/2026/11/Anthropic-Claude-Personal-Finance.jpg",
+   "title": "Anthropic Adds Bank Account Linking To Claude For Personal Finance",
+   "summary_en": "Anthropic Adds Bank Account Linking To Claude For Personal Finance The Mac Observer",
+   "lines": [],
+   "title_mn": "Anthropic Claude-д хувийн санхүүгээ хянах боломж нэмлээ",
+   "summary_mn": "Anthropic компани Claude хиймэл оюун ухаандаа банкны дансаа холбож, санхүүгийн мэдээллээ хянах боломжийг шинээр нэмжээ.",
+   "body_mn": "Anthropic компани Claude хиймэл оюун ухаандаа хэрэглэгчид банк болон зээлийн картын дансаа шууд холбох боломжтой шинэ функц нэмснээ зарлалаа. Plaid үйлчилгээг ашиглан холбогдох энэхүү боломж нь хэрэглэгчдэд зарцуулалтаа энгийн ярианы хэлээр асууж шалгах боломжийг олгож байна.\n\nШинэ функц нь Pro, Max болон Ultra төлөвлөгөөний хэрэглэгчдэд АНУ-д туршилтын журмаар нээгдэж байгаа бөгөөд вэб болон Mac десктоп аппликейшн дээр ажиллана. Хэрэглэгчид сарын өмнөх зарцуулалтаа шалгах эсвэл тодорхой төлбөрийн үлдэгдлийг хянах боломжтой.\n\nАюулгүй байдлын үүднээс уг холболт нь зөвхөн мэдээлэл унших эрхтэй буюу мөнгө шилжүүлэх, төлбөр хийх боломжгүй юм. Түүнчлэн санхүүгийн яриаг загвар сургахад ашиглахгүй бөгөөд зар сурталчилгаа харагдахгүй гэдгийг тус компани онцолжээ.",
+   "published": "2026-11-06T16:49:24Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5a0e461323169ad1",
+   "section": "software",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5O1nScEAsgImxmd7n86khW/9e2732cbb5285089e77fe686448a324d/image__68_.png",
+   "title": "Vercel Tracing is now generally available",
+   "summary_en": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the Logs page. The new Traces page shows every trace and span in one place, for a project or your whole team. Switch between a Spans list and a Traces list, filter each, and search with Kibana Query Language (KQL). A Live mode streams new traces as they arrive. A query like…",
+   "lines": [],
+   "title_mn": "Vercel Tracing үйлчилгээ бүх хэрэглэгчдэд нээлттэй боллоо",
+   "summary_mn": "Vercel компани Tracing хэрэгслээ бүх багцын хэрэглэгчдэд албан ёсоор нээлттэй болгосноо зарлаж, шинэ боломжуудыг танилцууллаа.",
+   "body_mn": "Vercel компани өөрийн Tracing үйлчилгээгээ бүх төлөвлөгөөний хэрэглэгчдэд албан ёсоор нээлттэй болголоо. Одоо хэрэглэгчид хяналтын самбар эсвэл Vercel CLI ашиглан хүсэлтийн мөрийг хайж, шалгах бүрэн боломжтой болсон бөгөөд шинэ Next.js төслүүдэд энэ функц анхдагчаар идэвхжих юм.\n\nШинэ Traces хуудас нь бүх ул мөр болон хэсгүүдийг нэг дор харуулах бөгөөд Kibana Query Language (KQL) ашиглан шүүлт хийх боломжтой. Мөн Live горим нь шинээр ирж буй ул мөрийг бодит цаг хугацаанд дамжуулах аж. Үүний тусламжтайгаар хөгжүүлэгчид удааширсан өгөгдлийн баазын хүсэлт болон алдааг хялбархан илрүүлэх боломжтой.\n\nҮүний зэрэгцээ Hobby, Pro болон Enterprise багцуудын мэдээлэл хадгалах хугацааг мэдэгдэхүйц сунгажээ. Тухайлбал Hobby багц ул мөрийг 3 хоног, Pro болон Enterprise багцууд 14 хоногийн турш хадгалах юм.",
+   "published": "2026-11-06T17:00:00Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "87ce7c02895f47ca",
+   "section": "ai",
+   "subtopic": "ai-devtools",
+   "source": "anthropics/claude-code",
+   "source_label": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
+   "image": "https://opengraph.githubassets.com/3bd638a75ca0f900947b08b9a5b0467ff908ac6cbb38da671ae8df9474a9e573/anthropics/claude-code/releases/tag/v2.1.319",
+   "title": "claude-code v2.1.319",
+   "summary_en": "What's changed Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't check are asked about or denied, with no fallback to the built-in classifier; set CLAUDE_CODE_AUTO_MODE_SERVER=0 to keep using it (Bedrock, Vertex and Foundry are unchanged) Changed auto mode behind an LLM gateway: CLAUDE_CODE_AUTO_MODE_SERVER=1 turns on the server-side check even with CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS set; if managed settings set the latter, they must set the 1 too Added support for MCP tasks in the terminal: when an MCP server runs a tool call as…",
+   "lines": [],
+   "title_mn": "Claude Code v2.1.319 хувилбар шинэчлэгдэн гарлаа",
+   "summary_mn": "Anthropic компани Claude Code хэрэгслийнхээ v2.1.319 хувилбарыг гаргаж, терминал дахь MCP даалгавар болон бусад сайжруулалтыг нэмжээ.",
+   "body_mn": "Anthropic компани хөгжүүлэгчдэд зориулсан Claude Code хэрэгслийн v2.1.319 шинэ хувилбарыг гаргалаа. Энэхүү шинэчлэлтээр терминал дотор MCP (Model Context Protocol) даалгавруудыг дэмжих болсон бөгөөд хэрэгсэл ажиллах явцад шууд цаана нь гүйцэтгэх боломжтой болжээ.\n\nМөн авто горимын тохиргоонд өөрчлөлт оруулж, LLM гарц ашиглах үеийн сервер талын шалгалтуудыг сайжруулсан байна. Үүнээс гадна хөгжүүлэгчдэд зориулж өнөөдрийн болон энэ долоо хоногийн зарцуулалтыг /usage команд дээр харуулах функц нэмэгджээ.\n\nШинэ хувилбарт мөн Claude apps gateway болон бусад холболтуудын алдааг засч, үйл ажиллагааны лог файлыг JSON форматаар гаргах боломжийг бүрдүүлсэн байна.",
+   "published": "2026-11-06T17:04:01Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "25aea6b559a69eae",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "BleepingComputer",
+   "source_label": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+   "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/QNAP.jpg",
+   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+   "summary_en": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+   "lines": [],
+   "title_mn": "QNAP хэрэглэгчдийг Plex2Shell халдлагаас сэрэмжлүүллээ",
+   "summary_mn": "QNAP компани халдагчид Plex Media Server-ийн эмзэг байдлыг ашиглан NAS төхөөрөмжүүдэд халдаж буй тул яаралтай шинэчлэхийг анхаарууллаа.",
+   "body_mn": "QNAP компани хэрэглэгчдээ Plex Media Server-ийг хамгийн сүүлийн үеийн хувилбар руу яаралтай шинэчлэхийг уриаллаа. Учир нь халдагчид Plex2Shell гэж нэрлэгдэх эмзэг байдлын гинжин хэлхээг ашиглан сүлжээнд холбогдсон хадгалах төхөөрөмжүүдэд (NAS) амжилттай халдаж байгаа аж.\n\nPlex2Shell нь Plex Media Server дээрх дөрвөн өөр эмзэг байдлыг (CVE-2026-96652 гэх мэт) хослуулан ашигладаг бөгөөд энэ оны аравдугаар сараас эхлэн идэвхтэй ашиглагдаж эхэлжээ. АНУ-ын CISA байгууллага уг эмзэг байдлуудыг мэдэгдэж буй аюулын жагсаалтад оруулсан байна.\n\nQNAP-ын зүгээс хэрэглэгчдэд Plex серверээ 1.43.3.10861 эсвэл түүнээс дээш хувилбар руу шинэчлэх, хэрэв алсаас хандах шаардлагагүй бол холбогдох функцуудыг хааж, VPN ашиглахыг зөвлөж байна. Хэрэв төхөөрөмж аль хэдийн халдлагад өртсөн бол үйлдлийн системийг цэвэрлэж, шинээр суулгахыг анхааруулжээ.",
+   "published": "2026-11-06T17:04:23Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "49d728a69cd065da",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "summary_en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+   "lines": [],
+   "title_mn": "АНУ-ын завsрын сонгууль технологийн салбарт хэрхэн нөлөөлөх вэ?",
+   "summary_mn": "АНУ-ын завсарлагааны сонгуульд Ардчилсан нам ялалт байгуулж, өгөгдлийн төвүүдийн бүтээн байгуулалтад хатуу хяналт тогтоох бодлого олширлоо. Энэ нь технологийн аварга компаниуд болон хиймэл оюун ухааны салбарт төрийн зохицуулалт чангарахын дохио болж байна.",
+   "body_mn": "АНУ-д болж өнгөрсөн завсрын сонгуулийн үр дүнд Ардчилсан нам түүхэн ялалт байгуулж, технологийн салбарын ирээдүйд томоохон өөрчлөлт авчрахаар боллоо. Тухайлбал, сонгогчид өгөгдлийн төвүүдийн хөгжилд илүү хатуу хязгаарлалт тогтоохыг олонхиороо дэмжжээ.\n\nТехнологийн салбарт шинээр сонгогдсон ардчилсан намаас гаралтай удирдагчид болон хууль тогтоогчид том технологийн компаниудад тавих хяналтаа чангатгах төлөвтэй байна. OpenAI болон бусад компаниуд өгөгдлийн төвүүдээ өөрөөр нэрлэж, олон нийтийн эсэргүүцлийг зөөлрүүлэх оролдлогууд хийж байгаа билээ.\n\nTechCrunch-ийн Equity подкастаар энэ сонгуулийн үр дүн зөвхөн дата төв төдийгүй Big Tech буюу томоохон технологийн компаниудад засгийн газрын зүгээс үзүүлэх дарамт шахалт хэрхэн нэмэгдэх талаар хэлэлцсэн юм. Хөрөнгө оруулагчид болон салбарынхан энэ өөрчлөлтийг анхааралтай ажиглаж байна.",
+   "published": "2026-11-06T17:23:52Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fb4760487527b9d5",
+   "section": "software",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5nTuYmLKAP5U6aTI3wr4oq/983b7c0fd00a1bd3c09b6bd3b33e9de1/image__71_.png",
+   "title": "Vercel CLI can now set new projects to expire",
+   "summary_en": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI prints the date and time when the project expires. The flag only applies when vercel deploy creates the project. If you deploy to an existing project with the flag, its expiration doesn't change and the CLI prints a warning. To remove a project's expiration, run vercel project…",
+   "lines": [],
+   "title_mn": "Vercel CLI ашиглан шинэ төслийн хугацааг дуусгавар болгох боломжтой боллоо",
+   "summary_mn": "Vercel CLI хэрэгслийн шинэчлэлтээр туршилт болон демо төслүүдийг автоматаар устгах хугацаа тохируулах боломжтой боллоо. Ингэснээр хөгжүүлэгчид хуучин төслүүдийг гараар цэвэрлэх шаардлагагүй болж байна.",
+   "body_mn": "Vercel platform хөгжүүлэгчдэд зориулсан CLI хэрэгсэлдээ шинэ боломж нэмсэн нь төслийн хугацааг автоматаар дуусгавар болгох юм. Шинэ төсөл үүсгэх явцдаа верcel deploy командын хамт --delete-project-after болон хугацааны утгыг өгөхөд тодорхой хугацааны дараа тухайн төсөл бүрэн устах ажээ.\n\nДэмжигдэх хугацааны сонголтуудад 1h, 1d, 1w, 2w болон 30d багтаж байгаа ба CLI дээр төслийн хүчинтэй хугацаа дуусах цагийг тодорхой харуулна. Хэрэв аль хэдийн үүссэн төсөл дээр энэ тугийг ашиглавал өөрчлөлт орохгүй бөгөөд анхааруулга өгөх юм.\n\nХэрэв та төслийн хугацааг цуцалж үлдэхийг хүсвэл vercel project keep командийг ашиглаж болно. Энэ функцуудыг ашиглахын тулд Vercel CLI-аа v65.12.0 болон түүнээс дээш хувилбар руу шинэчлэх шаардлагатай.",
+   "published": "2026-11-06T18:00:00Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "46d5ecef2df1076b",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "CNET",
+   "url": "https://www.cnet.com/tech/services-and-software/roundup-chatgpt-claude-gpt-6-cyber-images-2-6-personal-finance/",
+   "image": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_1957197742_Editorial_Use_Only.jpeg",
+   "title": "OpenAI and Anthropic Drop New AI Tools for Cybersecurity, Images and Finance",
+   "summary_en": "OpenAI and Anthropic Drop New AI Tools for Cybersecurity, Images and Finance CNET",
+   "lines": [],
+   "title_mn": "OpenAI болон Anthropic компаниуд кибер аюулгүй байдал болон санхүүгийн шинэ хэрэгслүүд танилцууллаа",
+   "summary_mn": "OpenAI компани кибер аюулгүй байдлын судалгаанд зориулсан GPT-6 Cyber загвар болон сайжруулсан Images 2.6 хэрэгслээ гаргалаа. Харин Anthropic компани хэрэглэгчдийн санхүүг хянах Claude Personal Finance хэрэгслийг танилцуулжээ.",
+   "body_mn": "Хиймэл оюун ухааны салбарт өрсөлдөөн ширүүсч байгаа энэ үед OpenAI болон Anthropic компаниуд хэрэглэгчид болон мэргэжилтнүүдэд зориулсан шинэ шинэчлэлтүүдээ зарлалаа. Энэ нь төрийн зохицуулалт болон хөрөнгө оруулагчдын анхаарал төвлөрсөн цаг үед зах зээл дэх байр сууриа бэхжүүлэх чухал алхам болж байна.\n\nOpenAI компани кибер аюулгүй байдлын чиглэлээр дагналсан GPT-6 Cyber загвараа танилцуулсан бөгөөд энэ нь эмзэг байдлыг олж илрүүлэх өндөр чадвартай юм. Мөн хиймэл оюун ухаанаар зураг бүтээх ChatGPT Images 2.6 хувилбарыг гаргасан нь өмнөхөөсөө 50 хувиар илүү хурдан бөгөөд зургийг богино GIF хэлбэртэй хөдөлгөөнт дүрс болгох боломжийг олгож байна.\n\nҮүний зэрэгцээ Anthropic компани Plaid платфоржтой хамтран хэрэглэгчдийн санхүүгийн гүйлгээг хянах шинэ боломжийг нэвтрүүлжээ. Эдгээр шинэчлэлтүүд нь хиймэл оюун ухааны загваруудын хэрэглээг улам өргөжүүлж, өдөр тутмын амьдралд бодит үнэ цэн авчрах зорилготой юм.",
+   "published": "2026-11-06T18:10:18Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8a5ab8f1dce8d6e1",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "PYMNTS.com",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-launches-claude-personal-finance-ahead-of-nasdaq-listing/",
+   "image": "https://www.pymnts.com/wp-content/uploads/2025/06/Anthropic-Claude-3.jpg",
+   "title": "Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing",
+   "summary_en": "Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing PYMNTS.com",
+   "lines": [],
+   "title_mn": "Anthropic компани Nasdaq биржид бүртгүүлэхээсээ өмнө Claude Personal Finance үйлчилгээгээ эхлүүллээ",
+   "summary_mn": "Anthropic компани хэрэглэгчдийн банкны данстай холбогдож зарцуулалтаа хянах боломжтой Claude Personal Finance хэрэгслийг танилцууллаа. Энэхүү шинэ функц нь компани Nasdaq биржид хувьцаагаа гаргахаас өмнөхөн зах зээлд нэвтэрч байна.",
+   "body_mn": "Anthropic компани хиймэл оюун ухааны туслахаараа дамжуулан хувийн санхүүгээ удирдах боломжийг олгох Claude Personal Finance үйлчилгээгээ албан ёсоор эхлүүллээ. OpenAI өмнө нь ChatGPT Finances үйлчилгээг гаргаж байсан бол энэ удаад Anthropic өрсөлдөөнд нэгдэж байна. Шинэ үйлчилгээ нь Plaid сүлжээгээр дамжин хэрэглэгчийн банкны данстай холбогдож, үлдэгдэл болон гүйлгээний түүхийг харах боломж олгоно.\n\nClaude Personal Finance нь зар сурталчилгаа болон төлбөртэй санал агуулаагүй бөгөөд зөвхөн унших горимтойгоор ажилладаг байна. Энэ нь хэрэглэгчдийн хөрөнгийг шууд шилжүүлэх болон хөрөнгө оруулалт хийх боломжгүй аж. Одоогийн байдлаар уг боломж нь АНУ-ын Pro, Max болон Ultra багцын төлбөртэй хэрэглэгчдэд бета хувилбараар хүрч байна.\n\nЭнэхүү шинэ боломж нь Anthropic компани анхдагч олон нийтийн санал болголт (IPO) хийж, ANT тэмдэглэгээ дор Nasdaq биржид бүртгүүлэхээр өргөдөл гаргаснаас хойш 10 хоногийн дараа гарч байгаа юм. Судалгаагаар хэрэглэгчдийн цөөн хувь нь хиймэл оюун ухаанаар мөнгө санхүүгээ удирдахад төлбөр төлдөг ч энэ төрлийн үйлчилгээ нь хэрэглэгчдийг тогтвортой хадгалахад чухал үүрэгтэй байна.",
+   "published": "2026-11-06T18:27:09Z",
+   "added": "2026-11-09T16:01:25Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

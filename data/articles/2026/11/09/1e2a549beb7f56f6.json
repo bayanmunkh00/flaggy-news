@@ -1,0 +1,19 @@
+{
+ "id": "1e2a549beb7f56f6",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Mac Observer",
+ "url": "https://www.macobserver.com/news/anthropic-adds-bank-account-linking-to-claude-for-personal-finance/",
+ "image": "https://www.macobserver.com/wp-content/uploads/2026/11/Anthropic-Claude-Personal-Finance.jpg",
+ "title": "Anthropic Adds Bank Account Linking To Claude For Personal Finance",
+ "summary_en": "Anthropic Adds Bank Account Linking To Claude For Personal Finance The Mac Observer",
+ "lines": [],
+ "title_mn": "Anthropic Claude-д хувийн санхүүгээ хянах боломж нэмлээ",
+ "summary_mn": "Anthropic компани Claude хиймэл оюун ухаандаа банкны дансаа холбож, санхүүгийн мэдээллээ хянах боломжийг шинээр нэмжээ.",
+ "body_mn": "Anthropic компани Claude хиймэл оюун ухаандаа хэрэглэгчид банк болон зээлийн картын дансаа шууд холбох боломжтой шинэ функц нэмснээ зарлалаа. Plaid үйлчилгээг ашиглан холбогдох энэхүү боломж нь хэрэглэгчдэд зарцуулалтаа энгийн ярианы хэлээр асууж шалгах боломжийг олгож байна.\n\nШинэ функц нь Pro, Max болон Ultra төлөвлөгөөний хэрэглэгчдэд АНУ-д туршилтын журмаар нээгдэж байгаа бөгөөд вэб болон Mac десктоп аппликейшн дээр ажиллана. Хэрэглэгчид сарын өмнөх зарцуулалтаа шалгах эсвэл тодорхой төлбөрийн үлдэгдлийг хянах боломжтой.\n\nАюулгүй байдлын үүднээс уг холболт нь зөвхөн мэдээлэл унших эрхтэй буюу мөнгө шилжүүлэх, төлбөр хийх боломжгүй юм. Түүнчлэн санхүүгийн яриаг загвар сургахад ашиглахгүй бөгөөд зар сурталчилгаа харагдахгүй гэдгийг тус компани онцолжээ.",
+ "published": "2026-11-06T16:49:24Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

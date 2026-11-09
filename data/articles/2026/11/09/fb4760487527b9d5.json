@@ -1,0 +1,19 @@
+{
+ "id": "fb4760487527b9d5",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5nTuYmLKAP5U6aTI3wr4oq/983b7c0fd00a1bd3c09b6bd3b33e9de1/image__71_.png",
+ "title": "Vercel CLI can now set new projects to expire",
+ "summary_en": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI prints the date and time when the project expires. The flag only applies when vercel deploy creates the project. If you deploy to an existing project with the flag, its expiration doesn't change and the CLI prints a warning. To remove a project's expiration, run vercel project…",
+ "lines": [],
+ "title_mn": "Vercel CLI ашиглан шинэ төслийн хугацааг дуусгавар болгох боломжтой боллоо",
+ "summary_mn": "Vercel CLI хэрэгслийн шинэчлэлтээр туршилт болон демо төслүүдийг автоматаар устгах хугацаа тохируулах боломжтой боллоо. Ингэснээр хөгжүүлэгчид хуучин төслүүдийг гараар цэвэрлэх шаардлагагүй болж байна.",
+ "body_mn": "Vercel platform хөгжүүлэгчдэд зориулсан CLI хэрэгсэлдээ шинэ боломж нэмсэн нь төслийн хугацааг автоматаар дуусгавар болгох юм. Шинэ төсөл үүсгэх явцдаа верcel deploy командын хамт --delete-project-after болон хугацааны утгыг өгөхөд тодорхой хугацааны дараа тухайн төсөл бүрэн устах ажээ.\n\nДэмжигдэх хугацааны сонголтуудад 1h, 1d, 1w, 2w болон 30d багтаж байгаа ба CLI дээр төслийн хүчинтэй хугацаа дуусах цагийг тодорхой харуулна. Хэрэв аль хэдийн үүссэн төсөл дээр энэ тугийг ашиглавал өөрчлөлт орохгүй бөгөөд анхааруулга өгөх юм.\n\nХэрэв та төслийн хугацааг цуцалж үлдэхийг хүсвэл vercel project keep командийг ашиглаж болно. Энэ функцуудыг ашиглахын тулд Vercel CLI-аа v65.12.0 болон түүнээс дээш хувилбар руу шинэчлэх шаардлагатай.",
+ "published": "2026-11-06T18:00:00Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

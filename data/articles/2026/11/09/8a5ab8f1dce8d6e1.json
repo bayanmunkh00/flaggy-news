@@ -1,0 +1,19 @@
+{
+ "id": "8a5ab8f1dce8d6e1",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "PYMNTS.com",
+ "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-launches-claude-personal-finance-ahead-of-nasdaq-listing/",
+ "image": "https://www.pymnts.com/wp-content/uploads/2025/06/Anthropic-Claude-3.jpg",
+ "title": "Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing",
+ "summary_en": "Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing PYMNTS.com",
+ "lines": [],
+ "title_mn": "Anthropic компани Nasdaq биржид бүртгүүлэхээсээ өмнө Claude Personal Finance үйлчилгээгээ эхлүүллээ",
+ "summary_mn": "Anthropic компани хэрэглэгчдийн банкны данстай холбогдож зарцуулалтаа хянах боломжтой Claude Personal Finance хэрэгслийг танилцууллаа. Энэхүү шинэ функц нь компани Nasdaq биржид хувьцаагаа гаргахаас өмнөхөн зах зээлд нэвтэрч байна.",
+ "body_mn": "Anthropic компани хиймэл оюун ухааны туслахаараа дамжуулан хувийн санхүүгээ удирдах боломжийг олгох Claude Personal Finance үйлчилгээгээ албан ёсоор эхлүүллээ. OpenAI өмнө нь ChatGPT Finances үйлчилгээг гаргаж байсан бол энэ удаад Anthropic өрсөлдөөнд нэгдэж байна. Шинэ үйлчилгээ нь Plaid сүлжээгээр дамжин хэрэглэгчийн банкны данстай холбогдож, үлдэгдэл болон гүйлгээний түүхийг харах боломж олгоно.\n\nClaude Personal Finance нь зар сурталчилгаа болон төлбөртэй санал агуулаагүй бөгөөд зөвхөн унших горимтойгоор ажилладаг байна. Энэ нь хэрэглэгчдийн хөрөнгийг шууд шилжүүлэх болон хөрөнгө оруулалт хийх боломжгүй аж. Одоогийн байдлаар уг боломж нь АНУ-ын Pro, Max болон Ultra багцын төлбөртэй хэрэглэгчдэд бета хувилбараар хүрч байна.\n\nЭнэхүү шинэ боломж нь Anthropic компани анхдагч олон нийтийн санал болголт (IPO) хийж, ANT тэмдэглэгээ дор Nasdaq биржид бүртгүүлэхээр өргөдөл гаргаснаас хойш 10 хоногийн дараа гарч байгаа юм. Судалгаагаар хэрэглэгчдийн цөөн хувь нь хиймэл оюун ухаанаар мөнгө санхүүгээ удирдахад төлбөр төлдөг ч энэ төрлийн үйлчилгээ нь хэрэглэгчдийг тогтвортой хадгалахад чухал үүрэгтэй байна.",
+ "published": "2026-11-06T18:27:09Z",
+ "added": "2026-11-09T16:01:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
