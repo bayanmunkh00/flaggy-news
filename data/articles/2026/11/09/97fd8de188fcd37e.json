@@ -1,0 +1,19 @@
+{
+ "id": "97fd8de188fcd37e",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg",
+ "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+ "summary_en": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
+ "lines": [],
+ "title_mn": "Control Web Panel серверийг чиглэсэн шинэ Linux backdooriig илрvvллээ",
+ "summary_mn": "Control Web Panel удирдлагын хэсэгт ашиглагддаг вэб серверт нуугдаж, лог үл үлдээх байдлаар команд гvйцэтгэдэг cwpdoor нэртэй хортой програм илэрчээ.",
+ "body_mn": "QiAnXin компани XLab судлаачид Linux hosting сервер удирдах Control Web Panel (CWP) хэрэгслийн вэб серверт нуугдах шинэ хортой програм илрүүлжээ. Энэхүү backdoor нь халдагчдын илгээсэн вэб хүсэлтээр команд гvйцэтгэдэг бөгөөд тэдгээр хүсэлтүүд хандалтын логт огт тэмдэглэгддэггүй байна.\n\nУг хортой програмыг cwpsrv 1.15.10 болон 1.24.0 хувилбарууд дээр суурилуулдаг бөгөөд суурилуулахын тулд халдагчид аль хэдийн root эрх олж авсан байх шаардлагатай байдаг аж. Судлаачид уг файлыг шалгахад VirusTotal дээр ямар нэгэн илрүүлэлт байхгүй байжээ.\n\nСервер халдлагад өртсөн эсэхийг шалгахын тулд нээлттэй портуудын жагсаалт болон файлын бүрэн бүтэн байдлыг сайтар нягтлахыг судлаачид зөвлөж байна. Хэрэв халдлагад өртсөн бол системийг бүрэн цэвэрлэж, аюулгүй байдлын арга хэмжээ авах шаардлагатай.",
+ "published": "2026-11-06T05:58:54Z",
+ "added": "2026-11-09T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

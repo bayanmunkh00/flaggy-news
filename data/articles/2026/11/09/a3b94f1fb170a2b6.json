@@ -1,0 +1,19 @@
+{
+ "id": "a3b94f1fb170a2b6",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg",
+ "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+ "summary_en": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
+ "lines": [],
+ "title_mn": "Chainalysis компани кибер халдлагын улмаас үйлчилгээгээ зогсоолоо",
+ "summary_mn": "Blockchain шинжилгээний Chainalysis компани өөрийн системд чиглэсэн агентын кибер халдлагын улмаас хэрэглэгчийн мэдээлэл задарч, гол үйлчилгээнүүдээ түр зогсоохоос аргагүйд хүрсэн байна.",
+ "body_mn": "Blockchain болон крипто гүйлгээний шинжилгээ хийдэг Chainalysis компани өөрийн систем рүү чиглэсэн кибер халдлагын улмаас хэрэглэгчдийн нэр, хэрэглэгчийн нэр, нууц үгийн хеш болон шууд токены мэдээлэл алдагдсанаа хүлээн зөвшөөрөв. Шалгалтын ажиллагаа үргэлжилж байгаатай холбогдуулан компани Reactor болон Data Solutions үйлчилгээний хандалтыг хаажээ.\n\nMөн Know Your Transaction (KYT) хэрэглэгчийн интерфэйс болон API үйлчилгээнүүдийг одоогоор офлайн горимд шилжүүлсэн байна. Тус компани өмнө нь гадны этгээд хиймэл оюуны агентын техникийг ашиглан дотоод систем рүү нэвтрэх оролдлого хийсэн талаар мэдэгдэж байсан юм.\n\nСүүлийн үед хэд хэдэн томоохон технологийн компаниуд хиймэл оюуны тусламжтай хэрэгжүүлж буй кибер халдлагуудад өртөж байгаа бөгөөд халдагчид олон нийтийн GitHub репозиторуудаас нууц мэдээлэл болон API түлхүүрүүдийг олж авч ашиглаж байна.",
+ "published": "2026-11-06T08:04:49Z",
+ "added": "2026-11-09T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

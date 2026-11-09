@@ -1,0 +1,19 @@
+{
+ "id": "985aa680f8ad9f7c",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg",
+ "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+ "summary_en": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
+ "lines": [],
+ "title_mn": "Barracuda имэйл хамгаалалтын төхөөрөмжийн сул талыг илрvvллээ",
+ "summary_mn": "Barracuda-гийн Email Security Gateway төхөөрөмжийн хоёр сул талыг хослуулан нэвтрэх эрхгvйгээр root эрх авах боломжтойг судлаачид тогтоожээ. Компани энэхvv аюулыг арилгах засварыг гаргасан байна.",
+ "body_mn": "Barracuda компани Email Security Gateway төхөөрөмжийнхөө аюулгүй байдлын сул талуудыг засаж, шинэчлэлт гаргажээ. watchTowr судлаачдын багийн мэдээлснээр хоёр өөр эмзэг байдлыг хооронд нь холбосноор ямар нэгэн нэвтрэлт хийхгvйгээр шууд root эрхтэйгээр команд гvйцэтгэх боломжтой аж.\n\nЭдгээрээс эхнийх нь буюу CVE-2026-116606 нь баталгаажуулалтыг тойрч гардаг сул тал юм. Халдагч ямар нэгэн эрхгvйгээр тусгайлан бэлтгэсэн тохиргооны нөөц хуулбарыг сэргээх замаар төхөөрөмжийн глобал тохиргоог өөрчлөх боломжтой болдог.\n\nХоёр дахь сул тал болох CVE-2026-111560 нь команд оруулах эмзэг байдал бөгөөд эдгээрийг хооронд нь холбосноор аюулгүй байдлын ноцтой эрсдэл vvсдэг. Barracuda уг асуудлыг шийдвэрлэхийн тулд 9.4.0.030 болон түүнээс дээш хувилбаруудыг гаргаад байна.",
+ "published": "2026-11-06T05:39:10Z",
+ "added": "2026-11-09T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

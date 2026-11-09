@@ -1,0 +1,19 @@
+{
+ "id": "a0a44ed09dc9a108",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/partnering-with-hacktron",
+ "image": "",
+ "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+ "summary_en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+ "lines": [],
+ "title_mn": "OpenAI систем дэх сул талуудыг илрүүлэх зорилгоор Hacktron-той хамтарч ажиллахаар болжээ",
+ "summary_mn": "OpenAI систем дэх сул талуудыг илрүүлэх, гуравдагч талын үйлчилгээний холболтыг шалгах зорилгоор Hacktron компанитай хамтран ажиллахаа зарлалаа.",
+ "body_mn": "OpenAI компани систем дэх аюулгүй байдлын сул талуудыг илрүүлэх, гуравдагч талын үйлчилгээтэй хийх холболтыг шалгах зорилгоор Hacktron компанитай хамтын ажиллагаа эхлүүлж байгаагаа зарлалаа.\n\nЭнэхүү хамтын ажиллагаа нь дэвшилтэт хиймэл оюуны тусламжтайгаар системийн хамгаалалтын чадавхыг сайжруулахад чиглэгдэж байна. OpenAI болон Hacktron-ийн хамтарсан багууд болзошгүй эрсдэлүүдийг урьдчилан илрүүлж, аюулгүй байдлыг бэхжүүлэх юм.",
+ "published": "2026-11-06T08:00:00Z",
+ "added": "2026-11-09T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

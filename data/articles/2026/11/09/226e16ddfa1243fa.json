@@ -1,0 +1,19 @@
+{
+ "id": "226e16ddfa1243fa",
+ "section": "ai",
+ "subtopic": "kimi",
+ "source": "Kimi (Google News)",
+ "source_label": "www.tokenpost.com",
+ "url": "https://www.tokenpost.com/news/technology/49816",
+ "image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/cdb35398c2d02e8f78245c3a08b402ab51f8d46d4dc1d77e1dfe2031cb625919.webp",
+ "title": "Kimi K3.1 Pro (Max) Ranks First Among Open-Weight Agent Models",
+ "summary_en": "Kimi K3.1 Pro (Max) Ranks First Among Open-Weight Agent Models www.tokenpost.com",
+ "lines": [],
+ "title_mn": "Kimi K3.1 Pro (Max) агентын загvud дунд тэргvvллээ",
+ "summary_mn": "Moonshot AI-ийн гаргасан Kimi K3.1 Pro (Max) загвар агентын benchmark-vvдэд нээлттуудтай загvудын дунд нэгдvгээр байр эзэлжээ. Энэхvv загвар нь 2.8 их наяд параметр бvхий MoE бvтэцтэй юм.",
+ "body_mn": "Moonshot AI компани шинээр гаргасан Kimi K3.1 Pro (Max) загвараа Hugging Face платформд байршуулсан бөгөөд уг загвар нь хэрэглэгчдийн илгээсэн 17,500 гаруй агентын даалгаврын сесс дээр суурилсан vнэлгээгээр тэргvvлсэн байна.\n\nТус загвар нь Bash команд гvйцэтгэх найдвартай байдал болон хянах боломжоороо нээлттэй эх сурвалжтай загvудын дотроос хамгийн өндөр оноог авжээ. Kimi K3.1 Pro нь нийт 2.8 их наяд параметр бvхий холимог шинжээчдийн (MoE) архитектуртай бөгөөд нэг токен боловсруулахад 104 тэрбум идэвхтэй параметр ашигладаг.\n\nЗагвар нь ойролцоогоор 1 сая токений контекст цонхыг дэмждэг бөгөөд код бичих, санхvvгийн судалгаа хийх, нарийн төвөгтэй агентын даалгавруудыг гvйцэтгэхэд голлон чиглэсэн байна.",
+ "published": "2026-11-06T04:29:00Z",
+ "added": "2026-11-09T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

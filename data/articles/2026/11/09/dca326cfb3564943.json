@@ -1,0 +1,19 @@
+{
+ "id": "dca326cfb3564943",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+ "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+ "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+ "summary_en": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+ "lines": [],
+ "title_mn": "Palo Alto Networks хиймэл оюуны агентын аюулгүй байдлын Clutch стартапыг худалдаж авахаар ярилцаж байна",
+ "summary_mn": "Кибер аюулгүй байдлын аварга Palo Alto Networks компани хиймэл оюуны агентуудын системийн хандалтыг хамгаалдаг Clutch Security стартапыг 500 сая ам.доллараар худалдаж авахаар яриа хэлэлцээ хийж байна.",
+ "body_mn": "Palo Alto Networks компани хиймэл оюуны агентуудын байгууллагын системд хандах эрхийг хамгаалах чиглэлээр үйл ажиллагаа явуулдаг Clutch Security стартапыг 500 сая ам.доллар болон бусад нэмэлт урамшууллаар худалдаж авахаар хэлэлцээр хийж байгаа аж. \n\nГурван жилийн настай Clutch стартап нь жилийн давтагдах орлогоороо (ARR) ойролцоогоор 10 сая ам.долларт хүрсэн бөгөөд өмнө нь 20 сая ам.долларын хөрөнгө оруулалт татаж байжээ. Хиймэл оюуны технологи хөгжихийн хэрээр кибер халдлагууд нэмэгдэж байгаатай холбоотойгоор Palo Alto Networks компани энэ төрлийн компаниудыг худалдаж авах ажиллагааг эрчимжүүлээд байна.\n\nЭнэхүү хэлэлцээр амжилттай болвол Palo Alto Networks-ийн хувьд энэ онд хийж буй долоо дахь худалдан авалт болох юм. Мөн энэ салбарын бусад өрсөлдөгч компаниуд ч мөн адил ижил төстэй стартапуудыг өндөр үнээр худалдан авч байгаа билээ.",
+ "published": "2026-11-06T06:28:32Z",
+ "added": "2026-11-09T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
