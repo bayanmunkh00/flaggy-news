@@ -1,0 +1,19 @@
+{
+ "id": "9989e939e148877e",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
+ "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+ "summary_en": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+ "lines": [],
+ "title_mn": "Claude Code хэрэгслийн тохиргооны файлаас нууц үг, түлхүүрүүд алдагджээ",
+ "summary_mn": "Anthropic компанийн Claude Code туслахын хадгалсан тохиргооны файл олон нийтийн GitHub санд ил гарч, олон тооны нууц үг, API түлхүүрүүд алдагдсан болохыг аюулгүй байдлын судлаачид тогтоожээ. Судлаачид нөлөөлөлд өртсөн хэрэглэгчдийг түлхүүрүүдээ яаралтай солихыг анхааруулж байна.",
+ "body_mn": "Anthropic компанийн програмчлалын хиймэл оюун ухааны туслах Claude Code хэрэгслийг ашиглах явцад хэрэглэгчдийн гараар шивсэн нууц үг болон API түлхүүрүүд GitHub дээрх олон нийтийн сангуудад санамсаргүй байдлаар байршсаныг Apiiro компани илрүүлжээ. Хэрэглэгч тодорхой тушаалыг зөвшөөрөх үед уг файл автоматаар үүсч, нууц мэдээллийг энгийн текст хэлбэрээр хадгалдаг байна.\n\nСудалгаагаар 1,100 гаруй олон нийтийн repositorio-д нууц мэдээлэл агуулсан тохиргооны файлууд хадгалагдаж байсныг тогтоожээ. Эдгээр нууцлагдсан мэдээллийн дийлэнх хэсгийг өгөгдлийн сангийн нууц үг, SSH нэвтрэлт болон AWS түлхүүрүүд эзэлж байна. Судлаачид Git түүхэнд хуучин хувилбарууд үлдэх эрсдэлтэй тул холбогдох бүх нууц үг, түлхүүрүүдийг нэн даруй солихыг зөвлөж байна.",
+ "published": "2026-11-07T06:44:17Z",
+ "added": "2026-11-10T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

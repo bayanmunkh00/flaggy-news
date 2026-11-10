@@ -1,0 +1,19 @@
+{
+ "id": "c1890230afef5ae4",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-claude-now-bank-accounts-123005696.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/d9d150b1ad15313311e4809fa126d844c6a8b9d3844a0aacbe7dc43789643151/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F41957e565338ac0b7083f5eceb6f7ea8.jpg",
+ "title": "Anthropic's Claude Can Now Link Bank Accounts and Analyze Transactions But Won't Offer Investment Advice",
+ "summary_en": "Anthropic's Claude Can Now Link Bank Accounts and Analyze Transactions But Won't Offer Investment Advice Yahoo Finance",
+ "lines": [],
+ "title_mn": "Claude хувийн санхүүгийн шинэ боломжоо туршиж эхэлжээ",
+ "summary_mn": "Anthropic компани Claude чатботдоо хэрэглэгчдийн банкны дансыг холбож, гүйлгээнд дүн шинжилгээ хийх боломжийг олгох санхүүгийн шинэ функцийг туршиж эхэллээ. Гэвч тус хэрэгсэл нь хөрөнгө оруулалтын зөвлөгөө өгөхгүй бөгөөд өгөгдлийг загвар сургахад ашиглахгүй юм.",
+ "body_mn": "Anthropic компани АНУ-д байгаа Pro, Max болон Ultra эрхтэй хэрэглэгчиддээ зориулан санхүүгийн шинэ боломжийг туршилтын журмаар нэвтрүүлж эхэлжээ. Хэрэглэгчид Plaid үйлчилгээгээр дамжуулан банк болон зээлийн картын дансаа Claude-тай холбож, үлдэгдэл, худалдан авалт болон гүйлгээний түүхээ шалгуулж асуулт асуух боломжтой болж байна.\n\nТус компани уг хэрэгсэл нь мөнгөн гуйвуулга хийх, хөрөнгө оруулалтыг удирдах зорилгогүй бөгөөд хөрөнгө оруулалтын зөвлөгөө өгөхгүй гэдгийг онцолжээ. Мөн холбогдсон санхүүгийн мэдээлэл болон яриаг хиймэл оюун ухааны загваруудыг сургахад ашиглахгүй бөгөөд ямар нэгэн сурталчилгаа байршуулахгүй аж.",
+ "published": "2026-11-07T12:30:05Z",
+ "added": "2026-11-10T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

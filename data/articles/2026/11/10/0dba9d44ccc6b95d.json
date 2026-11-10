@@ -1,0 +1,19 @@
+{
+ "id": "0dba9d44ccc6b95d",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Courthouse News",
+ "url": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users",
+ "image": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg",
+ "title": "Anthropic must face claims its Claude Max pitch misled users",
+ "summary_en": "Anthropic must face claims its Claude Max pitch misled users Courthouse News",
+ "lines": [],
+ "title_mn": "Anthropic компанийн Claude Max багцын хэрэглээний хязгаар шүүхэд холбогдов",
+ "summary_mn": "Anthropic компани Claude Max багцын хэрэглэгчдэд \"5 дахин эсвэл 20 дахин их хэрэглээ\" амласан нь төөрөгдүүлсэн шинжтэй гэж Калифорнийн холбооны шүүх үзжээ. Шүүгч хэрэглэгчдийн гаргасан хамтын нэхэмжлэлийн зарим хэсгийг цаашид үргэлжлүүлэх шийдвэр гаргала.",
+ "body_mn": "Anthropic компанийн санал болгодог Claude Max төлбөртэй багцуудын ашиглалтын хязгаарлалт хэрэглэгчдийг төөрөгдүүлж болзошгүй гэж Калифорнийн холбооны шүүгч Алекс Цэ мэдэгдлээ. Нэхэмжлэгчдийн зүгээс Max 5x болон Max 20x багцууд нь сарын турш Pro хувилбараас тийм ч их ялгаагүй болохыг тооцоолж гаргаж ирсэн байна.\n\nAnthropic компани уг хязгаарлалт нь цаг хугацааны сесс тус бүрд хамаатай болохыг тайлбарлаж, тусламжийн хуудас дээр тодорхойлсон гэж маргасан юм. Гэвч шүүгч уг мэдээлэл нь хэрэглэгч худалдан авалт хийхэд төвөгтэй зайд байрласныг дурдаад, хэрэглэгчид сарын хугацаанд илүү их ашиглах боломжтой гэж ойлгох нь зүй ёсных гэж үзжээ. Ийнхүү хэрэглэгчдийн гаргасан нэхэмжлэлийн гол хэсэг шүүхээр үргэлжлэхээр болжээ.",
+ "published": "2026-11-07T04:11:33Z",
+ "added": "2026-11-10T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

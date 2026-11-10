@@ -1,0 +1,19 @@
+{
+ "id": "8656bf004aaa1f87",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "FourWeekMBA",
+ "url": "https://fourweekmba.com/ai-nous-retunes-alibabas-qwen-cuts-state-line-answers-to-0-9/",
+ "image": "",
+ "title": "Nous Retunes Alibaba’s Qwen, Cuts State-Line Answers to 0.9%",
+ "summary_en": "Nous Retunes Alibaba’s Qwen, Cuts State-Line Answers to 0.9% FourWeekMBA",
+ "lines": [],
+ "title_mn": "Nous Research Alibaba-гийн Qwen загварыг сайжруулж, цензурт хариултыг 0.9% болгон бууруулав",
+ "summary_mn": "Nous Research судалгааны баг Alibaba-гийн Qwen загварт fine-tuning хийж, Хятадын төрийн байр суурийг дагасан хариулт өгөх давтамжийг 0.9% болтол бууруулжээ.",
+ "body_mn": "Nous Research компани Alibaba-гийн нээлттэй эх бүхий Qwen хэлний загварыг дахин сургаж, төрийн цензур болон албан ёсны бодлогыг баримталсан хариулт өгөх магадлалыг 0.9 хувь хүртэл эрс багасгаснаа танилцууллаа.\n\nСудлаачид зөвхөн зорилтот датасет ашиглан нарийн тохируулга (fine-tuning) хийх замаар уг үр дүнд хүрсэн бөгөөд загварын бүтцийг сууриар нь өөрчлөх шаардлага гараагүй байна.\n\nЭнэхүү үр дүн нь нээлттэй эх бүхий загваруудын үзэл суртлын болон улс төрийн хязгаарлалтуудыг хөндлөнгийн хөгжүүлэгчид харьцангуй хялбар аргаар арилгаж, төвийг сахисан хувилбар болгох бүрэн боломжтойг харууллаа.",
+ "published": "2026-11-07T12:43:36Z",
+ "added": "2026-11-10T04:00:47Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
