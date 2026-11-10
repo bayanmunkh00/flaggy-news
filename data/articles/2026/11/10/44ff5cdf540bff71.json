@@ -1,0 +1,19 @@
+{
+ "id": "44ff5cdf540bff71",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@josekuttykunnelthazhebinu/chaining-an-open-redirect-into-account-takeover-p1-cvss-9-0-a1aa68abb172?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/600/0*dyjBtxeMviWRPLst.gif",
+ "title": "Chaining an Open Redirect Into Account Takeover (P1 · CVSS 9.0)",
+ "summary_en": "A P1 Critical walkthrough: from a tampered callback parameter to full account takeover and PII exposure. Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-08T23:28:54Z",
+ "added": "2026-11-10T16:00:52Z",
+ "ai": "",
+ "score": null
+}
