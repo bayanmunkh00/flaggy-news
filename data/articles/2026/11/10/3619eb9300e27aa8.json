@@ -1,0 +1,19 @@
+{
+ "id": "3619eb9300e27aa8",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@l4zz3rj0d/how-peloton-confused-authentication-with-authorization-714b8b70116e?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/2172/1*rMVrMrSiBAJs4TpbxKEzwA.png",
+ "title": "How Peloton Confused Authentication with Authorization",
+ "summary_en": "Moving into API security for this one, and it’s a genuinely great teaching case because the company involved got the fix wrong not once… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Peloton компани аутентификаци болон эрх олгох шалгалтыг хольж хутಗasан нь",
+ "summary_mn": "API аюулгүй байдлын судалгаагаар Peloton компани хэрэглэгчийн эрх шалгах явцдаа гаргасан алдаа болон түүнийг хэрхэн зассан тухай сонирхолтой кейсийг авч үзжээ.",
+ "body_mn": "API аюулгүй байдлын хүрээнд гардаг түгээмэл алдаануудын нэг болох аутентификаци (нэвтрэх эрх шалгах) болон авторизаци (үйлдэл хийх эрх олгох) хоорондын ялгааг анараагүй алдааны талаарх судалгаа нийтлэгдлээ. Peloton компани өөрийн систем дээр энэ төрлийн эмзэг байдалтай тулгарсан бөгөөд хөгжүүлэгчид засвар хийх явцдаа дахин алдаа гаргаж байжээ.\n\nЭнэхүү нийтлэлд API хүсэлтүүдийн үеэр зөвхөн хэрэглэгч нэвтэрсэн эсэхийг шалгаад, тухайн мэдээллийг үзэх эрхтэй эсэхийг шалгадаггүй дутагдал ямар үр дагаварт хүргэдэг болохыг тодорхой жишээн дээр тайлбарласан байна.\n\nПрограм хангамжийн аюулгүй байдлын чиглэлээр ажилладаг хөгжүүлэгчид болон судлаачдад API дизайны алдаанаас урьдчилан сэргийлэх талаар маш хэрэгтэй сургамж болох техникийн өгүүлэл юм.",
+ "published": "2026-11-08T06:41:24Z",
+ "added": "2026-11-10T11:41:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7c1fb8f3e8eb6ccf",
+ "section": "ai",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Engadget",
+ "url": "https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace/",
+ "image": "https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg",
+ "title": "How To Set Up SpaceXAI's Grok In Google Workspace (And What It Can Do)",
+ "summary_en": "How To Set Up SpaceXAI's Grok In Google Workspace (And What It Can Do) Engadget",
+ "lines": [],
+ "title_mn": "SpaceXAI-ийн Grok загварыг Google Workspace-д суулгах боломжтой боллоо",
+ "summary_mn": "Google Docs, Sheets, Slides аппликейшнүүдэд ашиглах боломжтой SpaceXAI-ийн Grok нэмэлт өргөтгөл гарлаа. Энэхүү үнэгүй нэмэлт нь хэрэглэгчдэд баримт бичиг боловсруулах, танилцуулга хийхэд туслах юм.",
+ "body_mn": "SpaceXAI компани Google Workspace хэрэглэгчдэд зориулсан Grok нэмэлт өргөтгөлийг гаргажээ. Ингэснээр хэрэглэгчид Google Docs, Sheets, Slides программууд дотроосаа шууд Grok-ийг ашиглах боломжтой болж байна.\n\nУг нэмэлт өргөтгөлийг Google Workspace Marketplace-ээс үнэгүй суулгах боломжтой бөгөөд суулгасны дараа апп бүрийн хажуугийн цэсэнд Grok гарч ирэх юм. Энэ нь Gemini-тэй ижил зарчмаар ажиллаж, хүснэгтээс мэдээлэл хайх, тэмдэглэлийг баримт бичиг болгон хувиргах зэрэг ажлуудыг гүйцэтгэнэ.\n\nГэсэн хэдий ч уг хэрэгслийг ашиглахын тулд Google Docs болон бусад файлуудыг унших, засварлах өргөн хүрээтэй эрх олгох шаардлагатай тул зарим хэрэглэгчид нууцлалын үүднээс анхаарал хандуулах хэрэгтэй юм.",
+ "published": "2026-11-07T19:15:00Z",
+ "added": "2026-11-10T11:41:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

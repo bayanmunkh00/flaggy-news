@@ -1,0 +1,19 @@
+{
+ "id": "173c0792ed2bceb6",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@akashmotkar001/p3-sensitive-information-disclosure-through-verbose-api-error-messages-65fa5cc74a12?source=rss------bug_bounty_writeup-5",
+ "image": "",
+ "title": "P3 — Sensitive Information Disclosure Through Verbose API Error Messages",
+ "summary_en": "Severity: Medium (P3) Vulnerability Type: Information Disclosure CWE: CWE-209 — Generation of Error Message Containing Sensitive… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "API алдааны мэдээллээр дамжин эмзэг мэдээлэл алдагдах эрсдэл",
+ "summary_mn": "API-ийн алдааны дэлгэрэнгүй мэдэгдлүүд нь систем доторх нууц мэдээллийг ил болгох Дунд зэргийн (P3) түвшний аюулгүй байдлын сул тал болохыг харуулсан байна.",
+ "body_mn": "Аюулгүй байдлын судлаачдын шинэчилсэн мэдээллээр API хүсэлтийн хариу болон алдааны мессежүүд хэт дэлгэрэнгүй байх нь систем дэх нууц мэдээллийг гадагш алдах эрсдэлтэй болохыг тогтоожээ. Энэхүү сул тал нь CWE-209 буюу алдааны мэдэгдэлд эмзэг мэдээллийг агуулсан байх ангилалд хамаарч байна.\n\nХакер болон хорлонлан этгээдүүд API алдааны хариуг ашиглан системийн дотоод бүтэц, технологийн стек болон чухал тохиргоонуудын мэдээллийг цуглуулах боломжтой байдаг. Иймд хөгжүүлэгчид API алдааны мессежийг боловсруулахдаа шаардлагагүй дэлгэрэнгүй мэдээллийг нууцлах нь чухал юм.\n\nЭнэ төрлийн мэдээлэл алдагдах сул тал нь шууд систем рүү нэвтрэх эрх өгөхгүй ч цаашид илүү ноцтой халдлага үйлдэхэд шаардлагатай мэдээллийг өгөх эрсдэлтэй тул анхаарах шаардлагатай.",
+ "published": "2026-11-08T00:22:36Z",
+ "added": "2026-11-10T11:41:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

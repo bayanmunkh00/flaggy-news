@@ -1,0 +1,19 @@
+{
+ "id": "cc1cbd1bc6d34665",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "ad-hoc-news.de",
+ "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/qwen-s-office-toolkit-and-apple-rollout-put-alibaba-s-ai-story-to-a-practical-test/70475213",
+ "image": "https://mdb.ad-hoc-news.de/bild/bild-2844119_1200_675.webp",
+ "title": "Qwen's Office Toolkit and Apple Rollout Put Alibaba's AI Story to a Practical Test",
+ "summary_en": "Qwen's Office Toolkit and Apple Rollout Put Alibaba's AI Story to a Practical Test ad-hoc-news.de",
+ "lines": [],
+ "title_mn": "Alibaba Qwen загвараа оффис болон Apple Intelligence-д нэвтрүүлж байна",
+ "summary_mn": "Alibaba компани Qwen загвараа оффисын хэрэгслүүдэд нэмж, Хятад дахь Apple Intelligence-д нэвтрүүлэх ажлыг эрчимжүүлж байна. Энэ нь хөрөнгө оруулагчдын анхаарлыг татаж, хувьцааны ханшид эерэгээр нөлөөллөө.",
+ "body_mn": "Alibaba компани Qwen хиймэл оюуны загвараа Word, Excel, PowerPoint зэрэг оффисын хэрэгслүүдэд нэвтрүүлж, мөн Хятад улсад iPhone хэрэглэгчдэд зориулсан Apple Intelligence системд холбох бэлтгэл ажлыг үргэлжлүүлж байна. Энэхүү алхмын дараа тус компанийн хувьцааны ханш Баасан гарагт 2 хувиар өсжээ.\n\nШинэчлэлтийн хүрээнд Qwen загварт апп доторх засварлах болон захиалгат загваруудыг шат дараатайгаар нэмж байгаа юм. Хөрөнгө оруулагчдын хувьд эдгээр шинэ боломжууд нь хэрэглэгчдийг тогтвортой ашиглахад хүргэх эсэх нь гол хэмжүүр болж байна.\n\nМөн Apple-ийн хөгжүүлэгчдийн туршилт эхэлсэн бөгөөд арванхоёрдугаар сард хэрэглэгчдэд албан ёсоор хүргэхээр төлөвлөөд байна. Энэхүү хамтын ажиллагааны үр дүнд хэрэглэгчид Siri болон бусад хэрэгслүүдээр дамжуулан Qwen-ийг ашиглах боломжтой болох ажээ.",
+ "published": "2026-11-07T16:23:57Z",
+ "added": "2026-11-10T11:41:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

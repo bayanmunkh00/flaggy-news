@@ -1,0 +1,19 @@
+{
+ "id": "fad1a2f0e1ff9069",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Startup Fortune",
+ "url": "https://startupfortune.com/alibabas-qoder-makes-a-mystery-coding-model-called-qoduck-free-to-use/",
+ "image": "https://startupfortune.com/wp-content/uploads/2026/11/qoder-qoduck-alibaba.jpg",
+ "title": "Alibaba's Qoder makes a mystery coding model called Qoduck free to use",
+ "summary_en": "Alibaba's Qoder makes a mystery coding model called Qoduck free to use Startup Fortune",
+ "lines": [],
+ "title_mn": "Alibaba-ийн Qoder хэрэгсэлд нэр нь тодорхойгүй Qoduck загварыг үнэгүй нэмжээ",
+ "summary_mn": "Alibaba-ийн код бичих Qoder хэрэгсэлд ямар загвар болох нь нууцлагдсан Qoduck нэртэй шинэ загварыг түр хугацаагаар үнэгүй турших боломжтой боллоо.",
+ "body_mn": "Alibaba компанийн хөгжүүлж буй код бичих туслах Qoder хэрэгсэлд Qoduck нэртэй шинэ загвар нэмэгдсэн байна. Тус компани энэ загварын эзэмшигч болон ямар архитектуртай болохыг одоогоор албан ёсоор зарлаагүй байгаа юм.\n\nБаримт бичигт дурдсанаар хувь хэрэглэгчид өдөр тутмын эрхийнхээ хүрээнд Qoduck загварыг ямар нэгэн кредит зарцуулалгүйгээр үнэгүй ашиглах боломжтой. Зарим хөгжүүлэгчид энэхүү загварыг удахгүй гарах Qwen 4 байж магадгүй гэж таамаглаж байгаа боловч компани албан ёсны баталгаа өгөөгүй байна.\n\nЭнэхүү сурталчилгааны чанартай шинэчлэлт нь хөгжүүлэгчдэд шинэ загварыг туршиж үзэх боломжийг олгож байгаа бөгөөд хэрэглэгчид өөрсдийн репозитори дээр туршиж үзэх боломжтой ажээ.",
+ "published": "2026-11-08T00:22:28Z",
+ "added": "2026-11-10T11:41:25Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
