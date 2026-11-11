@@ -1,0 +1,19 @@
+{
+ "id": "57ea3648c45ff449",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5sdDYdCG5ozpdjNNyFpGgP/52e02883b34e063b359cc249f177cb17/nov-og-blog-stacked-bars_4x.png",
+ "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+ "summary_en": "AI Gateway Production Index — November 2026 Every month, AI Gateway routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage looks like in today’s enterprise and startup landscape across language, decision, voice, image, and video models. We publish it here monthly. See the Production Index reports from August , September , and October . November 2026 Summary In six weeks, decision models grew to one in four gateway requests, while accounting for half a cent of every dollar spent. Close to a third of all paid teams used…",
+ "lines": [],
+ "title_mn": "AI Gateway-ийн тайлан: Шийдвэр гаргах загварууд болон Anthropic-ийн өсөлт",
+ "summary_mn": "Vercel-ийн сарын тайлангаар хиймэл оюун ухааны шийдвэр гаргах загварууд нийт хүсэлтийн 4 хуваасны 1-ийг эзэлж, Anthropic шинэ багуудын дунд тэргүүлж эхэлжээ.",
+ "body_mn": "Vercel компани сар бүр гаргадаг AI Gateway Production Index тайлангаа танилцууллаа. Энэхүү тайланд дурдсанаар сүүлийн хэдэн долоо хоногт шийдвэр гаргах (decision) загварууд гайхалтай хурдацтай өсөж, нийт хүсэлтийн дөрөвний нэгийг эзлэх болжээ.\n\nШийдвэр гаргах загварууд нь урт текст үүсгэхийн оронд сонголт хийх, ангилах, үнэлгээ өгөх зэрэг энгийн үүргүүдийг маш хямд өртгөөр гүйцэтгэдэг давуу талтай. Эдгээр загварууд нь хүсэлтийн хувьд өндөр хувийг эзэлж байгаа ч нийт зардлын ердөө 0.53 хувийг л бүрдүүлж байна.\n\nҮүний зэрэгцээ OpenAI болон Anthropic компаниуд төлбөртэй багуудын дунд ижил түвшний тархалттай байгаа хэдий ч шинээр нэгдэж буй багуудын бараг хоёр хүн тутмын нэг нь Anthropic-ийг сонгож байна. Мөн дуут хиймэл оюун ухааны хэрэглээ огцом өсөж, хэрэглэгчдийн оролцоо нэмэгджээ.",
+ "published": "2026-11-09T05:00:00Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

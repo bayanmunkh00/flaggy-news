@@ -1,0 +1,23 @@
+{
+ "id": "0f5b5f5a59f2dae8",
+ "section": "hacker",
+ "subtopic": "cve",
+ "source": "CISA KEV",
+ "source_label": "CISA",
+ "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
+ "image": "",
+ "title": "CVE-2026-123218 added to CISA KEV (exploited in the wild)",
+ "summary_en": "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
+ "lines": [
+  "IBM Aspera Faspex: IBM Aspera Faspex Incorrect Authorization Vulnerability",
+  "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
+  "Patch by: 2026-11-12"
+ ],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "",
+ "score": null
+}

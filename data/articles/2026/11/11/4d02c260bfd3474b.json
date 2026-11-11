@@ -1,0 +1,19 @@
+{
+ "id": "4d02c260bfd3474b",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg",
+ "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+ "summary_en": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+ "lines": [],
+ "title_mn": "CISA SonicWall SonicOS-ийн MFA алгасах аюулгүй байдлын сул талыг анхааруулв",
+ "summary_mn": "АНУ-ын CISA байгууллага SonicWall SonicOS системийн нэвтрэлтийн хяналтыг тойрч гардаг сул талыг мэдээлж, KEV жагсаалтад орууллаа.",
+ "body_mn": "АНУ-ын Кибер аюулгүй байдал, дэд бүтцийн аюулгүй байдлын агентлаг (CISA) SonicWall SonicOS бүтээгдэхүүнд илэрсэн өндөр эрсдэлтэй сул талыг мэдэгдлийнхээ дагуу Known Exploited Vulnerabilities (KEV) жагсаалтад нэмсэн байна.\n\nCVE-2026-19868 дугаартай энэхүү сул тал нь CVSS үнэлгээгээр 7.1-7.5 оноо авсан бөгөөд SonicOS SSL-VPN үйлчилгээний үеэр хэрэглэгчдийг баталгаажуулах хяналтыг зөрчих боломжийг олгодог байна. Үүний улмаас хакерууд олон хүчин зүйлт баталгаажуулалт (MFA)-ыг тойрч гарах аюултай юм.\n\nSonicWall компани уг сул талыг засах шинэчлэлтийг гаргасан бөгөөд холбогдох байгууллагуудад сүлжээгээ яаралтай шинэчлэхийг уриалжээ. Холбооны агентлагууд энэхүү хамгаалалтын засварыг товлосон хугацаанаас өмнө хийх шаардлагатай аж.",
+ "published": "2026-11-09T06:05:24Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

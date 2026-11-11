@@ -1,0 +1,19 @@
+{
+ "id": "403a72428fe29edd",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg",
+ "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+ "summary_en": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
+ "lines": [],
+ "title_mn": "OpenAI-ийн экс ажилчин гүйцэтгэх захирлуудын уулзалтын өрөөнд бичлэгийн төхөөрөмж нуусан хэргээр шүүхэд мэдүүлэг өглөө",
+ "summary_mn": "OpenAI-ийн оффис руу нууцаар бичлэг хийх төхөөрөмж байрлуулсан хэрэгт буруутгагдсан экс инженер Сан-Францискогийн холбооны шүүхэд гэм буруугүй гэдгээ мэдэгджээ.",
+ "body_mn": "OpenAI компанийн гүйцэтгэх удирдлагуудын хурал болдог өрөөнд нууц бичлэгийн төхөөрөмж байрлуулсан хэргээр баривчлагдсан Саудын Арабын иргэн Абдулрахман Алфозан шүүх хурал дээр гэм буруугүй хэмээн мэдүүлжээ.\n\nӨдгөө 35 настай тус инженер нь эмзэг яриаг хууль бусаар бичиж авах зорилгоор боловсронгуй бичлэгийн төхөөрөмжийг оффист байрлуулсан гэж прокурорууд үзэж байгаа юм. Тэрээр баривчлагдахаасаа өмнө эхнэр, хүүхдийнхээ хамт эх орон руугаа буцах нэг талын тийз захиалсан байсан бөгөөд оргох эрсдэлтэй гэж үзэн батлан даалтад гаргаагүй байна.\n\nХэрэв гэм буруутай нь тогтоогдвол тэрээр таван жилийн хорих ял болон 250 мянган ам.долларын торгууль хүлээж болзошгүй аж. Уг хэргийн дараагийн шүүх хурал энэ сарын 17-нд товлогдоод байна.",
+ "published": "2026-11-09T07:05:48Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

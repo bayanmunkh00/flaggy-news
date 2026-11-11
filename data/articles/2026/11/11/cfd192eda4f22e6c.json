@@ -1,0 +1,19 @@
+{
+ "id": "cfd192eda4f22e6c",
+ "section": "vibe",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+ "image": "https://static.simonwillison.net/static/2026/details-summary-card.webp",
+ "title": "Hide your slop PR descriptions behind",
+ "summary_en": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes the problem, the detailed solution, and the steps taken to verify it. That's a lot of information…",
+ "lines": [],
+ "title_mn": "AI кодын агентуудын бичсэн урт PR тайлбарыг нуух хялбар арга",
+ "summary_mn": "Claude Code эсвэл Codex зэрэг хиймэл оюун ухааны хэрэгслүүдийн бичсэн хэт дэлгэрэнгүй PR тайлбарыг HTML-ийн details болон summary шошго ашиглан цэгцлэх боломжтой.",
+ "body_mn": "Орчин үеийн программ хангамж хөгжүүлэлтэд Claude Code болон Codex зэрэг хиймэл оюун ухааны агентууд код бичих явцыг ихээхэн хөнгөвчилж байна. Эдгээр агентуудын үүсгэсэн PR (Pull Request) тайлбарууд маш дэлгэрэнгүй бөгөөд үнэн зөв байдаг ч уншихад хэтэрхий урт байх талтай.\n\nЭнэхүү асуудлыг шийдвэрлэхийн тулд HTML хэлний details болон summary шошгуудыг ашиглах нь үр дүнтэй арга юм. GitHub-ийн Markdown дээр шууд дэмжигддэг энэхүү элементийн тусламжтайгаар хүний гараар бичсэн товч бөгөөд ойлгомжтой ерөнхий дүгнэлтийг ил харагдуулж, агентын бичсэн дэлгэрэнгүй тайлбарыг хураангуйлж нуух боломжтой.\n\nИнгэснээр код хянаж буй хүн хэт олон үгтэй урт текстэнд залхахгүйгээр үндсэн санааг нь хурдан ойлгож, шаардлагатай үед дэлгэрэнгүй мэдээллийг задлан үзэх боломж бүрдэнэ. Хөгжүүлэгчид энэхүү аргыг ашигласнаар өөрийн төслийн кодын чанар болон хяналтын процессыг илүү эмх цэгцтэй болгох юм.",
+ "published": "2026-11-09T04:25:05Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

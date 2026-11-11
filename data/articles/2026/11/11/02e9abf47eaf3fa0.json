@@ -1,0 +1,19 @@
+{
+ "id": "02e9abf47eaf3fa0",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/coderabbit-codex-daybreak",
+ "image": "",
+ "title": "CodeRabbit scales agentic software development and ships 20x more",
+ "summary_en": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+ "lines": [],
+ "title_mn": "CodeRabbit нь OpenAI загваруудыг ашиглан программ хангамжийн бүтээмжийг 20 дахин өсгөв",
+ "summary_mn": "CodeRabbit компани OpenAI загварууд болон Codex-ийг ашиглан хиймэл оюун ухаанаар үүсгэгдсэн кодыг хянаж, ижил хэмжээний инженерүүдийн багтайгаар программ хангамж хөгжүүлэлтийг 20 дахин хурдасгалаа.",
+ "body_mn": "CodeRabbit нь хиймэл оюун ухаанаар үүсгэгдсэн кодыг хянах, удирдах зорилгоор OpenAI-ийн дэвшилтэт загваруудыг нэвтрүүлсэн байна. Ингэснээр тэд өөрсдийн инженерүүдийн багийн бүрэлдэхүүнийг өөрчлөлгүйгээр программ хангамж бүтээх хурдыг 20 дахин нэмэгдүүлж чаджээ.\n\nЭнэхүү шийдэл нь хөгжүүлэлтийн явцыг илүү найдвартай болгож, код бичих болон шалгах үйл явцыг автоматжуулахад чухал үүрэг гүйцэтгэж байна. OpenAI-ийн технологиуд нь орчин үеийн программ хангамж хөгжүүлэлтийн багуудад бүтээмжийг эрс нэмэгдүүлэх боломжийг олгож буйн бас нэгэн тод жишээ юм.",
+ "published": "2026-11-09T08:00:00Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

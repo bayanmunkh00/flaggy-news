@@ -2,226 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "0dba9d44ccc6b95d",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Courthouse News",
-   "url": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users",
-   "image": "https://courthousenews.com/wp-content/uploads/2026/03/anthropic-claude-logos.jpg",
-   "title": "Anthropic must face claims its Claude Max pitch misled users",
-   "summary_en": "Anthropic must face claims its Claude Max pitch misled users Courthouse News",
-   "lines": [],
-   "title_mn": "Anthropic компанийн Claude Max багцын хэрэглээний хязгаар шүүхэд холбогдов",
-   "summary_mn": "Anthropic компани Claude Max багцын хэрэглэгчдэд \"5 дахин эсвэл 20 дахин их хэрэглээ\" амласан нь төөрөгдүүлсэн шинжтэй гэж Калифорнийн холбооны шүүх үзжээ. Шүүгч хэрэглэгчдийн гаргасан хамтын нэхэмжлэлийн зарим хэсгийг цаашид үргэлжлүүлэх шийдвэр гаргала.",
-   "body_mn": "Anthropic компанийн санал болгодог Claude Max төлбөртэй багцуудын ашиглалтын хязгаарлалт хэрэглэгчдийг төөрөгдүүлж болзошгүй гэж Калифорнийн холбооны шүүгч Алекс Цэ мэдэгдлээ. Нэхэмжлэгчдийн зүгээс Max 5x болон Max 20x багцууд нь сарын турш Pro хувилбараас тийм ч их ялгаагүй болохыг тооцоолж гаргаж ирсэн байна.\n\nAnthropic компани уг хязгаарлалт нь цаг хугацааны сесс тус бүрд хамаатай болохыг тайлбарлаж, тусламжийн хуудас дээр тодорхойлсон гэж маргасан юм. Гэвч шүүгч уг мэдээлэл нь хэрэглэгч худалдан авалт хийхэд төвөгтэй зайд байрласныг дурдаад, хэрэглэгчид сарын хугацаанд илүү их ашиглах боломжтой гэж ойлгох нь зүй ёсных гэж үзжээ. Ийнхүү хэрэглэгчдийн гаргасан нэхэмжлэлийн гол хэсэг шүүхээр үргэлжлэхээр болжээ.",
-   "published": "2026-11-07T04:11:33Z",
-   "added": "2026-11-10T04:00:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bdb6890a0a55d0c4",
-   "section": "ai",
-   "subtopic": "ai-news",
-   "source": "TechCrunch AI",
-   "source_label": "TechCrunch AI",
-   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
-   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-   "summary_en": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-   "lines": [],
-   "title_mn": "АНУ-ын завсрын сонгуулийн дараах технологийн аварга компаниудын нөхцөл байдал",
-   "summary_mn": "Завсрын сонгуулийн үр дүнгээр Вашингтон дахь эрх мэдлийн хуваарилалт өөрчлөгдөж байгаатай холбоотойгоор томоохон технологийн компаниуд бодлогоо өөрчилж байна. Хиймэл оюун ухааны салбарынхан Ардчилсан намынхантай харилцаагаа сайжруулахын тулд лобби болон нийгмийн түншлэлд анхаарч эхэлжээ.",
-   "body_mn": "Сүүлийн жилүүдэд цахиурын хөндийн томоохон компаниуд Бүгд найрамдах намын засаг захиргаатай илүү ойр ажиллаж байсан бол завсрын сонгуулийн үр дүнд улс төрийн нөхцөл байдал өөрчлөгдөж байна. Технологийн аварга компаниуд хиймэл оюун ухааны салбарын хяналт шалгалтыг чангатгах амлалт өгсөн Ардчилсан намтай харилцаагаа сэргээх арга замыг хайж эхэлжээ.\n\nШинжээчдийн үзэж байгаагаар компаниуд олон нийтийн харилцааг сайжруулах, төрийн бус байгууллагууд болон эвлэлүүдтэй хамтран ажиллах замаар дүр төрхөө засах оролдлого хийж байна. Хэрэв шинээр сонгогдсон хууль тогтоогчид хиймэл оюун ухааны салбарт хяналт шалгалтыг чангатгавал дата төв болон зохицуулалтын чиглэлд томоохон сорилтууд тулгарч болзошгүй юм.",
-   "published": "2026-11-07T04:16:43Z",
-   "added": "2026-11-10T04:00:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7c930b9633325058",
-   "section": "ai",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "Asia Times",
-   "url": "https://asiatimes.com/2026/11/what-alibaba-left-blank-about-qwen4/",
-   "image": "https://asiatimes.com/wp-content/uploads/2026/11/Qwen4-China-AI-Alibaba-Artificial-Intelligence-China-Tech.jpg",
-   "title": "What Alibaba left blank about Qwen4",
-   "summary_en": "What Alibaba left blank about Qwen4 Asia Times",
-   "lines": [],
-   "title_mn": "Alibaba Qwen загварын шинэ цувралыг нууцлаг байдлаар зарлав",
-   "summary_mn": "Alibaba компани Qwen загварын шинэ хувилбарыг илтгэх нууцлаг постерийг ямар нэгэн загварын нэр болон үзүүлэлтгүйгээр олон нийтэд цацжээ. Энэхүү алхам нь хиймэл оюун ухааны зах зээл дэх өрсөлдөөн болон хятад хөгжүүлэгчдийн амбицыг дахин харуулж байна.",
-   "body_mn": "Alibaba-ийн Qwen баг өөрсдийн шинэ загварын талаарх тааврыг үлдээсэн сонирхолтой постерийг гаргажээ. Уг зурагт ямар нэгэн техникийн үзүүлэлт эсвэл загварын нэр тодорхой бус байгаа бөгөөд зөвхөн хятадын сонгодог өгүүлбэр болон \"The becoming begins\" гэсэн үгс багтсан байна.\n\nЭнэхүү зарлал нь Хятадын хиймэл оюун ухааны салбар АНУ-ын экспортын хязгаарлалтын эсрэг өөрсдийн дэд бүтцийг хөгжүүлж, зах зээлд байр сууриа бэхжүүлэх гэсэн оролдлоготой давхцаж байна. Шинжээчдийн тооцоолсноор Qwen цуврал загварууд нь дэлхий даяар маш өндөр татан авалттай байгаа бөгөөд нээлттэй эх сурвалжийн экосистемд томоохон байр суурь эзэлж байна.",
-   "published": "2026-11-07T05:09:54Z",
-   "added": "2026-11-10T04:00:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "9989e939e148877e",
-   "section": "hacker",
-   "subtopic": "security-news",
-   "source": "The Hacker News",
-   "source_label": "The Hacker News",
-   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
-   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-   "summary_en": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
-   "lines": [],
-   "title_mn": "Claude Code хэрэгслийн тохиргооны файлаас нууц үг, түлхүүрүүд алдагджээ",
-   "summary_mn": "Anthropic компанийн Claude Code туслахын хадгалсан тохиргооны файл олон нийтийн GitHub санд ил гарч, олон тооны нууц үг, API түлхүүрүүд алдагдсан болохыг аюулгүй байдлын судлаачид тогтоожээ. Судлаачид нөлөөлөлд өртсөн хэрэглэгчдийг түлхүүрүүдээ яаралтай солихыг анхааруулж байна.",
-   "body_mn": "Anthropic компанийн програмчлалын хиймэл оюун ухааны туслах Claude Code хэрэгслийг ашиглах явцад хэрэглэгчдийн гараар шивсэн нууц үг болон API түлхүүрүүд GitHub дээрх олон нийтийн сангуудад санамсаргүй байдлаар байршсаныг Apiiro компани илрүүлжээ. Хэрэглэгч тодорхой тушаалыг зөвшөөрөх үед уг файл автоматаар үүсч, нууц мэдээллийг энгийн текст хэлбэрээр хадгалдаг байна.\n\nСудалгаагаар 1,100 гаруй олон нийтийн repositorio-д нууц мэдээлэл агуулсан тохиргооны файлууд хадгалагдаж байсныг тогтоожээ. Эдгээр нууцлагдсан мэдээллийн дийлэнх хэсгийг өгөгдлийн сангийн нууц үг, SSH нэвтрэлт болон AWS түлхүүрүүд эзэлж байна. Судлаачид Git түүхэнд хуучин хувилбарууд үлдэх эрсдэлтэй тул холбогдох бүх нууц үг, түлхүүрүүдийг нэн даруй солихыг зөвлөж байна.",
-   "published": "2026-11-07T06:44:17Z",
-   "added": "2026-11-10T04:00:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 5
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "172a851e83a3fead",
-   "section": "cs2",
-   "subtopic": "cs2",
-   "source": "CS2 The MongolZ",
-   "source_label": "Skin.Club",
-   "url": "https://community.skin.club/en/news/the-mongolz-sweep-navi-to-reach-grand-final-at-iem-beijing-2026",
-   "image": "https://community.skin.club/wp-content/uploads/2026/11/HWiNWnah_QXbP4nuZDIn7k.jpg",
-   "title": "The MongolZ Sweep NAVI to Reach Grand Final at IEM Beijing 2026",
-   "summary_en": "The MongolZ Sweep NAVI to Reach Grand Final at IEM Beijing 2026 Skin.Club",
-   "lines": [],
-   "title_mn": "The MongolZ баг NAVI-г ялж IEM Beijing 2026 тэмцээний аваргын төлөө өрсөлдөхөөр боллоо",
-   "summary_mn": "Монголын The MongolZ баг IEM Beijing 2026 тэмцээний хагас шигшээд Natus Vincere (NAVI) багийг 2:0 харьцаагаар буулган авч аваргын төлөө тоглох эрхээ өвөртөллөө. Багийн ахлагч bLitz маш өндөр үзүүлэлт үзүүлж ялалтад голлох үүрэг гүйцэтгэв.",
-   "body_mn": "CS2-ын дэлхийн тавцанд амжилттай тоглож буй The MongolZ баг IEM Beijing 2026 тэмцээний хагас шигшээ шатанд дэлхийн шилдэг NAVI багтай учраа тааран тоглож, 2:0 харьцаагаар илт давуу ялалт байгууллаа. Тэд Cache газрын зураг дээр 13:10, Inferno дээр 13:11 харьцаагаар өрсөлдөгчөө буулган авчээ.\n\nЦуврал тоглолтын туршид Garidmagnai “bLitz” Byambasuren 1.49 rating болон 42 килл хийсэн гайхалтай үзүүлэлтээрээ багаа тэргүүлсэн байна. Мөн Sodbayar “Techno” Munkhbold чухал үед амжилттай тоглож ялалтад хувь нэмрээ оруулжээ. Ийнхүү The MongolZ баг аваргын төлөөх гранд финалын шатанд тоглохоор боллоо.",
-   "published": "2026-11-07T10:53:26Z",
-   "added": "2026-11-10T04:00:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c1890230afef5ae4",
-   "section": "ai",
-   "subtopic": "anthropic",
-   "source": "Anthropic (Google News)",
-   "source_label": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-claude-now-bank-accounts-123005696.html",
-   "image": "https://s.yimg.com/lo/mysterio/api/d9d150b1ad15313311e4809fa126d844c6a8b9d3844a0aacbe7dc43789643151/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F41957e565338ac0b7083f5eceb6f7ea8.jpg",
-   "title": "Anthropic's Claude Can Now Link Bank Accounts and Analyze Transactions But Won't Offer Investment Advice",
-   "summary_en": "Anthropic's Claude Can Now Link Bank Accounts and Analyze Transactions But Won't Offer Investment Advice Yahoo Finance",
-   "lines": [],
-   "title_mn": "Claude хувийн санхүүгийн шинэ боломжоо туршиж эхэлжээ",
-   "summary_mn": "Anthropic компани Claude чатботдоо хэрэглэгчдийн банкны дансыг холбож, гүйлгээнд дүн шинжилгээ хийх боломжийг олгох санхүүгийн шинэ функцийг туршиж эхэллээ. Гэвч тус хэрэгсэл нь хөрөнгө оруулалтын зөвлөгөө өгөхгүй бөгөөд өгөгдлийг загвар сургахад ашиглахгүй юм.",
-   "body_mn": "Anthropic компани АНУ-д байгаа Pro, Max болон Ultra эрхтэй хэрэглэгчиддээ зориулан санхүүгийн шинэ боломжийг туршилтын журмаар нэвтрүүлж эхэлжээ. Хэрэглэгчид Plaid үйлчилгээгээр дамжуулан банк болон зээлийн картын дансаа Claude-тай холбож, үлдэгдэл, худалдан авалт болон гүйлгээний түүхээ шалгуулж асуулт асуух боломжтой болж байна.\n\nТус компани уг хэрэгсэл нь мөнгөн гуйвуулга хийх, хөрөнгө оруулалтыг удирдах зорилгогүй бөгөөд хөрөнгө оруулалтын зөвлөгөө өгөхгүй гэдгийг онцолжээ. Мөн холбогдсон санхүүгийн мэдээлэл болон яриаг хиймэл оюун ухааны загваруудыг сургахад ашиглахгүй бөгөөд ямар нэгэн сурталчилгаа байршуулахгүй аж.",
-   "published": "2026-11-07T12:30:05Z",
-   "added": "2026-11-10T04:00:47Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "8656bf004aaa1f87",
-   "section": "ai",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-nous-retunes-alibabas-qwen-cuts-state-line-answers-to-0-9/",
-   "image": "",
-   "title": "Nous Retunes Alibaba’s Qwen, Cuts State-Line Answers to 0.9%",
-   "summary_en": "Nous Retunes Alibaba’s Qwen, Cuts State-Line Answers to 0.9% FourWeekMBA",
-   "lines": [],
-   "title_mn": "Nous Research Alibaba-гийн Qwen загварыг сайжруулж, цензурт хариултыг 0.9% болгон бууруулав",
-   "summary_mn": "Nous Research судалгааны баг Alibaba-гийн Qwen загварт fine-tuning хийж, Хятадын төрийн байр суурийг дагасан хариулт өгөх давтамжийг 0.9% болтол бууруулжээ.",
-   "body_mn": "Nous Research компани Alibaba-гийн нээлттэй эх бүхий Qwen хэлний загварыг дахин сургаж, төрийн цензур болон албан ёсны бодлогыг баримталсан хариулт өгөх магадлалыг 0.9 хувь хүртэл эрс багасгаснаа танилцууллаа.\n\nСудлаачид зөвхөн зорилтот датасет ашиглан нарийн тохируулга (fine-tuning) хийх замаар уг үр дүнд хүрсэн бөгөөд загварын бүтцийг сууриар нь өөрчлөх шаардлага гараагүй байна.\n\nЭнэхүү үр дүн нь нээлттэй эх бүхий загваруудын үзэл суртлын болон улс төрийн хязгаарлалтуудыг хөндлөнгийн хөгжүүлэгчид харьцангуй хялбар аргаар арилгаж, төвийг сахисан хувилбар болгох бүрэн боломжтойг харууллаа.",
-   "published": "2026-11-07T12:43:36Z",
-   "added": "2026-11-10T04:00:47Z",
-   "ai": "gemini:gemini-3.8-flash",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "cc1cbd1bc6d34665",
-   "section": "ai",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "ad-hoc-news.de",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/qwen-s-office-toolkit-and-apple-rollout-put-alibaba-s-ai-story-to-a-practical-test/70475213",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2844119_1200_675.webp",
-   "title": "Qwen's Office Toolkit and Apple Rollout Put Alibaba's AI Story to a Practical Test",
-   "summary_en": "Qwen's Office Toolkit and Apple Rollout Put Alibaba's AI Story to a Practical Test ad-hoc-news.de",
-   "lines": [],
-   "title_mn": "Alibaba Qwen загвараа оффис болон Apple Intelligence-д нэвтрүүлж байна",
-   "summary_mn": "Alibaba компани Qwen загвараа оффисын хэрэгслүүдэд нэмж, Хятад дахь Apple Intelligence-д нэвтрүүлэх ажлыг эрчимжүүлж байна. Энэ нь хөрөнгө оруулагчдын анхаарлыг татаж, хувьцааны ханшид эерэгээр нөлөөллөө.",
-   "body_mn": "Alibaba компани Qwen хиймэл оюуны загвараа Word, Excel, PowerPoint зэрэг оффисын хэрэгслүүдэд нэвтрүүлж, мөн Хятад улсад iPhone хэрэглэгчдэд зориулсан Apple Intelligence системд холбох бэлтгэл ажлыг үргэлжлүүлж байна. Энэхүү алхмын дараа тус компанийн хувьцааны ханш Баасан гарагт 2 хувиар өсжээ.\n\nШинэчлэлтийн хүрээнд Qwen загварт апп доторх засварлах болон захиалгат загваруудыг шат дараатайгаар нэмж байгаа юм. Хөрөнгө оруулагчдын хувьд эдгээр шинэ боломжууд нь хэрэглэгчдийг тогтвортой ашиглахад хүргэх эсэх нь гол хэмжүүр болж байна.\n\nМөн Apple-ийн хөгжүүлэгчдийн туршилт эхэлсэн бөгөөд арванхоёрдугаар сард хэрэглэгчдэд албан ёсоор хүргэхээр төлөвлөөд байна. Энэхүү хамтын ажиллагааны үр дүнд хэрэглэгчид Siri болон бусад хэрэгслүүдээр дамжуулан Qwen-ийг ашиглах боломжтой болох ажээ.",
-   "published": "2026-11-07T16:23:57Z",
-   "added": "2026-11-10T11:41:25Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "7c1fb8f3e8eb6ccf",
-   "section": "ai",
-   "subtopic": "xai",
-   "source": "xAI (Google News)",
-   "source_label": "Engadget",
-   "url": "https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace/",
-   "image": "https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg",
-   "title": "How To Set Up SpaceXAI's Grok In Google Workspace (And What It Can Do)",
-   "summary_en": "How To Set Up SpaceXAI's Grok In Google Workspace (And What It Can Do) Engadget",
-   "lines": [],
-   "title_mn": "SpaceXAI-ийн Grok загварыг Google Workspace-д суулгах боломжтой боллоо",
-   "summary_mn": "Google Docs, Sheets, Slides аппликейшнүүдэд ашиглах боломжтой SpaceXAI-ийн Grok нэмэлт өргөтгөл гарлаа. Энэхүү үнэгүй нэмэлт нь хэрэглэгчдэд баримт бичиг боловсруулах, танилцуулга хийхэд туслах юм.",
-   "body_mn": "SpaceXAI компани Google Workspace хэрэглэгчдэд зориулсан Grok нэмэлт өргөтгөлийг гаргажээ. Ингэснээр хэрэглэгчид Google Docs, Sheets, Slides программууд дотроосаа шууд Grok-ийг ашиглах боломжтой болж байна.\n\nУг нэмэлт өргөтгөлийг Google Workspace Marketplace-ээс үнэгүй суулгах боломжтой бөгөөд суулгасны дараа апп бүрийн хажуугийн цэсэнд Grok гарч ирэх юм. Энэ нь Gemini-тэй ижил зарчмаар ажиллаж, хүснэгтээс мэдээлэл хайх, тэмдэглэлийг баримт бичиг болгон хувиргах зэрэг ажлуудыг гүйцэтгэнэ.\n\nГэсэн хэдий ч уг хэрэгслийг ашиглахын тулд Google Docs болон бусад файлуудыг унших, засварлах өргөн хүрээтэй эрх олгох шаардлагатай тул зарим хэрэглэгчид нууцлалын үүднээс анхаарал хандуулах хэрэгтэй юм.",
-   "published": "2026-11-07T19:15:00Z",
-   "added": "2026-11-10T11:41:25Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "44e602b509ce2848",
-   "section": "ai",
-   "subtopic": "ai-news",
-   "source": "TechCrunch AI",
-   "source_label": "TechCrunch AI",
-   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "summary_en": "On Equity, we unpacked what the midterms mean for the tech industry.",
-   "lines": [],
-   "title_mn": "АНУ-ын завсрын сонгуулийн үр дүн технологийн компаниудад хүндхэн тусч магадгүй",
-   "summary_mn": "АНУ-ын завсрын сонгогчид болон шинээр сонгогдсон улстөрчид дата төвүүдийн үйл ажиллагааг хязгаарлах бодлого баримталж эхэлсэн нь технологийн компаниуд, ялангуяа хиймэл оюуны салбарынханд хүндрэл учруулж болзошгүй байна.",
-   "body_mn": "АНУ-ын энэ долоо хоногийн завсрын сонгуулийн үр дүнд Ардчилсан нам амжилт гаргаснаар технологийн салбарт, ялангуяа дата төвийн бүтээн байгуулалтад шинэ саад бэрхшээлүүд үүсч болзошгүй байна. Орон нутгийн санал хураалтуудаар сонгогчид шинэ дата төв барих төслүүдийг эсэргүүцсэн шийдвэрүүдийг гаргажээ.\n\nТухайлбал, Техас муж болон бусад бүс нутгуудад дата төвийн үйл ажиллагааг хязгаарлах амлалт өгсөн улстөрчид ялалт байгуулсан нь технологийн компаниудын төлөвлөгөөнд нөлөөлж эхэлжээ. Elon Musk тэргүүтэй тэрбумтнууд улс төрийн кампанит ажилд томоохон хөрөнгө оруулалт хийсэн хэдий ч орон нутгийн түвшинд дата төвийн эсрэг хөдөлгөөн хүчээ авч байна.\n\nШинжээчдийн үзэж байгаагаар ойрын хоёр жилийн хугацаанд хиймэл оюуны дэд бүтэц болон дата төвүүдийг өргөжүүлэхэд олон нийтийн эсэргүүцэл болон хууль эрх зүйн хязгаарлалтуудтай тулгарах төлөвтэй байна.",
-   "published": "2026-11-07T22:07:22Z",
-   "added": "2026-11-10T11:41:25Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 3
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "70f380f2274014a6",
    "section": "cs2",
    "subtopic": "cs2",
@@ -954,6 +734,186 @@
    "added": "2026-11-11T04:00:46Z",
    "ai": "",
    "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0f5b5f5a59f2dae8",
+   "section": "hacker",
+   "subtopic": "cve",
+   "source": "CISA KEV",
+   "source_label": "CISA",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
+   "image": "",
+   "title": "CVE-2026-123218 added to CISA KEV (exploited in the wild)",
+   "summary_en": "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
+   "lines": [
+    "IBM Aspera Faspex: IBM Aspera Faspex Incorrect Authorization Vulnerability",
+    "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
+    "Patch by: 2026-11-12"
+   ],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-09T00:00:00Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cfd192eda4f22e6c",
+   "section": "vibe",
+   "subtopic": "vibe-coding",
+   "source": "Simon Willison",
+   "source_label": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "image": "https://static.simonwillison.net/static/2026/details-summary-card.webp",
+   "title": "Hide your slop PR descriptions behind",
+   "summary_en": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes the problem, the detailed solution, and the steps taken to verify it. That's a lot of information…",
+   "lines": [],
+   "title_mn": "AI кодын агентуудын бичсэн урт PR тайлбарыг нуух хялбар арга",
+   "summary_mn": "Claude Code эсвэл Codex зэрэг хиймэл оюун ухааны хэрэгслүүдийн бичсэн хэт дэлгэрэнгүй PR тайлбарыг HTML-ийн details болон summary шошго ашиглан цэгцлэх боломжтой.",
+   "body_mn": "Орчин үеийн программ хангамж хөгжүүлэлтэд Claude Code болон Codex зэрэг хиймэл оюун ухааны агентууд код бичих явцыг ихээхэн хөнгөвчилж байна. Эдгээр агентуудын үүсгэсэн PR (Pull Request) тайлбарууд маш дэлгэрэнгүй бөгөөд үнэн зөв байдаг ч уншихад хэтэрхий урт байх талтай.\n\nЭнэхүү асуудлыг шийдвэрлэхийн тулд HTML хэлний details болон summary шошгуудыг ашиглах нь үр дүнтэй арга юм. GitHub-ийн Markdown дээр шууд дэмжигддэг энэхүү элементийн тусламжтайгаар хүний гараар бичсэн товч бөгөөд ойлгомжтой ерөнхий дүгнэлтийг ил харагдуулж, агентын бичсэн дэлгэрэнгүй тайлбарыг хураангуйлж нуух боломжтой.\n\nИнгэснээр код хянаж буй хүн хэт олон үгтэй урт текстэнд залхахгүйгээр үндсэн санааг нь хурдан ойлгож, шаардлагатай үед дэлгэрэнгүй мэдээллийг задлан үзэх боломж бүрдэнэ. Хөгжүүлэгчид энэхүү аргыг ашигласнаар өөрийн төслийн кодын чанар болон хяналтын процессыг илүү эмх цэгцтэй болгох юм.",
+   "published": "2026-11-09T04:25:05Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "57ea3648c45ff449",
+   "section": "software",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5sdDYdCG5ozpdjNNyFpGgP/52e02883b34e063b359cc249f177cb17/nov-og-blog-stacked-bars_4x.png",
+   "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+   "summary_en": "AI Gateway Production Index — November 2026 Every month, AI Gateway routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage looks like in today’s enterprise and startup landscape across language, decision, voice, image, and video models. We publish it here monthly. See the Production Index reports from August , September , and October . November 2026 Summary In six weeks, decision models grew to one in four gateway requests, while accounting for half a cent of every dollar spent. Close to a third of all paid teams used…",
+   "lines": [],
+   "title_mn": "AI Gateway-ийн тайлан: Шийдвэр гаргах загварууд болон Anthropic-ийн өсөлт",
+   "summary_mn": "Vercel-ийн сарын тайлангаар хиймэл оюун ухааны шийдвэр гаргах загварууд нийт хүсэлтийн 4 хуваасны 1-ийг эзэлж, Anthropic шинэ багуудын дунд тэргүүлж эхэлжээ.",
+   "body_mn": "Vercel компани сар бүр гаргадаг AI Gateway Production Index тайлангаа танилцууллаа. Энэхүү тайланд дурдсанаар сүүлийн хэдэн долоо хоногт шийдвэр гаргах (decision) загварууд гайхалтай хурдацтай өсөж, нийт хүсэлтийн дөрөвний нэгийг эзлэх болжээ.\n\nШийдвэр гаргах загварууд нь урт текст үүсгэхийн оронд сонголт хийх, ангилах, үнэлгээ өгөх зэрэг энгийн үүргүүдийг маш хямд өртгөөр гүйцэтгэдэг давуу талтай. Эдгээр загварууд нь хүсэлтийн хувьд өндөр хувийг эзэлж байгаа ч нийт зардлын ердөө 0.53 хувийг л бүрдүүлж байна.\n\nҮүний зэрэгцээ OpenAI болон Anthropic компаниуд төлбөртэй багуудын дунд ижил түвшний тархалттай байгаа хэдий ч шинээр нэгдэж буй багуудын бараг хоёр хүн тутмын нэг нь Anthropic-ийг сонгож байна. Мөн дуут хиймэл оюун ухааны хэрэглээ огцом өсөж, хэрэглэгчдийн оролцоо нэмэгджээ.",
+   "published": "2026-11-09T05:00:00Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4d02c260bfd3474b",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg",
+   "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+   "summary_en": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+   "lines": [],
+   "title_mn": "CISA SonicWall SonicOS-ийн MFA алгасах аюулгүй байдлын сул талыг анхааруулв",
+   "summary_mn": "АНУ-ын CISA байгууллага SonicWall SonicOS системийн нэвтрэлтийн хяналтыг тойрч гардаг сул талыг мэдээлж, KEV жагсаалтад орууллаа.",
+   "body_mn": "АНУ-ын Кибер аюулгүй байдал, дэд бүтцийн аюулгүй байдлын агентлаг (CISA) SonicWall SonicOS бүтээгдэхүүнд илэрсэн өндөр эрсдэлтэй сул талыг мэдэгдлийнхээ дагуу Known Exploited Vulnerabilities (KEV) жагсаалтад нэмсэн байна.\n\nCVE-2026-19868 дугаартай энэхүү сул тал нь CVSS үнэлгээгээр 7.1-7.5 оноо авсан бөгөөд SonicOS SSL-VPN үйлчилгээний үеэр хэрэглэгчдийг баталгаажуулах хяналтыг зөрчих боломжийг олгодог байна. Үүний улмаас хакерууд олон хүчин зүйлт баталгаажуулалт (MFA)-ыг тойрч гарах аюултай юм.\n\nSonicWall компани уг сул талыг засах шинэчлэлтийг гаргасан бөгөөд холбогдох байгууллагуудад сүлжээгээ яаралтай шинэчлэхийг уриалжээ. Холбооны агентлагууд энэхүү хамгаалалтын засварыг товлосон хугацаанаас өмнө хийх шаардлагатай аж.",
+   "published": "2026-11-09T06:05:24Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "58a4982824420547",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg",
+   "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+   "summary_en": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+   "lines": [],
+   "title_mn": "Аж үйлдвэрийн хөргөлтийн систем рүү халдсан халдлага гал болон эд материалын хохирол учруулж болзошгүй",
+   "summary_mn": "Америкийн засгийн газрын агентлагууд интернэтэд холбогдсон хөргөлтийн системүүдэд хакерууд халдаж, үйлчилгээг тасалдуулан аюул учруулж буйг анхаарууллаа.",
+   "body_mn": "Дэлхийн даяар үйлдвэрлэлийн зориулалттай хөргөлт болон хүйтэн хэлхээний хяналтын системүүд кибер халдлагад өртөж болзошгүй тухай АНУ-ын засгийн газрын агентлагуудаас хамтарсан анхааруулга гаргажээ.\n\nХакерууд интернетэд нээлттэй орхигдсон эсвэл сул талтай хөргөлтийн төхөөрөмжүүдэд нэвтэрч, температурын тохиргоог дур мэдэн өөрчлөх замаар хоол хүнс, эм бэлдмэл болон биологийн дээжүүдийг муудуулж байна. Европын хэд хэдэн оронд супермаркетууд болон цусны банкны хөргөлтийн төхөөрөмжүүд халдлагад өртөж, температур нь хэт өндөрсөн асуудал үүсжээ.\n\nЭнэхүү аюулаас урьдчилан сэргийлэхийн тулд байгууллагууд төхөөрөмжүүдийнхээ нууц үгийг сайжруулах, интернэтэд шууд хандах боломжийг хаах, шаардлагагүй алсын удирдлагын эрхүүдийг цуцлахыг мэргэжилтнүүд зөвлөж байна.",
+   "published": "2026-11-09T06:15:10Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "403a72428fe29edd",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg",
+   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "summary_en": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
+   "lines": [],
+   "title_mn": "OpenAI-ийн экс ажилчин гүйцэтгэх захирлуудын уулзалтын өрөөнд бичлэгийн төхөөрөмж нуусан хэргээр шүүхэд мэдүүлэг өглөө",
+   "summary_mn": "OpenAI-ийн оффис руу нууцаар бичлэг хийх төхөөрөмж байрлуулсан хэрэгт буруутгагдсан экс инженер Сан-Францискогийн холбооны шүүхэд гэм буруугүй гэдгээ мэдэгджээ.",
+   "body_mn": "OpenAI компанийн гүйцэтгэх удирдлагуудын хурал болдог өрөөнд нууц бичлэгийн төхөөрөмж байрлуулсан хэргээр баривчлагдсан Саудын Арабын иргэн Абдулрахман Алфозан шүүх хурал дээр гэм буруугүй хэмээн мэдүүлжээ.\n\nӨдгөө 35 настай тус инженер нь эмзэг яриаг хууль бусаар бичиж авах зорилгоор боловсронгуй бичлэгийн төхөөрөмжийг оффист байрлуулсан гэж прокурорууд үзэж байгаа юм. Тэрээр баривчлагдахаасаа өмнө эхнэр, хүүхдийнхээ хамт эх орон руугаа буцах нэг талын тийз захиалсан байсан бөгөөд оргох эрсдэлтэй гэж үзэн батлан даалтад гаргаагүй байна.\n\nХэрэв гэм буруутай нь тогтоогдвол тэрээр таван жилийн хорих ял болон 250 мянган ам.долларын торгууль хүлээж болзошгүй аж. Уг хэргийн дараагийн шүүх хурал энэ сарын 17-нд товлогдоод байна.",
+   "published": "2026-11-09T07:05:48Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "68a0b8691a72d0a0",
+   "section": "software",
+   "subtopic": "nestjs",
+   "source": "nestjs/nest",
+   "source_label": "nestjs/nest",
+   "url": "https://github.com/nestjs/nest/releases/tag/v11.2.9",
+   "image": "https://opengraph.githubassets.com/9a094b63a7ce0c448798c3c8f7242a977048685aab3ac6fd02f3046f5bb99ddf/nestjs/nest/releases/tag/v11.2.9",
+   "title": "nest v11.2.9",
+   "summary_en": "What's changed @nestjs/core fix(core): run wildcard middleware on excluded routes of every version @nestjs/platform-express fix(deps): update dependency multer to v2.5.0 — resolves GHSA-q7qp-rjg7-q26m ( #18421 ) @nestjs/platform-fastify fix(fastify): end the authority of absolute-form targets at the query — an absolute-form request target with a / after a query that comes before its path is now answered with 404 fix(deps): update dependency fastify to v5.12.8 — resolves the advisories published against fastify up to 5.12.4; find-my-way moves to 9.10.0 with it, so http://host?a=b is now…",
+   "lines": [],
+   "title_mn": "NestJS v11.2.9 хувилбар шинэчлэгдэж гарлаа",
+   "summary_mn": "NestJS фрэймворкийн шинэ v11.2.9 хувилбар гарч, олон төрлийн алдаа засан хамгаалалтын шинэчлэлтүүдийг хийжээ.",
+   "body_mn": "NestJS баг хөгжүүлэгчдэд зориулан v11.2.9 хувилбараа албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт `@nestjs/core`, `@nestjs/platform-express` болон `@nestjs/platform-fastify` багцуудад чухал засвар, сайжруулалтууд орсон байна.\n\nТухайлбал, Core хэсэгт wildcard middleware-ийг бүх хувилбарын хасагдсан маршрутууд дээр ажиллуулах алдааг зассан бол Express болон Fastify платформ дээрх хамаарал бүхий сангуудад гарсан сул талуудыг шинэчилжээ. Ялангуяа Fastify-ийн хувьд аюулгүй байдлын зөвлөмжүүдийг дагуулан хаяг руу чиглэсэн хүсэлтийн чиглүүлэлтийг сайжруулсан байна.\n\nХөгжүүлэгчид төслүүдийнхээ найдвартай байдлыг хангах үүднээс энэхүү шинэ хувилбар руу шилжих боломжтой болжээ.",
+   "published": "2026-11-09T07:53:24Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "02e9abf47eaf3fa0",
+   "section": "ai",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "image": "",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "summary_en": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "lines": [],
+   "title_mn": "CodeRabbit нь OpenAI загваруудыг ашиглан программ хангамжийн бүтээмжийг 20 дахин өсгөв",
+   "summary_mn": "CodeRabbit компани OpenAI загварууд болон Codex-ийг ашиглан хиймэл оюун ухаанаар үүсгэгдсэн кодыг хянаж, ижил хэмжээний инженерүүдийн багтайгаар программ хангамж хөгжүүлэлтийг 20 дахин хурдасгалаа.",
+   "body_mn": "CodeRabbit нь хиймэл оюун ухаанаар үүсгэгдсэн кодыг хянах, удирдах зорилгоор OpenAI-ийн дэвшилтэт загваруудыг нэвтрүүлсэн байна. Ингэснээр тэд өөрсдийн инженерүүдийн багийн бүрэлдэхүүнийг өөрчлөлгүйгээр программ хангамж бүтээх хурдыг 20 дахин нэмэгдүүлж чаджээ.\n\nЭнэхүү шийдэл нь хөгжүүлэлтийн явцыг илүү найдвартай болгож, код бичих болон шалгах үйл явцыг автоматжуулахад чухал үүрэг гүйцэтгэж байна. OpenAI-ийн технологиуд нь орчин үеийн программ хангамж хөгжүүлэлтийн багуудад бүтээмжийг эрс нэмэгдүүлэх боломжийг олгож буйн бас нэгэн тод жишээ юм.",
+   "published": "2026-11-09T08:00:00Z",
+   "added": "2026-11-11T07:04:22Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
   }
  }
 ]

@@ -1,0 +1,19 @@
+{
+ "id": "58a4982824420547",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg",
+ "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+ "summary_en": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+ "lines": [],
+ "title_mn": "Аж үйлдвэрийн хөргөлтийн систем рүү халдсан халдлага гал болон эд материалын хохирол учруулж болзошгүй",
+ "summary_mn": "Америкийн засгийн газрын агентлагууд интернэтэд холбогдсон хөргөлтийн системүүдэд хакерууд халдаж, үйлчилгээг тасалдуулан аюул учруулж буйг анхаарууллаа.",
+ "body_mn": "Дэлхийн даяар үйлдвэрлэлийн зориулалттай хөргөлт болон хүйтэн хэлхээний хяналтын системүүд кибер халдлагад өртөж болзошгүй тухай АНУ-ын засгийн газрын агентлагуудаас хамтарсан анхааруулга гаргажээ.\n\nХакерууд интернетэд нээлттэй орхигдсон эсвэл сул талтай хөргөлтийн төхөөрөмжүүдэд нэвтэрч, температурын тохиргоог дур мэдэн өөрчлөх замаар хоол хүнс, эм бэлдмэл болон биологийн дээжүүдийг муудуулж байна. Европын хэд хэдэн оронд супермаркетууд болон цусны банкны хөргөлтийн төхөөрөмжүүд халдлагад өртөж, температур нь хэт өндөрсөн асуудал үүсжээ.\n\nЭнэхүү аюулаас урьдчилан сэргийлэхийн тулд байгууллагууд төхөөрөмжүүдийнхээ нууц үгийг сайжруулах, интернэтэд шууд хандах боломжийг хаах, шаардлагагүй алсын удирдлагын эрхүүдийг цуцлахыг мэргэжилтнүүд зөвлөж байна.",
+ "published": "2026-11-09T06:15:10Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

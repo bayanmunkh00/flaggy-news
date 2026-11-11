@@ -1,0 +1,19 @@
+{
+ "id": "68a0b8691a72d0a0",
+ "section": "software",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v11.2.9",
+ "image": "https://opengraph.githubassets.com/9a094b63a7ce0c448798c3c8f7242a977048685aab3ac6fd02f3046f5bb99ddf/nestjs/nest/releases/tag/v11.2.9",
+ "title": "nest v11.2.9",
+ "summary_en": "What's changed @nestjs/core fix(core): run wildcard middleware on excluded routes of every version @nestjs/platform-express fix(deps): update dependency multer to v2.5.0 — resolves GHSA-q7qp-rjg7-q26m ( #18421 ) @nestjs/platform-fastify fix(fastify): end the authority of absolute-form targets at the query — an absolute-form request target with a / after a query that comes before its path is now answered with 404 fix(deps): update dependency fastify to v5.12.8 — resolves the advisories published against fastify up to 5.12.4; find-my-way moves to 9.10.0 with it, so http://host?a=b is now…",
+ "lines": [],
+ "title_mn": "NestJS v11.2.9 хувилбар шинэчлэгдэж гарлаа",
+ "summary_mn": "NestJS фрэймворкийн шинэ v11.2.9 хувилбар гарч, олон төрлийн алдаа засан хамгаалалтын шинэчлэлтүүдийг хийжээ.",
+ "body_mn": "NestJS баг хөгжүүлэгчдэд зориулан v11.2.9 хувилбараа албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт `@nestjs/core`, `@nestjs/platform-express` болон `@nestjs/platform-fastify` багцуудад чухал засвар, сайжруулалтууд орсон байна.\n\nТухайлбал, Core хэсэгт wildcard middleware-ийг бүх хувилбарын хасагдсан маршрутууд дээр ажиллуулах алдааг зассан бол Express болон Fastify платформ дээрх хамаарал бүхий сангуудад гарсан сул талуудыг шинэчилжээ. Ялангуяа Fastify-ийн хувьд аюулгүй байдлын зөвлөмжүүдийг дагуулан хаяг руу чиглэсэн хүсэлтийн чиглүүлэлтийг сайжруулсан байна.\n\nХөгжүүлэгчид төслүүдийнхээ найдвартай байдлыг хангах үүднээс энэхүү шинэ хувилбар руу шилжих боломжтой болжээ.",
+ "published": "2026-11-09T07:53:24Z",
+ "added": "2026-11-11T07:04:22Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
