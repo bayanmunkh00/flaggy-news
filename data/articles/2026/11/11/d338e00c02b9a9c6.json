@@ -1,0 +1,19 @@
+{
+ "id": "d338e00c02b9a9c6",
+ "section": "software",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.4.1",
+ "image": "https://opengraph.githubassets.com/d8432e01a6b61d3b36d2787d1da720bc8a75ea721e00814c41a7e9e118749a68/nestjs/nest/releases/tag/v12.4.1",
+ "title": "nest v12.4.1",
+ "summary_en": "v12.4.1 (2026-11-09) Features platform-node #18435 feat(node): inject requests into the node adapter like the fastify one ( @thekhegay ) #18439 feat(node): set req.route on the node adapter like express does ( @thekhegay ) Bug fixes core #18385 fix(core): roll back modules on failed lazy load ( @Asadshah7950 ) Enhancements common , core #18429 fix(core,common): warn when decorator metadata is missing ( @kamilmysliwiec ) Dependencies platform-ws #18468 chore(deps): bump ws from 8.22.0 to 8.22.1 ( @dependabot[bot] ) Committers: 8 Abdellatif Anaflous ( @hktitof ) Asad Ali Shah ( @Asadshah7950 )…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T08:01:22Z",
+ "added": "2026-11-11T15:05:59Z",
+ "ai": "",
+ "score": null
+}

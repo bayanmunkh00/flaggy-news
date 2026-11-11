@@ -1,0 +1,19 @@
+{
+ "id": "dba42b8cc9576fe1",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Schneier on Security",
+ "source_label": "Schneier on Security",
+ "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
+ "image": "",
+ "title": "AI Security",
+ "summary_en": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.) AI security can be divided into three broad topics. It’s important for researchers to understand which one they are working on. And it’s important for us as a community to work on them all. They are: security of AI, security with AI, and security from AI. [un]prompted had good talks about all three...",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T12:05:39Z",
+ "added": "2026-11-11T15:05:59Z",
+ "ai": "",
+ "score": null
+}
