@@ -1,0 +1,23 @@
+{
+ "id": "582c1e0119bd4ad2",
+ "section": "hacker",
+ "subtopic": "cve",
+ "source": "CISA KEV",
+ "source_label": "CISA",
+ "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
+ "image": "",
+ "title": "CVE-2026-102895 added to CISA KEV (exploited in the wild)",
+ "summary_en": "GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and cloud-provider secrets, and code execution through POST /v2/inference-backends/from-yaml.",
+ "lines": [
+  "GPUStack GPUStack: GPUStack Improper Authentication Vulnerability",
+  "GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and cloud-provider secrets, and code execution through POST /v2/inference-backends/from-yaml.",
+  "Patch by: 2026-11-12"
+ ],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-11T04:00:46Z",
+ "ai": "",
+ "score": null
+}

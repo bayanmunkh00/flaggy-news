@@ -1,0 +1,23 @@
+{
+ "id": "ea93650a47c7762e",
+ "section": "hacker",
+ "subtopic": "cve",
+ "source": "CISA KEV",
+ "source_label": "CISA",
+ "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
+ "image": "",
+ "title": "CVE-2026-123158 added to CISA KEV (exploited in the wild)",
+ "summary_en": "OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.",
+ "lines": [
+  "OpenBSD OpenSSH: OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+  "OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.",
+  "Patch by: 2026-11-12"
+ ],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-11T04:00:46Z",
+ "ai": "",
+ "score": null
+}

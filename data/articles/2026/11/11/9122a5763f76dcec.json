@@ -1,0 +1,19 @@
+{
+ "id": "9122a5763f76dcec",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/27da8pLzXd8AyEJK20xjUJ/e77075b2ad88245b75447ec57aaa4da4/image__5_.png",
+ "title": "Workflow SDK now writes over WebSockets on Vercel",
+ "summary_en": "The Workflow SDK now sends event writes and stream writes to Vercel Workflows over a WebSocket by default, replacing one HTTP request per write, or per write group for streams. No code change is needed beyond upgrading to workflow@5.2.0 or later. Once you deploy the upgrade, new runs use it. In-flight runs finish on the deployment they started on. Existing streaming code works as is. A step that writes a burst of chunks, like AI tokens, sends them over the WebSocket once it opens: Streams keep pace with AI output In a benchmark replaying an AI agent's token stream, v5.2.0, which writes…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-11T04:00:46Z",
+ "ai": "",
+ "score": null
+}

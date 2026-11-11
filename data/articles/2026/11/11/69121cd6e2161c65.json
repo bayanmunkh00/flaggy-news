@@ -1,0 +1,19 @@
+{
+ "id": "69121cd6e2161c65",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4EWqeXhnwi0B9RmYultrDe/c2130d5b88ce2800d7aebf655ae94261/og_flash-token-pass-og.png",
+ "title": "GLM 5.3 Flash is now available in Token Pass",
+ "summary_en": "Token Pass now includes GLM 5.3 Flash , alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash (with more models to come). GLM 5.3 Flash is Z.ai's native multimodal coding model with a 1M-token context window. Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use it with any coding agent such as fx , Pi , Cline , Command Code etc. or build your own with the AI SDK, with Zero Data Retention enabled by default. Add GLM 5.3 Flash from the Token Pass page in your team's AI Gateway dashboard, or read the Token Pass documentation for…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-11T04:00:46Z",
+ "ai": "",
+ "score": null
+}

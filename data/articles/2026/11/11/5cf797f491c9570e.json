@@ -1,0 +1,19 @@
+{
+ "id": "5cf797f491c9570e",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3Y4tmuSrVjuQrTdHnKBOlE/213c8a5bb9fc3304dbfafb6cfb2d8a4a/preview.jpg",
+ "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+ "summary_en": "Vercel Container Registry now supports compressed image layers of up to 2 GB each, up from 500 MB, the total image size limit stays 15 GB. The registry works with standard workflows like docker push , docker pull , and docker tag , and pushing an image creates the repository on the fly. Repositories can be made public for read-only pull access by any Vercel team, or shared with specific teams up to 100 from the dashboard or with vercel vcr permissions . The Vercel Managed Images that Vercel Sandbox runs on are served from ordinary public repositories, built with the same public-repository…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T00:00:00Z",
+ "added": "2026-11-11T04:00:46Z",
+ "ai": "",
+ "score": null
+}
