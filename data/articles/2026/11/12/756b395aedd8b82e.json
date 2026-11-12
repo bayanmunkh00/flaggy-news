@@ -1,0 +1,19 @@
+{
+ "id": "756b395aedd8b82e",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3Kx2eGDsv1d8kbZCKHFjvw/b18f48c92a064439ab18337f71949dbc/image__70_.png",
+ "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
+ "summary_en": "Vercel Sandbox now creates snapshots up to 10x faster. Median time to snapshot is under 0.4 seconds, down from 4.4 seconds. Snapshot restore speed has also improved by 50% from 500ms to 250ms at p50. Snapshots are now able to write and restore by re-using frames within the Vercel Hive Snapshot (VHS) format. VHS now indexes data in a more efficient way which means that more read and write operations can be done in parallel. Snapshots can now restore more of your Sandbox base image in parallel with user data, leading to overall faster operations. Persistent sandboxes, the default, snapshot…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T21:00:00Z",
+ "added": "2026-11-12T16:00:54Z",
+ "ai": "",
+ "score": null
+}

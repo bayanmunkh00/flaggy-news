@@ -1,0 +1,19 @@
+{
+ "id": "ae94fa2d4f64ad42",
+ "section": "software",
+ "subtopic": "nextjs",
+ "source": "vercel/next.js",
+ "source_label": "vercel/next.js",
+ "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
+ "image": "https://opengraph.githubassets.com/8da8aa645fca8c27f1743ebe87f2b52b6f3406ca23f4db50290cfaa07b4b6c9f/vercel/next.js/releases/tag/v16.4.6",
+ "title": "next.js v16.4.6",
+ "summary_en": "Note This release is backporting bug fixes. It does not include all pending features/changes on canary. Core Changes [lts-active] Pin Tailwind to 4.3.3 in create-next-app and tests ( #101061 , #101176 ) ( #101307 ) [lts-active] Automatically compress route handler responses if not already compressed ( #101280 ) [lts-active] Turbopack GC fixes for dev ( #100279 , #100370 ) ( #101308 ) Credits Huge thanks to @lukesandberg and @eps1lon for helping!",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-09T20:27:17Z",
+ "added": "2026-11-12T16:00:54Z",
+ "ai": "",
+ "score": null
+}
