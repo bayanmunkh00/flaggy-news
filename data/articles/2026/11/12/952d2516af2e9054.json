@@ -1,0 +1,19 @@
+{
+ "id": "952d2516af2e9054",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/control-room",
+ "image": "",
+ "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+ "summary_en": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+ "lines": [],
+ "title_mn": "OpenAI судалгааны дэд бүтцийнхээ аюулгүй байдлыг хянах Control Room систем танилцууллаа",
+ "summary_mn": "OpenAI компани судалгааны дэд бүтцийн хүрээнд загварын ачааллыг хянаж, аюулгүй байдлын эрсдэл үүссэн үед шууд зогсоох боломжтой Control Room системийг танилцууллаа.",
+ "body_mn": "OpenAI судалгааны дэд бүтцийнхээ аюулгүй байдлыг хангах зорилгоор шинэ систем нэвтрүүлж байгаагаа мэдээллээ. Control Room гэж нэрлэгдсэн уг төв систем нь загварын ажлын явцыг бодит цаг хугацаанд хянах боломжийг олгодог.\n\nСистемийн гол зорилго нь аюулгүй байдал болон кибер аюул заалт үүссэн тохиолдолд загварын үйл ажиллагааг яаралтай тасалдуулах юм. Энэ нь хиймэл оюун ухааны судалгаа болон хөгжүүлэлтийн явцад гарч болзошгүй эрсдэлээс урьдчилан сэргийлэхэд чухал алхам болж байна.",
+ "published": "2026-11-09T13:00:00Z",
+ "added": "2026-11-12T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

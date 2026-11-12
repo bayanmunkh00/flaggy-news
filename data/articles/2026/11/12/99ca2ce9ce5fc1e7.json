@@ -1,0 +1,19 @@
+{
+ "id": "99ca2ce9ce5fc1e7",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg",
+ "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+ "summary_en": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
+ "lines": [],
+ "title_mn": "Bitter хакерууд Өмнөд Азийн байгууллагууд руу PapRAT хортой программ ашиглан халджээ",
+ "summary_mn": "Bitter гэх кибер тагнуулын бүлэг Өмнөд Азийн байгууллагуудын эсрэг C++ болон Rust хэлээр бичигдсэн PapRAT нэртэй шинэ хортой программ ашиглан халдлага явуулж байна. Энэхүү кампанит ажил нь системийн мэдээлэл цуглуулах гурван өөр халдлагын гинжин хэлхээг ашигладаг.",
+ "body_mn": "Өмнөд Азийн бүс нутагт чиглэсэн кибер тагнуулын үйл ажиллагаа явуулдаг Bitter (APT-C-08) бүлэг PapRAT хэмээх шинэ алсын удирдлагын троян (RAT) программ ашиглан халдлага үйлдэж байгааг Fortinet FortiGuard Labs судлагчид илрүүлжээ. Энэхүү хортой программ нь C++ болон Rust хэл дээр бүтээгдсэн хоёр янзын хувилбартай аж.\n\nPapRAT нь команд гүйцэтгэх, файл хуулах, устгах, диск болон хавтас шүүрдэх, дэлгэцийн зураг авах зэрэг өргөн боломжуудтай бөгөөд Rust хувилбар нь нэмэлтээр PowerShell команд ажиллуулах чадамжтай гэнэ. Халдагчид системд нэвтрэхдээ гурван өөр халдлагын гинжин хэлхээг ашиглаж байгаа бөгөөд скрипт хэрэгслүүд, алсын серверээс команд дуудах аргуудыг хослуулан ашигладаг байна.\n\nТухайлбал, эхний хувилбарт дурын алсын серверээс команд ажиллуулж, хэрэглэгчийн ширээний компьютер, баримт бичгийн хавтас болон суулгасан антивирусын мэдээллийг цуглуулан curl команд ашиглан рут сервер рүүгээ явуулдаг байна. Хоёр дахь хувилбарт Base64 кодоор шифрлэгдсэн скрипт ашиглан PowerShell командуудыг гүйцэтгэдэг бөгөөд MSI суулгагчаар дамжин дэгддэг.\n\nЭнэхүү шинэчлэгдсэн арга нь хортой бинар файлуудыг шууд буулгахгүйгээр серверийн талаас командуудыг шинэчлэх замаар аюулгүй байдлын системээс зайлсхийх боломжийг халдагчдад олгож байна. Судлагчид байгууллагуудад скрипт хэрэгсэл, хуваарьт ажлууд болон сэжигтэй MSI багцуудад хяналтаа сайжруулахыг зөвлөж байна.",
+ "published": "2026-11-09T14:31:29Z",
+ "added": "2026-11-12T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

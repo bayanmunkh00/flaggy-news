@@ -1,0 +1,19 @@
+{
+ "id": "04c197710c687789",
+ "section": "uiux",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.11.1",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.11.1",
+ "summary_en": "v14.11.1",
+ "lines": [],
+ "title_mn": "Motion v14.11.1 хувилбар гарлаа",
+ "summary_mn": "Motion анимацийн сангийн шинэ v14.11.1 хувилбар хэрэглэгчдийн хүртээл боллоо.",
+ "body_mn": "Motion (хуучнаар Framer Motion) анимацийн сангийн шинэ v14.11.1 хувилбар албан ёсоор гарлаа. Энэхүү шинэ хувилбарын дэлгэрэнгүй өөрчлөлтүүд болон засваруудын талаарх мэдээллийг албан ёсны эх сурвалжаас авах боломжтой.",
+ "published": "2026-11-09T13:12:28Z",
+ "added": "2026-11-12T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 2
+}

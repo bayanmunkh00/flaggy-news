@@ -1,0 +1,19 @@
+{
+ "id": "55d059b88c6c576a",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+ "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
+ "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+ "summary_en": "A Blog post by Amazon on Hugging Face",
+ "lines": [],
+ "title_mn": "HOPE: Модел шахах шинэ аргын тухай",
+ "summary_mn": "Hugging Face баг MoE загваруудын санах ойн ачааллыг бууруулах HOPE хэмээх хоёрдугаар эрэмбийн шинэ аргыг танилцууллаа.",
+ "body_mn": "Mixture-of-Experts (MoE) загварууд олон тэрбум параметр бүхий томоохон хэлний загваруудыг бүтээхэд тусалдаг ч нэг сул талтай нь тухайн токеныг боловсруулахад ихэнх экспертүүд идэвхгүй байсан ч санах ойд бүхэлдээ ачаалагддаг. Жишээлбэл, Qwen3.5-122B загварын хувьд санах ойн 95 хувийг зөвхөн эксперт MLP-ууд эзэлдэг байна.\n\nЭнэхүү асуудлыг шийдвэрлэхийн тулд судлаачид шаардлагагүй экспертүүдийг хасах аргуудыг ашигладаг боловч ихэнх арга нь экспертүүд хоорондын хамтын ажиллагааг тооцдоггүй дутагдалтай байдаг. Учир нь MoE загварын экспертүүд тодорхой бүлэг үүсгэн хамтран ажилладаг аж.\n\nШинээр боловсруулсан HOPE (Higher-Order Pruning of Experts) арга нь энэхүү хоорондын хамаарлыг тооцоолж, экспертүүдийг сонгож устгадаг хоёрдугаар эрэмбийн арга юм. Энэ нь 50 хувийн шахалтын үед агентын кодын даалгаврууд дээр бусад аргуудаас илүү өндөр үр дүнтэй болох нь батлагдсан байна.",
+ "published": "2026-11-09T12:34:29Z",
+ "added": "2026-11-12T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

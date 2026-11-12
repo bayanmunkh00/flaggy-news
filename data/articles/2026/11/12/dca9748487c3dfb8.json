@@ -1,0 +1,19 @@
+{
+ "id": "dca9748487c3dfb8",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg",
+ "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+ "summary_en": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed",
+ "lines": [],
+ "title_mn": "Кибер аюулгүй байдлын долоо хоногийн тойм: SSHole болон эмзэг байдлууд",
+ "summary_mn": "Өнгөрсөн долоо хоногт OpenSSH-ийн SSHole эмзэг байдал болон олон төрлийн шинэ кибер халдлагууд бүртгэгдсэн талаарх тойм мэдээлэл гарлаа.",
+ "body_mn": "Системийг аюулгүй байлгах хэрэгслүүд болон энгийн тохиргооны алдаанууд хакеруудад нэвтрэх боломж олгож буйг энэ долоо хоногийн аюулгүй байдлын тойм харуулж байна. Ялангуяа Линукс систем дэх OpenSSH үйлчилгээтэй холбоотой шинэ эмзэг байдал анхаарал татаж байна.\n\nТодруулбал, нууц үг тохируулаагүй хэрэглэгчийн эрхээр нэвтрэх боломжийг олгодог CVE-2026-123158 (SSHole) эмзэг байдлыг ашиглах оролдлогууд бүртгэгджээ. Энэ нь Alpine Linux болон буримт бичигт дурдсан зарим системд нөлөөлж байгаа юм.\n\nМөн мэдээллийн технологийн дэд бүтцэд нөлөөлж буй бусад олон тооны эмзэг байдлуудыг засварлахыг мэргэжилтнүүд зөвлөж байна. Аюулгүй байдлын багууд системээ шалгаж, шаардлагатай шинэчлэлтүүдийг цаг алдалгүй хийх шаардлагатай байна.",
+ "published": "2026-11-09T13:28:25Z",
+ "added": "2026-11-12T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

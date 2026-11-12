@@ -1,0 +1,19 @@
+{
+ "id": "29a1c92a58caa3f3",
+ "section": "software",
+ "subtopic": "react-native",
+ "source": "Expo Changelog",
+ "source_label": "Expo Changelog",
+ "url": "https://expo.dev/changelog/concurrency-groups-and-hooks-for-workflows",
+ "image": "https://static.expo.dev/static/changelog/og-image.png",
+ "title": "Concurrency groups and hooks for Workflows",
+ "summary_en": "Cancel or queue overlapping workflow runs with concurrency groups, and add your own steps to pre-packaged jobs with hooks.",
+ "lines": [],
+ "title_mn": "Expo ажлын урсгалд зориулсан concurrency болон hooks шинэчлэлтийг зарлалаа",
+ "summary_mn": "Expo ажлын урсгалын concurrency тохиргоонд захиалгат бүлэг, илэрхийллүүд нэмэгдэж, hook дэмжлэг илүү олон ажлуудад боломжтой боллоо.",
+ "body_mn": "Expo баг хөгжүүлэгчдэд зориулсан ажлын урсгалын шинэчлэлт гаргаснаа зарлалаа. Энэхүү шинэчлэлтээр ажлын урсгалын concurrency буюу зэрэгцээ ажиллагааны боломжууд өргөжиж байна.\n\nӨмнө нь зөвхөн тухайн салбар дээрх идэвхтэй ажлуудыг цуцлах боломжтой байсан бол одоо хувьсагч болон илэрхийлэл ашиглан хүснэгтлэх, хүлээлгийн горимд оруулах боломжтой болжээ. Мөн хуучин хязгаарлагдмал байсан hook дэмжлэгүүд өргөжиж, хөгжүүлэгчид өөрсдийн алхмуудыг урьдчилан бэлтгэсэн ажилд нэгтгэх боломжтой болсон байна.\n\nШинэ функцууд одоо ашиглалтад орсон бөгөөд хөгжүүлэгчид санал хүсэлтээ Discord болон X платформоор дамжуулан хуваалцах боломжтой аж.",
+ "published": "2026-11-09T13:00:00Z",
+ "added": "2026-11-12T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

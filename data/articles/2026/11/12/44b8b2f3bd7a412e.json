@@ -1,0 +1,19 @@
+{
+ "id": "44b8b2f3bd7a412e",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "Geeky Gadgets",
+ "url": "https://www.geeky-gadgets.com/qwen-4-preview-first-look/",
+ "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/qwen-preview-performance.jpg",
+ "title": "Qwen 4 Beats Deepseek 4.1 Flash in Web Tasks on Half the Tokens",
+ "summary_en": "Qwen 4 Beats Deepseek 4.1 Flash in Web Tasks on Half the Tokens Geeky Gadgets",
+ "lines": [],
+ "title_mn": "Alibaba компани Qwen 4 загварын цувралаа танилцууллаа",
+ "summary_mn": "Alibaba-гийн бүтээсэн Qwen 4 загварын цуврал нь вэб даалгаврууд дээр өндөр үр дүнтэй ажиллаж, токены хэмнэлттэй байдгаараа ялгарч байна.",
+ "body_mn": "Alibaba-гийн хөгжүүлж буй Qwen 4 загварын цуврал нь бүтээлч болон техникийн даалгавруудыг гүйцэтгэх чадвараараа олны анхаарлыг татаж байна. Тус цувралд Qwen 4 Max, Flash, Plus болон 27B хувилбарууд багтаж байгаа бөгөөд зарим тусгай код бичих загварууд ч мөн илэрсэн байна.\n\nТуршилтаар Qwen 4 загвар нь нарийн төвөгтэй симуляци хийх, Minecraft загварын тоглоом бүтээх, мөн архитектурын нарийн хийц бүхий Рим анфитеатр зэргийг өндөр нарийвчлалтайгаар гаргажээ. Эдгээр загвар нь 1 сая хүртэлх токены контекст цонхыг дэмжих бөгөөд хэрэглэгчдэд илүү хэмнэлттэй байдлаар үйлчлэх юм.\n\nШинэ загварын албан ёсны танилцуулга болон туршилтын үр дүнгүүд нь нээлттэй эх сурвалжтай хиймэл оюун ухааны салбарт томоохон дэвшил авчирна гэж шинжээчид үзэж байна.",
+ "published": "2026-11-09T14:14:16Z",
+ "added": "2026-11-12T04:00:47Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
