@@ -1,0 +1,19 @@
+{
+ "id": "983352b040d4db0c",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
+ "image": "https://opengraph.githubassets.com/85f2b1107bb6950f8a3ead18ca0274fe284bf439f13a70dfcab92d2ca3572eac/anthropics/claude-code/releases/tag/v2.1.321",
+ "title": "claude-code v2.1.321",
+ "summary_en": "What's changed Added Claude Fable 5.2 ( claude-fable-5-2 ), now the default Fable model — 1M context, $8/$40 per Mtok with $0.20/Mtok cache reads Added --settings <file> to claude remote-control , which applies a settings file to every session it starts; if the file changes, no new session starts until you restart claude remote-control Fixed MCP OAuth requests sending secrets such as refresh tokens to another host when a server redirected them Fixed a case where a read-only Bash command ran outside the sandbox without a permission prompt Fixed a case where Bash permission checks judged a…",
+ "lines": [],
+ "title_mn": "claude-code v2.1.321 хувилбар гарлаа",
+ "summary_mn": "Claude Code хэрэгслийн шинэ v2.1.321 хувилбар гарч, үндсэн Fable загвар шинэчлэгдэн, алсын удирдлагын тохиргоо болон олон төрлийн алдаанууд засагдлаа.",
+ "body_mn": "Claude Code хэрэгслийн шинэчилсэн v2.1.321 хувилбар хэрэглэгчдийн хүртээмж болов. Энэхүү хувилбарт 1 сая токен контекст бүхий claude-fable-5-2 загварыг үндсэн Fable загвараар шинээр нэмжээ.\n\nМөн алсын удирдлагад зориулсан --settings тохиргоо нэмэгдэж, MCP OAuth хүсэлт болон санах ойн менежменттэй холбоотой алдаануудыг зассан байна. Үүнээс гадна Windows болон бусад үйлдлийн систем дээр файлын өөрчлөлт болон контекст тооцоолоход гарч байсан хүндрэлүүдийг амжилттай засварлажээ.",
+ "published": "2026-11-09T19:22:30Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

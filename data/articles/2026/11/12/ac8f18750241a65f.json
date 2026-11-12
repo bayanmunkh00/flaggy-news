@@ -1,0 +1,19 @@
+{
+ "id": "ac8f18750241a65f",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+ "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
+ "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+ "summary_en": "A Blog post by NVIDIA on Hugging Face",
+ "lines": [],
+ "title_mn": "NVIDIA болон Elith компаниуд Япон улсад зориулсан синтетик санхүүгийн өгөгдлийн санг гаргалаа",
+ "summary_mn": "Elith болон NVIDIA компаниуд Японы хүн ам зүй, өрхийн санхүүгийн статистикт суурилсан анхны сая гаруй бичлэг бүхий Nemotron-Personas-Finance-Japan синтетик өгөгдлийн санг танилцууллаа.",
+ "body_mn": "Санхүүгийн салбарт хувийн нууцлалын хатуу зохицуулалт, нийцлийн шаардлагын улмаас бодит хэрэглэгчийн өгөгдлийг ашиглах боломж хязгаарлагдмал байдаг. Энэхүү сорилтыг шийдвэрлэх зорилгоор Elith болон NVIDIA хамтран NeMo SDG-PGMs болон NeMo Data Designer системүүдийг ашиглан Nemotron-Personas-Finance-Japan өгөгдлийн санг бүтээжээ.\n\nЭнэхүү сан нь Японы албан ёсны статистик мэдээлэл, өрхийн санхүү, санхүүгийн мэдлэгийн түвшинг бодитоор харуулсан сая гаруй синтетик персонажуудыг агуулдаг байна. Уг төслийг боловсруулахад Sompo Japan, Tokio Marine Holdings, Mizuho Financial Group зэрэг Японы тэргүүлэх санхүүгийн байгууллагууд хамтран ажиллажээ.\n\nCC BY 4.0 лицензээр нээлттэй гаргасан уг өгөгдлийн сан нь Япон дахь хөгжүүлэгчид болон аж ахуйн нэгжүүдэд хувийн нууцлалыг алдагдуулахгүйгээр санхүүгийн хиймэл оюун ухааны агент болон хэрэглэгчийн симуляцийн систем хөгжүүлэх боломжийг олгож байна.",
+ "published": "2026-11-09T15:05:57Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

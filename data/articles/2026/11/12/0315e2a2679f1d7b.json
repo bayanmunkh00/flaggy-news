@@ -1,0 +1,19 @@
+{
+ "id": "0315e2a2679f1d7b",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.48.0",
+ "image": "https://opengraph.githubassets.com/d97e2fa226aaf210f892ba0450bb101ba03eaeb6879d301feb2c205fa4e3275e/openai/openai-python/releases/tag/v3.48.0",
+ "title": "openai-python v3.48.0",
+ "summary_en": "3.48.0 (2026-11-09) Features api: add stream options for agent sessions ( #4251 ) ( c6fc264 ) api: recognize gpt-6-rosalind in beta Responses ( #4257 ) ( 3774b7e ) Chores api: retain agent scheduling support ( #4255 ) ( a1175a3 ) deps: bump locked multidict from 6.9.1 to 7.1.0 ( #4259 ) ( 28cdb1b ) deps-dev: bump the python-maintenance group with 5 updates ( #4258 ) ( 4b10e22 ) deps-dev: bump types-requests from 2.33.0.20261006 to 2.33.0.20261030 ( #4260 ) ( de498d7 ) Documentation consolidate AGENTS.md guidance ( #4254 ) ( 44b1555 )",
+ "lines": [],
+ "title_mn": "OpenAI Python сангийн v3.48.0 хувилбар шинэ боломжуудтай гарлаа",
+ "summary_mn": "OpenAI-ийн Python хөгжүүлэлтийн сангийн 3.48.0 хувилбарт агентын сессийн стрим сонголтуудыг нэмж, gpt-6-rosalind загварыг дэмждэг боллоо.",
+ "body_mn": "OpenAI Python сангийн шинэчилсэн v3.48.0 хувилбар албан ёсоор гарлаа. Энэхүү хувилбараар хөгжүүлэгчдэд зориулсан олон чухал шинэ боломж болон засварууд оржээ.\n\nТухайлбал, API хэсэгт агентын сессийн урсгалын сонголтууд (stream options for agent sessions) нэмэгдсэн ба beta Responses хэсэгт 'gpt-6-rosalind' загварыг хүлээн зөвшөөрөх болсон байна. Мөн агентын хуваарьт ажиллагааг (agent scheduling) дэмжих дэмжлэгийг хэвээр үлдээжээ.\n\nҮүнээс гадна хөгжүүлэлтийн сангийн зависисуудыг шинэчилж, multidict санг 7.1.0 хувилбар хүртэл өсгөх болон AGENTS.md баримт бичгийн удирдамжийг нэгтгэн сайжруулсан байна.",
+ "published": "2026-11-09T16:12:58Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

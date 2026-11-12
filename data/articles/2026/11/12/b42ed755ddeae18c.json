@@ -1,0 +1,19 @@
+{
+ "id": "b42ed755ddeae18c",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/css-tricks-version-20/",
+ "image": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png",
+ "title": "CSS-Tricks, Version 20",
+ "summary_en": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks. CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "lines": [],
+ "title_mn": "CSS-Tricks веб сайт 20 дахь хувилбартаа шинэчлэгдлээ",
+ "summary_mn": "Алдарт CSS-Tricks веб сайт таван жилийн дараа анх удаа томоохон шинэчлэлт хийж, v20 хувилбараа гаргалаа.",
+ "body_mn": "CSS-Tricks веб сайтын шинэ v20 хувилбар нь суурь бүтцээ цэгцлэх, JavaScript файлын хэмжээг багасгах болон кодын санг шинэчлэхэд чиглэсэн томоохон өөрчлөлтүүдийг агуулж байна. Сайт сүүлийн таван жилийн хугацаанд цоо шинээр хийгдээгүй байсан бөгөөд энэ удаад давталттай сайжруулалт хийх замаар хөгжүүлжээ.\n\nШинэ хувилбараар удаан хугацаанд ашиглагдаагүй хуучирсан JavaScript скриптүүдийг цэвэрлэж, нийт файлын хэмжээг 151.6 KB-аас 133.8 KB болгон багасгасан байна. Мөн олон жилийн өмнө архив горимд шилжсэн байсан CSS-Tricks форумыг албан ёсоор хааж, мэдээллийн сангаас хассанаар өгөгдлийн сангийн хэмжээг 400 MB-аар багасгажээ.\n\nХөгжүүлэл явцад орчин үеийн ажлын урсгалыг сайжруулахад Claude хиймэл оюун ухааны тусламжтайгаар WordPress-ийн аюулгүй байдлын аудит хийж, кодын сан болон аюулгүй байдлын тохиргоогоо илүү бат бөх болгосон байна.",
+ "published": "2026-11-09T15:49:48Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

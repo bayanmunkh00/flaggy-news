@@ -1,0 +1,19 @@
+{
+ "id": "ee5e2ceda03abe1e",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg",
+ "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+ "summary_en": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed. Qubole, a data lake platform owned by Idera,",
+ "lines": [],
+ "title_mn": "Халдагчид Qubole платформын AWS эрхийг ашиглан хэрэглэгчдийн нууц мэдээллийг хулгайлжээ",
+ "summary_mn": "Qubole дата лейк платформын AWS үүлэн тооцооллын эрхийг ашиглан халдагчид хэрэглэгчдийн AWS бүртгэл рүү нэвтэрч, нууц түлхүүр болон өгөгдлийг хулгайлсан байна.",
+ "body_mn": "Аюулгүй байдлын Wiz компанийн мэдээлснээр, 10 дугаар сарын 14-нөөс 26-ны хооронд халдагчид олон тооны Qubole хэрэглэгчдийн AWS бүртгэл рүү нэвтэрч, хадгалагдсан нууц мэдээлэл болон өгөгдлийг хулгайлжээ. Халдагчид Qubole платформын хэрэглэгчдийн AWS орчинд нэвтрэхэд ашигладаг IAM дүрийн эрхийг ашигласан байна.\n\nМөрдөн шалгалтаар халдагчид Lambda функцийн орчны хувьсагчид, Secrets Manager дахь нууцууд болон SSM Parameter Store дэх утгуудыг шалгаж, олж авсан AWS түлхүүр болон итгэмжлэлүүдийг туршиж үзсэн болох нь тогтоогджээ. Мөн S3 сангаас бүхэл бүтэн датаг нэг сессээр хуулж авсан байна.\n\nMiz компанийн судлаачид Qubole ашигладаг байсан эсвэл одоо ашиглаж буй байгууллагуудыг 10 дугаар сарын 1-нээс хойших CloudTrail лог болон AssumeRole хүсэлтүүдийг сайтар шалгаж, нууц үг, түлхүүрүүдээ яаралтай сольж шинэчлэхийг зөвлөж байна.",
+ "published": "2026-11-09T17:51:21Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

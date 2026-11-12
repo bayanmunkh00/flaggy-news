@@ -1,0 +1,19 @@
+{
+ "id": "2ba6cb1be9af9cf5",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg",
+ "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+ "summary_en": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
+ "lines": [],
+ "title_mn": "Ethersphere төслийн bee-js болон Swarm Desktop программ руу халдаж түрийвч хулгайлах хортой код тараажээ",
+ "summary_mn": "Халдагчид Ethersphere төслийн CI систем рүү нэвтэрч, Swarm сүлжээний bee-js сан болон Swarm Desktop програмын албан ёсны шинэ хувилбарт крипто түрийвч хулгайлах хортой код суулгажээ.",
+ "body_mn": "Төвлөрсөн бус Swarm хадгалах сүлжээний Ethersphere төслийн албан ёсны хувилбар гаргах автоматжуулалтыг ашиглан халдагчид bee-js 13.3.0 болон Swarm Desktop 0.56.2 хувилбаруудад хортой код суулгаж цацжээ.\n\nУг хортой хувилбарууд нь хэрэглэгчийн компьютер дээр хадгалагдсан Swarm зангилааны хувийн түлхүүр болон нууц үгийг хулгайлж гадагш дамжуулах бөгөөд Windows, macOS, Linux системүүдэд бэкдор суулгахаар бүтээгдсэн байна. bee-js сангийн хортой хувилбар npm сан дээр ердөө 75 минутын турш байршсан бол Swarm Desktop 0.56.2 хувилбар GitHub дээр гарч ирээд 8.5 цагийн дараа хасагджээ.\n\nТөслийн хөгжүүлэгчид уг асуудлыг илрүүлэн хортой хувилбаруудыг татаж авч, цэвэр хувилбаруудыг гаргасан боловч хэрэглэгчийн түлхүүр алдагдсан эсэх болон бэкдор суусан эсэхийг сайтар шалгахыг аюулгүй байдлын шинжээчид анхааруулж байна.",
+ "published": "2026-11-09T17:36:28Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

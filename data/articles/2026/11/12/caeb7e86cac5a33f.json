@@ -1,0 +1,19 @@
+{
+ "id": "caeb7e86cac5a33f",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "IBM",
+ "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert",
+ "image": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/s-migr/ul/image/ibm-produced/2026-aug/enterprise-it-security-ls-super-v12.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+ "title": "IBM plans to bring Anthropic’s Claude Mythos cyber reasoning into IBM Concert",
+ "summary_en": "IBM plans to bring Anthropic’s Claude Mythos cyber reasoning into IBM Concert IBM",
+ "lines": [],
+ "title_mn": "IBM компани Anthropic-ийн Claude Mythos кибер аюулгүй байдлын загварыг IBM Concert системд нэгтгэнэ",
+ "summary_mn": "IBM компани байгууллагын аюулгүй байдлын эрсдэлийг удирдахад зориулж Anthropic-ийн Claude Mythos кибер зүй тогтлын чадварыг IBM Concert Protect системд нэвтрүүлэхээр төлөвлөжээ.",
+ "body_mn": "IBM болон Anthropic компаниуд хамтын ажиллагаагаа өргөжүүлж, Claude Mythos загварын дэвшилтэт кибер боломжуудыг IBM Concert Protect корпорацийн аюулгүй байдлын удирдлагын системд нэгтгэхээр болжээ. Энэхүү төлөвлөгөө нь байгууллагуудад уламжлалт сканеруудын илрүүлж чаддаггүй далд эмзэг байдлуудыг олж илрүүлэх, бодит эрсдэлийг үнэлэхэд туслах зорилготой юм.\n\nУг интеграци нь код сканнердах үйл явцыг Claude Mythos-ын тусламжтайгаар ухаалгаар гүйцэтгэж, шинээр гарч ирж буй цоо шинэ эрсдэл болон тэг өдрийн (zero-day) эмзэг байдлуудыг илрүүлэх боломжийг олгоно. Уламжлалт сканерууд нь ихэвчлэн танигдсан гарын үсэг болон нийтлэгдсэн CVE мэдээллүүдэд тулгуурладаг бол хиймэл оюун ухааны энэхүү шинэ хандлага нь кодын нарийн төвөгтэй логик алдааг олж тогтооход чиглэнэ.\n\nЭнэхүү шийдэл нь эмзэг байдлыг илрүүлэх, бодит халдлага хийх боломжтой эсэхийг шалгах (Proof of Exploitability), болон хөгжүүлэгчдийн зөвшөөрөлтэйгээр алдааг хурдан засварлах гэсэн үндсэн чиглэлүүдээр ажиллах ажээ.",
+ "published": "2026-11-09T18:13:02Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

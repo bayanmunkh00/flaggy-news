@@ -1,0 +1,19 @@
+{
+ "id": "41548470f7895fa4",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "InvestmentNews",
+ "url": "https://www.investmentnews.com/advisor-tech/anthropic-debuts-claude-for-advisors-to-augment-not-supplant-existing-advisor-tech-stack-at-least-for-now/268934",
+ "image": "https://cdn-res.keymedia.com/cms/images/in/deni_639298034831632224.jpg",
+ "title": "Anthropic debuts Claude For Advisors to augment, not supplant, existing advisor tech stack (at least for now)",
+ "summary_en": "Anthropic debuts Claude For Advisors to augment, not supplant, existing advisor tech stack (at least for now) InvestmentNews",
+ "lines": [],
+ "title_mn": "Anthropic санхүүгийн зөвлөхүүдэд зориулсан Claude For Advisors хэрэгслээ танилцууллаа",
+ "summary_mn": "Anthropic компани санхүүгийн зөвлөхүүдийн одоогийн технологийн системд нэгтгэгдэх Claude For Advisors нэмэлт хэрэгслээ зарлалаа.",
+ "body_mn": "Хиймэл оюун ухааны салбарт OpenAI болон Anthropic компаниуд гол байр суурийг эзэлж байгаа бөгөөд санхүүгийн зөвлөхүүдэд зориулсан олон программ хангамжууд эдгээр компаниудын том хэлний загваруудад суурилдаг.\n\nӨмнө нь гуравдагч талын хэрэгслүүд хэрэглэгчдэд тогтмол сарын хураамжийн загвараар үйлчилдэг байсан бол Anthropic компаниудтай шууд холбогдох Claude for Financial Advisors нэмэлт хэрэгслийг зах зээлд гаргаж байна. Энэхүү хэрэгсэл нь зөвлөхүүдэд олон системийн ажлын урсгалыг автоматаар гүйцэтгэхэд туслах зорилготой аж.\n\nЭнэхүү шийдэл нь хэрэглэгчдийн нууцлалыг хамгаалах үүднээс бизнесийн түвшний token ашиглалтад суурилсан үнийн загварыг ашиглах ба зөвлөхүүдэд зориулсан өгөгдлийн платформ болон ажлын урсгалыг шууд холбож өгөхөөрөө онцлог юм.",
+ "published": "2026-11-09T17:10:12Z",
+ "added": "2026-11-12T10:54:53Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
