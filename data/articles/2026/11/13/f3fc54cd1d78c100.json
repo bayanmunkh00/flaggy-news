@@ -1,0 +1,19 @@
+{
+ "id": "f3fc54cd1d78c100",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/ai-effect-on-freelance-work",
+ "image": "",
+ "title": "Work at the Frontier: AI’s effect on freelance work",
+ "summary_en": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+ "lines": [],
+ "title_mn": "Хиймэл оюун ухаан фрилансерүүдийн ажилд хэрхэн нөлөөлж байна вэ?",
+ "summary_mn": "OpenAI болон Upwork компаниудын хамтарсан шинэ судалгаагаар хиймэл оюун ухаан фриланс ажлын эрэлт хэрэгцээг өөрчилж байгааг харуулжээ.",
+ "body_mn": "OpenAI болон Upwork хамтран хиймэл оюун ухаан фриланс зах зээлд хэрхэн нөлөөлж буй талаарх шинэ судалгааг танилцууллаа. Уг судалгаагаар AI-тай холбоотой төслүүдийн төсөв болон ажиллах цаг өсөж, фрилансерүүд шинэ ур чадваруудыг хослуулан ашиглах хандлагатай болсныг тогтоожээ.\n\nЭнэхүү өөрчлөлт нь зах зээл дэх мэргэжилтнүүдийн эрэлтэд шууд нөлөөлж, хиймэл оюун ухааныг ажлынхаа бүтээмжид ашиглах чадварыг чухал ур чадвар болгож байна. Компаниуд болон ажилчид шинэ боломжуудад дасан зохицох шаардлагатай байгааг уг тайлан онцолжээ.",
+ "published": "2026-11-10T07:00:00Z",
+ "added": "2026-11-13T04:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

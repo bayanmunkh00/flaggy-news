@@ -1,0 +1,19 @@
+{
+ "id": "8e490e1731d13e09",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
+ "image": "https://opengraph.githubassets.com/192d0bc19af43d6049f64ba04ab44e6fd2024153078b2bcc09593cc0ac7df7a9/openai/openai-python/releases/tag/v3.49.0",
+ "title": "openai-python v3.49.0",
+ "summary_en": "3.49.0 (2026-11-10) Features api: add typed async function tools ( #4264 ) ( ea07983 ) Bug Fixes encode microphone recordings as valid PCM WAV ( #3900 ) ( 13c000d )",
+ "lines": [],
+ "title_mn": "openai-python v3.49.0 хувилбар шинэ боломжуудтайгаар гарлаа",
+ "summary_mn": "OpenAI Python сангийн шинэ хувилбарт typed async function tools нэмэгдэж, микрофоны бичлэгийн алдааг заслаа.",
+ "body_mn": "OpenAI Python хөгжүүлэлтийн сангийн v3.49.0 хувилбар албан ёсоор гарлаа. Энэхүү шинэчлэлтээр API тал дээр typed async function tools буюу төрөлжсөн асинхрон функц хэрэгслүүдийг нэмсэн нь хөгжүүлэгчдэд илүү хялбар туршлагыг олгож байна.\n\nМөн микрофоноос хийсэн дуу хоолойн бичлэгийг зөв PCM WAV формат руу хөрвүүлэх явцад гарч байсан алдааг засварлажээ. Хөгжүүлэгчид уг шинэ хувилбарыг ашиглан төслүүдээ шинэчлэх боломжтой юм.",
+ "published": "2026-11-10T06:47:04Z",
+ "added": "2026-11-13T04:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

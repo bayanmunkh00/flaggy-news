@@ -1,0 +1,19 @@
+{
+ "id": "749cd79bf9b6b051",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg",
+ "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+ "summary_en": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component. \"Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker",
+ "lines": [],
+ "title_mn": "Google Chrome хөтөч дэх шинэ zero-day сул талыг засварлалаа",
+ "summary_mn": "Google компани Chrome хөтөчийн XML бүрэлдэхүүн дэх бодит халдлагад ашиглагдаж буй аюултай сул талыг яаралтай засварлалаа.",
+ "body_mn": "Google компани Google Chrome хөтөчид шинээр илэрсэн аюулгүй байдлын сул талыг засварлах шинэчлэлтийг гаргалаа. CVE-2026-125350 дугаартай, CVSS 8.8 оноотой энэхүү өндөр зэрэглэлийн сул тал нь XML бүрэлдэхүүн дэх санах ойн алдаа (use-after-free) юм.\n\nУг эмзэг байдлыг хакеруд тусгайлан бэлтгэсэн HTML хуудсаар дамжуулан хөтөчийн хамгаалалтын орчин буюу sandbox дотор дур мэдэн код гүйцэтгэхэд ашиглаж байсан нь тогтоогджээ. Google уг сул тал бодит халдлагад ашиглагдсан болохыг баталсан бөгөөд энэ нь оны гарсаар хойш засварласан найм дахь zero-day болж байна.\n\nХэрэглэгчид Chrome хөтөчөө Windows, macOS болон Linux үйлдлийн системүүд дээр нэн даруй шинэчлэхийг зөвлөж байна. Мөн CISA уг алдааг KEV жагсаалтад оруулжээ.",
+ "published": "2026-11-10T06:52:54Z",
+ "added": "2026-11-13T04:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

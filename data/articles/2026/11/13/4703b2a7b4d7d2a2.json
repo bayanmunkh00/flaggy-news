@@ -1,0 +1,19 @@
+{
+ "id": "4703b2a7b4d7d2a2",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png",
+ "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+ "summary_en": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability",
+ "lines": [],
+ "title_mn": "CISA OpenSSH болон бусад эмзэг байдлуудыг ашиглаж буйг анхааруулав",
+ "summary_mn": "АНУ-ын CISA байгууллага OpenSSH, GPUStack зэрэг дөрвөн сул тал бодит халдлагад ашиглагдаж эхэлснийг мэдэгдэн KEV каталогт нэмжээ.",
+ "body_mn": "АНУ-ын Кибер аюулгүй байдал, дэд бүтцийн аюулгүй байдлын агентлаг (CISA) GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH болон IBM Aspera Faspex системүүдэд илэрсэн аюулгүй байдлын дөрвөн сул тал идэвхтэй ашиглагдаж байгааг зарлаж, Known Exploited Vulnerabilities (KEV) жагсаалтад орууллаа.\n\nЯлангуяа CVE-2026-123158 дугаартай OpenSSH-ийн эмзэг байдлыг этгээдүүд SSH түлхүүр унших, auth_keys файлыг өөрчлөх болон TAC Agent зэрэг удирдлагын хортой хэрэгслүүдийг суулгахад ашиглаж эхэлжээ. Зарим халдлага үйлдэгчид үүнийг ботнет болон крипто олборлох хортой програмын зорилгоор ашиглаж байгаа аж.\n\nХолбогдох байгууллагуудад эдгээр сул талын эсрэг яаралтай засвар буюу патч суулгахыг хатуу анхааруулсан байна. Энэ нь кибер аюулгүй байдлын багуудад дэд бүтцийнхээ эмзэг цэгүүдийг шалгах чухал дохио болж байна.",
+ "published": "2026-11-10T06:31:42Z",
+ "added": "2026-11-13T04:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

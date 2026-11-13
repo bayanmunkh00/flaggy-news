@@ -1,0 +1,19 @@
+{
+ "id": "b8123507b57f0c87",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty_writeup-5",
+ "image": "",
+ "title": "P3 — Insecure Direct Object Reference (IDOR) in User Profile API",
+ "summary_en": "Severity: Medium (P3) Vulnerability Type: Broken Object-Level Authorization (BOLA / IDOR) CWE: CWE-639 — Authorization Bypass Through… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Хэрэглэгчийн профайл API дахь IDOR буюу баталгаажуулалтын сул тал",
+ "summary_mn": "Medium зэрэглэлтэй IDOR (Insecure Direct Object Reference) буюу обьект түвшний зөвшөөрлийн алдааны талаарх дэлгэрэнгүй судалгаа нийтлэгдлээ.",
+ "body_mn": "Medium (P3) зэрэглэлтэй IDOR буюу обьект түвшний зөвшөөрлийн алдааг (BOLA) илрүүлсэн тухай мэдээлэл цацагдлаа. Энэхүү CWE-639 төрлийн сул тал нь зөвшөөрөл шалгах логикийн алдаанаас үүдэн хэрэглэгчийн мэдээлэлд зөвшөөрөлгүйгээр хандах эрсдэлийг үүсгэдэг байна.\n\nСудалгаанд дурдсанаар, API хүсэлтүүдийн үед обьект ID-г дур мэдэн өөрчлөх замаар бусад хэрэглэгчийн хувийн мэдээллийг татаж авах боломжтойг харуулжээ. Энэ төрлийн сул тал нь орчин үеийн вэб аппликейшнүүдэд түгээмэл тохиолддог бөгөөд разработчид авторизацийн шалгалтыг бүх түвшинд сайтар хийх шаардлагатайг сануулж байна.",
+ "published": "2026-11-10T06:23:08Z",
+ "added": "2026-11-13T04:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

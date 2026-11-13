@@ -1,0 +1,19 @@
+{
+ "id": "971c463321128dd8",
+ "section": "uiux",
+ "subtopic": "motion",
+ "source": "motiondivision/motion",
+ "source_label": "motiondivision/motion",
+ "url": "https://github.com/motiondivision/motion/releases/tag/v14.12.0",
+ "image": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+ "title": "motion v14.12.0",
+ "summary_en": "v14.12.0",
+ "lines": [],
+ "title_mn": "motion v14.12.0 хувилбар шинэчлэгдэн гарлаа",
+ "summary_mn": "Motion анимацийн сангийн v14.12.0 шинэ хувилбар албан ёсоор цацагдлаа.",
+ "body_mn": "Motion (хуучнаар Framer Motion) анимацийн болон хөдөлгөөний сангийн v14.12.0 хувилбар хөгжүүлэгчдийн хүртээл боллоо. Энэхүү шинэчлэлт нь вэб болон апп хөгжүүлэлтэд хөдөлгөөнт эффект оруулах процессыг илүү хялбар бөгөөд оновчтой болгох зорилготой юм.\n\nСангийн шинэ хувилбарыг төслүүддээ холбож, шинэ боломжуудыг ашиглах боломжтой байна.",
+ "published": "2026-11-10T08:42:43Z",
+ "added": "2026-11-13T04:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

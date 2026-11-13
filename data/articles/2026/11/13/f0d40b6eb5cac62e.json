@@ -1,0 +1,19 @@
+{
+ "id": "f0d40b6eb5cac62e",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DkzHcZpJVVEU3e3wmGB2DiyRsnWXkf_2bfT1fiDJG4Wn92cartbhyphenhyphenqZHOjXGasigHqJAyXM0kjOlYipgEkahrCi9KGa1s8gpINVT-oFldgOc1bZMUQ-nmFqsSMNwIe6463fXOxSqX1dNroXgwn9MwsmCx41jvPdtdygITxfKyTRDUWKS19YVTFTZY8sr/s1600/n-able.jpg",
+ "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+ "summary_en": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the",
+ "lines": [],
+ "title_mn": "N-able N-central системээс 33 ширхэг zero-day илэрсний дараа үйлчилгээгээ зогсоолоо",
+ "summary_mn": "Аюулгүй байдлын судлаач Able2Shell нэртэй 30 гаруй zero-day илрүүлсний дараа N-able компани үүлэн орчноо түр хааж, яаралтай засвар гаргалаа.",
+ "body_mn": "Бие даасан судлаач Шон Балес N-able N-central системд хамаарах Able2Shell гэгч 33 ширхэг zero-day сул талыг олон нийтэд зарласны дараа тус компани үүлэн орчны үйлчилгээгээ түр хугацаагаар зогсоолоо. Үүнд учет мэдээлэл задрах, директорийн хандалт алдагдах, remote code execution зэрэг ноцтой алдаанууд багтаж байна.\n\nМэргэжилтнүүд болон аюулгүй байдлын компаниуд уг сул талыг ашиглах оролдлогууд honeypot сүлжээнүүд дээр ажиглагдаж эхэлснийг анхааруулжээ. Хакерын бүлэглэлүүд системд нэвтэрч, админ эрхтэйгээр команд гүйцэтгэх эрсдэлтэй байсан тул хэрэглэгчдийг сервэрээ сүлжээнээс салгахыг зөвлөсөн байна.\n\nN-able компани N-central 2026.4 HF2 засварыг яаралтай гаргасан бөгөөд үйлчилгээг аюулгүй болгохын тулд холбогдох шинэчлэлтүүдийг хийж дуусгахаар ажиллаж байна. Хэрэглэгчдэд лог файлуудаа шалгаж, яаралтай патч суулгахыг уриалжээ.",
+ "published": "2026-11-10T06:44:36Z",
+ "added": "2026-11-13T04:00:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
