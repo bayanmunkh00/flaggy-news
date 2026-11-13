@@ -1,0 +1,19 @@
+{
+ "id": "a4277ed283057faf",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@laftman/intigriti-brp-challenge-write-up-187eded7dfe9?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1917/1*cuxDM9WRUhItGGzNGC16CA.png",
+ "title": "Intigriti BRP Challenge Write-up",
+ "summary_en": "Target: challenge-brp.challenges.intigriti.io Vulnerability class: CWE-79 — Improper Neutralization of Input During Web Page Generation… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-10T11:17:03Z",
+ "added": "2026-11-13T07:11:36Z",
+ "ai": "",
+ "score": null
+}

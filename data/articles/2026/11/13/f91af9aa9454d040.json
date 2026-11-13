@@ -1,0 +1,19 @@
+{
+ "id": "f91af9aa9454d040",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5658vTd_mkm0NXhB4ueRe7z7purQPsvIa5Ik8qqEMo0dN5DU5bTpprIJeXFEj7XKLIOP3ykE4ZlNnixosysJ8YmGXzuRqEA1YoDvaQUFUgdXGfX2gj4f3hgUzop1wizxyv9olPYRDIb6CBW09bFVYAVqvpJk1zRqp3N5QCDBdfXTeoJuGCRkgy227_TgN/s1600/russian-emails.jpg",
+ "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+ "summary_en": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for",
+ "lines": [],
+ "title_mn": "Оросын хакерууд засгийн газрын имэйл хулгайлах Cereal хорлонтой програмыг ашиглаж байна",
+ "summary_mn": "Turla кибер тагнуулын бүлэг Казахстан болон Румыны засгийн газрын Microsoft Exchange серверүүдээс нууц имэйл цуглуулах зорилготой Cereal хэмээх шинэ хорлонтой програмыг ашиглаж байгааг илрүүлжээ.",
+ "body_mn": "Орос улстай холбоотой гэгддэг Turla (aka Snake) кибер тагнуулын бүлэг хохирогчдын Microsoft Exchange серверт нууцаар нэвтэрч, цахим шуудан хулгайлах зориулалттай Cereal хэмээх урьд өмнө бүртгэгдээгүй багаж хэрэгслийг ашиглаж байна. ESET компанийн судалгаагаар энэхүү модуль хэлбэрийн программ нь 2025 оны сүүлчээр Казахстан болон Румыны засгийн газрын хоёр байгууллагын эсрэг ашиглагдсан байна.\n\nCereal хэрэгсэл нь диск дээр бараг ямар нэгэн ул мөр үлдээдэггүй бөгөөд Microsoft Exchange-ийн хууль ёсны процессууд дунд өөрийгөө нууцлах чадвартай аж. Энэхүү хүрээ нь санах ойд команд хүлээн авч гүйцэтгэх, дотоод сүлжээг зураглах, сонирхсон имэйлүүдийг шүүн түүвэрлэх зэрэг найман үндсэн бүрэлдэхүүн хэсгээс бүрддэг байна. Халдагчид DOC, DOCX эсвэл PDF хавсралттай мөн тодорхой хаяг, сэдвээр хайлт хийх замаар хэрэгтэй мэдээллээ цуглуулдаг аж.\n\nРумыны засгийн газрын байгууллага руу чиглэсэн халдлагын үеэр уг хорлонтой программ нь NATO болон Европын холбооны байгууллагуудын хаягтай холбоотой имэйлүүдийг цуглуулахаар тохируулагдсан байжээ. Цуглуулсан мэдээллийг шахаж, шифрлэн нууцаар гадагш дамжуулдаг байна. Кибер аюулгүй байдлын шинжээчид энэхүү нарийн төвөгтэй байдал нь халдагчид Microsoft Exchange-ийн дотоод бүтцийг гүнзгий мэддэг болохыг харуулж байна хэмээн анхааруулжээ.",
+ "published": "2026-11-10T10:07:29Z",
+ "added": "2026-11-13T07:11:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

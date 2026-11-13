@@ -1,0 +1,19 @@
+{
+ "id": "fdab5e09d527af8f",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM6RGvSNUqube0TIXYpzHhs7uSvT0k28f2Q8s-GVOexnCI4T5mzFMUs3Lz4_aS6gNuS71DSTvtfOO-tfVFXvVu82pBmj5gO5_jO5g1ndVQQX8xjBY8A_IDAVNkO7oE1s5FRyEsxXQ_HEM_5_KI4g9VWN8BLgCmQTS1DaFt6lRlfgEJMsxyC5bxQW1qhM/s1600/apple-patch.jpg",
+ "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+ "summary_en": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
+ "lines": [],
+ "title_mn": "Apple компани iMessage болон Bluetooth-ийн ноцтой алдаануудыг заслаа",
+ "summary_mn": "Apple компани хэрэглэгчийн зөвшөөрөлгүйгээр бусдын бүлэг чатад нэвтрэх боломжтой iMessage-ийн нууцлалын алдаа болон Bluetooth-ийн эмзэг байдлуудыг засах шинэчлэлт гаргалаа.",
+ "body_mn": "Apple компани iMessage үйлчилгээний бүлэг чатын нууцлалын алдаа болон Bluetooth холболтын эмзэг байдлуудыг зассан шинэчлэлтээ албан ёсоор гаргалаа. Шинэчлэлтээр алсын зайн халдагч дур мэдэн бүлэг чатад нэгдэж мессеж хүлээн авах, мөн нэгдсэнээсээ өмнөх мессежүүдийг үзэх боломж олгодог байсан хоёр чухал алдааг зассан байна.\n\nҮүнээс гадна Google-ийн Brotli шахалтын сан дахь санах ойн алдаа (CVE-2026-111497)-г мөн засварлажээ. Уг алдааг АНУ-ын Кибер аюулгүй байдлын агентлаг (CISA) өмнө нь идэвхтэй ашиглагдаж буй эмзэг байдлын жагсаалтад оруулж байсан юм. Мөн хэрэглэгчийн оролцоогүйгээр төхөөрөмжтэй Bluetooth-ээр холбогдох болон санах ойн аюулгүй байдлыг зөрчих эрсдэлтэй Bluetooth болон AirPlay-ийн хэд хэдэн алдааг засварласан байна.\n\nОдоогоор эдгээр эмзэг байдлууд бодит халдлагад ашиглагдсан эсэх нь тодорхойгүй байгаа хэдий ч хэрэглэгчдийг төхөөрөмжөө аль болох хурдан шинэчлэхийг мэргэжилтнүүд зөвлөж байна. Зарим хуучин загварын төхөөрөмжүүдэд зориулсан засварууд бүрэн гараагүй байгаа аж.",
+ "published": "2026-11-10T10:16:51Z",
+ "added": "2026-11-13T07:11:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

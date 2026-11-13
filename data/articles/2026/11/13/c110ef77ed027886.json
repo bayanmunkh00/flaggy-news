@@ -1,0 +1,19 @@
+{
+ "id": "c110ef77ed027886",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4snqwJ4uD_sRDyI8zs23mcfFTWfZoSrn9n1hbUrsHbyWy-1VFL8amxqQnLb7LSTPkuSwnsPofUJT6anObg-nU4Q5e01WBb3IixN_PdL-1MJ2nOip4qSTEoVDmePRlOgjSVjvtbH8vFlQgxtGuKuqmuHWLyzIavw2Sj4VtZBlTYhUqeySbQcDMEr4Wns/s1600/sap-flaws.jpg",
+ "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+ "summary_en": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
+ "lines": [],
+ "title_mn": "SAP компани хамгийн өндөр буюу 10.0 үнэлгээтэй 4 ноцтой алдааг засжээ",
+ "summary_mn": "SAP компани сар тутмын аюулгүй байдлын шинэчлэлтээрээ системд шууд нэвтэрч код ажиллуулах боломжтой CVSS 10.0 оноотой дөрвөн ноцтой эмзэг байдлыг заслаа.",
+ "body_mn": "SAP компани арваннэгдүгээр сарын аюулгүй байдлын патч суулгах өдрөөрөө алсын зайнаас ямар нэгэн нэвтрэлтгүйгээр ашиглах боломжтой, хамгийн өндөр буюу 10.0 CVSS оноотой дөрвөн ноцтой эмзэг байдлыг илрүүлэн заслаа. Эдгээр алдааны гурав нь SAP NetWeaver серверт, нэг нь Web Dispatcher бүрэлдэхүүнд тус тус бүртгэгдсэн байна.\n\nСудалгааны Onapsis компани уг эмзэг байдлуудыг илрүүлсэн бөгөөд ICM2SHELL болон PROXYGATE гэж нэрлэжээ. Web Dispatcher болон Internet Communication Manager (ICM) дахь санах ойн алдаанаас үүдэлтэйгээр халдагч сүлжээгээр дамжуулан хортой код ажиллуулж, системийг бүрэн хяналтандаа авах эрсдэлтэй байв. Мөн SAML 2.0 болон SAP Gateway үйлчилгээнд гарсан алдаануудаар дамжуулан халдагч дурын хэрэглэгч эсвэл системийн эрхээр нэвтрэх боломжтой байжээ.\n\nЭдгээр эмзэг байдал нь хэрэглэгчийн ямар нэгэн үйлдэл шаардахгүйгээр ажиллах магадлалтай тул SAP компани болон Onapsis мэргэжилтнүүд холбогдох засваруудыг яаралтай суулгахыг зөвлөж байна. Хуучирсан цөм (kernel) ашиглаж буй системүүд шууд шинэчлэлт хийх шаардлагатай аж.",
+ "published": "2026-11-10T10:02:40Z",
+ "added": "2026-11-13T07:11:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

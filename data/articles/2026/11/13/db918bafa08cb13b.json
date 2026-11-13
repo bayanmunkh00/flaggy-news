@@ -1,0 +1,19 @@
+{
+ "id": "db918bafa08cb13b",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQkt0P-pw4g1CSZvboG35E5WMLU_vea9rR2DLZ4X0lK5NyipbooRyXkRXcRb7X-ddRbVCygF1OkhW6a3j_8sCsBA_GhHAtOF8dISlx4Q2H74fnLJTm5ZOoEBlsbES0hPZutw60wjcAcMZEZcmx4NCLAM-pqVJCfw9yLhoQV2U_QFRX5h1k0zKPzgioICw/s1600/iran-france.jpg",
+ "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+ "summary_en": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires. The unit",
+ "lines": [],
+ "title_mn": "Франц улс хөргөлтийн систем рүү халдсан халдлагад Ираныг буруутгав",
+ "summary_mn": "Францын жижиглэн худалдааны 700 орчим төв болон дэд бүтцийн хөргөлтийн систем рүү халдаж гал гаргасан кибер халдлагыг Ираны тусгай анги үйлдсэнийг тогтоожээ.",
+ "body_mn": "Өнгөрсөн аравдугаар сард Франц улсын хэмжээнд жижиглэн худалдааны 700 орчим цэгийн хөргөлтийн систем рүү чиглэсэн ноцтой кибер халдлагыг Ираны Ламын хувьсгалт гвардын корпусын (IRGC) кибер нэгж үйлдсэнийг Францын засгийн газар зарлалаа. Shahid Kaveh гэж нэрлэгддэг энэхүү бүлэг нь төхөөрөмжүүдийн гэсгээх тохиргоог дур мэдэн өөрчилж, хүнсний бүтээгдэхүүн муудуулах болон хамгийн багадаа 15 гал түймэр гарах шалтгаан болжээ.\n\nХалдлагад өртсөн гол байгууллагуудад Casino, Leclerc, Carrefour, Intermarché зэрэгморин хүнсний томоохон сүлжээ дэлгүүрүүд багтсан байна. Мөн зарим жижиг махны дэлгүүр, нядалгааны газар болон ус цахилгаан үйлдвэрлэх жижиг байгууламжийн Schneider Electric төхөөрөмжүүд хохирсон байна. Халдлагын улмаас учирсан хохирол хэдэн арван сая евро хүрч байгаа бөгөөд үүнийг Францын газар нутагт төрийн ивээл дор үйлдсэн анхны хорлон сүйтгэх кибер ажиллагаа гэж үзэж байна.\n\nФранцын гаဲад хэргийн яам Ираны элчин сайдыг дуудаж, шинэ хориг арга хэмжээ авахуулахаар Европын түншүүддээ хандахаар төлөвлөжээ. Парисын прокурорын газар тус нэгжийн удирдлагуудад холбогдуулан олон улсын баривчлах орлого гаргах хүсэлт гаргаж, мөрдөн шалгах ажиллагааг эхлүүлсэн байна. Кибер аюулгүй байдлын үндэсний агентлаг (ANSSI) болон холбогдох албадууд халдлагад ашиглагдсан дэд бүтэц, IP хаягууд болон персийн хэлний ул мөрөөр дамжуулан уг халдлагыг Ирантай холбоотой болохыг тогтоожээ.",
+ "published": "2026-11-10T09:08:20Z",
+ "added": "2026-11-13T07:11:36Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
