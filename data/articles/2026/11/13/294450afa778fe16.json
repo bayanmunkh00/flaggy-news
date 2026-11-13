@@ -1,0 +1,19 @@
+{
+ "id": "294450afa778fe16",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Schneier on Security",
+ "source_label": "Schneier on Security",
+ "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
+ "image": "",
+ "title": "New OpenSSH Vulnerability",
+ "summary_en": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “Oversized” means longer than 256 bytes. Details . Slashdot thread . And another news article .",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-10T12:02:38Z",
+ "added": "2026-11-13T15:39:32Z",
+ "ai": "",
+ "score": null
+}

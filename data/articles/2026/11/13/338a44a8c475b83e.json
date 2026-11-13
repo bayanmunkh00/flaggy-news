@@ -1,0 +1,19 @@
+{
+ "id": "338a44a8c475b83e",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/css-using-declarations-just-once/",
+ "image": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg",
+ "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+ "summary_en": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy? CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-10T16:42:18Z",
+ "added": "2026-11-13T15:39:32Z",
+ "ai": "",
+ "score": null
+}

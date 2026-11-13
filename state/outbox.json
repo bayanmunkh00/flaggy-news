@@ -834,5 +834,247 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "294450afa778fe16",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "Schneier on Security",
+   "source_label": "Schneier on Security",
+   "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
+   "image": "",
+   "title": "New OpenSSH Vulnerability",
+   "summary_en": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “Oversized” means longer than 256 bytes. Details . Slashdot thread . And another news article .",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T12:02:38Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "af8c1df07c8f17c5",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4UHnKTj_NJCPa7Jqdntj8tEvZ2PgaY7s9kKK8_X2bxehTUcJeZPFfguJzvW_D0H9XD_q-qLZV2Qq6hqRYDQRYMXpyAzw-6T2yDjFjIY7zhGRLPDPjOalASUgX_Z-M2cEsNqiuys_4QjQ8vY_xl0fnWi2Y_9tT9aAH0WQOAB3D6uDf8yZY8VuphL4TRFG/s1600/court-phish.jpg",
+   "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+   "summary_en": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscalía notices, tutela proceedings, and",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T15:58:44Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "db01d072adb842da",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT-Z8hFA8uMe4HXLf_4QRk4Z4VLuUCDRL89LcgpXfsj9YAwLsLHIZL46pn2SLz0BBhCKPUKBhChDRRsKYPSkZPwmsDIhozGQ-4YemxOSol0AiwBEgtGX9OSZ_L3SQZVoebBX1fWGkh8TQ_hNVYHho0eCrBQzLlhnjPhhymXqcWePyuhdQDCMb6KJi6pmIe/s1600/cbs.jpg",
+   "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+   "summary_en": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T16:00:55Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6d8eb3bcd497222d",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+   "title": "Gemini 4 Carbon is now available",
+   "summary_en": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T16:03:47Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4470618885559ebd",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+   "image": "https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd58bf3429433eaaccc66c8362e24453",
+   "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+   "summary_en": "Anthropic targets valuation of up to $1.4tn in stock market flotation The Guardian",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T16:13:00Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "21811e8275c133f5",
+   "section": "software",
+   "subtopic": "react-native",
+   "source": "Expo Changelog",
+   "source_label": "Expo Changelog",
+   "url": "https://expo.dev/changelog/supabase-integration-with-expo",
+   "image": "https://cdn.sanity.io/images/9r24npb8/production/1f83715550d9da277c3ea4e5bfbfea739ba049ec-2400x1350.png?rect=0,45,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+   "title": "One command to connect Supabase with Expo",
+   "summary_en": "Create a Supabase project, install the SDK, and write your keys into every EAS environment with one command from the EAS CLI.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T16:15:37Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "338a44a8c475b83e",
+   "section": "uiux",
+   "subtopic": "css-web",
+   "source": "CSS-Tricks",
+   "source_label": "CSS-Tricks",
+   "url": "https://css-tricks.com/css-using-declarations-just-once/",
+   "image": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg",
+   "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+   "summary_en": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy? CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T16:42:18Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ce169ea5d1f169f1",
+   "section": "ai",
+   "subtopic": "ai-devtools",
+   "source": "GitHub Changelog",
+   "source_label": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+   "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+   "title": "C++ language server now auto-configures MSBuild builds",
+   "summary_en": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a…",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T17:04:10Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2dba3a4eec2603f7",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Engadget",
+   "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
+   "image": "https://www.engadget.com/img/gallery/anthropic-takes-on-google-and-microsoft-with-claude-sheets/l-intro-1794328365.jpg",
+   "title": "Anthropic Takes On Google And Microsoft With Claude Sheets",
+   "summary_en": "Anthropic Takes On Google And Microsoft With Claude Sheets Engadget",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T17:30:00Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a20261f5f60dfe52",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "summary_en": "Anthropic has its own AI-powered office suite now The Verge",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T17:30:00Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1f677829625c05d5",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Reuters",
+   "url": "https://www.reuters.com/technology/anthropic-brings-claude-google-meet-tackle-tasks-live-2026-11-10/",
+   "image": "",
+   "title": "Anthropic brings Claude to Google Meet to tackle tasks live",
+   "summary_en": "Anthropic brings Claude to Google Meet to tackle tasks live Reuters",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-10T17:35:05Z",
+   "added": "2026-11-13T15:39:32Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]

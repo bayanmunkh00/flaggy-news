@@ -1,0 +1,19 @@
+{
+ "id": "ce169ea5d1f169f1",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "C++ language server now auto-configures MSBuild builds",
+ "summary_en": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-10T17:04:10Z",
+ "added": "2026-11-13T15:39:32Z",
+ "ai": "",
+ "score": null
+}

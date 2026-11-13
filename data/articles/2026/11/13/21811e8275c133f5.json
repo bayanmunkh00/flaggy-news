@@ -1,0 +1,19 @@
+{
+ "id": "21811e8275c133f5",
+ "section": "software",
+ "subtopic": "react-native",
+ "source": "Expo Changelog",
+ "source_label": "Expo Changelog",
+ "url": "https://expo.dev/changelog/supabase-integration-with-expo",
+ "image": "https://cdn.sanity.io/images/9r24npb8/production/1f83715550d9da277c3ea4e5bfbfea739ba049ec-2400x1350.png?rect=0,45,2400,1260&w=1200&h=630&fm=webp&q=80&auto=format",
+ "title": "One command to connect Supabase with Expo",
+ "summary_en": "Create a Supabase project, install the SDK, and write your keys into every EAS environment with one command from the EAS CLI.",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-10T16:15:37Z",
+ "added": "2026-11-13T15:39:32Z",
+ "ai": "",
+ "score": null
+}
