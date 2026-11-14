@@ -1,0 +1,19 @@
+{
+ "id": "19b4fcb1faac9c9b",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/qvac/botpsy",
+ "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+ "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+ "summary_en": "A Blog post by QVAC on Hugging Face",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-11T05:01:16Z",
+ "added": "2026-11-14T04:00:44Z",
+ "ai": "",
+ "score": null
+}

@@ -1,0 +1,19 @@
+{
+ "id": "1d0a8fb33b0f9ad4",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@l4zz3rj0d/how-a-login-token-for-a-forum-became-a-login-token-for-openais-internal-code-0b865ed1469a?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/2172/1*tg_Y88rzuKZO-AsisE-whw.png",
+ "title": "How a Login Token for a Forum Became a Login Token for OpenAI’s Internal Code",
+ "summary_en": "Back to AI for this round, and this one’s barely two months old at time of writing, which is rare for this series but worth making an… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-11T07:41:01Z",
+ "added": "2026-11-14T04:00:44Z",
+ "ai": "",
+ "score": null
+}
