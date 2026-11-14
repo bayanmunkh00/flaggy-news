@@ -1,0 +1,19 @@
+{
+ "id": "8b78a7bed0eabe23",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "PortSwigger Research",
+ "source_label": "PortSwigger Research",
+ "url": "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp",
+ "image": "https://portswigger.net/cms/images/33/a6/a35b-twittercard-bypassing-csp-twitter.png",
+ "title": "Blind trust: stealing credentials through CSP",
+ "summary_en": "Content Security Policy is supposed to be the safety net that stops an HTML injection from turning into XSS. Usually it works. But sometimes it doesn't, because the policy allows-lists a domain that h",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-11T14:26:01Z",
+ "added": "2026-11-14T16:00:45Z",
+ "ai": "",
+ "score": null
+}

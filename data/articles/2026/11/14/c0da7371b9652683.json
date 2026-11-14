@@ -1,0 +1,19 @@
+{
+ "id": "c0da7371b9652683",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Krebs on Security",
+ "source_label": "Krebs on Security",
+ "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+ "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/haise-ramp-kela.png",
+ "title": "Who Runs the Ransomware Group Qilin?",
+ "summary_en": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+ "lines": [],
+ "title_mn": "Qilin ransomware бүлэглэгийн удирдагчийг илрүүлжээ",
+ "summary_mn": "Дэлхийн хамгийн идэвхтэй ransomware бүлэглэл болох Qilin-ийг удирддаг 'Haise' хочит этгээдийн жинхэнэ нууц нэр болон цахим ул мөр ил болжээ. Кибер тагнуулын мэдээллээр тэрээр Санкт-Петербургт амьдардаг 36 настай оролцогч болох нь тогтоогджээ.",
+ "body_mn": "Сүүлийн гурван сарын хугацаанд дор хаяж 365 байгууллагыг хохироогоод буй Qilin кибер гэмт хэргийн бүлэглэл нь ransomware-as-a-service буюу үйлчилгээ хэлбэрээр ажилладаг хамгийн томуудын нэг юм. Тэд хохирогчдоос авсан мөнгөнийхөө 80-аас доошгүй хувийг хамтрагчиддаа олгож, мэдээллийг нь түгжихээс өмнө хулгайлдаг хосолмол дарамт шахалт үзүүлэх аргыг ашигладаг.\n\nКибер тагнуулын Intel 471 болон Flashpoint платформ болон судалгаанаас үзэхэд, тус бүлэглэлийг толгойлогч 'Haise' нь өмнө нь 'Rjun', 'Alexbigboss44' зэрэг хаягуудаар орос хэл дээрх форум болон Telegram-д идэвхтэй оролцож байжээ. Тэрээр үндсэн үйл ажиллагаанаасаа гадна facebook log болон Google Ads хаягууд худалдаалах замаар залилангийн сурталчилгааны сүлжээг удирдаж байсан аж.\n\nЭнэхүү мэдээлэл нь чадварлаг кибер гэмт хэрэгтнүүд ч аюулгүй байдлын (opsec) алдаа гаргаж, хуучин хэрэглэгчийн нэрсээ шинэ форумд бүртгүүлэхдээ холбодог болохыг харуулсан тод жишээ боллоо. Холбогдох платформуудын мэдээлэл алдагдсанаар тэдний нууцлал задрахад хүрдэг байна.",
+ "published": "2026-11-11T18:06:01Z",
+ "added": "2026-11-14T16:00:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

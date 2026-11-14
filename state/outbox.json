@@ -878,5 +878,225 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8b78a7bed0eabe23",
+   "section": "hacker",
+   "subtopic": "bug-bounty",
+   "source": "PortSwigger Research",
+   "source_label": "PortSwigger Research",
+   "url": "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp",
+   "image": "https://portswigger.net/cms/images/33/a6/a35b-twittercard-bypassing-csp-twitter.png",
+   "title": "Blind trust: stealing credentials through CSP",
+   "summary_en": "Content Security Policy is supposed to be the safety net that stops an HTML injection from turning into XSS. Usually it works. But sometimes it doesn't, because the policy allows-lists a domain that h",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T14:26:01Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "95bc7c63c87673bf",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg",
+   "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+   "summary_en": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could allow an unauthenticated user to conduct an escalation of privilege via",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T16:12:46Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a8e530c5315e219f",
+   "section": "software",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v22.23.5",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2022.23.5%20(LTS)",
+   "title": "Node.js 22.23.5 (LTS)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T16:44:58Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "94d5bb69a826b2b0",
+   "section": "software",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v24.22.3",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2024.22.3%20(LTS)",
+   "title": "Node.js 24.22.3 (LTS)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T16:45:11Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ab42248d8bdf61c3",
+   "section": "software",
+   "subtopic": "node",
+   "source": "Node.js Blog",
+   "source_label": "Node.js Blog",
+   "url": "https://nodejs.org/en/blog/release/v26.13.1",
+   "image": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2026.13.1%20(LTS)",
+   "title": "Node.js 26.13.1 (LTS)",
+   "summary_en": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T16:45:20Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1d41cb5f3a1de9f8",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "TechRadar",
+   "url": "https://www.techradar.com/pro/security/elon-musks-grok-build-coding-agent-is-leaking-a-serious-amount-of-confidential-data",
+   "image": "https://cdn.mos.cms.futurecdn.net/Wk33FJka7nsf7ZHFJcCRik-2000-80.jpg",
+   "title": "Elon Musk's Grok Build coding agent is leaking a serious amount of confidential data",
+   "summary_en": "Elon Musk's Grok Build coding agent is leaking a serious amount of confidential data TechRadar",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T17:15:00Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e6f61b76d257d57a",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-plays-down-microsoft-365-173348653.html",
+   "image": "https://s.yimg.com/lo/mysterio/api/0d0cd20c9ef6645122e9b4a78eeb955dffd66008d350cf2f620e7bfe3b770862/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fcdf6169c504d5016660249f787b4e6a5.jpg",
+   "title": "Evercore Plays Down Microsoft 365 Disruption Fears After Anthropic’s Claude Sheets Launch – ‘Not Yet A Substitute For Excel’",
+   "summary_en": "Evercore Plays Down Microsoft 365 Disruption Fears After Anthropic’s Claude Sheets Launch – ‘Not Yet A Substitute For Excel’ Yahoo Finance",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T17:33:48Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c06fca3b9549fb95",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "summary_en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-11T18:00:00Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c0da7371b9652683",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "Krebs on Security",
+   "source_label": "Krebs on Security",
+   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/haise-ramp-kela.png",
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "summary_en": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+   "lines": [],
+   "title_mn": "Qilin ransomware бүлэглэгийн удирдагчийг илрүүлжээ",
+   "summary_mn": "Дэлхийн хамгийн идэвхтэй ransomware бүлэглэл болох Qilin-ийг удирддаг 'Haise' хочит этгээдийн жинхэнэ нууц нэр болон цахим ул мөр ил болжээ. Кибер тагнуулын мэдээллээр тэрээр Санкт-Петербургт амьдардаг 36 настай оролцогч болох нь тогтоогджээ.",
+   "body_mn": "Сүүлийн гурван сарын хугацаанд дор хаяж 365 байгууллагыг хохироогоод буй Qilin кибер гэмт хэргийн бүлэглэл нь ransomware-as-a-service буюу үйлчилгээ хэлбэрээр ажилладаг хамгийн томуудын нэг юм. Тэд хохирогчдоос авсан мөнгөнийхөө 80-аас доошгүй хувийг хамтрагчиддаа олгож, мэдээллийг нь түгжихээс өмнө хулгайлдаг хосолмол дарамт шахалт үзүүлэх аргыг ашигладаг.\n\nКибер тагнуулын Intel 471 болон Flashpoint платформ болон судалгаанаас үзэхэд, тус бүлэглэлийг толгойлогч 'Haise' нь өмнө нь 'Rjun', 'Alexbigboss44' зэрэг хаягуудаар орос хэл дээрх форум болон Telegram-д идэвхтэй оролцож байжээ. Тэрээр үндсэн үйл ажиллагаанаасаа гадна facebook log болон Google Ads хаягууд худалдаалах замаар залилангийн сурталчилгааны сүлжээг удирдаж байсан аж.\n\nЭнэхүү мэдээлэл нь чадварлаг кибер гэмт хэрэгтнүүд ч аюулгүй байдлын (opsec) алдаа гаргаж, хуучин хэрэглэгчийн нэрсээ шинэ форумд бүртгүүлэхдээ холбодог болохыг харуулсан тод жишээ боллоо. Холбогдох платформуудын мэдээлэл алдагдсанаар тэдний нууцлал задрахад хүрдэг байна.",
+   "published": "2026-11-11T18:06:01Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "8e80449b900a78ed",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "TeslaNorth.com",
+   "url": "https://teslanorth.com/2026/11/11/grok-bot-1-0-slack-teams-meetings/",
+   "image": "https://cdn.teslanorth.com/wp-content/uploads/2026/09/grok-bot-teams-web.jpg",
+   "title": "Grok Bot 1.0 Brings AI Teammates to Slack, Teams and Meetings",
+   "summary_en": "Grok Bot 1.0 Brings AI Teammates to Slack, Teams and Meetings TeslaNorth.com",
+   "lines": [],
+   "title_mn": "xAI компани Grok Bot 1.0 хувилбарыг албан ёсоор танилцууллаа",
+   "summary_mn": "xAI компани Slack, Microsoft Teams болон хурал уулзалтуудад зориулсан хиймэл оюунт хамтрагч бүхий Grok Bot 1.0 хувилбарыг гаргалаа. Энэхүү шинэ боломж нь багийн гишүүдтэй хамтран ажиллах, шийдвэр хянах үүрэгтэй юм.",
+   "body_mn": "xAI компани өөрийн Grok Bot хиймэл оюун ухааны албан ёсны 1.0 хувилбарыг танилцууллаа. Энэхүү шинэ шийдэл нь байгууллагын багуудад Slack болон Microsoft Teams платформаар дамжуулан AI хамтрагчаа хуваалцах боломжийг олгож байна.\n\nУдирдагч Илон Маск уг шинэчлэлийг дэмжиж, багуудад хамгийн хүнд ажлуудаа даатгах боломжтойг онцолжээ. Шинэ Bot нь бүлгийн яриаг дагаж, өмнөх яриануудаас мэдээлэл цуглуулах, мөн бусад Bot-уудтай төсөл дээр хамтран ажиллах чадвартай аж.\n\nТүүнчлэн уулзалтын үеэр яригдсан шийдвэрүүдийг мөрдөж, хурал дууссаны дараа үр дүнг нь үргэлжлүүлэн хянах боломжтой байна. Гэсэн хэдий ч эдгээр боломжууд нь Team, Enterprise болон Ultra зэрэг тодорхой төлбөртэй багцуудад л боломжтой юм.",
+   "published": "2026-11-11T19:16:20Z",
+   "added": "2026-11-14T16:00:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

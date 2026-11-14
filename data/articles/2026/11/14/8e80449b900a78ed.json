@@ -1,0 +1,19 @@
+{
+ "id": "8e80449b900a78ed",
+ "section": "ai",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "TeslaNorth.com",
+ "url": "https://teslanorth.com/2026/11/11/grok-bot-1-0-slack-teams-meetings/",
+ "image": "https://cdn.teslanorth.com/wp-content/uploads/2026/09/grok-bot-teams-web.jpg",
+ "title": "Grok Bot 1.0 Brings AI Teammates to Slack, Teams and Meetings",
+ "summary_en": "Grok Bot 1.0 Brings AI Teammates to Slack, Teams and Meetings TeslaNorth.com",
+ "lines": [],
+ "title_mn": "xAI компани Grok Bot 1.0 хувилбарыг албан ёсоор танилцууллаа",
+ "summary_mn": "xAI компани Slack, Microsoft Teams болон хурал уулзалтуудад зориулсан хиймэл оюунт хамтрагч бүхий Grok Bot 1.0 хувилбарыг гаргалаа. Энэхүү шинэ боломж нь багийн гишүүдтэй хамтран ажиллах, шийдвэр хянах үүрэгтэй юм.",
+ "body_mn": "xAI компани өөрийн Grok Bot хиймэл оюун ухааны албан ёсны 1.0 хувилбарыг танилцууллаа. Энэхүү шинэ шийдэл нь байгууллагын багуудад Slack болон Microsoft Teams платформаар дамжуулан AI хамтрагчаа хуваалцах боломжийг олгож байна.\n\nУдирдагч Илон Маск уг шинэчлэлийг дэмжиж, багуудад хамгийн хүнд ажлуудаа даатгах боломжтойг онцолжээ. Шинэ Bot нь бүлгийн яриаг дагаж, өмнөх яриануудаас мэдээлэл цуглуулах, мөн бусад Bot-уудтай төсөл дээр хамтран ажиллах чадвартай аж.\n\nТүүнчлэн уулзалтын үеэр яригдсан шийдвэрүүдийг мөрдөж, хурал дууссаны дараа үр дүнг нь үргэлжлүүлэн хянах боломжтой байна. Гэсэн хэдий ч эдгээр боломжууд нь Team, Enterprise болон Ultra зэрэг тодорхой төлбөртэй багцуудад л боломжтой юм.",
+ "published": "2026-11-11T19:16:20Z",
+ "added": "2026-11-14T16:00:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
