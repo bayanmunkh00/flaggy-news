@@ -1,0 +1,19 @@
+{
+ "id": "20a60d1aaaf11b22",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Computerworld",
+ "url": "https://www.computerworld.com/article/4247466/anthropic-targets-workplace-collaboration-with-claude-meetings.html",
+ "image": "https://www.computerworld.com/wp-content/uploads/2026/11/4247466-0-30716400-1794499263-Anthropic-Claude-Meetings.png?w=1024",
+ "title": "Anthropic targets workplace collaboration with Claude Meetings",
+ "summary_en": "Anthropic targets workplace collaboration with Claude Meetings Computerworld",
+ "lines": [],
+ "title_mn": "Anthropic компани Claude Meetings хэрэгслээ танилцууллаа",
+ "summary_mn": "Anthropic компани Google Meet болон Microsoft Teams-д зориулсан Claude Meetings хиймэл оюун ухааны туслахаа танилцууллаа. Энэхүү хэрэгсэл нь хурлын тэмдэглэл хөтөлж, асуултад хариулан, ажлын урсгалыг сайжруулахад туслах юм.",
+ "body_mn": "Anthropic компани мэдлэгийн ажилтнуудын бүтээмжийг нэмэгдүүлэх зорилгоор Claude системдээ хуудас, цагаан самбар болон хурал удирдах шинэ боломжуудыг нэмлээ. Үүний нэг болох Claude Meetings нь хэрэглэгчдэд видео хуралд Claude-г нэмэх боломжийг олгож байна. AI туслах нь хурал дээр тэмдэглэл хөтөлж, чат интерфейсээр дамжуулан асуултад хариулан, холбогдсон аппуудаас мэдээлэл татаж авах болон төслийн төлөвлөгөө гаргадаг.\n\nЭнэхүү хэрэгсэл нь Google Meet болон Microsoft Teams платформууд дээр ажиллах бөгөөд удахгүй Claude Team болон Enterprise багц хэрэглэгчдэд бета хувилбараар нээгдэх аж. Шинэ боломж нь Microsoft Copilot, Zoom My Notes болон Otter зэрэг зах зээлд аль хэдийн байр сууриа эзэлсэн хурлын туслах хэрэгслүүдтэй өрсөлдөх юм.\n\nШинэ функц нь хэрэглэгчийн хүэлтээр ажилладаг боловч цаашид илүү бие даасан байдлаар ажиллах магадлалтай байна. Шинжээчид байгууллагуудад уг функцээс үүдэн гарч болох нууцлал болон хууль эрх зүйн асуудлуудыг анхаарч, хурлын оролцогчдын зөвшөөрлийн журмыг сайтар боловсруулахыг зөвлөж байна.",
+ "published": "2026-11-12T09:18:57Z",
+ "added": "2026-11-15T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

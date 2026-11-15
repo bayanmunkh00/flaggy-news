@@ -1,0 +1,19 @@
+{
+ "id": "c776eb51cbacc6fa",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RJLDSM13MwenwxG4xnZ-Td2_zmnya-Y39FLHlNk-7P3hZ5w1qGjG3XFqT-4gaeZIxSepWWNM53bKTIkZBNA-X_tVKsrgWbw8u81mjLzL6dXvTtvKfKeT-FkwSz4CsdMoHNza2NRFy0PJzzmaMROCr3D7e6AKT5UR3Lh4zFb_1w9HMmXXKKvATVWHU-E/s1600/mongo-poc.gif",
+ "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+ "summary_en": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the database, released fixed versions earlier this week. The affected servers are members of a replica",
+ "lines": [],
+ "title_mn": "MongoDB серверийг унах эрсдэлтэй эмзэгдэл илэржээ",
+ "summary_mn": "MongoDB серверийн хувилбаруудад серверийг гэнэт унах эрсдэлтэй CVE-2026-118383 дугаартай ноцтой эмзэгдэл илэрлээ. Компани уг алдааг засварласан хувилбаруудыг гаргасан бөгөөд хэрэглэгчдэд яаралтай шинэчлэхийг зөвлөж байна.",
+ "body_mn": "MongoDB серверийн реплика сет буюу мэдээллийн хуулбар хадгалдаг хэсгүүдэд баталгаажуулалт шаардахгүйгээр серверийг гацаах боломжтой ноцтой эмзэгдэл илэрсэн тухай Datadog Security Labs судлаачид мэдээллээ. Уг эмзэгдлийг CVE-2026-118383 гэж тэмдэглэсэн бөгөөд CVSS 4.0 үнэлгээгээр 10 балсаас 9.5 оноо авсан байна.\n\nЭнэхүү эмзэгдэл нь серверүүдийн сонгууль явуулж үндсэн серверээ солих үйл явцтай холбоотойгоор санах ойн алдаа үүсгэж, улмаар серверийг унагадаг байна. MongoDB компани уг асуудлыг өөрсдөө илрүүлж, засварласан шинэчлэлтүүдийг гаргасан бөгөөд одоогоор энэхүү эмзэгдлийг ашиглан халдлага үйлдсэн тохиолдол бүртгэгдээгүй байгаа аж.\n\nMongoDB Atlas үйлчилгээг ашигладаг кластерууд автоматаар шинэчлэгдэх боловч өөрийн удирдлагатай сервер ажиллуулж буй хэрэглэгчид бүх реплика сет гишүүдийг яаралтай шинэчлэхийг анхаарууллаа. Хэрэв шинэчлэх боломжгүй тохиолдолд зөвхөн шаардлагатай системүүдэд сүлжээний хандалтыг хязгаарлах арга хэмжээ авахыг судлаачид зөвлөж байна.",
+ "published": "2026-11-12T09:25:00Z",
+ "added": "2026-11-15T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
