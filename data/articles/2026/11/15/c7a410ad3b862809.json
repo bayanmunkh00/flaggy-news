@@ -1,0 +1,19 @@
+{
+ "id": "c7a410ad3b862809",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+ "title": "Introducing Gemini 4 Hydrogen",
+ "summary_en": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+ "lines": [],
+ "title_mn": "Google DeepMind компани Gemini 4 Hydrogen загварыг танилцууллаа",
+ "summary_mn": "Google DeepMind компани өдөр тутмын хурдацтай ажиллагаа болон программ хөгжүүлэлтэд зориулсан Gemini 4 Hydrogen загварыг танилцууллаа. Энэхүү загвар нь хурд, үр ашиг сайтай бөгөөд Google-ийн бүхий л платформ дээр ашиглагдах боломжтой болжээ.",
+ "body_mn": "Google DeepMind компани хурдан бөгөөд үр дүнтэй ажиллах зориулалттай Gemini 4 Hydrogen загварыг албан ёсоор танилцууллаа. Шинэ загвар нь өдөр тутмын кодолбор, агентын ажлын урсгал болон олон төрлийн даалгаврыг богино хугацаанд гүйцэтгэхэд онцгойлон зориулагдсан байна.\n\nGemini 4 Hydrogen нь 1 сая токенийн контекст цонхтой бөгөөд оролт болон гаралт бүрт тогтмол үнээр санал болгогдож байна. Энэхүү загвар нь хөгжүүлэгчдэд зориулсан ажлуудад өмнөх үеийн загваруудаас хамаагүй хурдан ажиллаж, алдаа гаргах магадлалыг эрс бууруулжээ. Мөн олон загварыг хослуулан ашиглах Orchestrator хэрэгсэлтэй хамт хэрэглэгдэх боломжтой юм.\n\nGoogle Antigravity болон Gemini API зэрэг олон төрлийн орчинд нэвтэрч буй Hydrogen нь программ хангамж хөгжүүлэлт, веб дизайн зэрэг олон салбарт хэрэглэгчдийн бүтээмжийг шинэ түвшинд гаргахаар зорьж байна.",
+ "published": "2026-11-12T18:00:50Z",
+ "added": "2026-11-15T15:36:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

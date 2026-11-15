@@ -1,0 +1,19 @@
+{
+ "id": "f19cddd04797ae7d",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.width-1300.png",
+ "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+ "summary_en": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+ "lines": [],
+ "title_mn": "Google Search хайлтанд Gemini 4 Hydrogen загвар нэмэгдлээ",
+ "summary_mn": "Google компани өөрийн хайлтын системд Gemini 4 Hydrogen загварыг дэлхий даяар нэвтрүүлж эхэлжээ. Энэхүү шинэчлэлт нь хэрэглэгчдийн асуултад илүү тодорхой, хүснэгт болон зураг хэлбэрээр дүрсэлсэн хариулт өгөх боломжийг бүрдүүлж байна.",
+ "body_mn": "Google компани өөрийн үндсэн Google Search хайлтын системдээ Gemini 4 Hydrogen загварыг албан ёсоор нэвтрүүлж байгаагаа зарлалаа. Энэхүү томоохон шинэчлэлт нь нарийн төвөгтэй, олон хэсэгтэй асуултуудын цаад утгыг илүү гүнзгий ойлгож, нэгэн зэрэг олон хайлт хийх замаар хэрэглэгчдэд хэрэгтэй мэдээллийг түргэн шуурхай хүргэх зорилготой юм.\n\nHydrogen загвар нь хайлтын хариултыг илүү ойлгомжтой болгох үүднээс хүснэгт, зураг болон холбогдох вэб хуудасны холбоосыг нэгтгэн харуулдаг. Ингэснээр аялал жуулчлал, худалдаа үйлчилгээ болон бусад нарийн шалгуур бүхий асуултуудад байгалийн хэлээр илүү оновчтой хариу авах боломжтой болж байна.\n\nЭнэхүү шинэчлэлт нь Google Search-ийн түүхэн дэх хамгийн том загварын шинэчлэлтүүдийн нэг бөгөөд өнөөдрөөс эхлэн дэлхий даяарх хэрэглэгчдэд хүрч эхлээд байна.",
+ "published": "2026-11-12T18:00:00Z",
+ "added": "2026-11-15T15:36:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

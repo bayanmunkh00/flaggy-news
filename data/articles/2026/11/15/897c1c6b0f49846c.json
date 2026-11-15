@@ -1,0 +1,19 @@
+{
+ "id": "897c1c6b0f49846c",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHFMwpmKB3Mn6eMpEHMAX_8gqnyi4xwTCuYj7NTrCcTMWAsSZtaUsHYUa1kvi3jQf92A5pR_Qz7kzgTarHmo6q6YsXVeVSJEkkx0JkioCXa6GbKJzG9eZz0dkotf9QEpdcRMy94hoYhGfIoEk7pPOFUSgTY5ciU7_wkSOJc7kgXcS1GS3qGC-Ql7kMrks/s1600/thd.jpg",
+ "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+ "summary_en": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while",
+ "lines": [],
+ "title_mn": "Linux серверүүдэд GSocket аргыг ашиглан хандалт үүсгэж буй талаар анхаарууллаа",
+ "summary_mn": "Халдагчид интернэтэд нээлттэй Linux серверүүд дээр GSocket хэрэгслийг ашиглан алсын удирдлагын байнгын хандалт үүсгэж буйг Microsoft анхаарууллаа. Энэ нь систем засварлагдсаны дараа ч халдлага үргэлжлэх эрсдэлтэйг харуулж байна.",
+ "body_mn": "Халдагчид интернэтэд холбогдсон Linux серверүүдэд хандахын тулд GSocket нээлттэй эх сурвалжтай алсын удирдлагын хэрэгслийг өргөнөөр ашиглаж эхэлснийг Microsoft компани мэдээллээ. Энэхүү арга нь халдагчдад веб аппликейшны анхны эмзэг байдлыг ашиглан нэвтэрсний дараа тухайн систем дээр байнгын эрхтэйгээр үлдэх боломжийг олгодог аж.\n\nGSocket нь траффикийг нийтийн сүлжээгээр дамжуулдаг тул тогтмол IP хаяг эсвэл домэйн нэрийг хаах замаар хамгаалалт хийхэд хүндрэлтэй байдаг байна. Телеметрийн мэдээллээс үзэхэд, PHP веб аппликейшн, cPanel болон Apache серверүүдийг голчлон чиглэсэн ийм төрлийн илрүүлэлт өмнөх саруудад эрс өссөн байна.\n\nМэргэжилтнүүд зөвхөн програмын эмзэг байдлыг засварлаад зогсохгүй, серверийн гадагшаа чиглэсэн холболт болон болзошгүй GSocket суулгалтуудад сайтар хяналт тавихыг мэдээллийн аюулгүй байдлын багуудад зөвлөж байна.",
+ "published": "2026-11-12T18:02:51Z",
+ "added": "2026-11-15T15:36:40Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
