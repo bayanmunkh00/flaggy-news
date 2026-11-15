@@ -1,0 +1,19 @@
+{
+ "id": "6975d6fcf89dfd89",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "citybiz",
+ "url": "https://www.citybiz.co/article/932422/anthropic-introduces-claude-meetings-whiteboards-and-sheets-in-push-into-workplace-productivity/",
+ "image": "https://www.citybiz.co/wp-content/uploads/2026/11/Claude-1024x575.png",
+ "title": "Anthropic Introduces Claude Meetings, Whiteboards and Sheets in Push Into Workplace Productivity",
+ "summary_en": "Anthropic Introduces Claude Meetings, Whiteboards and Sheets in Push Into Workplace Productivity citybiz",
+ "lines": [],
+ "title_mn": "Anthropic компани ажлын байрны бүтээмжид зориулсан Claude Meetings, Sheets хэрэгслүүдийг танилцууллаа",
+ "summary_mn": "Anthropic компани бизнес эрхлэгчдэд зориулсан Claude Meetings, Claude Whiteboards болон Claude Sheets шинэ хэрэгслүүдийг албан ёсоор танилцууллаа. Эдгээр хэрэгслүүд нь хурлыг шууд үйл ажиллагаа болгон хувиргаж, хүснэгт болон хамтын ажиллагааг хялбарчилна.",
+ "body_mn": "Anthropic компани хиймэл оюун ухааны платформ Claude-аа өргөжүүлж, ажлын байрны бүтээмжийг нэмэгдүүлэх зорилготой шинэ хэрэгслүүдийг зарлалаа. Claude Meetings нь видео хуралд оролцож, хэлэлцэж буй асуудлаар төслийн төлөвлөгөө гаргах, даалгавар биелүүлэх боломжийг олгодог. Тус хэрэгсэл нь эхний ээлжинд Google Meet-тэй уялдаж, Team болон Enterprise хэрэглэгчдэд бета хэлбэрээр нээлттэй болжээ.\n\nҮүний зэрэгцээ Claude Whiteboards нь багуудад санаагаа харамжтай төлөвлөгөө болгон хөгжүүлэхэд туслах бөгөөд уулзалтын явцад автоматаар шинэчлэгддэг. Харин Claude Sheets нь хэрэглэгчдэд хүссэн бизнесийн загвар, хүснэгтээ хиймэл оюун ухааны тусламжтайгаар хамтран үүсгэх, засах боломжийг олгодог байна.\n\nЭдгээр шинэчлэлтүүд нь OpenAI, Microsoft болон Google компаниудтай зах зээл дээр өрсөлдөх Anthropic-ийн томоохон алхам болж байна. Бизнесийн хэрэглэгчид олон аппликейшн хооронд шилжих шаардлагагүйгээр ажлаа нэг дор төвлөрүүлж гүйцэтгэх боломжтой боллоо.",
+ "published": "2026-11-12T10:46:35Z",
+ "added": "2026-11-15T07:47:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

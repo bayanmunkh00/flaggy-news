@@ -1,0 +1,19 @@
+{
+ "id": "9211d4cd82ed95b4",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Help Net Security",
+ "url": "https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/",
+ "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/12064238/claude-hand-1500.webp",
+ "title": "Stolen Claude API keys can turn Claude Code into a remote-controlled implant",
+ "summary_en": "Stolen Claude API keys can turn Claude Code into a remote-controlled implant Help Net Security",
+ "lines": [],
+ "title_mn": "Алдагдсан Claude API түлхүүрээр Claude Code-ийг алсын удирдлагатай суулгац болгох боломжтойг тогтоожээ",
+ "summary_mn": "Darktrace компанийн судлаачид Claude Code болон Anthropic платформын санах ойн сангуудыг ашиглан код бичих агентийг алсаас удирдах боломжтойг лаборатор туршилтаар баталжээ.",
+ "body_mn": "Darktrace компанийн судлаачид Claude Code хэрэгслийг ашиглан хөгжүүлэгчийн төхөөрөмж дээрх эрхийг алсаас удирдах туршилт амжилттай хийсэн байна. Энэхүү арга нь Anthropic платформын санах ойн сангууд (Memory stores) болон Claude Files API-г ашиглан мэдээлэл татаж авах боломжийг харуулжээ.\n\nТуршилтаар халдлага үйлдэгч хөгжүүлэгчийн машины эрхийг эхлээд олж авч, API түлхүүрийг нь ашиглан Claude Code процессыг ажиллуулах замаар локал сүлжээг шалгах, нууц үг олох болон файлуудыг татаж авах үйл ажиллагааг хийсэн байна. Энэ нь платформын ямар нэгэн сул тал буറിച്ച് харин боломж болон аюулгүй байдлын хоорондын тэнцвэртэй байдал юм.\n\nAnthropic компанид энэхүү судалгааны үр дүнг урьдчилан мэдэгдсэн бөгөөд энэ нь ямар нэгэн засварлах шаардлагатай программ хангамжийн цоорхой биш, харин хөгжүүлэгчид болон байгууллагууд API түлхүүрийн хамгаалалтандаа анхаарах шаардлагатайг сануулсан хэрэг болжээ.",
+ "published": "2026-11-12T11:00:21Z",
+ "added": "2026-11-15T07:47:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

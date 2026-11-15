@@ -1,0 +1,19 @@
+{
+ "id": "e8aac6829dfb0bdd",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR4KdRS0v77uQIdhC0i5aopa8XIAZIRnTzVCVqto7dEdfUH2QyWgrAy1EKu-hARXS4pxNGQQEFroRHOtwSq_9Q8b92tmgw_97JMJoBfC72sl8pOcUYM9nU6YCJht4yD7ALWfERwhUwLsN8wo9t8YnKyIWzHhEAux5ox5WV4wvxe6l1cUmf58P1md2Ekziy/s1600/nable.jpg",
+ "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+ "summary_en": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and exposed to the public internet,\" N-able said in a new advisory. \"Legacy API is",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-12T11:51:43Z",
+ "added": "2026-11-15T07:47:16Z",
+ "ai": "",
+ "score": null
+}

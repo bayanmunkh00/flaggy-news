@@ -1,0 +1,19 @@
+{
+ "id": "4d0036c13c6b695b",
+ "section": "ai",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "FourWeekMBA",
+ "url": "https://fourweekmba.com/ai-xais-52-day-grok-gap-anthropic-shipped-4-claude-models/",
+ "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/11/chart_w2479g-1.png?fit=1600%2C900&ssl=1",
+ "title": "xAI’s 52-Day Grok Gap: Anthropic Shipped 4 Claude Models",
+ "summary_en": "xAI’s 52-Day Grok Gap: Anthropic Shipped 4 Claude Models FourWeekMBA",
+ "lines": [],
+ "title_mn": "xAI болон Anthropic компаниудын загвар гаргах хурдны зөрүү",
+ "summary_mn": "xAI компани Grok 4.7 хувилбараас хойш дараагийн шинэ загвараа гаргах хугацаа нь сунаж байхад, Anthropic энэ хугацаанд дөрвөн шинэ Claude загвар танилцуулжээ.",
+ "body_mn": "xAI компани сүүлийн флагман загвар болох Grok 4.7-г гаргаснаас хойш шинэ загвар танилцуулах хугацаа нь уртассаар байна. Тухайлбал, шинэ загваруудын хоорондох зай 27 хоногоос эхлэн 52 хоног болон түүнээс дээш хугацаагаар сунажээ.\n\nҮүнтэй зэрэгцэн Anthropic компани энэхүү хугацаанд Claude цувралын дөрвөн шинэ загварыг зах зээлд гаргаад амжжээ. Илон Маск xAI компани RL болон inference стакаа C/C++ хэл дээр шинээр дахин бичсэнтэй холбоотойгоор хугацаа алдсанаа тайлбарласан байна.\n\nMөн тэрээр удахгүй гарах Grok 4.8 хувилбар нь Anthropic-ийн Opus 5.5 шиг сайн байж чадахгүй байж магадгүй ч, дараагийн Grok 5 загвар нь уг үзүүлэлтийг давж гарна гэж найдаж байгаагаа илэрхийлжээ.",
+ "published": "2026-11-12T11:46:53Z",
+ "added": "2026-11-15T07:47:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "2d6f349525d67746",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi01pvi78xYUtyxbtWQ4L5ddMr1yT2-WBSbAnp3wKXa-bpagXqtyQdxPqA43I1NxJGNLk4He30PS-GYUcd1sOaErtMAtNWL-qQUGfD0Y7wSxAzeYJXRf2lA5yFuznu8m2zRgf2llXMiR3w1H6YOOte5qs_DvRxcv0aPeOxWeIDybl1n58VlpuZPUJ0icWDL/s1600/ptc-flaw.jpg",
+ "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+ "summary_en": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as a case of improper input validation and deserialization of untrusted data that could result in",
+ "lines": [],
+ "title_mn": "PTC Windchill болон FlexPLM программ дахь ноцтой сул талыг засварлажээ",
+ "summary_mn": "PTC компани Windchill болон FlexPLM программ хангамжид илэрсэн алсаас код ажиллуулах боломжтой critical зэрэглэлийн CVE-2026-126325 сул талд засвар гаргажээ.",
+ "body_mn": "PTC компани өөрийн Windchill болон FlexPLM бүтээгдэхүүнүүдэд илэрсэн аюулгүй байдлын шинэ сул талыг засварласнаа зарлалаа. CVE-2026-126325 гэж тэмдэглэгдсэн уг эмзэг байдал нь CVSS v4 оноогоор 10.0-аас 9.2-ын өндөр үнэлгээ авсан байна.\n\nЭнэхүү сул тал нь оролтын өгөгдлийг зохих ёсоор шалгахгүй байх болон итгэмжлэгдээгүй өгөгдлийг задлах явцад үүсдэг бөгөөд халдагчид тусгайлан бэлтгэсэн хүсэлт явуулах замаар алсаас дур мэдэн код гүйцэтгэх эрсдэлтэй аж.\n\nХэрэв системүүд PTC-ийн үүлэн орчинд байршдаг бол засварыг аль хэдийн хийсэн байна. Харин өөрөө байршуулсан серверүүдийн хувьд хөгжүүлэгчид болон админуудад уг патчийг яаралтай суулгахыг мэргэжилтнүүд зөвлөж байна.",
+ "published": "2026-11-12T11:33:15Z",
+ "added": "2026-11-15T07:47:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

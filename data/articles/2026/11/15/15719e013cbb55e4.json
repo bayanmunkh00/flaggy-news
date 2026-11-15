@@ -1,0 +1,19 @@
+{
+ "id": "15719e013cbb55e4",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "mobidevices.com",
+ "url": "https://mobidevices.com/en/alibaba-qwen-4-max",
+ "image": "https://mobidevices.com/images/2026/11/qwen-4-max.jpeg",
+ "title": "Alibaba launches flagship AI model Qwen 4 Max",
+ "summary_en": "Alibaba launches flagship AI model Qwen 4 Max mobidevices.com",
+ "lines": [],
+ "title_mn": "Alibaba компани шиە үеийн Qwen 4 Max загвараа танилцууллаа",
+ "summary_mn": "Хятадын технологийн аварга Alibaba компани нарийн төвөгтэй даалгавар, програмчлал болон бие даасан агент системд зориулсан Qwen4-Max-Preview загвараа нээлттэй болголоо.",
+ "body_mn": "Alibaba компани өөрийн шинэ үеийн флагман хэлний загвар болох Qwen4-Max-Preview-г хөгжүүлэгчдэд туршихаар гаргалаа. Шинэ загварт эргэцүүлэн бодох горим үндсэн тохиргоогоор идэвхжсэн бөгөөд хөгжүүлэгчид API дамжуулан reasoning_effort параметрийг тохируулах боломжтой юм.\n\nЭнэхүү загвар нь 1 сая токенийн контекст цонхтой бөгөөд томоохон код болон баримт бичгийг нэг дор боловсруулах чадвартай. Мөн текст, зуун, видеог нэгдмэл байдлаар боловсруулах чадвартай бөгөөд OpenAI болон Anthropic-ийн API стандартуудыг дэмждэг байна.\n\nQwen 4 Max загварыг одоогоор вэб болон Qwen Chat аппликейшн, мөн QwenStudio, Qoder хэрэгслүүдээр дамжуулан турших боломжтой. Албан ёсны тест болон жингийн мэдээлэл хараахан нийтлэгдээгүй байгаа бөгөөд үнэ төлбөргүй урьдчилсан хандалт нь арваннэгдүгээр сарын 25 хүртэл үргэлжилнэ.",
+ "published": "2026-11-12T10:58:37Z",
+ "added": "2026-11-15T07:47:16Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
