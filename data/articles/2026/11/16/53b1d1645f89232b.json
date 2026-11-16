@@ -1,0 +1,19 @@
+{
+ "id": "53b1d1645f89232b",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/10/28/Microsoft.jpg",
+ "title": "Microsoft says November security updates cause printing issues",
+ "summary_en": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+ "lines": [],
+ "title_mn": "Арван сарын Windows шинэчлэлт хэвлэлтийн алдаа үүсгэж байна",
+ "summary_mn": "Microsoft компани арван нэгдүгээр сарын аюулгүй байдлын шинэчлэлтүүд нь зарим хэлбэржүүлэлттэй баримт бичгийг хэвлэхэд алдаа гаргаж буйг анхааруулжээ.",
+ "body_mn": "Microsoft саяхан гаргасан арван нэгдүгээр сарын аюулгүй байдлын шинэчлэлтүүд нь Windows Server болон Windows client төхөөрөмж дээр нарийн төвөгтэй хэлбэржүүлэлттэй баримт бичгийг хэвлэх явцад алдаа гаргаж болзошгүйг мэдээллээ.\n\nУг асуудал нь өндөр эсвэл өргөн нь тэг утгатай зураг агуулсан баримт бичгийг хэвлэх оролдлого хийх үед үүсч байна. Ийм төрлийн зургийг ихэвчлэн баримт бичгийн усан тэмдэг, байрлалын зангуу зэрэг зорилгоор ашигладаг ажээ.\n\nЭнэхүү алдаа нь үндсэндээ Microsoft Word баримтыг GDI ашиглан хэвлэх үед илэрч байгаа бөгөөд хэрэглэгчдэд системийг шинэчлэлтийг устгахын оронд PDF рүү хөрвүүлж хэвлэх эсвэл асуудалтай объект устгахыг зөвлөж байна.",
+ "published": "2026-11-13T12:27:40Z",
+ "added": "2026-11-16T07:12:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

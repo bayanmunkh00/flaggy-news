@@ -1,0 +1,19 @@
+{
+ "id": "c992d0c5ab86d728",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676",
+ "title": "Jensen Huang didn’t show confidence in his successor, report says",
+ "summary_en": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+ "lines": [],
+ "title_mn": "Jensen Huang Nvidia-гийн гүйцэтгэх захирлын албан тушаалаас буужээ",
+ "summary_mn": "Nvidia-гийн удаан хугацааны гүйцэтгэх захирал Jensen Huang хувийн амьдралтай холбоотой асуудлаас болж албан тушаалаасаа огцорчээ.",
+ "body_mn": "Nvidia компанийг олон арван жилийн турш удирдсан гүйцэтгэх захирал Jensen Huang хувийн асуудлууд болон холбогдох шалгалтуудын улмаас албан тушаалаасаа огцорсон тухай мэдээллээ. Компанийн зүгээс шинэ байнгын гүйцэтгэх захирлыг хайж байгаа ажээ.\n\nТүүний оронд санхүүгийн захирал Колетт Кресс түр хугацаагаар гүйцэтгэх захирлаар ажиллахаар болсон байна. Тайланд дурдсанаар өмнөх удирдлагын үед дата төв болон томоохон хөрөнгө оруулалтын гэрээ хэлэлцээртэй холбоотой зарим маргаан гарч байжээ.\n\nЭнэхүү удирдлагын өөрчлөлт нь хиймэл оюун ухааны салбарын хамгийн том чип үйлдвэрлэгч компанид томоохон сорилт авчирч болзошгүй байна.",
+ "published": "2026-11-13T12:28:23Z",
+ "added": "2026-11-16T07:12:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

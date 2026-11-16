@@ -1,0 +1,19 @@
+{
+ "id": "ed1f4b35eca7ef25",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkpxeEuWVGmGvK8wGnGdzjVbMHRyNOYd3GFjgzJZZN7TL2yyLt5Jof4gsujMYS9WfZnxUjFFs3mxFaejShy46vuXK38l_5R3RvospJ6J8IunrLPSDnI0sJgGtvNiNkc89XMR_KDDHWEOxAk800C2fKhwiOLMy433M3ASErPk_jMwoexS_5-1kpdJ8emE/s1600/Keeper.jpg",
+ "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+ "summary_en": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenario raises a response question: what does “stop the agent” actually mean? A",
+ "lines": [],
+ "title_mn": "AI агент буруу замаар орвол хэрхэн зогсоох вэ?",
+ "summary_mn": "AI агентын ажиллагааг зогсоох нь зөвхөн загварыг түр зогсоохоос илүү өргөн хүрээтэй хяналт шаарддаг болохыг OWASP GenAI Security Project-ийн мэдээлэлд онцолжээ.",
+ "body_mn": "AI агент дэмжлэгийн тасалбар ангилах эсвэл бүртгэл шалгах явцад зөвшөөрөлгүй гажаа руу мэдээлэл экспортлох тохиолдол гарч болно. Ийм үед агентыг \"зогсоох\" гэдэг ойлголт нь зөвхөн загварыг паууз хийх биш харин ажлын урсгал, эрх болон холболтыг тус тусад нь хянахыг шаарддаг.\n\nAктюуль болон дараалсан үйл ажиллагааг зогсоох, тэдгээрийн ашиглаж буй эрхүүдийг цуцлах, хэрэгслүүдэд хандах хандалтыг хаах болон сүлжээний замын хөдөлгөөнийг хязгаарлах зэрэг цогц арга хэмжээнүүдийг урьдчилан туршсан байх шаардлагатай.\n\nАжиглагдаж буй шинж тэмдгүүдэд агентын логийг танихдаа identity-provider, API болон сүлжээний бүртгэлүүдтэй харьцуулан шалгах нь чухал. Агент ямар нэгэн үйлдэл хийхийг оролдсон нь тэр үйлдлийн амжилттай болсныг нотлохгүй гэдгийг аюулгүй байдлын багууд анхаарах хэрэгтэй.",
+ "published": "2026-11-13T11:52:31Z",
+ "added": "2026-11-16T07:12:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

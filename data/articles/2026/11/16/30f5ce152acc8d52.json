@@ -1,0 +1,19 @@
+{
+ "id": "30f5ce152acc8d52",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Manage AI Scan for repositories using the REST API",
+ "summary_en": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan…",
+ "lines": [],
+ "title_mn": "REST API ашиглан репозиторуудын AI Scan тохиргоог удирдана",
+ "summary_mn": "GitHub кодын сканердах хэрэгслийн AI Scan функцийг organization болон repository түвшинд REST API ашиглан асаах, унтраах боломжтой боллоо.",
+ "body_mn": "Хөгжүүлэгчид одоо GitHub код сканердах хэрэгслийн AI Scan функцийг REST API ашиглан байгууллага болон репозиторын түвшинд удирдах боломжтой болсон байна. Энэхүү публик превью хувилбар нь одоо байгаа AI Scan тохиргоонуудад repository_scan параметр нэмж өгч байгаа юм.\n\nҮүний тусламжтайгаар хөгжүүлэгчид тохиргоог нэг бүрчлэн өөрчлөхийн оронд скрипт болон дэд бүтцийн код ашиглан репозиторуудад AI Scan-ийг нэгэн зэрэг нэвтрүүлэх боломжтой болов. Энэхүү тохиргоо нь өмнөх pull request-ийн pr_scan тохиргоотой ижил зарчмаар ажилладаг.\n\nЭнэхүү шинэ боломж нь байгууллагын эзэмшлийн публик репозиторууд болон GitHub Code Security эсвэл GitHub Advanced Security бүхий приват репозиторуудад дэмжигдэнэ.",
+ "published": "2026-11-13T12:22:41Z",
+ "added": "2026-11-16T07:12:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

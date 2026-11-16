@@ -1,0 +1,19 @@
+{
+ "id": "d25f99854f909af5",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg",
+ "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+ "summary_en": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
+ "lines": [],
+ "title_mn": "Олон улсын цагдаагийн байгууллагууд аюултай хортой програмуудын серверүүдийг устгалаа",
+ "summary_mn": "Operation Endgame ажиллагааны хүрээнд цагдаагийн байгууллагууд Gootloader, CastleRAT, StealC хортой програмуудын серверүүдийг устгаж, 6.4 сая хулгайлагдсан нэвтрэх нэрийг хураан авлаа.",
+ "body_mn": "Олон улсын цагдаагийн хамтарсан ажиллагаа амжилттай болж, дэлхий даяар кибер гэмт хэрэгтнүүдийн өргөнөөр ашигладаг Gootloader, CastleRAT болон StealC хортой програмуудын дэд бүтцийг тасалдуулав. Энэхүү ажиллагааны үеэр 235 сервер, 257 домэйныг хураан авчээ.\n\nГерман болон АНУ-ын хууль сахиулах байгууллагуудын мэдээлснээр дээрх хортой програмууд нь хэрэглэгчдийн нууц үг, мэдээллийг хулгайлж, ransomware буюу барьцаалагч програмын халдлага хийхэд голчлон ашиглагдаж байжээ. Тухайлбал, Gootloader нь хуурамч эрх зүйн баримт бичгээр дамжин олон сая компьютер халдварлуулж байсан байна.\n\nMalkware-ийн тархалтыг зогсоохоос гадна цагдаагийнхан 6.4 сая гаруй хулгайлагдсан нэвтрэх нэр, нууц үгийн мэдээллийг олж авсан байна. Хохирогчид өөрсдийн мэдээллээ шалгах боломжтой үйлчилгээг Европын цагдаагийн байгууллагууд ажиллуулж эхэлжээ.",
+ "published": "2026-11-13T10:55:03Z",
+ "added": "2026-11-16T07:12:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

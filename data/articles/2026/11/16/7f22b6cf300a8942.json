@@ -1,0 +1,19 @@
+{
+ "id": "7f22b6cf300a8942",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg",
+ "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+ "summary_en": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
+ "lines": [],
+ "title_mn": "SilentAir бүлэглэл Азийн харилцаа холбооны сүлжээнд халдаж SMS код хулгайлжээ",
+ "summary_mn": "SilentAir хэмээх төвшний халдлага үйлдэгч бүлэглэл Азийн операторуудын тоног төхөөрөмжид нэвтэрч, яриа болон хоёр шаттай баталгаажуулалтын кодыг нууцаар таслан авч байсныг илрүүллээ.",
+ "body_mn": "Стокгольтод төвтэй Enea кибер аюулгүй байдлын компани Азийн орнуудын хөдөлгөөнт холбооны операторуудын сүлжээнд халдаж, хэрэглэгчдийн яриа болон мессежийг таслан авч байсан шинэ бүлэглэлийг илрүүлжээ. SilentAir гэж нэрлэсэн уг бүлэглэл нь голчлон Тайвань болон бусад Азийн орнуудын хэрэглэгчдийг сонирхсон байна.\n\nУг бүлэглэл нь гар утасны сүлжээний SS7 болон Diameter протоколуудын сул талыг ашиглан, операторуудын хоорондын итгэлцэлд суурилсан IPX сүлжээгээр дамжуулан халдлага үйлджээ. Тэд зорилтот хэрэглэгчийн рутинг мэдээллийг өөрсдийн хяналт дахь төхөөрөмж рүү чиглүүлж, яриа болон чухал үйлчилгээний хоёр шаттай баталгаажуулалтын (2FA) мессеж кодыг шууд шүүж авч байсан нь тогтоогджээ.\n\nСудалгаагаар энэхүү халдлага нь төрийн болон улс төрийн өндөр албан тушаалтнуудад чиглэсэн байж болзошгүй бөгөөд халдлага үйлдэгчид үүрэн холбооны сүлжээний архитектурыг маш сайн мэддэг болох нь харагджээ. Компанийн зүгээс холбогдох операторуудад мэдээлж, аюулгүй байдлын арга хэмжээ авсан байна.",
+ "published": "2026-11-13T11:10:40Z",
+ "added": "2026-11-16T07:12:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

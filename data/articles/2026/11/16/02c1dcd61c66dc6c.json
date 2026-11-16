@@ -1,0 +1,19 @@
+{
+ "id": "02c1dcd61c66dc6c",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Check-Point-headpic.jpg",
+ "title": "Check Point warns of zero-day flaw exploited for root access",
+ "summary_en": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+ "lines": [],
+ "title_mn": "Check Point компани root эрх олгодог аюултай цоорхойг илрүүлж яаралтай засвар гаргалаа",
+ "summary_mn": "Check Point Software компани хакерууд төхөөрөмж рүү нэвтэрч root эрх авахад ашиглаж байсан CVE-2026-123039 дугаартай ноцтой цоорхойг засах яаралтай засвар гаргалаа.",
+ "body_mn": "Check Point Software компани өөрийн бүтээгдэхүүнүүдэд илэрсэн ноцтой цоорхойг арилгах яаралтай шинэчлэлтийг гаргажээ. CVE-2026-123039 гэж тэмдэглэгдсэн уг локал эрх өсгөх эмзэг байдал нь DynamicCLI IPC интерфэйстэй холбоотой бөгөөд хакерууд аравдугаар сарын сүүлээс хойш системд үндсэн буюу root эрхтэйгээр нэвтрэхэд ашиглаж байжээ.\n\nКомпанийн мэдээлснээр цөөн тооны үйлчлүүлэгчид энэ халдлагад өртсөн байна. Хакерууд эхлээд Mobile Access портал руу нэвтэрч, улмаар дээрх цоорхойг ашиглан root эрх авч системд вебшлл, TSGA болон TSProxy хортой програмуудыг суулгасан байна. Цаашлаад VMware ESXi хост руу халдаж систем устгагч хортой програм байрлуулсан байжээ.\n\nCheck Point хэрэглэгчдэд яаралтай шинэчлэлт хийхийг зөвлөж байгаа бөгөөд түр арга хэмжээ болгож dynamic_server процессыг зогсоох боломжтойг сануулжээ.",
+ "published": "2026-11-13T10:44:22Z",
+ "added": "2026-11-16T07:12:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
