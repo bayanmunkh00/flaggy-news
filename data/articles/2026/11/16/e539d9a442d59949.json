@@ -1,0 +1,19 @@
+{
+ "id": "e539d9a442d59949",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Arrest.jpg",
+ "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+ "summary_en": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+ "lines": [],
+ "title_mn": "Хар веб дэх кибер гэмт хэрэгтэй тэмцэх олон улсын ажиллагаагаар 354 сэжигтнийг баривчилжээ",
+ "summary_mn": "TorNado ажиллагаагаар хар вебийн томоохон зах зээлүүдийн худалдагч болон худалдан авагчдыг баривчилж, их хэмжээний хөрөнгө хураалаа.",
+ "body_mn": "Олон улсын хууль сахиулах байгууллагууд хамтран хэрэгжүүлсэн TorNado ажиллагааны хүрээнд хар вебийн Archetyp, Nemesis, Tor2Door зэрэг томоохон зах зээлүүдэд оролцогч 354 хүнийг баривчиллаа. Энэхүү ажиллагаа нь 14 орны хууль сахиулах байгууллагуудын оролцоотойгоор өрнөсөн байна.\n\nМөрдөгчид Европ болон АНУ-д явуулсан нэгдсэн ажиллагааны үеэр олон сая долларын бэлэн мөнгө болон крипто валют, хууль бус хар тамхи, галт зэвсгүүдийг хураан авжээ. Энэ нь онлайн хар вебийн хууль бус наймаанд томоохон цохилт болсон байна.\n\nХууль сахиулах байгууллагууд цахим орчин дахь кибер гэмт хэрэгтнүүд хариуцлагаас мултарч чадахгүй гэдгийг энэхүү ажиллагаагаар дамжуулан хатуу санууллаа. Мөрдөн шалгах ажиллагаа цаашид ч үргэлжлэх болно.",
+ "published": "2026-11-13T08:34:20Z",
+ "added": "2026-11-16T04:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

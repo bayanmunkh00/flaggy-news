@@ -1,0 +1,19 @@
+{
+ "id": "a99dfdd20d85acbb",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/customer-stories/shield",
+ "image": "",
+ "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+ "summary_en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+ "lines": [],
+ "title_mn": "Shield систем OpenAI технологи ашиглан хуучин порталуудын ажлыг хөнгөвчилж байна",
+ "summary_mn": "Shield нь IT техникчдэд хуучин порталууд дээрх ажлыг гардан шилжүүлэхэд туслах зорилгоор OpenAI-ийг ашиглаж эхэлжээ.",
+ "body_mn": "Shield систем нь мэдээллийн технологийн техникчдэд хуучин систем болон порталууд дээрх давтагдсан ажлуудыг OpenAI технологийн тусламжтайгаар автоматжуулах боломжийг олгож байна. Тус компанийн Forge агентууд системүүдээр өөрөө удирдан чиглүүлж ажилладаг аж.\n\nҮүний үр дүнд техникчид рутин шинж чанартай ажлуудад цаг үрэлгүйгээр зөвхөн мэргэжлийн өндөр түвшний шийдвэр шаардсан асуудлуудад анхаарлаа хандуулах боломж бүрдэж байна. Энэ нь байгууллагуудын өдөр тутмын үйл ажиллагааны үр ашгийг нэмэгдүүлэхэд чухал хувь нэмэр оруулж байна.",
+ "published": "2026-11-13T08:00:00Z",
+ "added": "2026-11-16T04:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

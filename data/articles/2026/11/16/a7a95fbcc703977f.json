@@ -1,0 +1,19 @@
+{
+ "id": "a7a95fbcc703977f",
+ "section": "ai",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "Moneycontrol.com",
+ "url": "https://www.moneycontrol.com/technology/sundar-pichai-backs-elon-musk-s-grok-assessment-of-gemini-4-hydrogen-highlights-cost-efficiency-article-14079452.html",
+ "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260615031158_hgi76.jpg",
+ "title": "Sundar Pichai backs Elon Musk’s Grok assessment of Gemini 4 Hydrogen, highlights cost efficiency",
+ "summary_en": "Sundar Pichai backs Elon Musk’s Grok assessment of Gemini 4 Hydrogen, highlights cost efficiency Moneycontrol.com",
+ "lines": [],
+ "title_mn": "Google-ийн гүйцэтгэх захирал Sundar Pichai Grok-ийн үнэлгээг сайшаажээ",
+ "summary_mn": "Sundar Pichai xAI-ийн Grok загварын өгсөн үнэлгээг дэмжиж, хиймэл оюун ухааны үр ашигтай байдлыг онцоллоо.",
+ "body_mn": "Google компанийн гүйцэтгэх захирал Sundar Pichai xAI-ийн Grok загварын Google-ийн Gemini 4 Hydrogen загварын талаарх дүгнэлтэд эерэг хариу үйлдэл үзүүллээ. Энэ нь технологийн аварга компаниудын хоорондох хурдацтай өрсөлдөөнийг харуулж байна.\n\nGrok нь Gemini 4 Hydrogen загварыг хурд болон өртөг хэмнэлтийн хувьд маш сайн тэнцвэртэй болохыг тэмдэглэсэн юм. Pichai үүнтэй холбогдуулан олон нийтийн сүлжээнд талархлаа илэрхийлжээ.\n\nЭнэхүү харилцан яриа нь хиймэл оюун ухааны загваруудыг өргөн хүрээнд нэвтрүүлэхэд зөвхөн ухаалаг байхаас гадна эдийн засгийн үр ашиг, хурд чухал болохыг харуулж байна.",
+ "published": "2026-11-13T08:33:29Z",
+ "added": "2026-11-16T04:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

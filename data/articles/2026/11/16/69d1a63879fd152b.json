@@ -1,0 +1,19 @@
+{
+ "id": "69d1a63879fd152b",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg",
+ "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+ "summary_en": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
+ "lines": [],
+ "title_mn": "Шинэ эмзэг байдлаар Check Point шлюзүүдэд халдаж байна",
+ "summary_mn": "Халдагчид Check Point Security Gateways системийн сул талыг ашиглан хортой програм болон TSGA backdoor суулгажээ.",
+ "body_mn": "Чадварлаг халдагчид Check Point Security Gateways систем дэх PHP2Shell болон шинээр илэрсэн эрх өсгөх CVE-2026-123039 эмзэг байдлыг ашиглан анхны нэвтрэх эрхийг олж авсан байна. Энэхүү халдлага нь Израил болон бусад орнуудын байгууллагуудыг голчлон чиглэжээ.\n\nХалдлага үйлдэгчид системд нэвтэрснийхээ дараа PHP web shell болон TSGA хэмээх сүлжээний хортой бүрэлдэхүүн хэсгүүдийг байршуулсан байна. Зарим тохиолдолд халдагчид VMware ESXi хост руу шилжиж, файлуудыг устгах хортой програм ажиллуулжээ.\n\nCheck Point компани холбогдох аюулгүй байдлын шинэчлэлтүүдийг гаргасан бөгөөд хэрэглэгчдийг системээ яаралтай шинэчлэхийг анхааруулж байна. Энэхүү аюул занал нь байгууллагын сүлжээний аюулгүй байдалд ноцтой эрсдэл учруулж байна.",
+ "published": "2026-11-13T08:05:49Z",
+ "added": "2026-11-16T04:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

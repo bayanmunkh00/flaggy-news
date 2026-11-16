@@ -1,0 +1,19 @@
+{
+ "id": "ad29cd3e8afe8712",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Project Zero",
+ "source_label": "Project Zero",
+ "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+ "image": "https://projectzero.google/images/preview_image.png",
+ "title": "Policy and Disclosure: 2026 Edition",
+ "summary_en": "Since 2021, Project Zero has followed a “90 + 30” vulnerability disclosure policy, allowing vendors up to 90 days to remediate a vulnerability plus an extra 30 days “soak time” for patch rollout. Our goal was to encourage faster patching and give vendors time to deliver patches to users. The advent of AI-assisted vulnerability discovery and exploitation has changed the threat landscape such that the vulnerability remediation timeline encouraged by our disclosure policy is clearly insufficient. LLMs have increased the speed at which attackers can find and exploit vulnerabilities, alongside…",
+ "lines": [],
+ "title_mn": "Project Zero эмзэг байдлыг мэдээлэх шинэ бодлогоо зарлалаа",
+ "summary_mn": "Хиймэл оюун ухааны хөгжилтэй холбоотойгоор Project Zero эмзэг байдлыг олон нийтэд мэдээлэх хугацааг богиносгожээ.",
+ "body_mn": "Google-ийн Project Zero баг хиймэл оюун ухааны тусламжтайгаар эмзэг байдлыг хурдан илрүүлж, ашиглах эрсдэл нэмэгдсэнтэй холбоотойгоор мэдээлэх бодлогоо шинэчиллээ. Өмнө нь хэрэглэж байсан 90 хоногийн хугацаа болон нэмэлт 30 хоногийн хүлээлгийн хугацаа нь орчин үеийн аюул заналхийллийн нөхцөлд хангалтгүй болсон байна.\n\nҮүнтэй холбоотойгоор өнөөдрөөс эхлэн эмзэг байдлын мэдээллийг 90 хоногийн дараа шууд олон нийтэд зарладаг болж байна. Цаашид энэ хугацааг 2027 оны 2 дугаар сард 60 хоног, 2028 оны эхэнд 30 хоног болгон бууруулахаар төлөвлөжээ.\n\nЭнэхүү өөрчлөлт нь үйлдвэрлэгчдийг алдаа дуטאгдалаа илүү хурдан засварлахад түлхэц өгөх зорилготой бөгөөд аюулгүй байдлын салбарт томоохон алхам болж байна.",
+ "published": "2026-11-13T08:00:00Z",
+ "added": "2026-11-16T04:00:55Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

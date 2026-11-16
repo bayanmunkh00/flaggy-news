@@ -1,0 +1,19 @@
+{
+ "id": "ec15e885f792ea61",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/codex",
+ "source_label": "openai/codex",
+ "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+ "image": "https://opengraph.githubassets.com/02a97479389cf18d651dbdc5b23188e7801125d21dac1db75b043b35f474cf98/openai/codex/releases/tag/rust-v0.169.0",
+ "title": "codex 0.169.0",
+ "summary_en": "New Features The opt-in terminal workspace supports multiple side-chat tabs. Switch between them with the keyboard or mouse, and reopen saved local side chats after restarting Codex. ( #59784 , #60152 , #60181 ) Search older tasks from the agent command center by name, prompt preview, or working directory. ( #60286 ) Turn on Collapse turn details in the full-screen transcript to fold completed activity beneath each prompt while keeping answers visible and tool output searchable. ( #60554 , #60555 , #60556 , #60557 ) Add or edit custom model providers from the terminal. With custom gateway…",
+ "lines": [],
+ "title_mn": "OpenAI Codex 0.169.0 гарлаа: Терминал дээр олон чат таб зэрэг ашиглах боломжтой болов",
+ "summary_mn": "Codex 0.169.0 шинэчлэлтээр терминал орчинд олон чат табыг зэрэг удирдах, өмнөх даалгавруудыг хайх боломжтой боллоо. Мөн итгэмжлэгдээгүй хавтас дахь MCP болон төслийн тохиргооны аюулгүй байдлыг сайжруулсан байна.",
+ "body_mn": "OpenAI хөгжүүлэгчдэд зориулсан Codex хэрэгслийнхээ 0.169.0 шинэ хувилбарыг танилцууллаа. Энэхүү хувилбараар терминалын ажлын талбарт олон side-chat таб нээж, гар эсвэл хулганаар хооронд нь шилжих, хадгалсан чатыг дахин эхлүүлсний дараа сэргээн ашиглах боломжтой болсон байна. Мөн агент команд төвөөс өмнө хийгдсэн ажлуудыг нэр, ажлын хавтас, промптоор нь хайх боломж нэмэгджээ.\n\nХэрэглэгчийн интерфэйсийн хувьд бүрэн дэлгэцийн транскриптэд гүйцэтгэсэн үйлдлийн дэлгэрэнгүйг хурааж харуулах тохиргоог нэвтрүүлсэн тул үндсэн хариулт болон хэрэгслийн гаралтыг илүү цэгцтэй хянах нөхцөл бүрдлээ. Үүнээс гадна хөгжүүлэгчид SSH эсвэл вэб хөтөчгүй орчинд ч терминалаас шууд өөрсдийн model provider болон custom gateway тохируулах боломжтой болсон байна.\n\nАюулгүй байдлын хүрээнд codex exec тушаал нь итгэмжлэгдээгүй директорт төслийн тохиргоо болон MCP серверүүдийг автоматаар хаадаг болсон. Мөн Windows sandbox болон PowerShell орчны зарим алдаа, macOS дээр зураг хуулах үеийн зөрчлүүдийг бүрэн засварлажээ.",
+ "published": "2026-11-13T08:39:10Z",
+ "added": "2026-11-16T04:00:55Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
