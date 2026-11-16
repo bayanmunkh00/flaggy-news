@@ -1,0 +1,19 @@
+{
+ "id": "dde13a6350f0c89d",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+ "image": "https://github.blog/wp-content/uploads/2026/11/703838156-68e44341-f202-4a1d-8cec-072b5e8d1027.png",
+ "title": "Gemini 4 Hydrogen in GitHub Copilot",
+ "summary_en": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-13T18:23:48Z",
+ "added": "2026-11-16T17:00:36Z",
+ "ai": "",
+ "score": null
+}
