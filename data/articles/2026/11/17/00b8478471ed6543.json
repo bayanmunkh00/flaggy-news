@@ -1,0 +1,19 @@
+{
+ "id": "00b8478471ed6543",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The New Stack",
+ "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKejNmMEZTMkpxNnRzMnlsSDloc0YyQktVM0IwUFBSeGpadmZ6UERsNnhwQi1FdVNZcFZ4Z1Vtd1RDQjViaUFjM2h6dmc0bjRTWG1XUlA2U2tCRWxNUXhOUll5c1hVanA5bUlqbXZCb3doV3E2?oc=5",
+ "image": "",
+ "title": "Anthropic wants you to build on Claude. There’s a catch.",
+ "summary_en": "Anthropic wants you to build on Claude. There’s a catch. The New Stack",
+ "lines": [],
+ "title_mn": "Anthropic компани хөгжүүлэгчдийг Claude дээр юм бүтээхийг уриалж байна",
+ "summary_mn": "Anthropic компани хөгжүүлэгчдийг Claude дээр суурилж аппликейшн болон үйлчилгээ бүтээхийг уриалж байгаа хэдий ч тодорхой нөхцөл, хязгаарлалтууд оршсоор байна.",
+ "body_mn": "Anthropic компани өөрийн Claude загварын экосистемийг өргөжүүлэх зорилгоор хөгжүүлэгчдийг уг платформыг түшиглэн шийдэл бүтээхийг идэвхтэй уриалах болжээ. Гэсэн хэдий ч хөгжүүлэгчдийн хувьд анхаарах ёстой зарим нэг нууцлагдмал нөхцөл, бодлогын хязгаарлалтууд байгааг мэргэжилтнүүд онцолж байна.\n\nЭнэхүү алхам нь хиймэл оюун ухааны зах зээл дэх өрсөлдөөнийг улам хурцатгаж байгаа бөгөөд хөгжүүлэгчид Anthropic-ийн хэрэгслүүдийг ашиглахад ямар давуу болон сул талуудтай тулгарч болохыг харуулж байна.",
+ "published": "2026-11-14T15:18:05Z",
+ "added": "2026-11-17T04:00:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

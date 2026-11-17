@@ -1,0 +1,19 @@
+{
+ "id": "04bc288951abfbc1",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The Decoder",
+ "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM5cnNsaGNIMzZfVDNWZ19qWUg3c0UtNVZLdUdMbzc4ZS1uTGJ0VnN2dFItbVV5Q0VCMno4RGxNV05nQWd3ZDhlaVFIT3JZS0JMVFpMaUR0VlR5TGFROXpZMGwxUXBYdE9YUmtpZlZ5RVVSX0VYN1EzR2RTWW1UX0FGWHFxZVB0OUNvcEpPdDdvRUJMazNjdVRkM1RIdzA?oc=5",
+ "image": "",
+ "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+ "summary_en": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 The Decoder",
+ "lines": [],
+ "title_mn": "Хуучирсан сануулгын арга барил Claude Opus 5.5 загварын хурдыг удаашруулж байна",
+ "summary_mn": "Anthropic компанийн мэдэгдсэнээр хэрэглэгчдийн хэрэглэж заншсан хуучирсан сануулга буюу prompt бичих арга барил нь Claude Opus 5.5 загварын ажиллах хурдыг удаашруулж байна.",
+ "body_mn": "Anthropic компани шинээр гаргасан Claude Opus 5.5 загварынхаа гүйцэтгэл болон хурдад нөлөөлж буй хүчин зүйлсийн талаар тайлбар хийжээ. Тэдний үзэж байгаагаар хэрэглэгчдийн өмнөх загваруудад ашиглаж байсан хуучирсан сануулга бичих буюу prompt-ийн арга барил нь шинэ загварын чадамжийг бүрэн дүүрэн гаргахад саад болж байна.\n\nТиймээс хөгжүүлэгчид болон хэрэглэгчдийг орчин үеийн загварын онцлогт тохируулан сануулга бичих арга барилаа шинэчлэхийг зөвлөж байна. Энэ нь хиймэл оюун ухаанаас илүү оновчтой бөгөөд хурдан хариу авахад чухал ач холбогдолтой юм.",
+ "published": "2026-11-14T16:50:52Z",
+ "added": "2026-11-17T04:00:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

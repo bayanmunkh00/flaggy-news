@@ -1,0 +1,19 @@
+{
+ "id": "61dbb72450eb9fba",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "BleepingComputer",
+ "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
+ "image": "",
+ "title": "Cursor confirms security breach led to malicious Claude Code extension",
+ "summary_en": "Cursor confirms security breach led to malicious Claude Code extension BleepingComputer",
+ "lines": [],
+ "title_mn": "Cursor компани аюулгүй байдлын зөрчил гарч, хортой Claude Code өргөтгөл тархсаныг хүлээн зөвшөөрөв",
+ "summary_mn": "Cursor код бичих орчин аюулгүй байдлын зөрчилтэй тулгарснаа баталж, үүний улмаас хортой Claude Code өргөтгөл тархсан болохыг мэдэгдлээ.",
+ "body_mn": "Cursor код бичих туслах хэрэгслийг хөгжүүлэгчид системд нь аюулгүй байдлын зөрчил гарсан тухай албан ёсны мэдээлэл хийжээ. Уг зөрчлийн улмаас хэрэглэгчдийн дунд хортой агуулга бүхий Claude Code өргөтгөл тархсан байна.\n\nКомпанийн зүгээс асуудлыг судлан шалгаж байгаа бөгөөд хэрэглэгчдэд ямар нэгэн сэжигтэй өргөтгөл суулгахаас зайлсхийхийг анхааруулжээ. Энэхүү явдал нь хиймэл оюун ухаанд суурилсан хөгжүүлэлтийн хэрэгслүүдийн аюулгүй байдал ямар чухал болохыг дахин харуулж байна.",
+ "published": "2026-11-14T17:27:25Z",
+ "added": "2026-11-17T04:00:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
