@@ -1,0 +1,19 @@
+{
+ "id": "0483663327ea2d9c",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+ "title": "Where was Nvidia’s security team?",
+ "summary_en": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+ "lines": [],
+ "title_mn": "Nvidia-гийн аюулгүй байдлын баг энэ бүхнийг мэддэг байсан уу?",
+ "summary_mn": "Nvidia-гийн гүйцэтгэх захирал асан Женсен Хуанийн огцролт болон Хятадын тагнуулын сэжигтэй холбоотой дуулианы дараа тус компанийн аюулгүй байдлын баг ямар үүрэг гүйцэтгэж байсан бэ гэдэг асуулт гарч ирж байна.",
+ "body_mn": "Nvidia-гийн бүтээгдэхүүний аюулгүй байдлыг хариуцдаг ахлах ажилтан Дэвид Ребер наймдугаар сард эрүүл мэндийн шалтгаанаар ажлаа өгснөөс хойш ердөө хоёр хагасын дараа гүйцэтгэх захирал Женсен Хуан албан тушаалаасаа буусан юм. Энэ нь Хятад руу Nvidia-гийн чип зуучлах сэжигтэй Сингапурын дата төвийн компанитай холбоотой асуудал болон Хуанийн хувийн харилцааны дуулиантай давхцаж байна.\n\nМэргэжилтнүүдийн үзэж байгаагаар өндөр түвшний удирдлагуудын хувийн харилцаа нь гадаад тагнуулын байгууллагуудад шахалт үзүүлэх хэрэгсэл болох эрсдэлтэй байдаг. Гэсэн хэдий ч компаниудын аюулгүй байдлын багууд ихэвчлэн зөвхөн нийцэл (compliance) хангах төдийгөөр хязгаарлагдаж, төсөв хязгаарлагдмал байдаг тул ийм төрлийн эрсдэлийг илрүүлэхэд хүндрэлтэй байдаг аж.\n\nNvidia-гийн хуульчдын баг засгийн газрын шалгалттай холбоотойгоор холбогдох албаныхантай харилцаж байсан нь тогтоогдсон ч аюулгүй байдлын баг энэ талаар ямар нэг мэдээлэлтэй байсан эсэх нь одоогоор тодорхойгүй байна. Компани болон холбогдох ажилтнууд энэ талаар ямар нэгэн тайлбар өгөөгүй байна.",
+ "published": "2026-11-15T00:08:07Z",
+ "added": "2026-11-17T09:05:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

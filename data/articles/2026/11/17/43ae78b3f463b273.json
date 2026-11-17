@@ -1,0 +1,19 @@
+{
+ "id": "43ae78b3f463b273",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTBKTWc2Y1k4cXU1MGwwTUk3NnBndW9FQ2xTS0lkR21nVnpRRlRSNVZWZE95dUFKTzBBdkx4VVZyOWU2TDB3ejNZYVpzX3NQQno3OVJxNnpFWG8tUjdiNGpVZ1ZNRVVUVkhXTVRzU3FoZVZkcGMxZzQ5QlpLM3BFc2ZwMjI4YWlmNGluY01Hc3RIZEx2RzlVLW5ydzhiR1gy?oc=5",
+ "image": "",
+ "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
+ "summary_en": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia Yahoo Finance",
+ "lines": [],
+ "title_mn": "Anthropic-ийн шийдвэр AMD-ийн хөрөнгө оруулагчдад таатай, харин Nvidia-д таагүй мэдээ боллоо",
+ "summary_mn": "Anthropic компанийн хийсэн шинэ технологийн алхам нь AMD-ийн хувьцаа эзэмшигчдэд эерэг мэдээ авчирсан бол Nvidia-гийн хувьд өрсөлдөөний томоохон сорилт болж байна.",
+ "body_mn": "Yahoo Finance мэдээлснээр, Anthropic компанийн саяхны технологийн шийдвэр болон оффисын хэрэгслүүдийн зах зээлд гаргасан алхмууд нь хагас дамжуулагчийн зах зээл дэх хүчний харьцаанд нөлөөлж эхэлжээ. Тодруулбал, энэхүү мэдээ нь AMD компанийн хөрөнгө оруулагчдад маш эерэг дохио өгсөн байна.\n\nНөгөө талаас зах зээлд давамгайлагч байр суурьтай байсан Nvidia-гийн хувьд өрсөлдөгч компаниудын олон төрлийн техник хангамжийн шийдлийг амжилттай ашиглаж эхэлж байгаа нь томоохон сорилт болж байна. Энэ нь хиймэл оюун ухааны дэд бүтцийн зах зээл дэх Nvidia-гийн давуу талыг сулруулах магадлалтай юм.",
+ "published": "2026-11-15T10:40:02Z",
+ "added": "2026-11-17T09:05:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

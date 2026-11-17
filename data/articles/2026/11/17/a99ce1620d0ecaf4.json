@@ -1,0 +1,19 @@
+{
+ "id": "a99ce1620d0ecaf4",
+ "section": "software",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.3.3",
+ "image": "https://opengraph.githubassets.com/91809cd3763c700cb49331c854fb677d642fd3560a3024a1018a31ed197327fd/electron/electron/releases/tag/v45.3.3",
+ "title": "electron v45.3.3",
+ "summary_en": "Release Notes for v45.3.3 Fixes Fixed a race where a DevTools extension's devtools_page could run before chrome.devtools was available. #55794 (Also in 44 , 46 ) Other Changes Updated Node.js to v24.22.3. #55753",
+ "lines": [],
+ "title_mn": "Electron v45.3.3 хувилбар гарлаа",
+ "summary_mn": "Electron фреймворкийн v45.3.3 шинэчлэлт худалдаанд гарлаа. Энэхүү хувилбараар DevTools өргөтгөлийн алдааг засаж, Node.js-ийг v24.22.3 болгон шинэчилжээ.",
+ "body_mn": "Electron баг v45.3.3 засварын хувилбараа албан ёсоор гаргалаа. Шинэ хувилбарт DevTools өргөтгөлийн chrome.devtools ажиллахаас өмнө ачаалагддаг байсан race condition алдааг амжилттай зассан байна.\n\nҮүнээс гадна уг шинэчлэлтээр Node.js орчныг v24.22.3 хувилбар болгон шинэчилжээ. Энэхүү өөрчлөлт нь 44 болон 46 хувилбаруудад мөн нэгтгэгдсэн бөгөөд хөгжүүлэгчдэд илүү тогтвортой орчинг бүрдүүлж байна.",
+ "published": "2026-11-14T20:52:24Z",
+ "added": "2026-11-17T09:05:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

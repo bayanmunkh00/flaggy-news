@@ -1,0 +1,19 @@
+{
+ "id": "c4621ead897c12d0",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "The New York Times",
+ "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
+ "image": "",
+ "title": "Wall Street Braces for Anthropic’s Aggressive Spending",
+ "summary_en": "Wall Street Braces for Anthropic’s Aggressive Spending The New York Times",
+ "lines": [],
+ "title_mn": "Уолл Стритийнхэн Anthropic компанийн өндөр зарцуулалтад санаа зовж байна",
+ "summary_mn": "Anthropic компанийн санхүүгийн өсөлт болон зарцуулалтын бодлого нь хөрөнгө оруулагчид болон Уолл Стритийн шинжээчдийн анхаарлыг татаж эхэлжээ.",
+ "body_mn": "Технологийн зах зээлд өндөр хурдаар тэлж буй хиймэл оюун ухааны Anthropic компани их хэмжээний санхүүжилт татаж, бүтээгдэхүүн хөгжүүлэлт болон дэд бүтцэд асар их хөрөнгө оруулалт хийж байгаа нь Уолл Стритийн анхаарлыг татаж байна.\n\nШинжээчдийн үзэж байгаагаар энэхүү түрэмгий зарцуулалтын бодлого нь зах зээлд тэргүүлэгч байр сууриа хадгалахад туслах хэдий ч санхүүгийн тогтвортой байдалд тодорхой эрсдэл авчирч болзошгүй аж. Компанийн гаргаж буй шинэ шийдлүүд болон Claude загваруудын өсөлт нь хөрөнгө оруулагчдын дунд холимог хүлээлт үүсгээд байна.",
+ "published": "2026-11-15T08:00:00Z",
+ "added": "2026-11-17T09:05:50Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
