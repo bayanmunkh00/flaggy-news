@@ -1,0 +1,19 @@
+{
+ "id": "8dbc1c69e8740970",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/70OQRkf2udoqKajYXkpRsa/623d391faec14896f98a32cf4b52060e/budgets_og_final.png",
+ "title": "Set budgets for projects and products in Spend Management",
+ "summary_en": "Spend Management now supports budgets for individual projects and products, alongside existing team budgets. Project budgets: Track spend for one project and optionally pause its production deployments when the budget is reached, without pausing other projects. Product budgets: Track spend on one product, such as Fast Data Transfer, across your team. Only team and project budgets support automatic pausing of production deployments. Open the new Spend Management page to manage budgets, view spend for the current billing cycle, and see which thresholds have been reached. Vercel sends…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-16T00:00:00Z",
+ "added": "2026-11-17T16:00:54Z",
+ "ai": "",
+ "score": null
+}

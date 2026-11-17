@@ -1,0 +1,19 @@
+{
+ "id": "dc1ef78483e2e42f",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2aBIEKewKIpdYSPv9E76Wn/5a0957249bafced81d33df0534df0187/Vercel_x_Qwen.png",
+ "title": "Qwen4-Max now available on AI Gateway",
+ "summary_en": "Alibaba’s Qwen4-Max is now available on AI Gateway . It’s a reasoning model for coding and long-running agent tasks, with image input, a 1M-token context window, tool calling, and structured outputs. With access to the appropriate tools, agents using Qwen4-Max can: Build 3D scenes and games: Work with Blender, Unity, Unreal Engine, and Godot, running what the agent builds and using visual feedback to fix issues. Analyze documents and create reports: Work across documents and images to produce spreadsheets, presentations, and reports with source citations. Alibaba reports 35% fewer tokens…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-15T20:00:00Z",
+ "added": "2026-11-17T16:00:54Z",
+ "ai": "",
+ "score": null
+}

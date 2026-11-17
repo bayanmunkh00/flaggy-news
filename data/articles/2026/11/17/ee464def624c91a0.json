@@ -1,0 +1,19 @@
+{
+ "id": "ee464def624c91a0",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3PVusyg4GJTngxeJbW91dE/670e505710206670276c64b772a40692/image__21_.png",
+ "title": "Seedance 2.5 Flash now available on AI Gateway",
+ "summary_en": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway . Seedance 2.5 Flash is a faster, lower-cost version of Seedance 2.5 . The output is close to the standard model in human realism, reference-based editing, and prompt adherence. Generate videos with synchronized audio from text prompts or image, video, and audio references. Clips can be 4 to 30 seconds long at up to 720p and 24 frames per second, in landscape, square, or portrait formats. You can also edit or extend existing videos, or provide images to set the first and last frames. Use bytedance/seedance-2.5-flash with AI SDK 7…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-16T00:00:00Z",
+ "added": "2026-11-17T16:00:54Z",
+ "ai": "",
+ "score": null
+}
