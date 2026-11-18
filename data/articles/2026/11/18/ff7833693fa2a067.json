@@ -1,0 +1,19 @@
+{
+ "id": "ff7833693fa2a067",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/lvmh-media-division-partnership",
+ "image": "",
+ "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+ "summary_en": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+ "lines": [],
+ "title_mn": "LVMH-ийн Медиа Дивиз OpenAI-тай стратеги хамтын ажиллагаа зарлав",
+ "summary_mn": "LVMH-ийн Медиа Дивиз болон OpenAI компаниуд сэтгүүл зүйг дэмжих, хэвлэл мэдээллийн хэрэгслүүдийг ChatGPT-ээр дамжуулан илүү хүртээмжтэй болгох зорилгоор хамтран ажиллахаар болжээ.",
+ "body_mn": "LVMH группын Медиа Дивиз болон OpenAI компаниуд стратеги хамтын ажиллагаа зарлалаа. Энэхүү түншлэл нь хиймэл оюун ухааны технологийн тусламжтайгаар сэтгүүл зүйн салбарыг дэмжих, мөн тус компанид харьяалагдах хэвлэл мэдээллийн контентуудыг ChatGPT платформоор дамжуулан уншигчдад илүү хүртээмжтэй болгох зорилготой юм.\n\nХамтын ажиллагааны хүрээнд медиа салбарын хөгжилд хиймэл оюун ухааныг ямар аргаар үр дүнтэй ашиглаж болохыг судалж, шинэ шийдлүүдийг нэвтрүүлэхээр төлөвлөж байна.\n\nЭнэхүү алхам нь контент бүтээгчид болон технологийн компаниудын хамтын ажиллагааг шинэ түвшинд гаргахад чухал нөлөө үзүүлнэ хэмээн талууд үзэж байна.",
+ "published": "2026-11-16T09:00:00Z",
+ "added": "2026-11-18T09:03:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

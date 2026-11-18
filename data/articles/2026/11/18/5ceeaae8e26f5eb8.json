@@ -1,0 +1,19 @@
+{
+ "id": "5ceeaae8e26f5eb8",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg",
+ "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+ "summary_en": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives commands over the TOR anonymity network to manage CPU and GPU miners. The activity was observed in",
+ "lines": [],
+ "title_mn": "SANSAR нэртэй Linux хорлонтой програм GPU ачааллыг нуухын тулд NVIDIA санг өөрчилжээ",
+ "summary_mn": "REF3364 бүлэглэлтэй холбоотой SANSAR нэртэй Linux крипто майнинг хорлонтой програм нь GPU болон процессор ашиглалтаа нуухын тулд NVIDIA-ийн удирдлагын санг өөрчилж, цөмийн руткит ашиглаж байна.",
+ "body_mn": "Elastic Security Labs байгууллагын тайланд дурдсанаар, REF3364 гэж тэмдэглэгдсэн санхүүгийн зорилготой хорлонтой этгээдүүд Linux үйлдлийн системд чиглэсэн крипто майнинг хийхдээ GPU-ийн ачааллын үзүүлэлтийг нуух тусгай хэрэгсэл ашиглаж байна.\n\nSANSAR гэж нэрлэгдсэн уг хорлонтой хэрэгсэл нь TOR сүлжээгээр дамжуулан команд хүлээн авч, CPU болон GPU майнеруудыг удирддаг байна. Халдагчид анх Ray job агент дахь сул талыг ашиглан системд нэвтэрч, Python reverse shell болон SSH түлхүүр суулгах замаар хандалт үүсгэсэн байна.\n\nУг хорлонтой програм нь NVIDIA Management Library (NVML)-ийн тусгай хувилбарыг ашиглан nvidia-smi хэрэгслийн мэдээллийг хуурамчаар үйлдэж, GPU ачааллыг 0% гэж харуулах замаар илрэхээс зайлсхийдэг аж. Мөн acpi_thermal_mgr.ko цөмийн руткит ашиглан процесс болон файлуудыг систем дээр нууцалдаг байна.",
+ "published": "2026-11-16T09:32:57Z",
+ "added": "2026-11-18T09:03:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

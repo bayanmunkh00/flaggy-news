@@ -1,0 +1,19 @@
+{
+ "id": "9fe6d2ae73e55f52",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+ "image": "",
+ "title": "Our first phase of embedded assessments",
+ "summary_en": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+ "lines": [],
+ "title_mn": "OpenAI загварын аюулгүй байдлыг шалгах судалгааг эхлүүлжээ",
+ "summary_mn": "OpenAI компани загваруудынхаа дүрмүүд болон хяналтын системийг бие даан шалгуулахаар Apollo Research, METR, Transluce, Goodfire зэрэг байгууллагуудтай хамтран ажиллаж эхэллээ.",
+ "body_mn": "OpenAI компани хиймэл оюун ухааны загваруудынхаа хөгжүүлэлт, аюулгүй байдал, хяналтын системийг бие даан үнэлүүлэх зорилготой анхны хамтарсан шалгалтын шатыг эхлүүлж байгаагаа зарлалаа.\n\nЭнэхүү санаачилгын хүрээнд Apollo Research, METR, Transluce болон Goodfire зэрэг мэргэжлийн байгууллагууд OpenAI-ийн загваруудын аюулгүй байдлын түвшин, хяналт болон суурь тохиргоонуудад хараат бус үнэлгээ өгөх юм.\n\nЭнэ нь хиймэл оюун ухааны технологийн хөгжил дэвшилтэй зэрэгцэн аюулгүй байдал, хариуцлагатай хэрэглээг хангах чухал алхам болж байна.",
+ "published": "2026-11-16T08:00:00Z",
+ "added": "2026-11-18T09:03:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

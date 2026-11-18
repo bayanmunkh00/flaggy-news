@@ -1,0 +1,19 @@
+{
+ "id": "b82b64ef90f76e66",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/customer-stories/revolut",
+ "image": "",
+ "title": "How Revolut raises ambition without lowering the bar",
+ "summary_en": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+ "lines": [],
+ "title_mn": "Revolut компани OpenAI болон Codex ашиглан кодлох хугацаагаа 30-60%-иар бууруулжээ",
+ "summary_mn": "Revolut компани OpenAI загварууд болон Codex хэрэгслийг ашиглан програмчлалын хугацааг эрс багасгаж, санхүүгийн гэмт хэрэгтэй тэмцэх ажилдаа үр дүнтэй нэвтрүүлжээ.",
+ "body_mn": "Санхүүгийн технологийн тэргүүлэгч Revolut компани OpenAI-ийн загварууд болон Codex хэрэгслийг үйл ажиллагаандаа амжилттай нэвтрүүлж буйгаа хуваалцлаа. Тэдний мэдээлснээр уг технологи нь код бичих боловсруулах хугацааг 30-60 хувиар хэмнэхэд тусалжээ.\n\nТүүнчлэн Revolut энэхүү хиймэл оюун ухааны хэрэгслүүдийг санхүүгийн гэмт хэрэг, зөрчлийг мөрдөн шалгах ажилдаа ашиглаж, аюулгүй байдлыг алдагдуулахгүйгээр ажлын бүтээмжээ нэмэгдүүлсэн байна.\n\nЭнэхүү амжилт нь санхүүгийн салбарт хиймэл оюун ухааныг хэрхэн өндөр үр дүнтэй ашиглаж болохын томоохон жишээ болж байна.",
+ "published": "2026-11-16T09:30:00Z",
+ "added": "2026-11-18T09:03:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
