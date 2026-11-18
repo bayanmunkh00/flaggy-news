@@ -1,0 +1,19 @@
+{
+ "id": "3a44a34cca7a2679",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/600/1*TWUGb0E7zf_sCu4sK9o9HQ.png",
+ "title": "How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL…",
+ "summary_en": "Cross-Supplier Privilege Escalation Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Аялал жуулчлалын платформ дээрх GraphQL ашиглан эрхээ ахиулсан нь",
+ "summary_mn": "HackerOne платформ дээрх аялал жуулчлалын нэгэн томоохон системд GraphQL ашиглан операторын эрхээс администратор болон дэвших боломж олгосон эмзэгдлийн тухай бичжээ.",
+ "body_mn": "ХакерОне платформын хүрээнд хийсэн судалгааны явцад аялал жуулчлалын тэргүүлэгч платформуудын нэг дэх ноцтой сул талыг илрүүлжээ. Энэхүү судалгаагаар системийн ердийн операторын эрхтэй хэрэглэгч GraphQL интерфейсийн алдааг ашиглан администраторын эрхэнд хүрэх боломжтой байсныг харуулсан байна.\n\nЭмзэгдэл нь хүсэлт боловсруулах явц дахь эрх шалгах механизмаас үүдэлтэй байсан бөгөөд халдагч этгээд үүнийг ашиглан системийн хэмжээнд хязгаарлагдмал үйлдлүүдийг хийх боломжтой байжээ. Судлаач уг асуудлыг амжилттай илрүүлж, холбогдох багт мэдээлснээр холбогдох засварыг хийжээ.",
+ "published": "2026-11-16T05:21:58Z",
+ "added": "2026-11-18T04:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

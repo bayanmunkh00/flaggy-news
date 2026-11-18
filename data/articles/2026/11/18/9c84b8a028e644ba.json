@@ -1,0 +1,19 @@
+{
+ "id": "9c84b8a028e644ba",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Mezha.net",
+ "url": "https://mezha.net/eng/news/mezha-b4cca9388f3e0edd8b30b4d7_meet_boris_cherny/",
+ "image": "https://mezha.net/eng/wp-content/mezha-og-r205/kd_image_generate/eng/3745074-d2bbd5dbacf2.jpg",
+ "title": "Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist",
+ "summary_en": "Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist Mezha.net",
+ "lines": [],
+ "title_mn": "Claude Code хэрэгслийг бүтээгч Борис Чернийн тухай",
+ "summary_mn": "Anthropic компанийн алдартай Claude Code хэрэгслийг бүтээгч Борис Чернийн замнал болон тус хэрэгслийн хөгжүүлэлтийн түүхийн тухай өгүүлжээ.",
+ "body_mn": "Anthropic компанийн хэрэглэгчдэд хүрч буй чухал хэрэгслүүдийн нэг болох Claude Code нь програм хангамжийн салбарт томоохон өөрчлөлт авчирч байна. Уг хэрэгслийг бүтээгч, тус компанийн хэрэглээний хэлтсийн тэргүүн Борис Черний нь өмнө нь Meta компанид олон жил ажиллаж байсан туршлагатай инженер юм.\n\nТэрээр 2024 онд Anthropic компанид элссэнийхээ дараа компаниудын загваруудыг туршиж, команд мөрөөр ажиллах хэрэгслийг анх санаачилжээ. Энэхүү төсөл нь хөгжүүлэгчдийн дунд маш их амжилт олж, компанийн орлогод чухал хувь нэмэр оруулсан Claude Code хэрэгсэл болон өргөжжээ.\n\nБорис Чернийн хувьд програм хангамжийн инженерчлэлийн ирээдүйн талаар өөрийн байр сууриа илэрхийлж, энэхүү технологи нь ажлын байранд тодорхой хэмжээний өөрчлөлт авчрах хэдий ч урт хугацаандаа хүн төрөлхтөнд эерэг нөлөө үзүүлнэ гэдэгт итгэлтэй байгаагаа илэрхийлжээ.",
+ "published": "2026-11-15T17:09:36Z",
+ "added": "2026-11-18T04:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

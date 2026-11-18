@@ -1,0 +1,19 @@
+{
+ "id": "44a73b6b475ec26e",
+ "section": "ai",
+ "subtopic": "qwen",
+ "source": "Qwen (Google News)",
+ "source_label": "South China Morning Post",
+ "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHl0ZVByMTFnMVVaU2h5UFBhMzFaVmFKQi1pcGhPb3lLeTdjdGh4TkpnU0FPUVAyMU9rYjV2UkhFdjhOUHRDVUFMRm9seUVzWDRzeno1YllqLVpmY3R6WmI5bnJSS1lkeFAzSm1lM1pkWnAtclpOQmxRWFVwMmZaVjE2cy1KYzRJcEw5RUVIbVExdlhveFJYLU1HRTFSVERTV2VzdHFtS1J2SE1PMjBFbVNYMFNRSmZmT3FtV2kxYUd0QmdBSkJMb3pGUWJTUGFzcC1wYtIB1AFBVV95cUxPWS1MdnU4cWMyN3ktNnVyR2Vtcnhqa1hUVHUxeUxTRDhIUVRjRkJsNmlIM1RDWUFGSkgxeHIxR0h2NUU4WUJ5d3h2eFhKVXU2ekdLRkhSbmpVdHVRaDJrOXhOTkpyOW4ya2dpdDVQb0JVd3Y3UXFfU19fLXNHelFNUnhncDMwTS1yQWFkc1F3SFZoM0ZMZGFIRGhwNS1CRzd4UXRXOUtnS21UMHRZLUNUNlp0cmZtMWVvRUhSaE53UFFrbmQ3SHRQaTRxUVRFVmE4VmZZdw?oc=5",
+ "image": "",
+ "title": "Alibaba launches Qwen4-Max model with strict cybersecurity guardrails",
+ "summary_en": "Alibaba launches Qwen4-Max model with strict cybersecurity guardrails South China Morning Post",
+ "lines": [],
+ "title_mn": "Alibaba компани кибер аюулгүй байдлын хатуу хяналттай Qwen4-Max загварыг танилцууллаа",
+ "summary_mn": "Alibaba компани кибер аюулгүй байдлын хатуу хамгаалалт, хяналтын систем бүхий Qwen4-Max загвараа олон нийтэд танилцуулжээ.",
+ "body_mn": "Alibaba компани өөрийн шинэ тэргүүлэх хиймэл оюун ухааны загвар болох Qwen4-Max загвараа албан ёсоор танилцууллаа. Уг загвар нь технологийн дэвшилтэт боломжуудаас гадна кибер аюулгүй байдлын хатуу хамгаалалт, хяналтын системээр тоноглогдсон байна.\n\nЭнэхүү алхам нь хиймэл оюун ухааны зах зээл дэх өрсөлдөөнийг улам хурцатгаж байгаа бөгөөд компаниуд аюулгүй байдал болон хэрэглэгчийн мэдээллийн хамгаалалтад хэрхэн анхаарч буйг харуулж байна.",
+ "published": "2026-11-16T03:56:53Z",
+ "added": "2026-11-18T04:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

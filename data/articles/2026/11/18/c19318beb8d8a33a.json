@@ -1,0 +1,19 @@
+{
+ "id": "c19318beb8d8a33a",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/agent-evals",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/37vK1b2WXqlYnat7DPTF47/f61f24f23f4bb0dbc30ab010f217431b/agents_are_users.png",
+ "title": "Agents are users, so your software needs evals",
+ "summary_en": "Agents are now users of software, doing work on people's behalf. Whether you're building the agent or the software it uses (API, CLI, MCP server, SDK), evals give you a way to measure how well that work gets done. Agents probably missed your launch video and billboard on Highway 101, but they still go through the same funnel a human does to find and use a product: Discovery , Selection , Access , and Success . You can build evals for any stage of this funnel. Here, we’ll focus on the final stage, Success : whether the agent completes the user’s task correctly. That's more difficult to check…",
+ "lines": [],
+ "title_mn": "Хиймэл оюун ухааны агентууд хэрэглэгч болсон тул програм хангамжийн үнэлгээ шаардлагатай байна",
+ "summary_mn": "Хиймэл оюун ухааны агентууд программ хангамж ашиглаж эхэлсэнтэй холбоотойгоор хөгжүүлэгчид үнэлгээний тест буюу eval ашиглан тэдний ажлын гүйцэтгэлийг хэмжих шаардлагатай болжээ.",
+ "body_mn": "Орчин үед хиймэл оюун ухааны агентууд хэрэглэгчдийн өмнөөс төрөл бүрийн ажлыг гүйцэтгэх болсон бөгөөд үүнтэй холбоотойгоор програм хангамжийн хөгжүүлэлтэд шинэ сорилтууд тулгарч байна. Танд болон таны бүтээгдэхүүний API, CLI эсвэл SDK хэрэгслүүдэд хандаж буй агентуудын гүйцэтгэлийг хэмжих арга зам зайлшгүй хэрэгтэй.\n\nХэрэглэгчийн хүсэлтийг агентууд хэрхэн амжилттай гүйцэтгэж байгааг шалгахын тулд зөвхөн энгийн логиос гадна олон удаа давтаж шалгах тестийн систем буюу eval ашиглах шаардлагатай байдаг. Энэ нь агентын хийсэн алхам бүрийг үнэлж, алдааг олж тогтооход чухал үүрэг гүйцэтгэдэг.\n\nЭнэхүү нийтлэлд програмын ажиллагааг шалгах үндсэн болон цогц тестүүдийг хэрхэн бүтээх талаар дэлгэрэнгүй авч үзсэн байна.",
+ "published": "2026-11-16T05:00:00Z",
+ "added": "2026-11-18T04:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

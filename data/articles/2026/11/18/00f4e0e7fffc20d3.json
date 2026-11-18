@@ -1,0 +1,19 @@
+{
+ "id": "00f4e0e7fffc20d3",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/372IeofQ6t5FBuXP3G64yF/68d94d1711699cbcdac5e88b8fcb22a5/deployments_og_final.png",
+ "title": "Single-second static deployments now support more assets",
+ "summary_en": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVIF, and ICO Fonts: WOFF, WOFF2, TTF, OTF, and EOT Documents and media: PDF, MP4, WebM, MP3, WAV, and OGG Instant…",
+ "lines": [],
+ "title_mn": "Vercel-ийн шуурхай байршуулалт илүү олон төрлийн файлыг дэмждэг боллоо",
+ "summary_mn": "Vercel платформын шуурхай байршуулалт үйлчилгээ нь HTML болон Markdown файлаас гадна CSS, зураг, фонт зэрэг төрөл бүрийн файлуудыг дэмждэг боллоо.",
+ "body_mn": "Vercel платформ нь хөгжүүлэгчдэд ямар нэгэн бүтээх алхамгүйгээр статик сайт болон хуудсуудыг хоромхон зуур байршуулах боломжийг олгодог билээ. Энэхүү үйлчилгээ нь одоо CSS, зураг, фонт болон бусад нэмэлт файлуудыг бүрэн дэмждэг болсноо зарлалаа.\n\nХөгжүүлэгчид Vercel CLI болон REST API ашиглан хуудасны загвар, стилийн файл болон медиа файлуудыг шууд байршуулах боломжтой болсон бөгөөд уг шинэчлэлт нь бүх багцуудад шат дараатайгаар нэвтэрч байна.\n\nЭнэхүү шинэ боломж нь хөгжүүлэгчдэд вэб сайт болон түр хуудасны туршилтын ажлыг илүү хурдан хийх боломжийг олгож, хөгжүүлэлтийн явцыг хялбарчилж байна.",
+ "published": "2026-11-16T00:00:00Z",
+ "added": "2026-11-18T04:00:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
