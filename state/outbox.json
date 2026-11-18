@@ -878,5 +878,203 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e5d2f44b3e1d3a29",
+   "section": "ai",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "MarkTechPost",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00SThicDQ4ZmtpRmZ3N0JPRHNMY1BEcmNVWFREUEc2QWcwTmdYMmxfY1AtN2tyVTBZXzFFT1llSTN0NmxITnpYZzJ3UUlLTlgxUVE3ZXhIcUtlN3R0bWJHTWRUQ3VWYnFHWkd0VTFXcklsa1Ru0gF0QVVfeXFMTTRJOGJwNDhma2lGZnc3Qk9Ec0xjUERyY1VYVERQRzZBZzBOZ1gybF9jUC03a3JVMFlfMUVPWWVJM3Q2bEhOelhnMndRSUtOWDFRUTdleEhxS2U3dHRtYkdNZFRDdVZicUdaR3RVMVdySWxrVG4?oc=5",
+   "image": "",
+   "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+   "summary_en": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context MarkTechPost",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T09:44:17Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6f5d12394b2af009",
+   "section": "ai",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Nacionale",
+   "url": "https://www.nacionale.com/en/articles/what-is-qwen4-alibaba-qwen4-max-release-open-weights-price-benchmarks",
+   "image": "",
+   "title": "What is Qwen4? Alibaba's new flagship AI model, Qwen4-Max, is out, but its weights are not public",
+   "summary_en": "What is Qwen4? Alibaba's new flagship AI model, Qwen4-Max, is out, but its weights are not public Nacionale",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T10:29:25Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5d78bf1a9e9a1d34",
+   "section": "ai",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUk00Q0dmLVhCaEwzRlZqNmJrX1RLd1NzSTAyMHZxVnVqenllOHNRcHprMW9DZEZZOFJOM2ktcVFKQ2ZoNk1wejgxX3djVzEzWWN6dFc4X2swcnBwN19VN0VENkM4WDc5SmtpYkZLQ1FrUW8zbm8yUmwwVkNCSjJadDEwRF9uS01USWdfS1VuTkwzV2plQzZDVEpaeUpDWW9kdXM4RDNzd05yN1JSWmF5bXhxekc3X3dKS2VaTVFySDRxclZkbW9KX0F5TUlMRDZNMzZ5OWNnRzJRNFN4cDR0cjAyYUVoZWNtNnpwSmcta0VFMzNyX01SbFdsVjRRUlA3akpiVDNqdmhCSGRWZEM2c05R0gGXAkFVX3lxTE5rWGdLekNOTGJCZ3pTTzdlVDEzZ05zWFJsbnZyMU5mcTBZZ2Z5UjhGb0kyTEdPMXZFLVRDekpBRkJEcUNsbU13bEd4Z3VubjZ3WGp4Z3RnT0phdS1TVmtvQzZtTDRnekM1N1pmZGNBVmJuSGZvY3NsZkw4OWRoU05ncjNsTjBDVHlPSzlUTkszb3MteURCZXRuaFJ3bmNlRW9JUDZBTUI5RmFXQ1ZDOG53Mks3Z0g3cmRybGRWTnRKVXpFS0FKdDM5bVBNZHd5N0hqTEYyZFphYkxObU1NR2gxTHlTcTA4bE11VFlDcGdFdzN1bktmLWMzUTdLZWoxY3BNS1AzbVJNUHNXblo1Wlpnelk3TjBvSQ?oc=5",
+   "image": "",
+   "title": "Alibaba’s New Qwen4-Max Fails To Overtake Moonshot’s Kimi K3.1 Pro, Retaining The Same Parameter Count With A Lower Price And Revamped Native-Vision MoE Architecture",
+   "summary_en": "Alibaba’s New Qwen4-Max Fails To Overtake Moonshot’s Kimi K3.1 Pro, Retaining The Same Parameter Count With A Lower Price And Revamped Native-Vision MoE Architecture Wccftech",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T10:49:18Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "266caba6b6750510",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "BleepingComputer",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT0JBU3lhWTZqZ0ZSVmFkb3NBTUR5eWlCRVZMaXdwckRtRFhhMm92ZlVEakl0NGxaTHk1UEI0aTJXWFpxNHREQXFWTnMwOWFKMzBTRllsc19JSFNWSzdYN09CUXdqVWl1bGdPaXZFUXlSNEIta25iTnVKX2M4bjhWUDZnVGxCYzhNNkdnX2RNMUN3a05PamFKOE1mQnFPaHItWTNZOUQ1STlPVVd3LTZIMDM4YnNmT09UX1pFWHFpRW9YVk1iYjJzcThWNzFOYkU5c2NqaEEycWtzbUxldjB6WWlyRWNEai1Hb0lBUjlsNNIB9AFBVV95cUxNZ0R6aFl2anlnalFVc19xMXBYb1k3TVBDdDBlcDYxVE9BVGJmNnR2M1NzSEMxMTd0ZTA1QW9DNkMwY3lTazUzRndZWDhITDNIbHlRYUJULVJLWmc3aGlQdklnSUhJRXdIMng4WXJFLVllZWpSQ0lVZERVS1BZV2p2Snk2LXl2WnkwMkJ4TGEyZTJUUlVJYnFqREhSX0RvdzhtTlJ4UWRfNkVpWVNGdGdHNzVKbGhLUml4YVppR0hILUhzekcwdlhnLVlDcWVUamJndTBVelpuS2o2ek1ReUtBZG9TSjA5cnM2c1ZrUi1nZDVxU3g0?oc=5",
+   "image": "",
+   "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+   "summary_en": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs BleepingComputer",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T11:00:00Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4dce44d5d0a323c9",
+   "section": "ai",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWFDRm05Q0VhUmU2OFFWbnBnOEFvVFh6QXNNZHdVTWFhb3liS0dRUkU0SU02V1l0LVRnSFlKWU91aHp3Q1p3cTRBV2Q4MWZjR2VpX1JsZDZZZk9pMklKdjdMZEFMQldILUgtbUw2dV9VWklXN2RIbzY3cnJqY0lnR2NINE9rYmVDNjhmOFEzWjRTRWt3b3dsS2QwcUljeGlPWTlYLXdGNmpXZw?oc=5",
+   "image": "",
+   "title": "Alibaba Launches Qwen4-Max AI Model With Lower Operating Costs",
+   "summary_en": "Alibaba Launches Qwen4-Max AI Model With Lower Operating Costs Moomoo",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T11:23:00Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f241870950b1960a",
+   "section": "ai",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Technology Org",
+   "url": "https://www.technology.org/2026/11/16/alibaba-qwen4-max-flagship-ai-model-safety-cost/",
+   "image": "",
+   "title": "Alibaba Launches Qwen4-Max, a Flagship AI Model With Tighter Safety Controls",
+   "summary_en": "Alibaba Launches Qwen4-Max, a Flagship AI Model With Tighter Safety Controls Technology Org",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T11:58:00Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d91fd06de7b8771e",
+   "section": "ai",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "image": "",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "summary_en": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T12:00:00Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9c6ead6d08a8c020",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Atlantic",
+   "url": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/",
+   "image": "",
+   "title": "Who Is Anthropic Kidding?",
+   "summary_en": "Who Is Anthropic Kidding? The Atlantic",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-16T12:00:00Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7ca1e6853a4108e0",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "Schneier on Security",
+   "source_label": "Schneier on Security",
+   "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
+   "image": "",
+   "title": "Usable Security at Luxury Hotels",
+   "summary_en": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why “just don’t click on links” is bad advice. It can’t work when answering strangers’ emails is the job. Even worse, in this case the guest-first culture punishes hesitation. More interesting, the case study shows that splitting security between owner, operator, and brand leaves nobody accountable. And this is exactly the setting where blaming staff becomes the…",
+   "lines": [],
+   "title_mn": "Люкс зэрэглэлийн зочид буудлуудын кибер аюулгүй байдал ба цахим халдлага",
+   "summary_mn": "Люкс зэрэглэлийн зочид буудлуудад хакерууд хуурамч захиалгын хүсэлт ашиглан нэвтэрч, мөнгө буцаан олгох хүсэлтийг хуурамчаар баталсан тохиолдол гаржээ.",
+   "body_mn": "Энэхүү хэрэг нь уламжлалт “холбоос дээр бүү дар” гэсэн зөвлөгөө үйлчилгээний салбарт яагаад үр дүнгүй болохыг харуулж байна. Зочдын хүсэлтийг шуурхай шийдвэрлэх шаардлагатай соёл нь хакеруудад ажиллагсдыг төөрөгдүүлэх таатай нөхцөлийг бүрдүүлдэг байна.\n\nМөн кибер аюулгүй байдлын хариуцлагыг эзэн, оператор, брэнд компаниуд хоорондоо хувааж байгаа нь хяналтыг сулруулж, ажилтнуудыг буруутгах амархан арга болон хувирдаг аж. Мэргэжилтнүүдийн үзэж буйгаар байгууллагууд технологийн дэвшилтэт хамгаалалт, и-мэйл шалгалтын системийг сайжруулах зайлшгүй шаардлагатай байна.",
+   "published": "2026-11-16T12:04:42Z",
+   "added": "2026-11-18T16:00:54Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
  }
 ]
