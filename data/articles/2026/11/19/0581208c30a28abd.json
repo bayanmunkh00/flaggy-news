@@ -1,0 +1,19 @@
+{
+ "id": "0581208c30a28abd",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
+ "title": "Decision-1.1 now available on AI Gateway",
+ "summary_en": "Decision-1.1 from Microsoft AI is now available on AI Gateway. It is more accurate, better calibrated, and faster than Decision-1. The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses. Boolean: the probability that a condition is true Choice: a selected category and probabilities for each option Score: a numerical rating on a scale you define Multiple questions can share the same input in one request. Better calibration…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T00:00:00Z",
+ "added": "2026-11-19T16:00:52Z",
+ "ai": "",
+ "score": null
+}

@@ -1,0 +1,19 @@
+{
+ "id": "96c29577c9dfa6c3",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "anthropics/claude-code",
+ "source_label": "anthropics/claude-code",
+ "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+ "image": "https://opengraph.githubassets.com/3040c3eaaedb0b2acd5bd42cdca9f7589df49c04f85cc0eeac6e357c6c6e8013/anthropics/claude-code/releases/tag/v2.1.326",
+ "title": "claude-code v2.1.326",
+ "summary_en": "What's changed Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode Added a startup warning when an --allowedTools , --disallowedTools or --tools value has an entry that doesn't look like a complete rule Added a message explaining why MCP servers stop loading when an administrator adds managed-mcp.json during a session Added a row to /status that says when your provider or an environment variable such as DISABLE_TELEMETRY turns features off Added a note in /plugin and claude plugin list when a…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-16T22:11:05Z",
+ "added": "2026-11-19T16:00:52Z",
+ "ai": "",
+ "score": null
+}

@@ -1,0 +1,23 @@
+{
+ "id": "14ea5fe08a6b8b7e",
+ "section": "hacker",
+ "subtopic": "cve",
+ "source": "CISA KEV",
+ "source_label": "CISA",
+ "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
+ "image": "",
+ "title": "CVE-2026-115731 added to CISA KEV (exploited in the wild)",
+ "summary_en": "Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the service user by submitting a report containing a crafted rich-data type through a PUT request. If the certificate authority automatically signs requests without…",
+ "lines": [
+  "Perforce Puppet Enterprise: Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+  "Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the service user by submitting a report containing a crafted rich-data type through a PUT request. If the certificate authority automatically signs requests without…",
+  "Patch by: 2026-12-01"
+ ],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T00:00:00Z",
+ "added": "2026-11-19T16:00:52Z",
+ "ai": "",
+ "score": null
+}
