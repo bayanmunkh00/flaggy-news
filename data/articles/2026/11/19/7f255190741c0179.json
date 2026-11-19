@@ -1,0 +1,19 @@
+{
+ "id": "7f255190741c0179",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+ "image": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png",
+ "title": "Staggering Scroll-Driven Animations with animation-range-start",
+ "summary_en": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value. Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "lines": [],
+ "title_mn": "Scroll-driven хөдөлгөөнт дүрс болон animation-range-start шинж чанар",
+ "summary_mn": "CSS ашиглан хуудасны гүйлгэлттэй холбоотой хөдөлгөөнт дүрс буюу scroll-driven анимацийг хялбарчлах арга болон animation-range-start шинж чанарын талаар өгүүлэв.",
+ "body_mn": "Орчин үеийн CSS хөгжүүлэлтэд хуудас гүйлгэх явцыг ашиглан анимац удирдах нь цаг хугацаанаас хамааралтай хуучин арга барилаас ялгаатай бөгөөд илүү уян хатан боломжуудыг олгож байна. Зарим хөгжүүлэгчид үүнийг нарийн төвөгтэй математик томьёо болон тусгай алгоритмаар шийдэх гэж оролцдог нь кодыг хэт хүндрүүлдэг.\n\nГэвч CSS стандарцад хуудас гүйлгэх явцад анимацийг тодорхой хугацаагаар хойшлуулах буюу удирдах зориулалттай animation-range-start шинж чанар хэдийн нэвтэрсэн байдаг. Энэ нь цаг хугацааны delays буюу animation-delay-аас ялгаатай бөгөөд гүйлгэлтийн хувьтай шууд уялдаж ажилладаг юм.\n\nИймд нарийн төвөгтэй математик код бичилгүйгээр хөтөчийн өөрийнх нь олгож буй хэрэгслүүдийг ашиглах нь вэб хуудасны гүйцэтгэл болон код бичих явцыг ихээхэн хөнгөвчлөх ач холбогдолтой юм.",
+ "published": "2026-11-16T16:47:05Z",
+ "added": "2026-11-19T07:51:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

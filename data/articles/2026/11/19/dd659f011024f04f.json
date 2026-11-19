@@ -1,0 +1,19 @@
+{
+ "id": "dd659f011024f04f",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/strengthening-online-child-safety",
+ "image": "",
+ "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+ "summary_en": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+ "lines": [],
+ "title_mn": "Хүүхдийг цахим орчны хүчирхийллээс хамгаалах шинэ хэрэгслүүдийг нэвтрүүллээ",
+ "summary_mn": "OpenAI компани онлайн орчин дахь хүүхдийн бэлгийн хүчирхийлэл мөлжлөгтэй тэмцэх, урьдчилан сэргийлэх шинэ хэрэгсэл болон түншлэлүүдийг зарлалаа.",
+ "body_mn": "OpenAI компани хүүхдийг цахим орчны хүчирхийлэл, мөлжлөгөөс хамгаалах чиглэлээр шинэ арга хэмжээнүүд авч хэрэгжүүлж эхэлжээ. Энэ хүрээнд холбогдох эрсдэлээс урьдчилан сэргийлэх, илрүүлэх, хариу арга хэмжээ авахад туслах шинэ хэрэгслүүд болон практик зөвлөмжүүдийг танилцуулсан байна.\n\nЭнэхүү санаачилга нь технологийн компаниудын хүрээнд хүүхдийн аюулгүй байдлыг хангах, хууль бус контентыг таслан зогсоох бодлогынхоо хүрээнд хэрэгжиж байгаа бөгөөд мэргэжлийн байгууллагуудтай хамтран ажиллах замаар аюулгүй байдлын системээ сайжруулж байна.",
+ "published": "2026-11-16T17:00:00Z",
+ "added": "2026-11-19T07:51:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "2d7a5d6b20fff3cd",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+ "image": "",
+ "title": "Broadening access to AI for scientists",
+ "summary_en": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+ "lines": [],
+ "title_mn": "Эрдэмтэн судлаачдад зориулсан ChatGPT үнэгүй хүртээмжийг өргөжүүлэв",
+ "summary_mn": "OpenAI компани дэлхий даяарх 200,000 судлаачдад өөрсдийн тэргүүлэх загваруудыг үнэ төлбөргүй ашиглах боломжийг олгох хөтөлбөрөө өргөжүүллээ.",
+ "body_mn": "OpenAI академик судлаачдад зориулсан ChatGPT хөтөлбөрөө өргөжүүлж буйгаа зарлалаа. Энэ хүрээнд дэлхийн өнцөг булан бүрээс ирсэн 200,000 эрдэмтэн судлаачдад компаниасаа гаргаж буй хамгийн сүүлийн үеийн дэвшилтэт загваруудыг үнэ төлбөргүй ашиглах эрхийг олгож байна.\n\nЭнэхүү санаачилга нь шинжлэх ухааны судалгаа шинжилгээний ажилд хиймэл оюун ухааныг илүү өргөнөөр нэвтрүүлэх, судалгааны чанар болон хурдыг нэмэгдүүлэх зорилготой юм. Судлаачид эдгээр загваруудыг ашиглан нарийн төвөгтэй өгөгдөл дүн шинжилгээ хийх болон шинэ туршилт судалгаануудыг илүү хурдацтай явуулах боломж бүрдэж байна.",
+ "published": "2026-11-16T17:00:00Z",
+ "added": "2026-11-19T07:51:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

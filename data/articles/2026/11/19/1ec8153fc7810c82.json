@@ -1,0 +1,19 @@
+{
+ "id": "1ec8153fc7810c82",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Tom's Hardware",
+ "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+ "image": "https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg",
+ "title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+ "summary_en": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days Tom's Hardware",
+ "lines": [],
+ "title_mn": "Claude Mythos AMD MI355X чип дээр ажиллах хугацааг 3 хоног болгон богиносгов",
+ "summary_mn": "Anthropic компани өөрийн Claude Mythos Preview загвар AMD-ийн MI355X GPU дээр ажиллахад шаардагдах програм хангамжийн ажлыг ердөө гуравхан хоногт амжилттай хийсэн талаар хөрөнгө оруулагчдад мэдээллээ.",
+ "body_mn": "Anthropic компанийн мэдээлснээр, тэдний Claude Mythos Preview загвар нь AMD-ийн MI355X графикийн процессор дээр хиймэл оюун ухаанаа ажиллуулах програм хангамжийн кодыг бараг хүний оролцоогүйгээр ердөө 3 хоногийн дотор бичиж дуусгажээ. Энэхүү ажил нь урьд өмнө нь олон арван инженерүүд оролцож 6-аас 12 сарын хугацаа шаарддаг байсан байна.\n\nЭнэхүү ололт нь Nvidia компанийн олон жилийн турш зах зээлийг нь бүрдүүлж ирсэн CUDA програмчлалын платформын давуу талыг сулруулах чухал алхам болж магадгүй юм. Учир нь уг загвар шаардлагатай низ түвшний кернел код бараг 100%-ийг бичиж, шаардлагатай гүйцэтгэлийг гаргаж чаджээ.\n\nAnthropic компани нь зөвхөн Nvidia гэлтгүй AMD, Google TPU болон AWS Trainium зэрэг олон төрлийн чип дээр загваруудаа амжилттай ажиллуулж ирсэн туршлагатай. Ийнхүү шинэ төхөөрөмж дээр богино хугацаанд нэвтрэх боломж бүрдсэн нь техник хангамжийн сонголтыг хэрэглэгчдэд илүү өргөн болгож байна.",
+ "published": "2026-11-16T15:00:00Z",
+ "added": "2026-11-19T07:51:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

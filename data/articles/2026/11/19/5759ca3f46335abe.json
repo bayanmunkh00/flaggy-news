@@ -1,0 +1,19 @@
+{
+ "id": "5759ca3f46335abe",
+ "section": "software",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.5.1",
+ "image": "https://opengraph.githubassets.com/5e82e566226b8719eb2853ff0bf5962f823e0aac926ac699b6e6fdd53cccf782/nestjs/nest/releases/tag/v12.5.1",
+ "title": "nest v12.5.1",
+ "summary_en": "v12.5.1 (2026-11-16) Features core #18523 feat(core): accept module metadata as the root module ( @kamilmysliwiec ) Bug fixes common #18515 fix(common): reject a date past the end of its month in parse date pipe ( @jaeminbird ) microservices #18521 fix(microservices): decode each value of a repeated kafka header ( @yuvrajtiwary-bitmesraece ) #18512 fix(microservices): stop a kafka connection attempt once the client is closed ( @BillWGong ) platform-node #18509 fix(node): render nunjucks views through an Environment ( @xh123637 ) Enhancements microservices #18525 feat(microservices): graceful…",
+ "lines": [],
+ "title_mn": "Nest v12.5.1 хувилбар шинэчлэгдэн гарлаа",
+ "summary_mn": "NestJS фреймворкийн v12.5.1 хувилбар гарч, олон модуль болон микросервисийн алдаануудыг засч, шинэ боломжууд нэмлээ.",
+ "body_mn": "NestJS фреймворкийн v12.5.1 шинэ хувилбар албан ёсоор гарлаа. Энэхүү шинэчлэлтээр үндсэн хэсэг болон микросервисүүдэд хэд хэдэн чухал засвар, сайжруулалтууд хийгджээ.\n\nТухайлбал, үндсэн хэсэгт модуль мета өгөгдлийг үндсэн модуль болгон хүлээн авах боломжтой болсон бол микросервисийн хэсэгт Kafka, RMQ, TCP, MQTT, Redis зэрэг холболтуудын graceful shutdown буюу сервер зогсоох ажиллагааг сайжруулсан байна.\n\nМөн огноо шалгах болон Kafka header утгыг декодлох явцад гардаг байсан алдаануудыг зассан бөгөөд хөгжүүлэгчид эдгээр шинэчлэлтийг төсөвтөө ашиглаж эхлэх боломжтой.",
+ "published": "2026-11-16T18:57:12Z",
+ "added": "2026-11-19T07:51:48Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
