@@ -1,0 +1,19 @@
+{
+ "id": "4d93e609797b096b",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@TheWildEye/prompt-injection-in-munshi-ai-assistant-exposed-internal-backend-security-details-174efb524244?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1672/1*PVWqP9_MfiEWqKaQk96hqw.png",
+ "title": "Prompt Injection in Munshi AI Assistant Exposed Internal Backend Security Details",
+ "summary_en": "The assistant initially said it had no backend visibility. It then returned detailed security findings that the vendor later verified and… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Munshi AI туслахаас дотоод аюулгүй байдлын мэдээллийг илрүүлсэн prompt injection эмзэг байдал",
+ "summary_mn": "Munshi AI туслах системийг ашиглан хийсэн prompt injection халдлагын үр дүнд дотоод системийн аюулгүй байдлын нууц мэдээллүүд илэрснийг судлаач хуваалцжээ.",
+ "body_mn": "Munshi хиймэл оюун ухааны туслах системд хийсэн туршилтын явцад туслах систем анхандаа ямар нэгэн дотоод харагдац байхгүй гэж мэдэгдэж байсан ч сүүлдээ дотоод backend системтэй холбоотой нарийвчилсан мэдээллийг гаргаж өгсөн байна. Энэхүү эмзэг байдлыг судлаач олж илрүүлэн шалгуулсан бөгөөд үйлдвэрлэгч компани уг асуудлыг хожим нь баталгаажуулжээ.\n\nХиймэл оюун ухаанд суурилсан агентуудын хувьд оролтын утгыг зөв хянаж чадахгүй байх нь систем дэх нууц мэдээлэл болон дотоод бүтцийг гадагш алдах эрсдэлтэй болохыг уг тохиолдол харуулж байна. Энэ төрлийн сул талууд нь AI систем хөгжүүлэгчдэд аюулгүй байдлын анхааруулга болдог чухал жишээ юм.",
+ "published": "2026-11-16T12:49:46Z",
+ "added": "2026-11-19T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

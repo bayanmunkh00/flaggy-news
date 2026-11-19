@@ -1,0 +1,19 @@
+{
+ "id": "ff33abef413a979e",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@akashmotkar001/ai-agent-internal-system-prompt-and-tool-schema-disclosure-619eb67b9bd9?source=rss------bug_bounty_writeup-5",
+ "image": "",
+ "title": "AI Agent Internal System Prompt and Tool Schema Disclosure",
+ "summary_en": "Severity: P4 Low Vulnerability Type: Sensitive Information Disclosure / AI System Prompt Leakage Bugcrowd VRT: Sensitive Data Exposure →… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "AI агентын систем prompt болон хэрэгслийн схем алдагдсан эмзэг байдал",
+ "summary_mn": "Bugcrowd платформ дээрх тайлангаар хиймэл оюун ухааны агентын дотоод систем prompt болон tool schema илрүүлсэн эмзэг байдлыг P4 зэрэглэлтэйгээр бүртгэжээ.",
+ "body_mn": "Шинэ төрлийн хиймэл оюун ухааны системүүдэд гарч буй эмзэг байдлын нэгэн жишээгээр AI агентын дотоод үндсэн заавар (system prompt) болон ашигладаг хэрэгслүүдийн бүтэц (tool schema) ил гарсан байна. Bugcrowd платформын эмзэг байдлын үнэлгээгээр уг асуудлыг Sensitive Data Exposure буюу эмзэг мэдээлэл задарсан төрөлд хамааруулжээ.\n\nЭнэхүү сул тал нь P4 Low буюу бага эрсдэлтэй ангилалд багтаж байгаа боловч хиймэл оюун ухааны аппликейшн хөгжүүлэгчид системийнхээ дотоод логик болон тохиргоог хэрхэн хамгаалах ёстойг дахин сануулж байна. Системийн суурь өгөгдлийг алдах нь цаашид илүү ноцтой халдлагын үүд хаалгыг нээж болзошгүй юм.",
+ "published": "2026-11-16T13:21:17Z",
+ "added": "2026-11-19T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "a863217f46213f94",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg",
+ "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+ "summary_en": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
+ "lines": [],
+ "title_mn": "Хакерууд хиймэл оюун ухааны агентуудыг ашиглан програм хангамжийн засвараас халдлага үүсгэж буйг Google илрүүлжээ",
+ "summary_mn": "Хакерууд программ хангамжийн patch буюу шинэчлэлтүүдэд дүн шинжилгээ хийж, хиймэл оюун ухааны агент болон автомат систем ашиглан эмзэг байдлыг хурдан хугацаанд зэвсэг болгож буйг Google мэдээллээ.",
+ "body_mn": "Хакерууд хиймэл оюун ухааныг зөвхөн энгийн команд өгөх төдийгүй бие даасан олон агентуудаас бүрдсэн системүүдийг (ARTEX, CAIRN, CyberStrikeAI гэх мэт) ашиглан халдлага үйлдэх түвшинд хүрсэн тухай Google Threat Intelligence Group тайландаа дурджээ.\n\nТэд программ хангамжийн шинэчлэлт болон хуучин кодын өөрчлөлтөд хиймэл оюун ухаанаар дамжуулан дүн шинжилгээ хийж (differential analysis), шинээр илэрсэн сул талуудыг ердөө хэдхэн хормын дотор халдлагын зэвсэг болгон хувиргаж байна. Энэ нь кибер халдлагын хурдыг эрс нэмэгдүүлж буй аж.\n\nҮүнээс гадна халдагчид байгууллагуудын AI дэд бүтцийг руут хийж, API түлхүүр болон cloud нөөцүүдийг хулгайлах LLMjacking халдлагуудыг үйлдэж байгааг Google анхааруулжээ. Энэ нь программ хангамжийн аюулгүй байдлыг хангахад цоо шинэ сорилтуудыг авчирч байна.",
+ "published": "2026-11-16T14:00:00Z",
+ "added": "2026-11-19T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "dfc32ad6652396f0",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.width-1300.png",
+ "title": "New Ask Maps features to help with holiday travel and prep",
+ "summary_en": "tbd",
+ "lines": [],
+ "title_mn": "Google Maps аппликейшнд амралт зугаалга төлөвлөхөд туслах шинэ Ask Maps боломжууд нэмэгдлээ",
+ "summary_mn": "Google компани аялал төлөвлөх, орон нутгийн цаг товлох болон хадгалсан жагсаалтаа хялбар хайхад туслах Ask Maps шинэ боломжуудыг нэвтрүүлж эхэллээ.",
+ "body_mn": "Google компани баярын өдрүүд болон амралт зугаалгын үеэр хэрэглэгчдэд илүү хялбар байх үүднээс Google Maps дээр Ask Maps нэртэй шинэ боломжуудыг нэмж байна. Эдгээр шинэчлэлтийн тусламжтайгаар хэрэглэгчид замын хөдөлгөөний бодит мэдээлэл дээр үндэслэн аяллын төлөвлөгөө гаргах, үйлчилгээний газруудын цаг авах боломжтой болжээ.\n\nТухайлбал, та Ask Maps-аас ойр хавьд байгаа үсчин эсвэл амьтны эмнэлэгт цаг захиалахыг хүсэхэд систем өөрөө холбогдож боломжит сул цагуудыг олж өгөх агентын үүрэг гүйцэтгэнэ. Мөн хэрэглэгч өөрийн хадгалсан байршлуудын жагсаалтаас тодорхой шалгуурын дагуу шууд хайлт хийх боломжтой аж.\n\nЭдгээр шинэ боломжууд өнөөдрөөс эхлэн АНУ болон дэлхийн бусад зах зээл дэх Android болон iOS төхөөрөмж дээр ажиллаж эхэлж байгаа ба Европ зэрэг олон улс руу өргөжин тэлэх юм.",
+ "published": "2026-11-16T14:00:00Z",
+ "added": "2026-11-19T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

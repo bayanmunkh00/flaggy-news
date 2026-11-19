@@ -1,0 +1,19 @@
+{
+ "id": "a989c64e51ebb71d",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg",
+ "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+ "summary_en": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to",
+ "lines": [],
+ "title_mn": "Danfoss хөргөлтийн төхөөрөмжид нэвтрэх эрхгүйгээр удирдлагыг нь булаах 6 цоо шинэ эмзэг илэрчээ",
+ "summary_mn": "Голландын кибер аюулгүй байдлын Midnight Blue компани Danfoss AK-SM800A хөргөлтийн төхөөрөмжүүдэд алсын зайнаас нэвтрэх эрхгүйгээр хяналтаа авах боломжтой 6 эмзэг цэг илрүүлжээ.",
+ "body_mn": "Голландын кибер аюулгүй байдлын Midnight Blue зөвлөх компани Danfoss AK-SM800A загварын хөргөлтийн хянагч төхөөрөмжүүдэд нэвтрэх эрх шаардалгүйгээр алсаас удирдлагыг нь булаах боломжтой зургаан эмзэг цэг байгааг илрүүлжээ. Одоогоор эдгээр сул талыг засах албан ёсны засвар (patch) гараагүй байгаа бөгөөд хамгийн сүүлийн үеийн 5.4.0 програм хангамж хүртэл үүнд өртсөн болохыг судлаачид тогтоосон байна.\n\nБельги, Ирланд, Герман зэрэг улсуудын төрийн байгууллагууд эдгээр хянагчийн удирдлагын хэсгийг интернэтээс салгахыг операторуудад анхааруулжээ. Зарим төхөөрөмж дээр Strict горим ашигласан ч уг горимыг хариуцдаг шлюз доторх цоорхойгоос шалтгаалан хамгаалалт бүрэн ажиллахгүй байх эрсдэлтэй аж.\n\nЭдгээр төхөөрөмжүүд нь дэлгүүрийн хөргөгч, хөлдөөгчний ажиллагааг зохицуулдаг бөгөөд Франц болон Европын бусад оронд эдгээр систем рүү халдаж, бараа бүтээгдэхүүнийг сүйтгэсэн тохиолдлууд өмнө нь гарч байжээ. Судлаачид техникийн дэлгэрэнгүй мэдээллийг нууцалж, үйлдвэрлэгч компанитай хамтран ажиллаж байна.",
+ "published": "2026-11-16T12:34:21Z",
+ "added": "2026-11-19T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7467957a043e4029",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@TheWildEye/soft-deleted-still-editable-bola-in-munshis-invoice-api-93e82bfee165?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1672/1*VM_YYagO3NYVIoRwyJo4qA.png",
+ "title": "Soft-Deleted, Still Editable: BOLA in Munshi’s Invoice API",
+ "summary_en": "Missing ownership and invoice-lifecycle checks allowed an authenticated user to overwrite financial data even after an invoice had been… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Munshi нэхэмжлэх API дахь BOLA буюу зөвшөөрлийн хяналт дуტмаг эмзэг байдал",
+ "summary_mn": "Munshi платформын нэхэмжлэх API дээр эрх шалгах болон амьдралын мөчлөгийн хяналт байхгүйн улмаас зөөлөн устгасан өгөгдлийг өөрчлөх боломжтой байжээ.",
+ "body_mn": "Munshi платформын нэхэмжлэхэд холбогдох API дээр эзэмшигчийн болон нэхэмжлэхийн амьдралын мөчлөгийн хяналт дуტмаг байснаас үүдэн BOLA (Broken Object Level Authorization) эмзэг байдал илэрсэн байна. Энэхүү сул талын улмаас хэрэглэгч нэхэмжлэх аль хэдийн устгагдсан эсвэл хаагдсан байсан ч санхүүгийн өгөгдлийг нь өөрчлөн бичих боломжтой байжээ.\n\nЭнэ төрлийн API эмзэг байдлууд нь байгууллагын санхүү болон хэрэглэгчийн мэдээллийн аюулгүй байдалд ноцтой эрсдэл учруулдаг байна. Хөгжүүлэгчид API хүсэлт бүрт эзэмшлийн эрхийг хатуу шалгах нь ийм төрлийн халдлагаас сэргийлэх гол арга юм.",
+ "published": "2026-11-16T13:36:48Z",
+ "added": "2026-11-19T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "938b19b3d77f8c9f",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@TheWildEye/stored-html-injection-in-munshi-a-profile-name-reached-the-support-email-as-html-0fd4e946b6bf?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1672/1*K9wNnZEZNFfoUlUO3AfJWA.png",
+ "title": "Stored HTML Injection in Munshi: A Profile Name Reached the Support Email as HTML",
+ "summary_en": "A backend-accepted profile value was stored without safe handling, then rendered as HTML when the Contact Support workflow generated an… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Munshi систем дэх Stored HTML Injection эмзэг байдал",
+ "summary_mn": "Munshi системд профилын нэрийг аюулгүй байдлаар шалгалгүй хадгалснаас үүдэн HTML код шууд ажиллах эмзэг байдал илэржээ.",
+ "body_mn": "Munshi платформд хийсэн судалгаагаар хэрэглэгчийн профилын нэр дээр хадгалагдсан HTML контент нь систем дэмжлэгтэй холбогдох (Contact Support) ажлын урсгалаар дамжин шууд HTML хэлбэрээр дүрслэгдэж байгааг илрүүлжээ.\n\nЭнэхүү эмзэг байдал нь backend хэсэгт хүлээн авсан утгыг зохих ёсоор цэвэрлэж, аюулгүй болгоогүйгээс үүссэн байна. Ийм төрлийн Stored HTML Injection нь систем ашиглагчдад болон дэмжлэгийн ажилтнуудад халдлага хийх боломж бүрдүүлэх эрсдэлтэй юм.\n\nСудлаачид уг алдааг илрүүлж олон нийтэд мэдээлсэн бөгөөд хөгжүүлэгчид оролтын утгыг шалгах, ариутгах замаар засах шаардлагатай байгаа аж.",
+ "published": "2026-11-16T14:29:16Z",
+ "added": "2026-11-19T04:00:46Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
