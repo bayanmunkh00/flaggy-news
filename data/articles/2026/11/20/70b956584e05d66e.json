@@ -1,0 +1,19 @@
+{
+ "id": "70b956584e05d66e",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Blog",
+ "source_label": "GitHub Blog",
+ "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+ "image": "https://github.blog/wp-content/uploads/2026/11/image-17.png",
+ "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+ "summary_en": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T18:29:29Z",
+ "added": "2026-11-20T16:00:50Z",
+ "ai": "",
+ "score": null
+}

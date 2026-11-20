@@ -1,0 +1,19 @@
+{
+ "id": "973d8da3cd5f28b7",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
+ "image": "https://opengraph.githubassets.com/b92b71984dea7e3d324ce0ff8f224f48659ee40ec5567b188e0d3c01186ebcb1/openai/openai-python/releases/tag/v3.53.0",
+ "title": "openai-python v3.53.0",
+ "summary_en": "3.53.0 (2026-11-17) Features api: add 2-hour and 8-hour Responses background windows ( 720bcb5 ) api: add the GPT-6.2 Astra Law Responses model identifier ( 720bcb5 ) api: add the GPT-6.2 Astra model identifier ( 720bcb5 ) api: add the GPT-6.2 Sol model identifier ( 720bcb5 )",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T18:40:24Z",
+ "added": "2026-11-20T16:00:50Z",
+ "ai": "",
+ "score": null
+}

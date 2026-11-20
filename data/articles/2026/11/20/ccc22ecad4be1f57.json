@@ -1,0 +1,19 @@
+{
+ "id": "ccc22ecad4be1f57",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.54.0",
+ "image": "https://opengraph.githubassets.com/83756f5aa19a5f8ea8ef04e97e7980e77cdada2583774b7f46a2aa58a12f084c/openai/openai-python/releases/tag/v3.54.0",
+ "title": "openai-python v3.54.0",
+ "summary_en": "3.54.0 (2026-11-17) Features api: type Managed Agents budget events ( #4284 ) ( c5da68a )",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T22:42:56Z",
+ "added": "2026-11-20T16:00:50Z",
+ "ai": "",
+ "score": null
+}

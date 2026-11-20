@@ -1,0 +1,19 @@
+{
+ "id": "9e24bec0316d82cc",
+ "section": "vibe",
+ "subtopic": "vibe-coding",
+ "source": "Simon Willison",
+ "source_label": "Simon Willison",
+ "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+ "image": "https://static.simonwillison.net/static/2026/datasette-lite-diag.webp",
+ "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+ "summary_en": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to load from PyPI Load a specific commit, tag, or branch name from the Datasette GitHub repository…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T16:48:33Z",
+ "added": "2026-11-20T16:00:50Z",
+ "ai": "",
+ "score": null
+}

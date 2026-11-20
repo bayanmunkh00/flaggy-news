@@ -1,0 +1,19 @@
+{
+ "id": "55169d12e6f0a434",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3TzYbwmnrcx2vOIPTRu7MZ/90148745d04519b3100c92ed0b0ef19a/image__73_.png",
+ "title": "Vercel Blob now supports TTLs for automatic deletion",
+ "summary_en": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays works on put() , copy() , putImage() , multipart uploads, and presigned upload URLs. Every write result and head() response now includes expiresAt , so you know when a blob is due for deletion. setTtl() changes or removes the TTL of blobs you already have, one URL or up to 1,000…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T18:00:00Z",
+ "added": "2026-11-20T16:00:50Z",
+ "ai": "",
+ "score": null
+}

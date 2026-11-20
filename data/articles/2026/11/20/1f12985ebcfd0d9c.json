@@ -1,0 +1,19 @@
+{
+ "id": "1f12985ebcfd0d9c",
+ "section": "software",
+ "subtopic": "electron",
+ "source": "electron/electron",
+ "source_label": "electron/electron",
+ "url": "https://github.com/electron/electron/releases/tag/v45.3.4",
+ "image": "https://opengraph.githubassets.com/b443441034884197973a5c2c97e1d066857a8efdebcedad2a41eec447884d39f/electron/electron/releases/tag/v45.3.4",
+ "title": "electron v45.3.4",
+ "summary_en": "Release Notes for v45.3.4 Fixes Fixed a leak where right-clicked elements stayed alive after removal. #55503 (Also in 46 )",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T18:58:56Z",
+ "added": "2026-11-20T16:00:50Z",
+ "ai": "",
+ "score": null
+}

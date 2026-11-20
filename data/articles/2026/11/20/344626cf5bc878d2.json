@@ -1,0 +1,19 @@
+{
+ "id": "344626cf5bc878d2",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/JnMHu29jGgLKFR2evLjC1/78307a27bd6c46acef79ed298f2a7478/image__6_.png",
+ "title": "Standard builds move to usage-based billing for new teams",
+ "summary_en": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change. Select a build machine in team settings or project settings , or read more about managing your builds . Read more",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-17T20:00:00Z",
+ "added": "2026-11-20T16:00:50Z",
+ "ai": "",
+ "score": null
+}
