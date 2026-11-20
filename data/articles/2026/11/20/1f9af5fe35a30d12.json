@@ -1,0 +1,19 @@
+{
+ "id": "1f9af5fe35a30d12",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGYnRRqAfAZ2q0dS56dC5lC86Kx69VT0moHy1Pxt67C0ic8RbLOL9LR68b4atQmvb7O6Gq3Btm1axv2aCRaNkhagPKbFHvThWlye3QPpK1xnEj4kovoJn8dsbTlCmAjXOIb8EHV3RJuhNQdVNKRxc4uwiuIfws_a63koiBaCQvs5jwbnTFG8EUwuA0RiA/s1600/git-share.jpg",
+ "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+ "summary_en": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.",
+ "lines": [],
+ "title_mn": "GitDoor ба GraphDoor: GitHub болон SharePoint-ийг нууц удирдлагын суваг болгосон нь илэрлээ",
+ "summary_mn": "Касперский Ази, Африкийн төрийн байгууллагууд руу чиглэсэн Operation ShadowCloud халдлагыг илрүүлжээ. Халдагчид GitHub, SharePoint-ийг C2 серверийн халхавч болгон ашиглаж байжээ.",
+ "body_mn": "Касперскийн аюулгүй байдлын шинжээчид Ази болон Африкийн засгийн газрын салбаруудыг онилсон Operation ShadowCloud нэртэй томоохон кибер ажиллагааг илрүүллээ. Халдагчид албан ёсны MeshCentral Agent хэрэгслийг ашиглан шинээр бүтээсэн GitDoor болон GraphDoor арын хаалгануудыг системд суулгасан байна.\n\nЭдгээр хортой програмууд нь сүлжээний хамгаалалтаас бултаж, хяналтын траффикаа нуухын тулд Microsoft SharePoint, GitHub болон Ably үүлэн үйлчилгээнүүдийн нэрийг барьдаг болох нь тогтоогдсон байна. Тухайлбал, GitDoor нь нийтийн болон хувийн GitHub репозиторийг тушаал хүлээн авах, үр дүнг буцаан цуглуулах хэрэгсэл болгон ашиглаж, санах ой дотроо shellcode ажиллуулах чадвартай 26 өөр командыг дэмждэг аж.\n\nGraphDoor нь системийн мэдээллийг цуглуулж, албан ёсны login.microsoftonline.com-оор дамжин халдагчтай харилцдаг байна. Энэхүү ажиллагааны бэлтгэл ажил дор хаяж 2024 оны сүүлээс хойш хийгдэж байсан шинж тэмдэг илэрчээ.",
+ "published": "2026-11-17T11:20:18Z",
+ "added": "2026-11-20T07:00:09Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

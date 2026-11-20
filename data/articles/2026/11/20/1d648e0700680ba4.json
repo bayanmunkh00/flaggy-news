@@ -1,0 +1,19 @@
+{
+ "id": "1d648e0700680ba4",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoRknesoqi26EwwYMrgBhBudDMiej0sO7-228OvrBIj2ivaPcOUo7GJgoIHAd9fI_VFlK4su0xn1L_BqUgFsldNJgAkQwE4wAvAZzUao-wHUHSoq8NQUo_UdyILYYFoshEgONLhibaGHRQ_cKFVo0Psl1kehyphenhyphenNjlCrkECk16huiU6WecKlpBr0YDN3nus/s1600/iphone-recording.jpg",
+ "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+ "summary_en": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks. Nik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa",
+ "lines": [],
+ "title_mn": "Apple-ийн аудио үйлчилгээний сул тал микрофоны зөвшөөрөлгүйгээр дуу бичих боломж олгожээ",
+ "summary_mn": "Apple-ийн iOS үйлдлийн системд хэрэглэгч микрофоны зөвшөөрөл өгөөгүй байсан ч апп-ууд дуу хураах боломжтой байсан сул тал илэржээ. Судлаачид уг эмзэг байдлын техникийн дэлгэрэнгүйг нийтэлсэн ба Apple холбогдох засварыг гаргасан байна.",
+ "body_mn": "Apple-ийн төхөөрөмжүүдийн аудио үйлчилгээнд байсан сул талын улмаас апп-ууд хэрэглэгчээс микрофоны зөвшөөрөл татгалзсан үед ч нууцаар дуу бичих боломжтой байсныг судлаачид илрүүлжээ. Meta Red Team X-ийн судлаач Ник Цыцаркин болон аюулгүй байдлын инженер Мустафа Калап нар уг эмзэг байдлын техникийн дэлгэрэнгүй мэдээллийг тус тус нийтэлсэн байна. Уг асуудал нь CVE-2026-65339 гэж тэмдэглэгдсэн бөгөөд CISA үүнийг 5.0 оноогоор үнэлжээ.\n\nТуршилтын явцад уг алдаатай хувилбар дээр апп анх нээгдэхэд микрофоны зөвшөөрөл хүссэн цонх гарч ирэх ба хэрэглэгч зөвшөөрөөгүй ч бичлэг эхэлдэг байжээ. Түүнчлэн апп цаана ажиллах горимд шилжихэд эсвэл дэлгэц түгжигдсэн үед ч бичлэг нь үргэлжилдэг байсан бөгөөд энэ үед дэлгэц дээр гарах ёстой улбар шар өнгийн микрофон ажиллаж буйг илтгэх тэмдэглэгээ гарч ирэхгүй байсан нь нууцлалын томоохон эрсдэл үүсгэсэн байна.\n\nЭнэхүү сул тал нь зөвхөн iOS болон iPadOS төхөөрөмжүүдийн аудио үйлчилгээнд нөлөөлж байсан бөгөөд хэрэглэгчийн бусад хувийн мэдээлэлд шууд хандах эрх олгоогүй байна. Судлаачдын зүгээс уг асуудлыг шийдвэрлэхийн тулд хэрэглэгчдэд системийн хамгийн сүүлийн үеийн шинэчлэлтүүдийг яаралтай суулгахыг зөвлөж байгаа юм.",
+ "published": "2026-11-17T12:14:36Z",
+ "added": "2026-11-20T07:00:09Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

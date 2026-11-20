@@ -1,0 +1,19 @@
+{
+ "id": "d0eb7284dbc11827",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Schneier on Security",
+ "source_label": "Schneier on Security",
+ "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
+ "image": "",
+ "title": "Formal Verification of the Signal Protocol Using AI",
+ "summary_en": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world’s communications on platforms like the Signal app, Google Messages, and WhatsApp. And it demonstrates Google DeepMind’s formal…",
+ "lines": [],
+ "title_mn": "Google DeepMind агент AI ашиглан Signal протоколын криптографийг математикаар нотлов",
+ "summary_mn": "Google DeepMind-ийн судлаачид AlphaProof Code тогтолцоо болон агент AI-ийн тусламжтайгаар Signal протоколын криптограф баталгааг дөрөвхөн долоо хоногт албан ёсоор бүрэн нотолжээ.",
+ "body_mn": "Google DeepMind-ийн судлаачид агент бүтэцтэй хиймэл оюуныг ашиглан Signal криптограф протоколын аюулгүй байдлын баталгааг математикийн үүднээс албан ёсоор баталгаажуулснаа (formal verification) зарлалаа. Энэхүү ажлыг AlphaProof Code нэртэй шинэ AI тогтолцоог ашиглан дөрөвхөн долоо хоногийн дотор хийж гүйцэтгэсэн нь салбарын хэмжээнд томоохон үйл явдал болж байна.\n\nСудлаачид Signal-ийн аюулгүй байдлын шаардлагуудыг эхлээд албан ёсны математик томьёолол болгон хөрвүүлж, дараа нь Gemini Carbon загвараар ажилладаг AI агентуудаар кодын нарийвчлалыг нотлох Lean хэл дээр 6 сая гаруй мөр баталгааг гаргуулжээ. Улмаар шинжээчид системийн ердөө 1 хувьтай тэнцэх хүний хяналт шаардлагатай хэсгийг гараар шалгаснаар асар их цаг хугацаа хэмнэсэн байна.\n\nШинжилгээгээр Signal протоколын өнөөгийн хувилбараас шинэ эмзэг байдал илрээгүй боловч өмнө нь засагдсан хуучин хувилбаруудын алдааг тус AI систем алдаагүй илрүүлж чадсан байна. Энэхүү туршилт нь өндөр хамгаалалт шаардсан программ хангамжийн найдвартай байдлыг хиймэл оюунаар шалгах өргөн боломжийг харууллаа.",
+ "published": "2026-11-17T12:05:43Z",
+ "added": "2026-11-20T07:00:09Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

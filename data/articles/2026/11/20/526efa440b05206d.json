@@ -1,0 +1,19 @@
+{
+ "id": "526efa440b05206d",
+ "section": "uiux",
+ "subtopic": "design-systems",
+ "source": "Smashing Magazine",
+ "source_label": "Smashing Magazine",
+ "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+ "image": "https://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
+ "title": "Meet AI 2027 Conference (Dec 1)",
+ "summary_en": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+ "lines": [],
+ "title_mn": "SmashingConf-оос загвар зохион бүтээгчдэд зориулсан AI 2027 бага хурлыг зарлалаа",
+ "summary_mn": "SmashingConf 2026 оны 12-р сарын 1-нд UX дизайн болон Design System инженерүүдэд хиймэл оюуны ажлын урсгалыг танилцуулах хагас өдрийн цахим бага хурлыг зохион байгуулна.",
+ "body_mn": "SmashingConf баг хиймэл оюун ухааны бүтээгдэхүүн хөгжүүлэлтийн өнөөгийн байдал болон ирээдүйн чиг хандлагыг хэлэлцэх AI 2027 онлайн бага хурлыг 2026 оны 12-р сарын 1-нд зохион байгуулахаар зарлалаа.\n\nЭнэхүү хагас өдрийн арга хэмжээ нь UX дизайнерууд, фронтенд инженерүүд болон Design System зохион бүтээгчдэд чиглэсэн бөгөөд практик туршлагад тулгуурласан илтгэлүүдийг хүргэхээрээ онцлогтой. Хурлаар AI-д бэлтгэсэн дизайн систем, Figma болон хиймэл оюуны уялдаа холбоо, хиймэл оюуны агенттай харьцах UX загваруудыг хэлэлцэнэ.\n\nИлтгэгчид өдөр тутмын бодит ажлын орчин, хиймэл оюуны алдаа мадгийг хэрхэн бууруулах, LLM болон дуу дүрсний технологийг бодит бүтээгдэхүүнд хэрхэн зөв нэвтрүүлэх талаар практик зөвлөгөө хуваалцах юм.",
+ "published": "2026-11-17T12:00:00Z",
+ "added": "2026-11-20T07:00:09Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

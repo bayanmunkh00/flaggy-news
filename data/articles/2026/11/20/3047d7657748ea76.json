@@ -1,0 +1,19 @@
+{
+ "id": "3047d7657748ea76",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+ "image": "",
+ "title": "Introducing ChatGPT for Sales",
+ "summary_en": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+ "lines": [],
+ "title_mn": "OpenAI борлуулалтын багт зориулсан ChatGPT for Sales шийдлийг танилцууллаа",
+ "summary_mn": "OpenAI борлуулалтын мэргэжилтнүүдэд зориулсан шинэ нэмэлт болон түншүүдийн 30 гаруй плагиныг ChatGPT-д нэвтрүүлснээ зарлалаа.",
+ "body_mn": "OpenAI компани борлуулалтын багуудад зориулсан шинэ Sales нэмэлт болон 30 гаруй түншийн өргөтгөлийг ChatGPT платформдоо албан ёсоор нэвтрүүллээ.\n\nЭнэхүү шинэ боломж нь борлуулалтын менежерүүдэд боломжит худалдан авагчдыг судлах, борлуулалтын санал бэлтгэх, CRM системээ шинэчлэх, хэлцлийг урагшлуулахад дэмжлэг үзүүлэх зорилготой юм.",
+ "published": "2026-11-17T08:00:00Z",
+ "added": "2026-11-20T07:00:09Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
