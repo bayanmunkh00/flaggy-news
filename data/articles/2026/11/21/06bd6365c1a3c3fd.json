@@ -1,0 +1,19 @@
+{
+ "id": "06bd6365c1a3c3fd",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Schneier on Security",
+ "source_label": "Schneier on Security",
+ "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+ "image": "",
+ "title": "France Is Blaming Iran for the Fridge Cyberattack",
+ "summary_en": "Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary…",
+ "lines": [],
+ "title_mn": "Франц улс хөргөгчний кибер халдлагыг Ирантай холбож үзэж байна",
+ "summary_mn": "Америкийн тагнуулын байгууллагууд Франц дахь ухаалаг төхөөрөмжүүдийн кибер халдлагын цаана Иран улс байж болзошгүй гэж үзэж байгаа аж. Гэхдээ уг дүгнэлт одоогоор хангалттай нотолгоо дутуу буюу сул түвшинтэй байна.",
+ "body_mn": "АНУ-ын тагнуулын байгууллагууд Франц улсад гарсан кибер халдлагыг Иран улс үйлдсэн байх магадлалтай гэж үзэж байгаагаа илэрхийлжээ. Гэвч энэхүү мэдээлэл нь одоогоор хэсэг бусаг баримт дээр суурилсан, \"хангалтгүй баталгаатай\" буюу сул түвшинтэй үнэлгээ ажээ. Мөрдөн шалгах ажиллагаа үргэлжилж байгаа бөгөөд нөхцөл байдал өөрчлөгдөх боломжтой байна.\n\nАлбаныхны мэдээлснээр уг халдлагыг Ираны тусгай анги нэгтгэл гэхээргүй ерөнхийд нь тус улстай холбож үзэж байгаа юм. Мөн Европын бусад оронд гарсан үүнтэй төстэй халдлагуудын цаана ч Иран байж болзошгүй гэж таамаглаж байгаа боловч тэдгээрийн мөрдөн шалгах ажиллагаа дөнгөж эхэн шатандаа яваа ажээ.\n\nФранцын CERT байгууллагын гаргасан тайланд өмнө нь ашиглаж байсан арга барил давтагдсан бөгөөд кодын сан дотор Farsi хэлний ул мөр үлдсэн болохыг дурдсан байна. Гэсэн хэдий ч кибер халдлагын үед бусдыг гүтгэх буюу хуурамч ул мөр үлдээх (false flag) явдал түгээмэл байдаг тул эцсийн дүгнэлт хийхэд эрт байна.",
+ "published": "2026-11-18T12:05:35Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "16d1e418da7ea1b7",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLKVaRRp02L2STeR4kakGeA1NJokTtxw2aLU4wBLS34vltviR8gV4eUjk0QJ9jDVbiS_2hSeDQCwIR_JoCzPzUt-FSNUNpaKNtHpKiMugkRAMwOIbl4FbcL5iE7KCe1hebNbJRTxqO5xQkEFBuDI6F8FnsnYfreljrQlHHXuKBEN0suJZeuIf8heda5wY/s1600/chinese.jpg",
+ "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+ "summary_en": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with every recompile, a domain costs a few",
+ "lines": [],
+ "title_mn": "Засгийн газрын байгууллагуудад чиглэсэн шинэ EggStreme хортой программ гарчээ",
+ "summary_mn": "Филиппиний төрийн байгууллагуудад кибер халдлага үйлдэж буй EggStreme хортой программ хэрэгслээ бүрэн шинэчилжээ. Шинэ хувилбар нь хамгаалалтын хэрэгслүүдээс зайлсхийхийн тулд дуудлага хийдэггүй буюу хүлээх горимд шилжсэн байна.",
+ "body_mn": "Хятадын кибер халдлага үйлдэгч APT бүлэглэлийн ашигладаг EggStreme хортой программын хэрэгсэл шинэчлэгдэж, Филиппиний засгийн газрын байгууллагуудад дахин халдаж эхэлжээ. Bitdefender компаниас мэдээлснээр халдагчид илэрсэн даруйдаа өөрсдийн дэд бүтцээ өөрчилж, протокол болон команд хэрэгслээ сайжруулсан байна.\n\nШинэ EggStreme агентууд нь статик гарын үсэг болон эвристик илрүүлэлтээс зайлсхийх зорилгоор гадаад руу холбогдох буюу сигналь явуулдаггүй passive буюу идэвхгүй горимд ажиллах чадвартай болжээ. Оронд нь тус программ нь порт нээгээд халдагчийг холбогдохыг хүлээдэг байна. Мөн DLL sideloading арга техник ашиглан payload ажиллуулдаг аж.\n\nХалдагчид байгууллагын дотоод сүлжээнд нэвтрэхийн тулд хүчинтэй эрх болон удирдамжаас гадуурх системүүдийг ашиглан хажуу тийш шилжих (lateral movement) үйлдэл хийж байна. Энэхүү шинэ хувилбарт өмнө нь ажиглагдаж байсан keylogger буюу товчлуурын даралтыг бүртгэгч хэрэгсэл хасагдсан нь аюулгүй байдлын шинжилгээнээс илүү сайн нуугдах боломжийг олгож байна.",
+ "published": "2026-11-18T14:11:28Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

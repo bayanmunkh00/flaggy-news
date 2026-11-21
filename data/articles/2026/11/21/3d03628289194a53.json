@@ -1,0 +1,19 @@
+{
+ "id": "3d03628289194a53",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "CNN",
+ "url": "https://edition.cnn.com/2026/11/18/investing/anthropic-ipo-wall-street-ai",
+ "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304315109.jpg?c=16x9&q=w_800,c_fill",
+ "title": "Anthropic’s Wall Street debut marks a new chapter for AI",
+ "summary_en": "Anthropic’s Wall Street debut marks a new chapter for AI CNN",
+ "lines": [],
+ "title_mn": "Anthropic компани түүхэн дэх хамгийн том хувьцааны анхдагч гаргалтаа хийлээ",
+ "summary_mn": "Claude AI чатботыг бүтээгч Anthropic компани пүрэв гарагт хөрөнгийн биржид хувьцаагаа гаргаж, түүхэн дэх хамгийн том IPO-г хийхээр болжээ. Энэхүү үйл явдал нь хиймэл оюун ухааны салбарт шинэ хуудас нээж байна.",
+ "body_mn": "Claude хиймэл оюун ухааны чатботыг хөгжүүлэгч Anthropic компани пүрэв гарагт хөрөнгийн бирж дээр хувьцаагаа олон нийтэд санал болгож эхлэхээр боллоо. Энэ нь технологийн болон хиймэл оюун ухааны салбарын түүхэн дэх хамгийн том хувьцааны анхдагч гаргалт (IPO) болох юм.\n\nЭнэхүү алхам нь компанийн цаашдын санхүүжилт болон зах зээл дэх байр суурийг улам бэхжүүлж, хөрөнгө оруулагчдын зүгээс хиймэл оюун ухааны технологид хэрхэн хандаж буйг харуулах чухал шалгуур болж байна.\n\nAnthropic-ийн Wall Street дэх энэхүү дебют нь хиймэл оюун ухааны салбарт хөрөнгө оруулалт шинэ түвшинд гарч байгааг илтгэж байна.",
+ "published": "2026-11-18T16:48:38Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

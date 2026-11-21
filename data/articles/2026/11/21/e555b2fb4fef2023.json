@@ -1,0 +1,19 @@
+{
+ "id": "e555b2fb4fef2023",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.55.1",
+ "image": "https://opengraph.githubassets.com/d7cd756f8da9d51af97c24140a4c122b07ab281010cae1d152983b037828008e/openai/openai-python/releases/tag/v3.55.1",
+ "title": "openai-python v3.55.1",
+ "summary_en": "3.55.1 (2026-11-18) Chores api: document CSAM moderation response fields ( #4290 ) ( d6b93f3 ) deps-dev: bump pytest-asyncio from 1.4.1 to 1.4.1.post1 ( #4274 ) ( 231a92a ) deps: bump github/codeql-action/init from 4.39.1 to 4.39.3 ( #4275 ) ( f777185 ) deps: bump the python-security group across 1 directory with 2 updates ( #4267 ) ( ed1d6b6 )",
+ "lines": [],
+ "title_mn": "openai-python v3.55.1 хувилбар шинэчлэгдэн гарлаа",
+ "summary_mn": "OpenAI Python сангийн v3.55.1 хувилбар гарч, CSAM зохицуулалтын хариуны талбаруудыг баримтжуулж, хөгжүүлэлтийн хамаарлуудыг шинэчиллээ.",
+ "body_mn": "OpenAI-аас Python хөгжүүлэгчдэд зориулсан openai-python сангийн v3.55.1 хувилбарыг албан ёсоор гаргалаа. Энэхүү шинэ хувилбарт API баримт бичгийг сайжруулж, хүүхдийн бэлгийн хүчирхийллийн материалтай (CSAM) холбоотой зохицуулалтын хариуны талбаруудыг нэмж баримтжуулжээ.\n\nҮүнээс гадна хөгжүүлэлтийн болон аюулгүй байдлын хамаарлуудыг шинэчилсэн байна. Тухайлбал pytest-asyncio болон github/codeql-action санг шинэчилж, Python аюулгүй байдлын бүлгийн багцуудад засвар оруулжээ. Хөгжүүлэгчид уг шинэ хувилбарыг төсөлдөө ашиглан багцуудаа шинэчлэх боломжтой.",
+ "published": "2026-11-18T16:04:26Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

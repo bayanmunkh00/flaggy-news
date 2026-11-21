@@ -1,0 +1,19 @@
+{
+ "id": "00a064e6720eae62",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-1440x810.png",
+ "title": "The Gemini app is now available on lower-memory Android devices.",
+ "summary_en": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+ "lines": [],
+ "title_mn": "Gemini апп санах ой багатай Android төхөөрөмжүүдэд ашиглагдах боломжтой боллоо",
+ "summary_mn": "Google компани Gemini аппаа санах ой багатай Android (Go edition) төхөөрөмжүүдэд зориулан шинэчлэн бүтээжээ. Үүний үр дүнд олон сая хэрэглэгчид Gemini Live, камераар орчуулах зэрэг дэвшилтэт боломжуудыг ашиглах боломжтой боллоо.",
+ "body_mn": "Google компани дэлхий даяарх сая сая хэрэглэгчдийн өдөр тутмын хэрэгцээ болсон санах ой багатай Android төхөөрөмжүүдэд зориулсан Gemini аппыг албан ёсоор гаргалаа. Техник хангамжийн хязгаарлалтаас шалтгаалж өмнө нь зөвхөн энгийн дуут командын боломжтой байсан бол одоо үндсэн Gemini туршлагыг санах ой багатай Android (Go edition) төхөөрөмжүүдэд саадгүй ажиллахаар шинэчлэн хөгжүүлжээ.\n\nШинэ хувилбарын тусламжтайгаар хэрэглэгчид урт текст бичих шаардлагагүйгээр Gemini Live ашиглан 45 гаруй хэлээр ярилцаж, ярилцлагад бэлтгэх, камераа ашиглан тэмдэглэл болон маягт орчуулах, мөн NanoBanana ашиглан дурын зураг үүсгэх боломжтой болсон байна. Энэхүү аппыг Google Play-гээс татаж авах боломжтой бөгөөд ирээдүйд Transsion зэрэг түншүүдийн төхөөрөмжүүдэд урьдчилан суулгагдсан байдлаар гарах ажээ.\n\nЭнэхүү шинэчлэл нь хиймэл оюун ухааны технологи илүү олон хүнд хүртээмжтэй болоход чухал алхам болж байна.",
+ "published": "2026-11-18T17:00:00Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

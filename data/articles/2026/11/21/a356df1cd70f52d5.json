@@ -1,0 +1,19 @@
+{
+ "id": "a356df1cd70f52d5",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "PortSwigger Research",
+ "source_label": "PortSwigger Research",
+ "url": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
+ "image": "https://portswigger.net/cms/images/34/15/5aee-twittercard-impossible-lab-twitter.png",
+ "title": "Achieving the impossible: XSS in innerHTML without equals",
+ "summary_en": "Introduction I'm delighted to introduce Masato Kinugawa as a guest web security researcher on the PortSwigger research channel. Masato is a well known web security expert who has found countless high",
+ "lines": [],
+ "title_mn": "innerHTML дотор тэнцүүгийн тэмдэггүйгээр XSS халдлага үйлдэх нь",
+ "summary_mn": "Веб аюулгүй байдлын судлаач Масато Кинугава innerHTML контекстэд тэнцүүгийн тэмдэг ашиглалгүйгээр JavaScript код ажиллуулах боломжгүй гэж тооцогдож байсан сорилтыг шийджээ.",
+ "body_mn": "ПортСвиггерын судалгааны хэсгээс веб аюулгүй байдлын нэрт судлаач Масато Кинугавагийн зочин нийтлэлийг толилуулжээ. 2020 онд Гарет Хейс боломжгүй гэж үзсэн веб халдлагуудын жагсаалтыг гаргаж байсан бөгөөд тэдгээрийн нэг нь innerHTML дотор түлхүүр үг буюу тэнцүүгийн тэмдэг (=) оруулах боломжгүй үед JavaScript код ажиллуулах сорилт байв.\n\nСудлаач саяхан Chrome болон Safari браузеруудад шинээр нэвтэрсэн <selectedcontent> элементийг ашиглан энэхүү хүндрэлийг даван туулж чадсан байна. Энэхүү элемент нь сонгогдсон <option> элементийн дотоод хэсгийг хуулбарлах (clone) өвөрмөц чадвартай ажээ.\n\nХэдийгээр уг арга нь Chrome браузерын шинэ хувилбаруудад хаалттай байгаа боловч Safari 27.2 хувилбар дээр одоогоор амжилттай ажиллаж байгаа аж. Судлаачийн олж илрүүлсэн энэхүү аргын дэлгэрэнгүй мэдээлэл нь DOMPurify болон бусад шүүлтүүрийг тойрч гарахад ямар цоорхой үүсч болохыг харуулсан чухал жишээ болж байна.",
+ "published": "2026-11-18T14:39:45Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

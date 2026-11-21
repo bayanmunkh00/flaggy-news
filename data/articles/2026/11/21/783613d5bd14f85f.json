@@ -1,0 +1,19 @@
+{
+ "id": "783613d5bd14f85f",
+ "section": "software",
+ "subtopic": "tauri",
+ "source": "tauri-apps/tauri",
+ "source_label": "tauri-apps/tauri",
+ "url": "https://github.com/tauri-apps/tauri/releases/tag/tauri-v2.12.7",
+ "image": "https://opengraph.githubassets.com/5431bbfa55bf09eeff8cf3f91240252455997ccba0020eb3a3b2671f116aedfa/tauri-apps/tauri/releases/tag/tauri-v2.12.7",
+ "title": "tauri v2.12.7",
+ "summary_en": "Cargo Audit Fetching advisory database from `https://github.com/RustSec/advisory-db.git` Loaded 1533 security advisories (from /home/runner/.cargo/advisory-db) Updating crates.io index Scanning Cargo.lock for vulnerabilities (1029 crate dependencies) Crate: chrono Version: 0.4.41 Warning: unmaintained Title: chrono is unmaintained Date: 2026-09-14 ID: RUSTSEC-2026-0543 URL: https://rustsec.org/advisories/RUSTSEC-2026-0543 Solution: No fixed upgrade is available! Crate: fxhash Version: 0.2.1 Warning: unmaintained Title: fxhash - no longer maintained Date: 2025-09-05 ID: RUSTSEC-2025-0057 URL…",
+ "lines": [],
+ "title_mn": "Tauri v2.12.7 хувилбар шинэчлэгдэн гарлаа",
+ "summary_mn": "Tauri хүрээний v2.12.7 хувилбар гарч, дотоод хамаарлуудыг шинэчлэн сайжрууллаа. Энэхүү хувилбарт Cargo аудит хийж, зарим ашиглагдахаа больсон болон хуучирсан сангуудыг шалгажээ.",
+ "body_mn": "Tauri хөгжүүлэлтийн баг v2.12.7 хувилбараа албан ёсоор гаргалаа. Шинэ хувилбарт tauri-utils, tauri-runtime, tauri-runtime-wry, tauri-macros болон tauri-build зэрэг үндсэн хамаарлуудыг шинэчилсэн байна.\n\nШинэ хувилбарыг гаргах явцад Cargo audit ашиглан 1029 багц хамаарлыг шалгаж, аюулгүй байдлын болон засвар үйлчилгээ хийгдэхээ больсон зарим сангуудын анхааруулгыг шүүжээ. Тухайлбал, chrono, fxhash, paste, pin-utils, rustybuzz болон tauri-parser зэрэг санг шинэчлэх шаардлагатай байгааг тэмдэглэжээ.\n\nХөгжүүлэгчид энэхүү шинэ хувилбарт шилжсэнээр Tauri суурь платформын тогтвортой байдал болон гүйцэтгэлийг сайжруулах боломжтой болж байна.",
+ "published": "2026-11-18T12:37:34Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

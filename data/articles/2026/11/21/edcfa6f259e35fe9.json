@@ -1,0 +1,19 @@
+{
+ "id": "edcfa6f259e35fe9",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/when-everything-has-changed/",
+ "image": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png",
+ "title": "When Everything Has Changed, What Do We Do Next?",
+ "summary_en": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is … When Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "lines": [],
+ "title_mn": "Технологийн салбар өөрчлөгдөж буй энэ үед бид юу хийх ёстой вэ?",
+ "summary_mn": "Хиймэл оюун ухааны хөөсрөлт болон технологийн гигантуудын бодлогоос шалтгаалан програм хангамжийн салбар тэр чигтээ өөрчлөгдөж байна. Энэхүү өөрчлөлтийн үр нөлөө хөгжүүлэгчид болон нээлттэй эх сурвалжийн хамтын нийгэмлэгт хэрхэн нөлөөлж байгааг авч үзжээ.",
+ "body_mn": "Технологийн салбар сүүлийн жилүүдэд томоохон өөрчлөлтүүдийг туулж байна. Microsoft, Meta зэрэг компаниуд болон OpenAI, Anthropic зэрэг хиймэл оюун ухааны стартапууд технологийн ертөнцийг тэр чигтээ өөрчилсөн нь хөгжүүлэгчдийн ажилд хүчтэй нөлөөлж байна.\n\nLLM буюу том хэлний загваруудыг хаа сайгүй нэвтрүүлэх оролдлого нь өндөр өртөгтэй бөгөөд амласан үр дүнгээ бүрэн өгч чадахгүй байгааг компаниуд ойлгож эхэлжээ. Гэсэн хэдий ч AI ашиглан бүтээгдэхүүний хэмжээг нэмэгдүүлэх шаардлага хөгжүүлэгчдэд хүндээр тусаж, салбарынхны сэтгэл ханамж буурахад хүргээд байна.\n\nҮүнээс гадна нээлттэй эх сурвалж болон мэдлэг хуваалцах соёлд сөргөөр нөлөөлж байна. Зарим хүмүүс \"AI байхад би юм сурах шаардлагагүй\" гэж үзэх болсон нь урт хугацаандаа хөгжүүлэгчийн карьерт хортой тусах эрсдэлтэй юм. Технологийн хурдацтай өөрчлөлтийн энэ үед хувь хүний ур чадвар болон хамтын нийгэмлэгийн үнэ цэнийг хадгалж үлдэх нь чухал хэвээр байна.",
+ "published": "2026-11-18T14:55:21Z",
+ "added": "2026-11-21T12:30:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
