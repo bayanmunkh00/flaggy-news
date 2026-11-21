@@ -1,0 +1,19 @@
+{
+ "id": "533b590042a01508",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LozO7RAz13Jr3eqWHIjlAF6M0Cs-mJXX2mKUqU0TxVS02piD1na92TAZjICmeySD4z0zS-Y_BFvceERBdk-UZvV1DUh1LGN6wK-T-yt_TROJ5fcuvROu807jqESQo93CFP3faBbReKMZQxvgYOAGl_vS2VzfO67O24NdAgh6d9jMO2mTSy2jaNJMPD9T/s1600/ms-python.jpg",
+ "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+ "summary_en": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
+ "lines": [],
+ "title_mn": "Microsoft-ын агентын хүрээний PyPI сан хакердагдаж, үүлэн мэдээлэл алдагджээ",
+ "summary_mn": "Microsoft-ын албан ёсны agent-framework PyPI санд халдагчид хортой код суулгаж, хөгжүүлэгчдийн үүлэн үйлчилгээ болон GitHub хандалтын эрхийг хулгайлдаг болгожээ.",
+ "body_mn": "Microsoft-ын нээлттэй эх сурвалж бүхий AI агент хөгжүүлэх Agent Framework сангийн PyPI дээрх албан ёсны хувилбарууд хакердагдаж, хортой программ агуулсан болохыг олон аюулгүй байдлын компаниуд мэдээллээ. Хортой 1.26.1 болон 1.26.2 хувилбарууд нь Python эхлэх бүрт ажиллаж, хэрэглэгчийн итгэмжлэл болон үүлэн үйлчилгээний мэдээллийг хулгайлахаар бүтээгдсэн байна.\n\nСудлаачдын тогтоосноор, эдгээр хувилбарууд нь санд .pth файлыг суулгадаг бөгөөд Python орчин эхлэх бүрт автоматаар ажиллаж эхэлдэг аж. Уг хортой код нь локал диск дээрх мэдээллээс гадна Azure DevOps pipeline болон Azure compute орчны үүлэн эрхүүдийг шалгаж, федератив токен болон GitHub Actions OIDC токенуудыг цуглуулан гадны сервэр рүү илгээдэг байна.\n\nЭнэхүү сан нь сард ойролцоогоор 190,000 татагддаг томоохон сан тул хөгжүүлэгчид системийнхээ аюулгүй байдлыг яаралтай шалгаж, холбогдох арга хэмжээ авахыг анхааруулж байна.",
+ "published": "2026-11-18T06:45:26Z",
+ "added": "2026-11-21T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

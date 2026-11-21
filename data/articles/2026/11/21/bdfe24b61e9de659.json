@@ -1,0 +1,19 @@
+{
+ "id": "bdfe24b61e9de659",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/parallel-web-search-is-free-on-ai-gateway-and-eve-through-january-31",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1JYJ9wk75kgyze16wuPDft/afc58a2c25240e39277e82324afe8e68/parallel_og_final.png",
+ "title": "Parallel web search is free on AI Gateway and eve through January 31",
+ "summary_en": "Parallel web search in fast mode is now free on AI Gateway through January 31, 2027, and Parallel is now the default web search for eve agents. The tool works with any AI Gateway model, with no separate Parallel API key. Parallel finds relevant web pages and returns links with short excerpts. You can filter results by website or publication date. In eve, the built-in web_search tool uses Parallel fast mode automatically when the model is served through AI Gateway. See the eve documentation for other search configurations. To use Parallel fast mode with the AI SDK, add…",
+ "lines": [],
+ "title_mn": "AI Gateway дээр Parallel вэб хайлтыг 1 дүгээр сар хүртэл үнэгүй болголоо",
+ "summary_mn": "Vercel AI Gateway дээр Parallel вэб хайлтын хурдан горим 2027 оны 1 дүгээр сарын 31 хүртэл үнэгүй боллоо. Энэ нь eve агентуудын үндсэн хайлт юм.",
+ "body_mn": "Vercel платформ AI Gateway дээр ажилладаг Parallel вэб хайлтын хурдан горимыг 2027 оны 1 дүгээр сарын 31 хүртэл үнэгүй болгосноо зарлалаа. Мөн Parallel нь eve агентуудын хувьд үндсэн вэб хайлтын хэрэгсэл болж байна.\n\nЭнэхүү хэрэгсэл нь ямар ч Parallel API түлхүүргүйгээр AI Gateway-ийн дурын загвартай хамт ажиллах боломжтой. Parallel нь холбогдох вэб хуудсыг олж, богино хэсэг болон холбоосыг буцаадаг бөгөөд хэрэглэгчид вэбсайтаар эсвэл нийтлэгдсэн огноогоор шүүлт хийх боломжтой.\n\nAI Gateway дээр үйлчилж буй загваруудын хувьд Data Retention (Өгөгдөл хадгалалт)-ыг анхдагчаар хаасан байдаг. Хөгжүүлэгчид AI SDK ашиглан параллель хайлтын горимыг өөрийн төсөлд хялбархан нэгтгэх боломжтой юм.",
+ "published": "2026-11-18T05:00:00Z",
+ "added": "2026-11-21T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "53d809d7420a3923",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/customer-stories/sumitomo-life",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/4hobAtsV8r9aiWOWQkUYu6/aec1eae52f5c7241756a43c764ef43f5/sumitomo-life-seo-white-canvas-final.png?w=1600&h=900&fit=fill",
+ "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+ "summary_en": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+ "lines": [],
+ "title_mn": "Sumitomo Life компани ChatGPT Enterprise ашиглан ажлын бүтээмжээ нэмэгдүүлжээ",
+ "summary_mn": "Японы алдарт Сумимото Лайф даатгалын компани ChatGPT Enterprise-ийг албан ёсоор нэвтрүүлж, төлөвлөлт болон хөрөнгө оруулалтын багийнхаа бүтээмжийг өндөр түвшинд хүргэжээ.",
+ "body_mn": "Японы томоохон даатгалын компани болох Sumitomo Life ажилчдынхаа өдөр тутмын үйл ажиллагаанд ChatGPT Enterprise системийг амжилттай нэвтрүүлжээ. Тус компани 2025 онд туршилтын журмаар ашиглаж эхэлсэн бол 2026 оны 6 дугаар сараас эхлэн албан ёсоор байгууллагаараа нэвтрүүлж, санхүүгийн салбарын аюулгүй байдлын өндөр шаардлагыг хангаж ажиллаж байна.\n\nТөлөвлөлтийн болон санхүүгийн багууд гадаад зах зээлийн судалгаа хийх, тайлан бэлтгэхэд ChatGPT-ийг өргөнөөр ашиглаж байна. Тухайлбал, хөрөнгө оруулалтын багийнхан эрсдэлийн шинжилгээ хийхэд шаардлагатай код бичихэд хиймэл оюун ухааны тусламж авч, гар ажиллагаа болон цагийг үлэмж хэмнэлттэйгээр бууруулжээ.\n\nУдирдлагын түвшнийхэн өөрсдөө санаачлан эхлүүлсэн энэхүү туршлага нь ажилтнууд шинэ технологийг нэвтрүүлэхэд эерэг нөлөө үзүүлж, гарсан үр дүнгээ тооцоолоход ажилтнуудын цаг хэмнэсэн үзүүлэлт өндөр гарсан байна.",
+ "published": "2026-11-18T08:00:00Z",
+ "added": "2026-11-21T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

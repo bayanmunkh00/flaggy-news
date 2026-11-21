@@ -1,0 +1,19 @@
+{
+ "id": "f08904b41feeb6e9",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.55.0",
+ "image": "https://opengraph.githubassets.com/7b8c0c00e756d45749b1744a35bc17c855aa0d38476bdf6834f6fff9cc6e31c6/openai/openai-python/releases/tag/v3.55.0",
+ "title": "openai-python v3.55.0",
+ "summary_en": "3.55.0 (2026-11-18) Features api: add Live MCP server configuration ( #4280 ) ( f56a67f ) api: hide Managed Agents session budget controls and events ( #4289 ) ( b78d3eb )",
+ "lines": [],
+ "title_mn": "openai-python v3.55.0 хувилбар гарлаа",
+ "summary_mn": "openai-python сангийн 3.55.0 хувилбар гарч, Live MCP сервер тохиргоо болон удирдлагын агентын сессийн төсвийн хяналтыг шинэчиллээ.",
+ "body_mn": "OpenAI-ийн Python хэлэнд зориулсан албан ёсны openai-python сангийн 3.55.0 шинэ хувилбар албан ёсоор цацагдлаа. Энэхүү шинэчлэлтээр хөгжүүлэгчдэд хэрэгтэй хэд хэдэн чухал боломжууд болон сайжруулалтууд нэмэгдсэн байна.\n\nТухайлбал, API хэсэгт Live MCP (Model Context Protocol) сервер тохируулах боломж шинээр нэмэгдсэн нь агентуудын ажиллах орчныг өргөжүүлж байна. Мөн Managed Agents буюу удирдлагатай агентуудын сессийн төсвийн хяналт болон холбогдох үйл явдлуудыг нуух боломжийг бүрдүүлжээ.\n\nЭнэхүү хувилбар нь хиймэл оюун ухааны агентуудыг хөгжүүлэх болон OpenAI API-тай ажиллах чадамжийг улам сайжруулж байгаа юм.",
+ "published": "2026-11-18T05:21:54Z",
+ "added": "2026-11-21T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

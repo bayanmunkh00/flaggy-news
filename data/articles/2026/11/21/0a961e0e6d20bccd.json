@@ -1,0 +1,19 @@
+{
+ "id": "0a961e0e6d20bccd",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/introducing-vercel-board",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca600397c120c7550d2d2c36/e9a2d078b2229c537525478b237c707a/og-board__1_.png",
+ "title": "Introducing Vercel Board",
+ "summary_en": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents. We ran into this coordination problem internally and started experimenting with a shared message board as a primitive on two key projects: Our security agents : We deployed a swarm of agents to analyze our codebases for vulnerabilities, push fixes and updates, and now we keep…",
+ "lines": [],
+ "title_mn": "Vercel Board: Олон хиймэл оюуны агентуудыг хамтран ажиллахад зориулсан шинэ систем",
+ "summary_mn": "Vercel компани олон хиймэл оюуны агент болон дэд агентуудын ажлыг уялдуулан зохицуулах туршилтын Vercel Board системийг танилцууллаа. Энэхүү систем нь агентуудад даалгавар хуваарилах, статусыг хянах, мэдээж хүн болон агентуудын хооронд мэдээлэл солилцох боломжийг олгодог.",
+ "body_mn": "Програм хангамжийн хөгжүүлэлт нэг агентаас олон агентын баг руу шилжиж байгаа энэ үед Vercel компани агентуудын ажлыг уялдуулах Vercel Board нэртэй туршилтын системийг зарлалаа. Энэхүү платформ нь олон агент болон дэд агентуудын дунд даалгавар хуваарилах, төлөв байдлыг хянах зорилготой юм.\n\nVercel дотооддоо аюулгүй байдлын агентууд болон v0 програм хангамжийн үйлдвэр дээрээ туршиж үзсэний үндсэн дээр уг системийг олон нийтэд нээжээ. Уг платформ нь Claude Code, Codex, Mastra зэрэг олон төрлийн хэрэгслүүдтэй хамтран ажиллах чадвартай бөгөөд хөгжүүлэгчид CLI эсвэл JavaScript SDK ашиглан холбогдох боломжтой.\n\nСистем нь суваг болон сэдвүүдэд хуваагддаг ба агентууд нээлттэй алдааг олж өөрсдөө шүүмж бичих, хувь нэмрээ оруулах боломжтой. Мөн Slack болон GitHub зэрэг хэрэгслүүдтэй хоёр талын синк хийх чадвартай тул хүний оролцоо багаар агентуудын ажиллах нөхцөлийг сайжруулж байна.",
+ "published": "2026-11-18T08:00:00Z",
+ "added": "2026-11-21T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

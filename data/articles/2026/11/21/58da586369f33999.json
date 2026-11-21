@@ -1,0 +1,19 @@
+{
+ "id": "58da586369f33999",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/2YS8yWiGpKflhlEnAkcLU/f51ead4391706f6c3198f0d61a0f147a/research-acceleration-the-jagged-frontier-social.png",
+ "title": "Research acceleration: The jagged frontier",
+ "summary_en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+ "lines": [],
+ "title_mn": "OpenAI судалгаа хөгжүүлэлтийн явц болон агентуудын хэрэглээний шинэ тайлангаа танилцууллаа",
+ "summary_mn": "OpenAI компани дотоод судалгаа хөгжүүлэлт дэх хиймэл оюун ухааны агентуудын хэрэглээ эрчимтэй өсч буй талаарх шинэчилсэн тайлангаа олон нийтэд дэлгэлээ.",
+ "body_mn": "OpenAI компани хиймэл оюун ухааны системүүд өөрсдийгөө хөгжүүлэх болон судалгааны ажилд оролцох чадавх хэрхэн нэмэгдэж буй талаарх судалгааны шинэчилсэн тайлангаа танилцууллаа. Энэхүү тайлан нь өнгөрсөн есдүгээр сард гаргасан тайлангийн үргэлжлэл бөгөөд судалгааны салбар дахь хиймэл оюун ухааны нөлөө болон хүний оролцооны талаарх тоон болон чанарын хэмжүүрүүдийг багтаасан байна.\n\nТайланд дурдсанаар, компани доторх агентуудын хэрэглээ экспоненциал хэлбэрээр өссөөр байна. API жагсаалтын үнээр тооцвол дундаж судлаач өдөрт агентийн хэрэгсэлд 2,400 ам доллар зарцуулж байгаа нь өмнөх саруудаас мэдэгдэхүйц өссөн үзүүлэлт юм. Мөн агентуудын ажиллах цаг буюу агент ажлын өдрүүдийн тоо ч мөн өссөнийг тэмдэглэжээ.\n\nOpenAI энэхүү тайланг олон нийтэд ил болгож буй нь хиймэл оюун ухааны салбарт өөрийгөө сайжруулах процессуудыг хянах, ил тод байдлыг хангах салбар дундын жишиг тогтоох зорилготой ажээ.",
+ "published": "2026-11-18T08:00:00Z",
+ "added": "2026-11-21T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
