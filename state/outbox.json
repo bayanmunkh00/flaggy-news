@@ -878,5 +878,225 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6ec0dce548ff06fe",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg",
+   "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+   "summary_en": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution. \"Deserialization of Untrusted",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T17:10:45Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f998d48cf577c9a0",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "WIRED",
+   "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
+   "image": "https://media.wired.com/photos/6afce67e8d4d47192101a96f/191:100/w_1280,c_limit/AI%20Hijab%20stripping.jpg",
+   "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
+   "summary_en": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab WIRED",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T17:30:54Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "395b5d1667ff92d9",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Times Now",
+   "url": "https://www.timesnownews.com/world/us/us-news/ai-chatbots-openai-chatgpt-anthropic-claude-google-gemini-xai-grok-plan-terror-attacks-us-cities-article-156533327",
+   "image": "https://images.timesnownews.com/thumb/msid-156533321,thumbsize-106009,width-1280,height-720,resizemode-75/156533321.jpg",
+   "title": "From Bombs to Power Grid Attacks: AI Chatbots Provide Plans to Plot Terror Attacks",
+   "summary_en": "From Bombs to Power Grid Attacks: AI Chatbots Provide Plans to Plot Terror Attacks Times Now",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T17:39:19Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cac57b5217ba2caa",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+   "title": "Genie 4 is now available",
+   "summary_en": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T18:13:42Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4ab4f5e03685767a",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png",
+   "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+   "summary_en": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent. F5, which makes BIG-IP, disclosed the flaws today and says they",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T18:15:39Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "04e49dcbdb745733",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_qqPophooIauX16fMWm3KB24tzQ3Fd7rCuseCXfMkDPPGpIgmHqWvZjn_jffDqHwNWKu8Zf57QeKb4qsRFgdgisSAn0sMj59CscimR16RLXI1kspH0w7VYQgrsM_hPcePQOFL8QUyDC2p9W7AV0UjH3sW7oOvdWPWAZW6DITDvqIHaC_696e5kHTieY/s1600/nginx-rce.jpg",
+   "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+   "summary_en": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today. F5, the company behind NGINX, says attackers can run code where",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T18:31:17Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e55c8f2df06c07ff",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "Hugging Face",
+   "source_label": "Hugging Face",
+   "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
+   "title": "Why your fine-tuning job takes longer than the FLOPs say",
+   "summary_en": "A Blog post by Dharma-AI on Hugging Face",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T18:53:43Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3b582e48e93df57d",
+   "section": "uiux",
+   "subtopic": "design-systems",
+   "source": "Figma Blog",
+   "source_label": "Figma Blog",
+   "url": "https://www.figma.com/blog/source-material-chase-rutherford/",
+   "image": "https://cdn.sanity.io/images/599r6htc/regionalized/59715cb7bcac8531422451e3a3251856c0b163ae-1920x1080.png?w=1200&q=70&fit=max&auto=format",
+   "title": "Source material: Creative Director Chase Rutherford on what makes something iconic",
+   "summary_en": "From internet ephemera and fashion to found images, objects, and cultural oddities, Chase explores how the things around us can be pulled apart, recontextualized, and turned into something new.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T19:43:00Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f0b81ce3c1461288",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "Hugging Face",
+   "source_label": "Hugging Face",
+   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "summary_en": "A Blog post by RadixArk on Hugging Face",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T19:54:56Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "95da0fde7d56c751",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+   "title": "Introducing Gemini 4 Neon",
+   "summary_en": "Today, we’re introducing Gemini 4 Neon",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-18T21:35:43Z",
+   "added": "2026-11-21T16:00:51Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]

@@ -1,0 +1,19 @@
+{
+ "id": "e55c8f2df06c07ff",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "Hugging Face",
+ "source_label": "Hugging Face",
+ "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+ "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
+ "title": "Why your fine-tuning job takes longer than the FLOPs say",
+ "summary_en": "A Blog post by Dharma-AI on Hugging Face",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-18T18:53:43Z",
+ "added": "2026-11-21T16:00:51Z",
+ "ai": "",
+ "score": null
+}
