@@ -1,0 +1,19 @@
+{
+ "id": "7f8df65a4b58994e",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1muQQF73lYC1rgZQwuKAaY/4bc3e59089cde1a0267bfbc9b8d988d6/vercel-help-search-light.png",
+ "title": "Agents can now find Vercel CLI commands by describing the task",
+ "summary_en": "Coding agents can now use vercel help search to find Vercel CLI commands by describing a task in plain language. The search returns a list of matching commands. Add --with-help to include the help page for the first result in the same call. For example, vercel help search \"roll back production\" --with-help returns the options and examples for vercel rollback . Search also supports: API endpoints: When a Vercel API endpoint matches the task, search returns a vercel api command with the request path and placeholders for every required input. The agent can fill in the values without guessing…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-19T05:00:00Z",
+ "added": "2026-11-22T04:00:55Z",
+ "ai": "",
+ "score": null
+}

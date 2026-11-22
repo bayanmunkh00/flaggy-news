@@ -1,0 +1,19 @@
+{
+ "id": "cafbc0c492dd7990",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-billing-cli-is-now-available",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/kzzbqswj9pErmveGQxUPL/a842d11e346f0f7b37f504d2c4d98ef5/vercel_billing_cli_og_final.png",
+ "title": "Vercel Billing CLI is now available",
+ "summary_en": "You can now check your team’s billing overview, review and download invoices, and preview upcoming charges with the Vercel CLI . All billing commands, including usage and budgets, are now grouped under vercel billing . Billing overview and invoice history are available on all plans, subject to your team’s existing billing permissions. Upcoming invoice estimates require an active paid subscription. Billing overview Check your team’s plan, billing status, billing cycle, balance due, and overdue invoices: In CLI 65.17.0 and later, this overview also includes configured invoice details such as…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-19T05:00:00Z",
+ "added": "2026-11-22T04:00:55Z",
+ "ai": "",
+ "score": null
+}

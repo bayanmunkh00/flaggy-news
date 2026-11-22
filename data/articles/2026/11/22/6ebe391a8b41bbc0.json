@@ -1,0 +1,19 @@
+{
+ "id": "6ebe391a8b41bbc0",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg",
+ "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+ "summary_en": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-19T09:31:26Z",
+ "added": "2026-11-22T04:00:55Z",
+ "ai": "",
+ "score": null
+}

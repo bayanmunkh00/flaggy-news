@@ -1,0 +1,19 @@
+{
+ "id": "75b5f95941280ec2",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg",
+ "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+ "summary_en": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions,\" the maintainers said.",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-19T04:33:46Z",
+ "added": "2026-11-22T04:00:55Z",
+ "ai": "",
+ "score": null
+}
