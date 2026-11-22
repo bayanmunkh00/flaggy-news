@@ -856,5 +856,247 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "58012e310ccefa23",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "summary_en": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+   "lines": [],
+   "title_mn": "Anthropic-ийн гүйцэтгэх захирал Даррио Амодей хүн төрөлхтний хяналтад үлдэхээ амлав",
+   "summary_mn": "Nasdaq биржийн нээлтийн үеэр Anthropic компанийн Гүйцэтгэх захирал Даррио Амодей хиймэл оюун ухааны хөгжлийг хариуцлагатай, хүн төрөлхтний хяналтад байлгахаа дахин мэдэгдэв.",
+   "body_mn": "Nasdaq биржид түүхэн дэх хамгийн том хувьцаа анх олон нийтэд санал болгох (IPO) ажиллагааг эхлүүлэх үеэр Anthropic компанийн Гүйцэтгэх захирал Даррио Амодей хүн төрөлхтний ашиг сонирхлын төлөө хиймэл оюун ухааныг хариуцлагатай хөгжүүлэх амлалтаа бататгалаа. Тэрээр ямар ч бизнес эсвэл улс төрийн дарамтад автахгүй бөгөөд хиймэл оюун ухаан үргэлж хүний хяналтад байх болно гэдгийг онцлов.\n\nАмодей яриандаа өөрийн эцгээ анагаах ухааны хөгжлөөр эмчлэх боломжгүй өвчнөөр алдсан дурсамжаасаа хуваалцаж, хиймэл оюун ухаан нь эмнэлэг, эрүүл мэндийн салбарт шинжлэх ухааны дэвшил гаргахад хэрхэн тусалж болохыг дурдлаа. Гэсэн хэдий ч тэрээр технологийг хэт хурдан хөгжүүлэх нь эрсдэл дагуулж болзошгүйг анхааруулж, аюулгүй байдлын стандартад онцгой анхаарч ажиллахаа мэдэгдсэн байна.\n\nТүүнчлэн тус компани хиймэл оюун ухааныг сургах, зах зээлд нэвтрүүлэх үйл явцыг шаардлагатай бол удаашруулж, аюулгүй байдалд нь бүрэн итгэлтэй болох хүртэл арга хэмжээ авахаа амлав. Энэхүү байр суурийг OpenAI, Google DeepMind болон xAI компанийн удирдлагууд мөн дэмжиж буйгаа илэрхийлжээ.\n\nAnthropic-ийг үүсгэн байгуулагчдын нэг Даниэла Амодей мөн тус компани эрсдэлийг бууруулах, аюулгүй байдлыг хангах чиглэлээр тууштай ажиллах болно гэдгийг онцолсон байна.",
+   "published": "2026-11-19T16:19:41Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "ea8cebf5d32bea67",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg",
+   "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+   "summary_en": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the flaw, called phpAfterShell. The flaw is tracked as CVE-2026-126714 and rated",
+   "lines": [],
+   "title_mn": "PHP хэлний сессийн эмзэг байдал нь хакерудад сервер дээр код ажиллуулах эрсдэлтэйг сануулав",
+   "summary_mn": "PHP хэлний сессийн удирдлагад илэрсэн CVE-2026-126714 код бүхий шинэ эмзэг байдал нь хакерудад сервер дээр дур мэдэн код ажиллуулах боломж олгож болзошгүйг аюулгүй байдлын судлаачид тогтоож, яаралтай шинэчлэлт гаргалаа.",
+   "body_mn": "PHP хэлний үндсэн файлд суурилсан сессийн хадгалалтад сессийн бичилтийг тодорхой мөчид таслах замаар хүсээгүй объектуудыг буцаах боломжтой ноцтой эмзэг байдал илэржээ. Үүнийг програмын бусад сул талуудтай хослуулснаар хакерууд сервер дээр алсаас код ажиллуулах эрсдэлтэй аж.\n\nЭнэхүү эмзэг байдлыг Depthfirst аюулгүй байдлын компани илрүүлж, CVE-2026-126714 гэж бүртгүүлсэн бөгөөд CVSS 4.0 онооны системээр 9.2 буюу өндөр эрсдэлтэй гэж үнэлэгдсэн байна. PHP хөгжүүлэгчид үүнийг засварласан шинэ хувилбаруудыг албан ёсоор гаргажээ.\n\nЭмзэг байдал нь ихэвчлэн PHP-ийн үндсэн files сесс зохицуулагчид хамааралтай бөгөөд Redis зэрэг бусад санах ойд хадгалсан сессүүдэд шууд нөлөөлөхгүй байна. Гэсэн хэдий ч хэрэглэгчдийг систем шинэчлэлтээ яаралтай хийхийг мэргэжилтнүүд зөвлөж байна.\n\nХэрэв серверээ яаралтай шинэчлэх боломжгүй бол php.ini файл дахь session.upload_progress.enabled тохиргоог 0 болгож идэвхгүй болгохыг зөвлөжээ. Гэсэн хэдий ч энэ нь бүрэн шийдэл биш бөгөөд албан ёсны засварласан хувилбарыг суулгах нь хамгийн найдвартай арга юм.",
+   "published": "2026-11-19T16:59:56Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d47c74f9a7ce43a8",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-1440x810.jpg",
+   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "summary_en": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+   "lines": [],
+   "title_mn": "Хиймэл оюун ухааны эрин үе дэх сониуч зан ба бүтээлч байдлын тухай",
+   "summary_mn": "Google-ийн шинэ подкастаар түүхч Уолтер Исааксон Леонардо да Винчи, Бенжамин Франклин нарын амьдралаар дамжуулан хиймэл оюун ухааны эрин үед хүний ​​сониуч зан яагаад чухал болохыг хэлэлцлээ.",
+   "body_mn": "Леонардо да Винчи, Бенжамин Франклин, Ада Лавлейс нар бидэнд хиймэл оюун ухааны эрин үед бүтээлч байдлын талаар юу зааж чадах вэ? Google-ийн \"Dialogues on Technology and Society\" цуврал подкастын шинэ дугаарт түүхч, намтар судлаач Уолтер Исааксон оролцлоо.\n\nКент Уокертай хийсэн ярилцлагын үеэр түүхийн хамгийн том нээлтүүд үргэлж багийн хамтын ажиллагаа байсаар ирснийг онцлов. Мэдээлэл хажууд бэлэн байгаа энэ үед хүний сониуч зан болон шүүмжлэлт сэтгэлгээ яагаад урьд өмнөхөөсөө ч илүү чухал болохыг тэд хэлэлцсэн байна.",
+   "published": "2026-11-19T17:00:00Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "79a2c486505b6d17",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "summary_en": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+   "lines": [],
+   "title_mn": "Жижиглэнгийн худалдаачдыг Хятадын үйлдвэрүүдтэй холбодог Everful компани 48.5 сая ам долларын санхүүжилт авлаа",
+   "summary_mn": "Жижиглэнгийн худалдаачид болон Хятадын үйлдвэрүүдийг хиймэл оюун ухааны тусламжтайгаар холбодог Everful стартап Series A санхүүжилтээр 48.5 сая ам доллар татав.",
+   "body_mn": "Сан-Франциско болон Сингапурт төвтэй, жижиглэнгийн худалдаачид болон брэндүүдийг Хятадын үйлдвэрүүдтэй холбож захиалгаас хүргэлт хүртэлх үйл явцыг удирддаг Everful стартап Series A шатны санхүүжилтээр 48.5 сая ам доллар цуглуулжээ. Уг санхүүжилтийг Vertex Ventures Southeast Asia & India болон January Capital компаниуд тэргүүлсэн байна.\n\nСилийн үүсгэн байгуулагч Сиси Сонг компанийн орлого оны эцэс гэхэд жилийн 100 сая ам долларт хүрэх төлөвтэй байгааг мэдэгдэв. Тус компани нь сард 60 гаруй орны хэрэглэгчдэд 5 сая гаруй бараа бүтээгдэхүүн хүргэдэг бөгөөд 30,000 гаруй үйлдвэрлэгч түншүүдтэй хамтран ажилладаг аж.\n\nEverful нь Хятадын үйлдвэрүүдээс бараа бүтээгдэхүүн захиалах, чанарын хяналт тавих, ложистикийг зохион байгуулах зэрэг хүндрэлтэй ажлуудыг хиймэл оюун ухааны агентуудын тусламжтайгаар автоматжуулдаг. Энэ нь жижиг жижиглэн худалдаачдад нийлүүлэлтийн сүлжээгээ хялбарчлах боломжийг олгодог байна.",
+   "published": "2026-11-19T17:00:00Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0f8c0312df263f7f",
+   "section": "ai",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "WinBuzzer",
+   "url": "https://winbuzzer.com/2026/11/19/us-weighs-forcing-companies-to-disclose-use-of-chinese-ai-models-xcxwbn/",
+   "image": "https://winbuzzer.com/wp-content/uploads/2025/03/US-China-AI-competition.jpg",
+   "title": "US Weighs Forcing Companies to Disclose Use of Chinese AI Models",
+   "summary_en": "US Weighs Forcing Companies to Disclose Use of Chinese AI Models WinBuzzer",
+   "lines": [],
+   "title_mn": "АНУ Хятадын хиймэл оюун ухааны загвар ашигладаг компаниудыг вэб сайтандаа ил тод зарлахыг шаардах магадлалтай байна",
+   "summary_mn": "АНУ-ын албаны хүмүүс Хятадын хиймэл оюун ухааны загвар ашигладаг дотоодын компаниудад вэб сайтандаа үүнийгээ заавал тэмдэглэх шаардлага тавих асуудлыг хэлэлцэж эхэлжээ.",
+   "body_mn": "Трампын засаг захиргааны албаны хүмүүс Хятадын хиймэл оюун ухааны загваруудыг ашигладаг АНУ-ын компаниудыг уг сонголтоо вэб сайтаараа дамжуулан олон нийтэд ил тод болгохыг шаардах асуудлыг хэлэлцэж байна гэж Reuters мэдээлэв. Энэхүү санаа нь Хятадын технологийг ашиглах хандлагыг хязгаарлах, олон нийтийн мэдээлэл авах эрхийг хангах зорилготой аж.\n\nЖишээлбэл, Airbnb компани хэрэглэгчийн туслах чатботдоо Alibaba-гийн Qwen загварыг ашигладаг бол энэ тухайгаа вэб сайтандаа мэдээлэх шаардлагатай болж болзошгүй юм. Түүнчлэн Anysphere компанийн хөгжүүлсэн Cursor хэрэгсэл нь Хятадын Moonshot AI компанийн Kimi K2.5 загварт суурилсан байдаг нь анхаарал татаж байна.\n\nЭнэхүү санаачилга нь албан ёсны дүрэм журам болон батлагдах эсэх нь одоогоор тодорхойгүй байгаа бөгөөд цагаан ордон болон холбогдох яамдууд тодорхой хариу өгөөгүй байна. Гэсэн хэдий ч холбооны байгууллагууд болон хууль тогтоогчид Хятадын хиймэл оюун ухааны аюулгүй байдлын эрсдэлийг бууруулахад анхаарлаа хандуулсаар байна.",
+   "published": "2026-11-19T17:18:21Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7d4853fece6682b6",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "inkl",
+   "url": "https://www.inkl.com/news/spacexsi-defence-spacexsi-contests-lawmakers-lawsuit-case-could-shape-ai-developers-legal-responsibilities",
+   "image": "https://images.inkl.com/s3/article/lead_image/24082071/136000379.jpg",
+   "title": "SpaceXSI defence: SpaceXSI contests lawmaker’s lawsuit; case could shape AI developers’ legal responsibilities",
+   "summary_en": "SpaceXSI defence: SpaceXSI contests lawmaker’s lawsuit; case could shape AI developers’ legal responsibilities inkl",
+   "lines": [],
+   "title_mn": "SpaceXSI компани британ хууль тогтоогчийн гаргасан шүүхэд холбогдуулан хариу тайлбар өглөө",
+   "summary_mn": "Elon Musk-ийн SpaceXSI компани Grok хиймэл оюун ухаанаар бүтээгдсэн хуурамч зургийн хэрэгт хууль эрх зүйн хариуцлага хүлээхгүй гэдгээ шүүхэд гаргасан тайлбартаа мэдэгдэв.",
+   "body_mn": "Elon Musk-ийн SpaceX Super Intelligence (SpaceXSI) компани Grok хиймэл оюун ухааны платформыг ашиглан Британийн парламентч Жесс Асатогийн янз бүрээр засварласан хуурамч зургийг бүтээсэн хэрэгт хууль эрх зүйн хариуцлага хүлээхгүй гэдгээ илэрхийллээ.\n\nЛондонгийн Дээд шүүхэд аравдугаар сарын 29-нд гаргасан албан ёсны тайлбартаа тус компани илт зохимжгүй эсвэл хуурамч болох нь мэдэгдэж буй хиймэл оюун ухааны зураглал нь хувь хүний хувийн нууцад халдсан гэж үзэх үндэслэлгүй гэж маргажээ. Уг маргаан нь Британийн хөдөлмөрийн намын гишүүн Жесс Асатогийн зүгээс Grok-ийг өөрийнх нь дүр төрхийг дур мэдэн ашиглахыг хориглох зорилгоор гаргасан шүүхийн нэхэмжлэлийн хүрээнд өрнөж байна.",
+   "published": "2026-11-19T17:37:00Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "10aa73aba42bdf4b",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "summary_en": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+   "lines": [],
+   "title_mn": "Meta-гийн Muse хиймэл оюун ухааны агент хувийн мэдээллийг холилдсон алдаа гаргажээ",
+   "summary_mn": "Meta компанийн хөгжүүлж буй Muse хиймэл оюун ухааны агент хэрэглэгчдийн яриаг хольж, банкны үлдэгдэл зэрэг хувийн нууц мэдээллийг өөр хүмүүст харуулсан талаар ажилтнууд нь мэдээлэв.",
+   "body_mn": "Meta компанийн дотоод мэдээллээс иш татан Reuters агентлагийн мэдээлснээр, тус компанийн хөгжүүлж буй Muse хиймэл оюун ухааны агент нь өөр өөр хэрэглэгчдийн харилцан яриаг хольж, хувийн нууц мэдээллийг санамсаргүйгээр ил болгосон байна.\n\nЗарим ажилтнуудын туршилтаар Muse нь хэрэглэгчдийн огт хүсээгүй банкны дансны үлдэгдэл, хувийн мессеж болон бусад эмзэг мэдээллийг буруу chat руу илгээсэн тохиолдлууд гаржээ. Тухайлбал, цаг агаарын тухай энгийн ярианы дундуур өөр хүний банкны дансны үлдэгдлийг гэнэт харуулсан явдал бүртгэгдсэн байна.\n\nMeta-гийн зүгээс ажилтнуудын дунд хийгдэж буй туршилт болон бүтээгдэхүүний хөгжүүлэлтийн явц нь аюулгүй байдал, нууцлалыг сайжруулахад чиглэгддэг бөгөөд олон нийтэд хүрдэг хувилбараас ялгаатай гэдгийг онцолжээ.",
+   "published": "2026-11-19T17:38:40Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1b3aafed7dd5d45c",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.width-1300.png",
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "summary_en": "Gemini spark on a space background",
+   "lines": [],
+   "title_mn": "Gemini API-д Tool Retrieval функцийг албан ёсоор нэвтрүүллээ",
+   "summary_mn": "Google компани Gemini API-даа Tool Retrieval функцийг нэвтрүүлсэн бөгөөд энэ нь хиймэл оюун ухааны агентуудад олон тооны багаж хэрэгслийг үр дүнтэй удирдах боломж олгоно.",
+   "body_mn": "Google компани Gemini Interactions API-даа Tool Retrieval буюу хэрэгсэл татах функцийг албан ёсоор нэвтрүүлж байгаагаа зарлалаа. Энэхүү шинэ боломж нь хөгжүүлэгчдэд олон зуун програм хангамжийн хэрэгслийг нэг дор илгээхийн оронд зөвхөн шаардлагатай үед нь параметрийн схемүүдийг ачаалах замаар төвөгтэй ажлуудын хариу өгөх хурдыг сайжруулж, токений зардлыг бууруулах зорилготой юм.\n\nШинэ функсийг ашиглахын тулд хүсэлт дээрээ tool_search хэрэгслийг нэмж, defer_loading утгыг true болгоход хангалттай бөгөөд модель хэрэгцээтэй үедээ тухайн хэрэгслийг нэрээр нь дуудаж ажиллах боломжтой болж байна.\n\nЭнэхүү шинэчлэлт нь сервер талд ажилладаг тул хөгжүүлэгчдэд ямар нэгэн нэмэлт индексийн сервер байгуулах шаардлагагүй бөгөөд Gemini-ийн хамгийн сүүлийн үеийн загваруудыг ашиглан илүү чаზуур, хурдан бүтээгдэхүүн хөгжүүлэх боломжийг олгож байна.",
+   "published": "2026-11-19T18:00:00Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "496ae19b4425efe0",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "summary_en": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "lines": [],
+   "title_mn": "Google Mac үйлдлийн системд зориулсан Gemini аппдаа компьтер удирдах боломж нэмлээ",
+   "summary_mn": "Google macOS дээрх Gemini аппдаа хэрэглэгчийн өмнөөс програм ажиллуулах, файл цэгцлэх, вэб хөтөч удирдах agentic үйлдлийг нэвтрүүллээ. Энэ боломж одоогоор АНУ-д төлбөртэй эрхтэй хэрэглэгчдэд нээгдээд байна.",
+   "body_mn": "Google пүрэв гарагт macOS үйлдлийн систем дэх Gemini десктоп аппликейшндээ “computer use” буюу компьютерийг шууд удирдах чадварыг нэвтрүүлж буйгаа зарлалаа. Үүний тусламжтайгаар хиймэл оюун нь хэрэглэгчийн өмнөөс Mac-ийн суурь аппликейшнуудыг ажиллуулах, цаана нь вэб хуудсуудаар зочлон төрөл бүрийн олон шатлалт даалгаврыг гүйцэтгэх боломжтой болж байна.\n\nХэрэглэгч хийлгэх ажлын даалгавраа өгсний дараа чатын цонхонд уг процесс шууд харагдах бөгөөд дэлгэц болон хулганы заагчийг эзэмдэхгүйгээр ард нь ажиллах тул хэрэглэгч үндсэн ажлаа саадгүй үргэлжлүүлэх боломжтой. Мөн хийгдэх үйлдлийг түр зогсоох, цуцлах эсвэл зөвшөөрөл өгч хянах тохиргоог суулгажээ. Энэ боломж нь маягт бөглөх, файлуудыг ангилах, онлайн мэдээллээс илтгэл бэлтгэх зэрэг олон давтамжит ажлуудыг хөнгөвчилнө.\n\nAnthropic, OpenAI зэрэг өрсөлдөгчид үүнтэй ижил agentic горимыг аль хэдийн танилцуулаад байсан бол Google ийнхүү хоцорч нэвтрүүлж байна. Одоогоор уг функц нь зөвхөн АНУ-д, англи хэлээр, Google AI Plus, Pro, Ultra төлбөртэй эрхтэй Mac хэрэглэгчдэд нээгдэж эхэлжээ.",
+   "published": "2026-11-19T18:09:11Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "c937d429c76765ef",
+   "section": "ai",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Briefs Finance",
+   "url": "https://www.briefs.co/news/alibaba-leans-on-in-house-chips-to-blunt-new-u-s-ai-curbs-ey/",
+   "image": "https://www.briefs.co/wp-content/uploads/2026/11/alibaba-leans-on-in-house-chips-to-blunt-new-u-s-ai-curbs-ey.png",
+   "title": "Alibaba leans on in-house chips to blunt new U.S. AI curbs, eyes 2028 cloud rebound",
+   "summary_en": "Alibaba leans on in-house chips to blunt new U.S. AI curbs, eyes 2028 cloud rebound Briefs Finance",
+   "lines": [],
+   "title_mn": "Alibaba дараагийн Qwen загвараа дотоодын чип дээр сургаж байна",
+   "summary_mn": "АНУ-ын хориг чангарч байгаа тул Alibaba дараагийн үеийн Qwen хиймэл оюуны загвараа өөрийн T-Head чип дээр сургаж эхэлжээ. Компани үүлэн технологийн орлогоо 2028 он гэхэд 50-иас дээш хувиар өсгөх зорилт тавьсан байна.",
+   "body_mn": "АНУ-аас хиймэл оюунд зориулсан Nvidia чипийн экспортыг хязгаарлах арга хэмжээг чангатгаж байгаатай холбогдуулан Alibaba компани дотоодын техник хангамжид шилжих бодлогоо эрчимжүүлж байна. Тус компанийн гүйцэтгэх захирал Eddie Wu шинжээчдэд мэдээлэхдээ, дараагийн Qwen загварыг өөрсдийн T-Head салбарын чип дээр сургаж байгаа бөгөөд үүлэн тооцооллын орлогын өсөлт 2028 он гэхэд дахин 50-иас дээш хувьд хүрнэ гэж тооцоолж байгааг онцоллоо.\n\nОлон улсын чип, тооцооллын бодлого өөрчлөгдөж буй тул Alibaba дата төвийн өргөтгөлийн төлөвлөгөөгөө эргэн харж, 2032 он гэхэд 20 гигаватт хүчин чадалтай дата төв байгуулах анхны төлөвлөгөөгөө бууруулж магадгүй болжээ. Ирэх жилийн хувьд үүлэн үйлчилгээний орлогын өсөлтийн таамгийг өмнөх 53 хувиас 30-45 хувь болгон бууруулсан байна.\n\nХонконгийн хөрөнгийн биржид IPO хийхээр бэлтгэж буй Alibaba-ийн харьяа T-Head нэгж одоогоор 560,000 гаруй Zhenwu процессор нийлүүлээд байгаа аж. Түүнчлэн 2027 оны эхээр олноор үйлдвэрлэж эхлэх Zhenwu V900 чип нь хамгийн сүүлийн үеийн хүчирхэг хиймэл оюуны загваруудыг сургах бүрэн чадвартай болохыг удирдлагууд мэдээлжээ.",
+   "published": "2026-11-19T18:30:00Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "cc7a5715391457a2",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg",
+   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "summary_en": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watching. AI is making some attacks easier",
+   "lines": [],
+   "title_mn": "ThreatsDay: Хиймэл оюуны шинэ загварууд ба кибер аюулгүй байдлын сорилтууд",
+   "summary_mn": "Хакерууд хиймэл оюуны тусламжтай халдлага үйлдэх нь нэмэгдэж байгаа энэ үед Google болон OpenAI кодын хамгаалалтыг сайжруулах шинэ загваруудаа танилцууллаа. Мөн Их Британийн AISI байгууллага GPT-6.2 Astra-аас хамгаалалтын цоорхой илрүүлжээ.",
+   "body_mn": "Энэ долоо хоногт кибер аюулгүй байдлын салбарт хиймэл оюуны нөлөө улам бүр нэмэгдэж, халдлага үйлдэгчид болон хамгаалагчдын аль аль нь AI технологи руу шилжиж буй дүр зураг ажиглагдлаа. Халдагчид хулгайлсан өгөгдлийг шүүх, фишинг имэйл боловсруулахад AI ашиглах болсон бол томоохон компаниуд хамгаалалтын чиглэлийн тусгай загваруудыг танилцуулж байна.\n\nТухайлбал, Google компани код дахь эмзэг байдлыг илрүүлэх, засах чадвартай Gemini 4 Neon загвараа танилцуулсан бол OpenAI эмзэг байдал хайх, засварын код бичих чадвар өндөртэй GPT-6.2 Astra болон Sol загваруудаа зарлалаа. Гэсэн хэдий ч Их Британийн AI Аюулгүй байдлын хүрээлэн (AISI) туршилтын явцад GPT-6.2 Astra хувилбараас түгээмэл jailbreak цоорхой илрүүлсний дараа OpenAI уг алдааг засварласан байна.\n\nҮүнээс гадна WordPress системээс хэд хэдэн аюулгүй байдлын алдаа илэрсэн тул 7.1.5 хувилбарыг яаралтай шинэчлэхийг хэрэглэгчдэдээ уриалсан бол OpenAI хиймэл оюуны аюулгүй байдлыг шалгуулахаар гаднын хараат бус шинжээчдийг байгууллагадаа урьж ажиллуулахаар болжээ.",
+   "published": "2026-11-19T18:47:58Z",
+   "added": "2026-11-22T15:37:45Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
  }
 ]

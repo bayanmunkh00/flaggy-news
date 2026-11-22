@@ -1,0 +1,19 @@
+{
+ "id": "d47c74f9a7ce43a8",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-1440x810.jpg",
+ "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+ "summary_en": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+ "lines": [],
+ "title_mn": "Хиймэл оюун ухааны эрин үе дэх сониуч зан ба бүтээлч байдлын тухай",
+ "summary_mn": "Google-ийн шинэ подкастаар түүхч Уолтер Исааксон Леонардо да Винчи, Бенжамин Франклин нарын амьдралаар дамжуулан хиймэл оюун ухааны эрин үед хүний ​​сониуч зан яагаад чухал болохыг хэлэлцлээ.",
+ "body_mn": "Леонардо да Винчи, Бенжамин Франклин, Ада Лавлейс нар бидэнд хиймэл оюун ухааны эрин үед бүтээлч байдлын талаар юу зааж чадах вэ? Google-ийн \"Dialogues on Technology and Society\" цуврал подкастын шинэ дугаарт түүхч, намтар судлаач Уолтер Исааксон оролцлоо.\n\nКент Уокертай хийсэн ярилцлагын үеэр түүхийн хамгийн том нээлтүүд үргэлж багийн хамтын ажиллагаа байсаар ирснийг онцлов. Мэдээлэл хажууд бэлэн байгаа энэ үед хүний сониуч зан болон шүүмжлэлт сэтгэлгээ яагаад урьд өмнөхөөсөө ч илүү чухал болохыг тэд хэлэлцсэн байна.",
+ "published": "2026-11-19T17:00:00Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

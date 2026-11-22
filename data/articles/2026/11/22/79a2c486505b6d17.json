@@ -1,0 +1,19 @@
+{
+ "id": "79a2c486505b6d17",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
+ "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+ "summary_en": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+ "lines": [],
+ "title_mn": "Жижиглэнгийн худалдаачдыг Хятадын үйлдвэрүүдтэй холбодог Everful компани 48.5 сая ам долларын санхүүжилт авлаа",
+ "summary_mn": "Жижиглэнгийн худалдаачид болон Хятадын үйлдвэрүүдийг хиймэл оюун ухааны тусламжтайгаар холбодог Everful стартап Series A санхүүжилтээр 48.5 сая ам доллар татав.",
+ "body_mn": "Сан-Франциско болон Сингапурт төвтэй, жижиглэнгийн худалдаачид болон брэндүүдийг Хятадын үйлдвэрүүдтэй холбож захиалгаас хүргэлт хүртэлх үйл явцыг удирддаг Everful стартап Series A шатны санхүүжилтээр 48.5 сая ам доллар цуглуулжээ. Уг санхүүжилтийг Vertex Ventures Southeast Asia & India болон January Capital компаниуд тэргүүлсэн байна.\n\nСилийн үүсгэн байгуулагч Сиси Сонг компанийн орлого оны эцэс гэхэд жилийн 100 сая ам долларт хүрэх төлөвтэй байгааг мэдэгдэв. Тус компани нь сард 60 гаруй орны хэрэглэгчдэд 5 сая гаруй бараа бүтээгдэхүүн хүргэдэг бөгөөд 30,000 гаруй үйлдвэрлэгч түншүүдтэй хамтран ажилладаг аж.\n\nEverful нь Хятадын үйлдвэрүүдээс бараа бүтээгдэхүүн захиалах, чанарын хяналт тавих, ложистикийг зохион байгуулах зэрэг хүндрэлтэй ажлуудыг хиймэл оюун ухааны агентуудын тусламжтайгаар автоматжуулдаг. Энэ нь жижиг жижиглэн худалдаачдад нийлүүлэлтийн сүлжээгээ хялбарчлах боломжийг олгодог байна.",
+ "published": "2026-11-19T17:00:00Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

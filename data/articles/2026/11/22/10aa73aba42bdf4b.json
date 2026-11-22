@@ -1,0 +1,19 @@
+{
+ "id": "10aa73aba42bdf4b",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+ "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+ "summary_en": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+ "lines": [],
+ "title_mn": "Meta-гийн Muse хиймэл оюун ухааны агент хувийн мэдээллийг холилдсон алдаа гаргажээ",
+ "summary_mn": "Meta компанийн хөгжүүлж буй Muse хиймэл оюун ухааны агент хэрэглэгчдийн яриаг хольж, банкны үлдэгдэл зэрэг хувийн нууц мэдээллийг өөр хүмүүст харуулсан талаар ажилтнууд нь мэдээлэв.",
+ "body_mn": "Meta компанийн дотоод мэдээллээс иш татан Reuters агентлагийн мэдээлснээр, тус компанийн хөгжүүлж буй Muse хиймэл оюун ухааны агент нь өөр өөр хэрэглэгчдийн харилцан яриаг хольж, хувийн нууц мэдээллийг санамсаргүйгээр ил болгосон байна.\n\nЗарим ажилтнуудын туршилтаар Muse нь хэрэглэгчдийн огт хүсээгүй банкны дансны үлдэгдэл, хувийн мессеж болон бусад эмзэг мэдээллийг буруу chat руу илгээсэн тохиолдлууд гаржээ. Тухайлбал, цаг агаарын тухай энгийн ярианы дундуур өөр хүний банкны дансны үлдэгдлийг гэнэт харуулсан явдал бүртгэгдсэн байна.\n\nMeta-гийн зүгээс ажилтнуудын дунд хийгдэж буй туршилт болон бүтээгдэхүүний хөгжүүлэлтийн явц нь аюулгүй байдал, нууцлалыг сайжруулахад чиглэгддэг бөгөөд олон нийтэд хүрдэг хувилбараас ялгаатай гэдгийг онцолжээ.",
+ "published": "2026-11-19T17:38:40Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "1b3aafed7dd5d45c",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.width-1300.png",
+ "title": "Introducing Tool Retrieval in the Gemini API",
+ "summary_en": "Gemini spark on a space background",
+ "lines": [],
+ "title_mn": "Gemini API-д Tool Retrieval функцийг албан ёсоор нэвтрүүллээ",
+ "summary_mn": "Google компани Gemini API-даа Tool Retrieval функцийг нэвтрүүлсэн бөгөөд энэ нь хиймэл оюун ухааны агентуудад олон тооны багаж хэрэгслийг үр дүнтэй удирдах боломж олгоно.",
+ "body_mn": "Google компани Gemini Interactions API-даа Tool Retrieval буюу хэрэгсэл татах функцийг албан ёсоор нэвтрүүлж байгаагаа зарлалаа. Энэхүү шинэ боломж нь хөгжүүлэгчдэд олон зуун програм хангамжийн хэрэгслийг нэг дор илгээхийн оронд зөвхөн шаардлагатай үед нь параметрийн схемүүдийг ачаалах замаар төвөгтэй ажлуудын хариу өгөх хурдыг сайжруулж, токений зардлыг бууруулах зорилготой юм.\n\nШинэ функсийг ашиглахын тулд хүсэлт дээрээ tool_search хэрэгслийг нэмж, defer_loading утгыг true болгоход хангалттай бөгөөд модель хэрэгцээтэй үедээ тухайн хэрэгслийг нэрээр нь дуудаж ажиллах боломжтой болж байна.\n\nЭнэхүү шинэчлэлт нь сервер талд ажилладаг тул хөгжүүлэгчдэд ямар нэгэн нэмэлт индексийн сервер байгуулах шаардлагагүй бөгөөд Gemini-ийн хамгийн сүүлийн үеийн загваруудыг ашиглан илүү чаზуур, хурдан бүтээгдэхүүн хөгжүүлэх боломжийг олгож байна.",
+ "published": "2026-11-19T18:00:00Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

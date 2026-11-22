@@ -1,0 +1,19 @@
+{
+ "id": "ea8cebf5d32bea67",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg",
+ "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+ "summary_en": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the flaw, called phpAfterShell. The flaw is tracked as CVE-2026-126714 and rated",
+ "lines": [],
+ "title_mn": "PHP хэлний сессийн эмзэг байдал нь хакерудад сервер дээр код ажиллуулах эрсдэлтэйг сануулав",
+ "summary_mn": "PHP хэлний сессийн удирдлагад илэрсэн CVE-2026-126714 код бүхий шинэ эмзэг байдал нь хакерудад сервер дээр дур мэдэн код ажиллуулах боломж олгож болзошгүйг аюулгүй байдлын судлаачид тогтоож, яаралтай шинэчлэлт гаргалаа.",
+ "body_mn": "PHP хэлний үндсэн файлд суурилсан сессийн хадгалалтад сессийн бичилтийг тодорхой мөчид таслах замаар хүсээгүй объектуудыг буцаах боломжтой ноцтой эмзэг байдал илэржээ. Үүнийг програмын бусад сул талуудтай хослуулснаар хакерууд сервер дээр алсаас код ажиллуулах эрсдэлтэй аж.\n\nЭнэхүү эмзэг байдлыг Depthfirst аюулгүй байдлын компани илрүүлж, CVE-2026-126714 гэж бүртгүүлсэн бөгөөд CVSS 4.0 онооны системээр 9.2 буюу өндөр эрсдэлтэй гэж үнэлэгдсэн байна. PHP хөгжүүлэгчид үүнийг засварласан шинэ хувилбаруудыг албан ёсоор гаргажээ.\n\nЭмзэг байдал нь ихэвчлэн PHP-ийн үндсэн files сесс зохицуулагчид хамааралтай бөгөөд Redis зэрэг бусад санах ойд хадгалсан сессүүдэд шууд нөлөөлөхгүй байна. Гэсэн хэдий ч хэрэглэгчдийг систем шинэчлэлтээ яаралтай хийхийг мэргэжилтнүүд зөвлөж байна.\n\nХэрэв серверээ яаралтай шинэчлэх боломжгүй бол php.ini файл дахь session.upload_progress.enabled тохиргоог 0 болгож идэвхгүй болгохыг зөвлөжээ. Гэсэн хэдий ч энэ нь бүрэн шийдэл биш бөгөөд албан ёсны засварласан хувилбарыг суулгах нь хамгийн найдвартай арга юм.",
+ "published": "2026-11-19T16:59:56Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

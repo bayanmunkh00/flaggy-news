@@ -1,0 +1,19 @@
+{
+ "id": "cc7a5715391457a2",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg",
+ "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+ "summary_en": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watching. AI is making some attacks easier",
+ "lines": [],
+ "title_mn": "ThreatsDay: Хиймэл оюуны шинэ загварууд ба кибер аюулгүй байдлын сорилтууд",
+ "summary_mn": "Хакерууд хиймэл оюуны тусламжтай халдлага үйлдэх нь нэмэгдэж байгаа энэ үед Google болон OpenAI кодын хамгаалалтыг сайжруулах шинэ загваруудаа танилцууллаа. Мөн Их Британийн AISI байгууллага GPT-6.2 Astra-аас хамгаалалтын цоорхой илрүүлжээ.",
+ "body_mn": "Энэ долоо хоногт кибер аюулгүй байдлын салбарт хиймэл оюуны нөлөө улам бүр нэмэгдэж, халдлага үйлдэгчид болон хамгаалагчдын аль аль нь AI технологи руу шилжиж буй дүр зураг ажиглагдлаа. Халдагчид хулгайлсан өгөгдлийг шүүх, фишинг имэйл боловсруулахад AI ашиглах болсон бол томоохон компаниуд хамгаалалтын чиглэлийн тусгай загваруудыг танилцуулж байна.\n\nТухайлбал, Google компани код дахь эмзэг байдлыг илрүүлэх, засах чадвартай Gemini 4 Neon загвараа танилцуулсан бол OpenAI эмзэг байдал хайх, засварын код бичих чадвар өндөртэй GPT-6.2 Astra болон Sol загваруудаа зарлалаа. Гэсэн хэдий ч Их Британийн AI Аюулгүй байдлын хүрээлэн (AISI) туршилтын явцад GPT-6.2 Astra хувилбараас түгээмэл jailbreak цоорхой илрүүлсний дараа OpenAI уг алдааг засварласан байна.\n\nҮүнээс гадна WordPress системээс хэд хэдэн аюулгүй байдлын алдаа илэрсэн тул 7.1.5 хувилбарыг яаралтай шинэчлэхийг хэрэглэгчдэдээ уриалсан бол OpenAI хиймэл оюуны аюулгүй байдлыг шалгуулахаар гаднын хараат бус шинжээчдийг байгууллагадаа урьж ажиллуулахаар болжээ.",
+ "published": "2026-11-19T18:47:58Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

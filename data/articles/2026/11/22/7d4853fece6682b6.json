@@ -1,0 +1,19 @@
+{
+ "id": "7d4853fece6682b6",
+ "section": "ai",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "inkl",
+ "url": "https://www.inkl.com/news/spacexsi-defence-spacexsi-contests-lawmakers-lawsuit-case-could-shape-ai-developers-legal-responsibilities",
+ "image": "https://images.inkl.com/s3/article/lead_image/24082071/136000379.jpg",
+ "title": "SpaceXSI defence: SpaceXSI contests lawmaker’s lawsuit; case could shape AI developers’ legal responsibilities",
+ "summary_en": "SpaceXSI defence: SpaceXSI contests lawmaker’s lawsuit; case could shape AI developers’ legal responsibilities inkl",
+ "lines": [],
+ "title_mn": "SpaceXSI компани британ хууль тогтоогчийн гаргасан шүүхэд холбогдуулан хариу тайлбар өглөө",
+ "summary_mn": "Elon Musk-ийн SpaceXSI компани Grok хиймэл оюун ухаанаар бүтээгдсэн хуурамч зургийн хэрэгт хууль эрх зүйн хариуцлага хүлээхгүй гэдгээ шүүхэд гаргасан тайлбартаа мэдэгдэв.",
+ "body_mn": "Elon Musk-ийн SpaceX Super Intelligence (SpaceXSI) компани Grok хиймэл оюун ухааны платформыг ашиглан Британийн парламентч Жесс Асатогийн янз бүрээр засварласан хуурамч зургийг бүтээсэн хэрэгт хууль эрх зүйн хариуцлага хүлээхгүй гэдгээ илэрхийллээ.\n\nЛондонгийн Дээд шүүхэд аравдугаар сарын 29-нд гаргасан албан ёсны тайлбартаа тус компани илт зохимжгүй эсвэл хуурамч болох нь мэдэгдэж буй хиймэл оюун ухааны зураглал нь хувь хүний хувийн нууцад халдсан гэж үзэх үндэслэлгүй гэж маргажээ. Уг маргаан нь Британийн хөдөлмөрийн намын гишүүн Жесс Асатогийн зүгээс Grok-ийг өөрийнх нь дүр төрхийг дур мэдэн ашиглахыг хориглох зорилгоор гаргасан шүүхийн нэхэмжлэлийн хүрээнд өрнөж байна.",
+ "published": "2026-11-19T17:37:00Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

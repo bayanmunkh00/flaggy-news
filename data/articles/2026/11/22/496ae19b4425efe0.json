@@ -1,0 +1,19 @@
+{
+ "id": "496ae19b4425efe0",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+ "title": "Google gives Gemini the ability to use your Mac for you",
+ "summary_en": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+ "lines": [],
+ "title_mn": "Google Mac үйлдлийн системд зориулсан Gemini аппдаа компьтер удирдах боломж нэмлээ",
+ "summary_mn": "Google macOS дээрх Gemini аппдаа хэрэглэгчийн өмнөөс програм ажиллуулах, файл цэгцлэх, вэб хөтөч удирдах agentic үйлдлийг нэвтрүүллээ. Энэ боломж одоогоор АНУ-д төлбөртэй эрхтэй хэрэглэгчдэд нээгдээд байна.",
+ "body_mn": "Google пүрэв гарагт macOS үйлдлийн систем дэх Gemini десктоп аппликейшндээ “computer use” буюу компьютерийг шууд удирдах чадварыг нэвтрүүлж буйгаа зарлалаа. Үүний тусламжтайгаар хиймэл оюун нь хэрэглэгчийн өмнөөс Mac-ийн суурь аппликейшнуудыг ажиллуулах, цаана нь вэб хуудсуудаар зочлон төрөл бүрийн олон шатлалт даалгаврыг гүйцэтгэх боломжтой болж байна.\n\nХэрэглэгч хийлгэх ажлын даалгавраа өгсний дараа чатын цонхонд уг процесс шууд харагдах бөгөөд дэлгэц болон хулганы заагчийг эзэмдэхгүйгээр ард нь ажиллах тул хэрэглэгч үндсэн ажлаа саадгүй үргэлжлүүлэх боломжтой. Мөн хийгдэх үйлдлийг түр зогсоох, цуцлах эсвэл зөвшөөрөл өгч хянах тохиргоог суулгажээ. Энэ боломж нь маягт бөглөх, файлуудыг ангилах, онлайн мэдээллээс илтгэл бэлтгэх зэрэг олон давтамжит ажлуудыг хөнгөвчилнө.\n\nAnthropic, OpenAI зэрэг өрсөлдөгчид үүнтэй ижил agentic горимыг аль хэдийн танилцуулаад байсан бол Google ийнхүү хоцорч нэвтрүүлж байна. Одоогоор уг функц нь зөвхөн АНУ-д, англи хэлээр, Google AI Plus, Pro, Ultra төлбөртэй эрхтэй Mac хэрэглэгчдэд нээгдэж эхэлжээ.",
+ "published": "2026-11-19T18:09:11Z",
+ "added": "2026-11-22T15:37:45Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
