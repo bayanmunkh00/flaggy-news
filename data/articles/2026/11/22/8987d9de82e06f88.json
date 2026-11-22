@@ -1,0 +1,19 @@
+{
+ "id": "8987d9de82e06f88",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
+ "image": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp",
+ "title": "scroll-state()",
+ "summary_en": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior. scroll-state() originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "lines": [],
+ "title_mn": "CSS scroll-state() функцийн тухай таны мэдэх ёстой зүйлс",
+ "summary_mn": "CSS-ийн шинэ scroll-state() query нь хэрэглэгчийн гүйлгэх төлөвт үндэслэн загварчлалыг өөрчлөх боломжийг олгодог. Энэ нь JavaScript ашиглахгүйгээр nav цэс эсвэл буцах товчлуурыг амилуулах шинэ боломж юм.",
+ "body_mn": "CSS-ийн шинэ scroll-state() боломж нь хэрэглэгчийн вэб хуудас гүйлгэх (scrolling) үйлдэл дээр тулгуурлан элементүүдийн загварыг динамикаар өөрчлөх боломжийг олгодог. Хэдийгээр энэ нь функц шиг харагддаг ч үндjэндээ style() шиг container query (@container) юм. Энэ нь тухайн контейнерийн шинж чанар тодорхой утгатай эсэхийг шалгаж, нөхцөл таарвал зохих стилийг хэрэгжүүлдэг.\n\nТус query нь гол төлөв дөрвөн үндсэн шинж чанартай ажилладаг бөгөөд үүнд контейнер ямар чиглэлд гүйлгэгдсэн, гүйлгэх боломжтой эсэх, sticky байрлалтай элемент наалдсан эсэх, мөн snap байрлалд хүрсэн эсэх зэрэг багтана. Тухайлбал, хэрэглэгч хуудасны доошоо гүйлгэхэд дэлгэцийн доод хэсгээс \"Back to Top\" буюу буцах товчлуур гарч ирэх анимацийг ямар ч JavaScript кодгүйгээр хийх боломжтой болж байна.\n\nЭнэхүү шинэ боломж нь вэб хөгжүүлэгчдэд хэрэглэгчийн туршлагыг илүү хялбар бөгөөд хурдан сайжруулах хэрэгслийг өгч байгаагаараа онцлог юм. Гүйлгэх чиглэл болон наалдсан төлөв дээр үндэслэн вэб хуудасны дизайн болон navigation хэсгийг ухаалгаар удирдах боломж бүрдэж байна.",
+ "published": "2026-11-19T14:57:54Z",
+ "added": "2026-11-22T07:22:54Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
