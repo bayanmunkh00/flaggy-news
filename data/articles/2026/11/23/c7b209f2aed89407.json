@@ -1,0 +1,19 @@
+{
+ "id": "c7b209f2aed89407",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg",
+ "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+ "summary_en": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled. Fixed kernels shipped",
+ "lines": [],
+ "title_mn": "Linux KVM-ийн сул тал нь виртуал машин хостоос санах ой унших боломж олгожээ",
+ "summary_mn": "Linux цөөрмийн KVM гипервайзерт илэрсэн CVE-2026-99312 сул тал нь AMD процессорын хувьд виртуал машин дотроос хост серверийн санах ойд нэвтрэх эрсдэлтэйг харуулжээ. Хөгжүүлэгчид аль хэдийн засвар гаргасан байна.",
+ "body_mn": "Linux цөөрмийн гол бүрэлдэхүүн хэсэг болох KVM гипервайзерт ноцтой сул тал илэрснийг судлагчид мэдээллээ. CVE-2026-99312 гэж тэмдэглэгдсэн уг сул тал нь зөвхөн AMD процессорын дэмжлэгтэй болон давхар виртуалчлал (nested virtualization) идэвхжүүлсэн хостуудад нөлөөлдөг болохыг тогтоожээ.\n\nСудлагчид үүнийг туршиж үзэхэд виртуал машин дотроос хост серверийн санах ойн асар их хэсгийг унших боломжтой байсан бөгөөд үүнд бусад хэрэглэгчдийн мэдээлэл ч өртөх эрсдэлтэй байжээ. Энэхүү аюулгүй байдлын цоорхойг арилгах зорилгоор Linux KVM хөгжүүлэгчид болон холбогдох үйлчилгээ үзүүлэгчид яаралтай засваруудыг гаргасан байна.\n\nЭнэхүү сул тал нь санах ойн удирдлагын алдаанаас үүдэлтэй бөгөөд халдагч этгээд виртуал машин дотор root эрхтэй байх шаардлагатай юм. Одоогоор бодит халдлагад ашиглагдсан тухай мэдээлэл байхгүй бөгөөд хэрэглэгчид системээ яаралтай шинэчлэхийг зөвлөж байна.",
+ "published": "2026-11-20T12:20:00Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

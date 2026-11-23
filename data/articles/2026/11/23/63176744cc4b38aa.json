@@ -1,0 +1,19 @@
+{
+ "id": "63176744cc4b38aa",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/11/20/N-able.jpg",
+ "title": "N-able says recent security breach led to major service outage",
+ "summary_en": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+ "lines": [],
+ "title_mn": "N-able компани серверийн аюулгүй байдлын зөрчлийн улмаас томоохон саатал гарсныг хүлээн зөвшөөрөв",
+ "summary_mn": "N-able компани серверийнх нь нэгэнд зөвшөөрөлгүй нэвтэрсний улмаас дэлхий даяар Mail Assure болон SpamExperts үйлчилгээнд томоохон саатал гарснаа мэдэгдлээ.",
+ "body_mn": "N-able компани өөрийн серверийн орчинд гарсан аюулгүй байдлын зөрчлийн улмаас дэлхий даяарх Mail Assure болон SpamExperts үйлчилгээнд нь томоохон саатал гарсныг албан ёсоор мэдээллээ. Эхэндээ уг саатлыг платформ болон үйлчилгээний тохиргооны асуудал хэмээн тайлбарлаж байсан ч хожим нь зөвшөөрөлгүй хандалт гарсныг тогтоожээ.\n\nКомпанийн зүгээс хэрэглэгчдийн имэйл болон мэдээллийн урсгалд нөлөөлөөгүй гэж мэдэгдсэн бөгөөд аюулгүй байдлыг хангах үүднээс удирдлагын хяналтын самбар болон API хандалтуудыг түр хугацаагаар хязгаарлаад байна. Мөрдөн шалгах ажиллагаа үргэлжилж байгаа аж.\n\nЭнэхүү хэрэг нь тус компанийн өмнө нь тулгарсан бусад RMM платформтой холбоотой асуудлуудаас тусдаа болохыг компани онцолсон байна.",
+ "published": "2026-11-20T13:18:36Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

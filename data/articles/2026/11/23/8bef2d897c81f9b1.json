@@ -1,0 +1,19 @@
+{
+ "id": "8bef2d897c81f9b1",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3jj7PoNGt2LlOumxSIIVqG/50e8fe4a6953f446e0d1d20da22a0cf4/image.png",
+ "title": "Vercel Functions now support request bodies up to 20MiB",
+ "summary_en": "Vercel Functions now accept inbound request bodies up to 20MiB, up from 4.5MB, in Public Beta. To turn this on, set the VERCEL_SUPPORT_LARGE_REQUEST_BODY=1 environment variable. The opt-in applies to the whole project in the environment where you set it, so you can test the larger limit on preview before enabling it in production. It requires the project's functions to use the performance memory setting of 4GB. It applies to functions on the Node.js, Python, and Bun runtimes, and to Routing Middleware. Functions and Routing Middleware on the Edge runtime keep the 4.5MB cap and return 413 on…",
+ "lines": [],
+ "title_mn": "Vercel Functions 20MiB хүртэлх хэмжээтэй хүсэлтийн биеийг дэмждэг боллоо",
+ "summary_mn": "Vercel Functions одоогоор нийтийн туршилтын (Public Beta) хувилбараар 20MiB хүртэлх хэмжээтэй хүсэлтийн биеийг хүлээн авдаг боллоо. Энэ нь өмнөх 4.5MB хязгаарлалтыг мэдэгдэхүйц нэмэгдүүлсэн хэрэг юм.",
+ "body_mn": "Vercel платформ хөгжүүлэгчдэд зориулсан Functions үйлчилгээнийхээ хязгаарлалтыг өөрчилж, 20MiB хүртэлх хэмжээтэй хүсэлтийн биеийг (request body) хүлээн авдаг болсноо зарлалаа. Өмнө нь энэ хязгаар 4.5MB байсан бөгөөд одоогоор Public Beta буюу нийтийн туршилтын хэлбэрээр ажиллаж байна.\n\nЭнэхүү шинэ боломжийг идэвхжүүлэхийн тулд төслийн орчны хувьсагчид VERCEL_SUPPORT_LARGE_REQUEST_BODY=1 гэсэн утгыг оруулах шаардлагатай юм. Энэ нь Node.js, Python, болон Bun ажиллах орчин болон Routing Middleware хэсэгт үйлчлэх бөгөөд өндөр гүйцэтгэлтэй санах ойн тохиргоог шаарддаг.\n\nТом хэмжээний өгөгдөл дамжуулах явцад санах ойн ачааллыг зөв удирдах нь системийн тогтвортой байдлыг хангахад чухал үүрэгтэйг Vercel баг сануулжээ.",
+ "published": "2026-11-20T13:00:00Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

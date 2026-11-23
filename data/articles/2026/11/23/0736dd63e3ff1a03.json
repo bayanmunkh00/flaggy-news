@@ -1,0 +1,19 @@
+{
+ "id": "0736dd63e3ff1a03",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "BleepingComputer",
+ "source_label": "BleepingComputer",
+ "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+ "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Windows-11-blue.jpg",
+ "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+ "summary_en": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+ "lines": [],
+ "title_mn": "Microsoft Windows 11 26H2 хувилбарыг автоматаар шинэчилж эхэлжээ",
+ "summary_mn": "Microsoft компани албан байгууллагын удирдлага дор байдаггүй хувийн хэрэглээний төхөөрөмжүүдэд Windows 11 26H2 хувилбарыг автоматаар суулгаж эхэллээ. Хэрэглэгчид гараар шалгах шаардлагагүйгээр уг шинэчлэлтийг авах юм.",
+ "body_mn": "Microsoft компани энэ долоо хоногоос эхлэн мэдээллийн технологийн хэлтсийн удирдлагад байдаггүй, хувийн хэрэглээний тохирох төхөөрөмжүүдэд Windows 11 26H2 хувилбарыг автоматаар шинэчлэн суулгаж эхэлсэн байна. Шинэчлэлтийн үйл явц үе шаттайгаар явагдаж байгаа бөгөөд хэрэглэгч гараар шинэчлэл шалгах шаардлагагүйгээр автоматаар хийгдэх юм.\n\nУг автомат шинэчлэлт нь Windows 11-ийн 24H2 болон 25H2 хувилбаруудыг ашиглаж буй энгийн хэрэглэгчдэд зориулагдсан байна. Хэрэглэгчид хүсвэл Settings цэс рүү орж Windows Update хэсгээс гараар шалгаж суулгах бүрэн боломжтой бөгөөд хамгийн сүүлийн үеийн сайжруулалтыг цаг алдалгүй авах боломжтой.\n\nWindows 11 2026 Update хэмээн нэрлэгддэг энэхүү хувилбар нь энэ оны 9 дүгээр сард албан ёсоор гарсан байна. Үүний зэрэгцээ зарим хэрэглэгчдийн хувьд энэ сарын шинэчлэлтүүд зарим программ хангамжтай холбоотой асуудал үүсгэж болзошгүйг тус компани анхааруулжээ.",
+ "published": "2026-11-20T12:14:28Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

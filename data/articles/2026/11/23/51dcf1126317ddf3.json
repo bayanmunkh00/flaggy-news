@@ -1,0 +1,19 @@
+{
+ "id": "51dcf1126317ddf3",
+ "section": "software",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.6.0",
+ "image": "https://opengraph.githubassets.com/48946e7435da0936e5f4b262ad4dfbdcda02c0cbc996f25924c592e30e14b390/nestjs/nest/releases/tag/v12.6.0",
+ "title": "nest v12.6.0",
+ "summary_en": "v12.6.0 (2026-11-20) Notable changes New features NestFactory.create() infers the application type from the adapter: NestFactory.create(AppModule, new FastifyAdapter()) returns a NestFastifyApplication with no type argument, and the same goes for ExpressAdapter and NodeAdapter . An explicit type argument still works. A custom adapter declares its application type as the fourth type argument of AbstractHttpAdapter – #18623 WsAdapter takes gracefulShutdown ( false by default) and gracePeriod (10,000 ms by default). With gracefulShutdown , closing the application stops accepting connections (an…",
+ "lines": [],
+ "title_mn": "NestJS v12.6.0 хувилбар шинэ боломж, сайжруулалтуудтайгаар гарлаа",
+ "summary_mn": "NestJS фрэймворкийн v12.6.0 шинэ хувилбар албан ёсоор гарлаа. Уг хувилбарт адаптераас аппликейшний төрлийг автоматаар тодорхойлох, gRPC болон WsAdapter-ийн gracefulShutdown тохиргоо зэрэг олон шинэ боломж нэмэгджээ.",
+ "body_mn": "NestJS багт суурилсан хөгжүүлэлтийн орчны шинэ v12.6.0 хувилбар гарч, хөгжүүлэгчдэд олон чухал шинэ боломж болон сайжруулалтыг авчирлаа. Энэхүү хувилбарын гол онцлогуудын нэг нь NestFactory.create() функц нь адаптераас хамааран аппликейшний төрлийг автоматаар тодорхойлох чадвартай болсон явдал юм.\n\nТухайлбал, NestFactory.create(AppModule, new FastifyAdapter()) гэж зарлахад тусгай төрлийн аргумент шаардлагагүйгээр NestFastifyApplication төрлийг буцаадаг болжээ. Түүнчлэн WsAdapter болон gRPC серверүүдэд gracefulShutdown болон gracePeriod тохиргоог сайжруулж, холболтыг илүү ухаалаг бөгөөд найдвартай хаах боломжийг бүрдүүлсэн байна.\n\nЭнэхүү шинэчлэлт нь Fastify болон Express платформуудын алдаа болон хүсэлт боловсруулах явцыг илүү жигд болгож, хөгжүүлэгчдийн бүтээмжийг нэмэгдүүлэхэд чиглэсэн олон засварыг багтаажээ.",
+ "published": "2026-11-20T12:51:21Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

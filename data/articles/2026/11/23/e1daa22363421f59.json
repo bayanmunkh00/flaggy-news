@@ -1,0 +1,19 @@
+{
+ "id": "e1daa22363421f59",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "Dark Reading",
+ "source_label": "Dark Reading",
+ "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+ "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt823dceb89b6bf324/6a1dd1f32928e11bac7b2d1a/microsoft_DrewAngerer_Getty.jpg?width=720&quality=80&disable=upscale",
+ "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+ "summary_en": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+ "lines": [],
+ "title_mn": "Microsoft хиймэл оюун ухааны эрин үед зориулсан хамгаалалтын хэрэгслүүдээ танилцууллаа",
+ "summary_mn": "Microsoft компани Ignite бага хурлын үеэр байгууллагын системүүдийг хамгаалах шинэ Хиймэл оюун ухааны агент аюулгүй байдлын хэрэгслүүд болон ил тод байдлын стандарт боловсруулснаа зарлав.",
+ "body_mn": "Microsoft компани өөрийн Ignite техникийн бага хурлын үеэр байгууллагын системүүдийг хамгаалах чиглэлтэй шинэ хиймэл оюун ухааны агентын хамгаалалтын хэрэгслүүд болон ил тод байдлын шинэ стандартуудаа албан ёсоор танилцууллаа.\n\nЭнэхүү шинэ шийдэл нь байгууллагуудад хиймэл оюун ухааны агентуудын аюулгүй байдлыг сайжруулах, тэдгээрийн үйл ажиллагаанд хяналт тавих зорилготой юм. Технологийн дэвшил хурдацтай явагдаж буй энэ үед компаниуд кибер аюулгүй байдлын шинэ сорилтуудтай тулгарч байгаа билээ.\n\nMicrosoft-ын энэхүү алхам нь хиймэл оюун ухааныг ашиглаж буй аж ахуйн нэгжүүдэд илүү найдвартай орчныг бүрдүүлэхэд чухал түлхэц болох юм.",
+ "published": "2026-11-20T13:51:30Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

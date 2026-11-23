@@ -1,0 +1,19 @@
+{
+ "id": "b18719ed382d67da",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png",
+ "title": "The Path to AI Autonomy in the SOC",
+ "summary_en": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027. The pressure",
+ "lines": [],
+ "title_mn": "Аюулгүй байдлын салбар хиймэл оюун ухааны агентуудад илүү эрх өгөхөд бэлэн байна",
+ "summary_mn": "a16z компаниас гаргасан судалгаагаар мэдээллийн аюулгүй байдлын удирдлагууд (CISO) бага эрсдэлтэй үйлдлүүдийг хиймэл оюун ухаанд даатгах хандлагатай байна. Одоогоор 36% нь дэмждэг бол ирэх жил гэхэд энэ үзүүлэлт 60%д хүрэх хүлээлттэй байна.",
+ "body_mn": "Мэдээллийн аюулгүй байдлын удирдлагууд болон СISO нар аюулгүй байдлын үйл ажиллагааны төвдөө (SOC) хиймэл оюун ухааны агентуудын оролцоог нэмэгдүүлэх хандлагатай байна. Саяхан a16z компаниас 1000-аас дээш ажилтантай байгууллагуудын дунд явуулсан судалгаагаар оролцогчдын 36 хувь нь бага эрсдэлтэй аюулгүй байдлын үйлдлүүдийг бие даан гүйцэтгэхийг хиймэл оюун ухаанд одоо зөвшөөрөхөд бэлэн байгаагаа илэрхийлжээ.\n\nСудалгаанд оролцогчдын дийлэнх нь ирэх 12 сарын хугацаанд энэ үзүүлэлт 60 хувьд хүрэх хүлээлттэй байгаа аж. Гол шалтгаан нь кибер халдлагын хурд улам нэмэгдэж, шинжээчдийн ачаалал хэтэрч байгаа явдал бөгөөд судалгаанд оролцогчдын 55 хувь нь үүнийг хамгийн том санаа зовоосон асуудал гэж үзжээ.\n\nГэсэн хэдий ч удирдлагууд өндөр эрсдэлтэй шийдвэр гаргах түвшинд AI-д бүрэн эрх өгөхөд болгоомжтой хандаж байна. Одоогийн байдлаар дийлэнх хувь нь хүний оролцоог чухалчилж байгаа бөгөөд автоматажуулалтыг үе шаттайгаар, нотолгоонд суурилсан байдлаар нэвтрүүлэх нь зөв гэж үзэж байна.\n\nЭнэхүү шилжилт нь аюулгүй байдлын багуудын ажлын үр ашгийг эрс дээшлүүлж, цаг хугацаа хэмнэх чухал алхам болохоор байна.",
+ "published": "2026-11-20T12:00:00Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

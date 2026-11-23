@@ -1,0 +1,19 @@
+{
+ "id": "a981ec6e5a3b9cb0",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Scientific American",
+ "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+ "image": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&w=1200",
+ "title": "Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math",
+ "summary_en": "Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math Scientific American",
+ "lines": [],
+ "title_mn": "Anthropic компанийн судлаач математикийн хамгийн алдартай таамаглалыг баталжээ",
+ "summary_mn": "Anthropic компанийн математикч Клод загварын тусламжтайгаар 167 жилийн түүхтэй Риманы таамаглалыг баталснаа зарлалаа. Энэхүү амжилт нь математикийн салбарт томоохон хувьсгал авчирч байна.",
+ "body_mn": "Хиймэл оюун ухааны Anthropic компанид ажилладаг математикч Левент Алпөжэ том хэлний загвар болох Claude-ийн тусламжтайгаар математикийн түүхэн дэх хамгийн алдартай бодлого болох Риманы таамаглалыг (Riemann Hypothesis) баталснаа мэдэгдлээ. Энэхүү үр дүнг бие даасан судлаачид хожим нь шалгаж баталгаажуулсан байна.\n\nАнх 1859 онд математикч Бернхард Риманы дэвшүүлсэн уг таамаглал нь анхдагч тоонуудын байрлал ямар нэгэн утга учиртай дарааллаар тодорхойлогддог болохыг харуулахыг зорьдог бөгөөд тооны онооны салбарын хамгийн хүндтэй бодлогуудын нэг байсаар ирсэн юм. Уг бодлогыг баталсан нь олон арван жилийн турш шийдэгдээгүй байсан математикийн том асуудлуудад цэг тавьж магадгүй чухал үйл явдал болж байна.\n\nАлпөжэ математикийн аргуудын үнэн зөв байдлыг шалгадаг Lean програмчлалын хэл ашиглан энэхүү нотолгоог боловсруулсан байна. Мэргэжилтнүүд үүнийг математикийн ертөнцөд цоо шинэ хаалга нээж, олон салбарын судалгаанд асар их нөлөө үзүүлнэ хэмээн дүгнэж байна.",
+ "published": "2026-11-20T14:00:00Z",
+ "added": "2026-11-23T11:13:18Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
