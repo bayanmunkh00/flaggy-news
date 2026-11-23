@@ -1,0 +1,19 @@
+{
+ "id": "4b0033536e5760bb",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg",
+ "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+ "summary_en": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
+ "lines": [],
+ "title_mn": "Windows үйлдлийн системд түгжээтэй үед програм ажиллуулах шинэ эмзэг байдал илэрчээ",
+ "summary_mn": "MSNightmare болон Nightmare Eclipse нэртэй судлаачид Windows компьютерийн түгжээтэй дэлгэцээс нэвтрэх эрхгүйгээр програм ажиллуулах боломжтой FastUnlock гэх шинэ эмзэг байдлыг илрүүллээ.",
+ "body_mn": "Windows үйлдлийн системд зориулсан шинэ бөгөөд одоогоор засварлагдаагүй байгаа FastUnlock нэртэй эмзэг байдал илэрсэн тухай судлаачид мэдээллээ. Энэхүү арга нь хэрэглэгч тухайн компьютер дээр биет байдлаар хандах боломжтой үед түгжээтэй дэлгэцийг ашиглан системд нэвтрэлгүйгээр програм эхлүүлэх боломжийг олгодог байна.\n\nАюулгүй байдлын ThreatLocker фирмийн шалгаснаар уг арга нь дэлгэц уншигч Narrator болон Microsoft-ын бүртгэлийг ашиглан хязгаарлагдмал эрхтэйгээр зарим програмыг ажиллуулж чаддаг болох нь батлагджээ. Гэсэн хэдий ч энэ нь админы эрхийг шууд олгохгүй бөгөөд тодорхой нөхцөл шаардах ажээ.\n\nMicrosoft компани одоогоор уг эмзэг байдлыг засварласан албан ёсны шинэчлэлтийг гаргаагүй байгаа тул хэрэглэгчид компьютерээ асаах үед PIN код шаардах тохиргоо хийх болон биет аюулгүй байдлаа хангахыг зөвлөж байна. Бодит халдлагад ашиглагдсан тухай мэдээлэл одоогоор байхгүй байна.",
+ "published": "2026-11-20T05:30:01Z",
+ "added": "2026-11-23T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

@@ -1,0 +1,19 @@
+{
+ "id": "e40617893cabf092",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugg63OPJwZuh94vDIg7MkA4YoeLKr5sjiqI6CEgjvDjUvJ-pBJOfUrUBxPUTbartqVwdldczbKSYo6lpkcVic1EDQYIDyWq12zMdMONjpDtK4NKCgkppAWvnOJpXe7prfmRG8WNpH0RrQ0bhX2nZKGpRy33y0OMZraBjEPoDorp9h3kNJSa-IQrJC7Nl5/s1600/cf.jpg",
+ "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+ "summary_en": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint",
+ "lines": [],
+ "title_mn": "ROMULUS систем ClickFix халдлагаар дамжуулан шинэ RAT вирусийг тарааж байна",
+ "summary_mn": "Blackpoint Cyber фирмийн судлаачдын олж тогтоосноор ROMULUS платформ нь ClickFix арга техникийг ашиглан хэрэглэгчдийн компьютерээс мэдээлэл хулгайлах чадвартай шинэ RAT вирусийг тарааж байна.",
+ "body_mn": "Аюулгүй байдлын Blackpoint Cyber компанийн судлаачид ROMULUS хэмээх хортой програмын платформоор дамжин шинээр тархаж буй алсын удирдлагын RAT вирусийг илрүүллээ. Энэхүү систем нь хуурамч алдаа засах заавар бүхий ClickFix арга техникийг ашиглан хэрэглэгчдийг төөрөлдүүлдэг байна.\n\nХалдлага үйлдэгчид ChatGPT Custom GPT болон хортой MSI суулгагчдыг ашиглан албан ёсны бинар файлуудыг хуурамчаар ашиглаж DLL sideloading аргаар хортой кодыг ажиллуулдаг нь тогтоогджээ. Уг вирус нь алсын дэлгэцийг хянах, микрофон болон камерын бичлэг хийх, файл удирдах өргөн боломжтой ажээ.\n\nСудлаачид халдлагын аргууд улам бүр боловсронгуй болж байгааг анхааруулж, браузер болон файлын санд хийж буй хяналтаа сайжруулахыг зөвлөж байна. Энэхүү аюул нь байгууллагууд болон энгийн хэрэглэгчдэд томоохон эрсдэл учруулж байна.",
+ "published": "2026-11-20T07:11:39Z",
+ "added": "2026-11-23T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

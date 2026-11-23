@@ -1,0 +1,19 @@
+{
+ "id": "5ed06aba57538231",
+ "section": "ai",
+ "subtopic": "xai",
+ "source": "xAI (Google News)",
+ "source_label": "X",
+ "url": "https://x.com/MarioNawfal/status/2123657598679605499/video/1",
+ "image": "https://pbs.twimg.com/amplify_video_thumb/2123652563262226432/img/hW5l77tgSa5GWFkn?format=webp&name=large",
+ "title": "Grok Bot is getting VERY good at being the BOSS of other AI tools. Give it a project, and it can bring in Claude Code for programming, Paper for design, and other specialist tools to get the job done. It figures out who should handle what, keeps track of the progr",
+ "summary_en": "Grok Bot is getting VERY good at being the BOSS of other AI tools. Give it a project, and it can bring in Claude Code for programming, Paper for design, and other specialist tools to get the job done. It figures out who should handle what, keeps track of the progr X",
+ "lines": [],
+ "title_mn": "Grok Bot бусад хиймэл оюун ухааны хэрэгслүүдийг удирдах чадвартай болжээ",
+ "summary_mn": "xAI компанийн Grok Bot нь програмчлалд Claude Code, дизайн хийхэд Paper зэрэг төрөлжсөн хиймэл оюун ухааны хэрэгслүүдийг удирдан чиглүүлж, цогц төслүүдийг амжилттай гүйцэтгэх чадвартай болж хөгжиж байна.",
+ "body_mn": "xAI компанийн Grok Bot хэрэгсэл нь хиймэл оюун ухааны бусад системийг удирдан чиглүүлж, хамтран ажиллах дэвшилтэт боломжтой болж өргөжиж байна.\n\nХэрэглэгчид тодорхой төсөл даалгахад Grok Bot нь програмчлалын чиглэлээр Claude Code, дизайны хувьд Paper болон бусад мэргэжлийн хэрэгслүүдийг зэрэг ашиглан ажлыг хуваарилах чадвартай ажээ. Энэ нь аль хэрэгсэл нь ямар үүрэг гүйцэтгэхийг өөрөө тодорхойлж, явцыг хянаж нэгтгэх боломжийг олгодог байна.\n\nЭнэхүү шинэ боломж нь хөгжүүлэгчид болон дизайнеруудад олон төрлийн хиймэл оюун ухааныг нэг дороос уялдаа холбоотойгоор ашиглах таатай нөхцөлийг бүрдүүлж байгаа ажээ.",
+ "published": "2026-11-20T06:00:01Z",
+ "added": "2026-11-23T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

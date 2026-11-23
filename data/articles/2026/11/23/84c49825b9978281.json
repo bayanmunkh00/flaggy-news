@@ -1,0 +1,19 @@
+{
+ "id": "84c49825b9978281",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1Et9qkf9Ym9U2FhrvhjYDy/71ad40c39b19f5e043e9daec9dc1919d/iso-cert-og.png",
+ "title": "Vercel completes ISO/IEC 42001:2023 certification",
+ "summary_en": "Vercel has completed its ISO/IEC 42001:2023 certification, meeting the international standard for AI management systems. This certification gives our customers confidence to ship fast with agents on Vercel, demonstrating how Vercel designs, builds, operates, and governs our AI products. Our AI management system covers Vercel’s underlying infrastructure and core AI products, including AI Gateway, Vercel Agent, v0, AI-based open source software and frameworks, as well as the people and processes behind them. Vercel’s certificate is available here , and additional audit documentation is…",
+ "lines": [],
+ "title_mn": "Vercel компани ISO 42001 сертификат авлаа",
+ "summary_mn": "Vercel хиймэл оюун ухааны удирдлагын системд тавигдах ISO/IEC 42001:2023 олон улсын стандартыг хангаж, албан ёсны сертификат гардан авлаа. Энэ нь хөгжүүлэгчдэд агентуудыг аюулгүй, найдвартай ажиллуулах боломжийг олгох юм.",
+ "body_mn": "Vercel компани хиймэл оюун ухааны удирдлагын тогтолцооны олон улсын стандарт болох ISO/IEC 42001:2023 гэрчилгээг амжилттай гардан авлаа. Энэхүү сертификат нь хэрэглэгчдэд Vercel платформ дээр хиймэл оюун ухааны агентуудыг итгэлтэйгээр хөгжүүлэх боломжийг олгож байна.\n\nТус стандартын хүрээнд AI Gateway, v0 болон бусад нээлттэй эх сурвалжтай хэрэгслүүдийг хамарсан дэд бүтцийн засаглал, эрсдэлийн үнэлгээ, мэдээллийн аюулгүй байдлыг хянах юм. Аюулгүй байдлын асуудал эрхэлсэн захирал Талха Тарик хэлэхдээ, компаниуд хиймэл оюун ухааныг хөгжүүлэхдээ хурд болон засаглалын аль алиныг нь алдах ёсгүйг онцолжээ.\n\nЭнэхүү гэрчилгээг авахын тулд тус компани бие даасан аудитын байгууллагаар хяналтын шалгалтуудыг хийлгэсэн бөгөөд гурван жилийн хугацаанд хүчин төгөлдөр үйлчлэх ажээ. Ингэснээр Vercel нь үйлчлүүлэгчиддээ мэргэжлийн түвшний, баталгаатай хиймэл оюун ухааны бүтээгдэхүүн санал болгох нөхцөлийг бүрдүүлж байна.",
+ "published": "2026-11-20T05:00:00Z",
+ "added": "2026-11-23T04:00:49Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
