@@ -856,5 +856,247 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1ca12c187bb7c568",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+   "image": "https://cdn.mos.cms.futurecdn.net/FpyrzhxuSBtv2GwT3GsT95-2560-80.jpg",
+   "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed",
+   "summary_en": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed Tom's Hardware",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T16:30:08Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "02fc42f772fd3391",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "summary_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude The Verge",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T16:34:13Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0b4042589720c604",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg",
+   "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+   "summary_en": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T16:58:16Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0a7063231fc997f4",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The New Stack",
+   "url": "https://thenewstack.io/anthropic-claude-code-verification/",
+   "image": "",
+   "title": "Anthropic says Claude writes and reviews 90% of its team's code. The catch is how it checks the work.",
+   "summary_en": "Anthropic says Claude writes and reviews 90% of its team's code. The catch is how it checks the work. The New Stack",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:01:34Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6932b88861c68844",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "Dark Reading",
+   "source_label": "Dark Reading",
+   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafa9df51f75884e4/6b007fead61f59302a23c588/nvidia-Benjamin_Fanjoy_-Getty-2304259055.jpg?width=720&quality=80&disable=upscale",
+   "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+   "summary_en": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:04:04Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "55f5d05384cec11a",
+   "section": "ai",
+   "subtopic": "kimi",
+   "source": "Kimi (Google News)",
+   "source_label": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/spacex-owned-cursor-considers-dropping-172727763.html",
+   "image": "https://s.yimg.com/lo/mysterio/api/ad8525f229e9316e221e7411b662ddddcb14f0a3a67eb94847aa219b9d1d3542/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F0f8375f207ec4f3a789898c747d28961",
+   "title": "SpaceX-Owned Cursor Considers Dropping Chinese AI Models – A Look At Some Key Details",
+   "summary_en": "SpaceX-Owned Cursor Considers Dropping Chinese AI Models – A Look At Some Key Details Yahoo Finance",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:27:27Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "209648e572bdea41",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "BleepingComputer",
+   "source_label": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "image": "https://www.bleepstatic.com/content/hl-images/2022/05/12/evil-hacker-ai.jpg",
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "summary_en": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:30:00Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d24c142d9df674d3",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
+   "title": "Chips can survive the space environment — can their financing?",
+   "summary_en": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:40:01Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9c016f5b5caab90b",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Phys.org",
+   "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html",
+   "image": "",
+   "title": "Anthropic researcher says he and Claude proved the Riemann hypothesis, first posed in 1859",
+   "summary_en": "Anthropic researcher says he and Claude proved the Riemann hypothesis, first posed in 1859 Phys.org",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:50:01Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "197792c7b033509a",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "South China Morning Post",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle",
+   "image": "",
+   "title": "Anthropic researcher says Claude has solved maths’ greatest riddle",
+   "summary_en": "Anthropic researcher says Claude has solved maths’ greatest riddle South China Morning Post",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:55:08Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b44c0a854e15b185",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg",
+   "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+   "summary_en": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-20T17:57:20Z",
+   "added": "2026-11-23T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]
