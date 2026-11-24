@@ -1,0 +1,19 @@
+{
+ "id": "539f3e38c94440ae",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://zyt00nax0x.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-1a99dc7b59b7?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/600/1*-oqhpdo4dzG4ylyCzom2mA.png",
+ "title": "Account Enumeration via Password-Reset and Registration Verification-Code Endpoints",
+ "summary_en": "Platform: example.com Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-21T20:15:16Z",
+ "added": "2026-11-24T16:00:49Z",
+ "ai": "",
+ "score": null
+}

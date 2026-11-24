@@ -1,0 +1,19 @@
+{
+ "id": "b7c74e4a7f1d740a",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "InfoSec Write-ups",
+ "source_label": "InfoSec Write-ups",
+ "url": "https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4",
+ "image": "https://cdn-images-1.medium.com/max/1672/1*oxd-RndSDkLAg1t54Qawsg.png",
+ "title": "The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty",
+ "summary_en": "A complete, hands-on guide to hunting hidden SSRF vulnerabilities, bypassing WAFs and filters and escalating impact from cloud metadata… Continue reading on InfoSec Write-ups »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-22T12:12:24Z",
+ "added": "2026-11-24T16:00:49Z",
+ "ai": "",
+ "score": null
+}
