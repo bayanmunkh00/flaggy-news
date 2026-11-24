@@ -1,0 +1,19 @@
+{
+ "id": "552b60cb29a0722a",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg",
+ "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+ "summary_en": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in",
+ "lines": [],
+ "title_mn": "CISA: Шүүмжлэлтэй эмзэг байдлуудыг идэвхтэй ашиглаж байна",
+ "summary_mn": "Америкийн CISA байгууллага Apache Roller, Cisco, SAP болон VMware vCenter-ийн эмзэг байдлуудыг идэвхтэй ашиглаж байгааг анхааруулж KEV жагсаалтад нэмжээ.",
+ "body_mn": "Америкийн Кибер аюулгүй байдал, дэд бүтцийн хамгаалалтын агентлаг (CISA) Apache Roller, Cisco Expressway, SAP NetWeaver, болон Broadcom VMware vCenter системийг хамарсан дөрвөн эмзэг байдлыг Мед мэддэг ашиглагдсан эмзэг байдлын (KEV) жагсаалтад орууллаа. Эдгээр эмзэг байдлууд нь кибер халдлагад бодитоор ашиглагдаж байгааг тогтоосон байна.\n\nТухайлбал, Onapsis компани SAP NetWeaver-ийн эмзэг байдал (CVE-2025-42884) алсын зайнаас код гүйцэтгэх (RCE) боломж олгож болзошгүйг анхааруулжээ. Энэ нь серверүүдийг бүрэн хяналтандаа олох эрсдэлтэй бөгөөд тусгай мэдлэг бүхий этгээдүүд тусгай эксплойт боловсруулан ашиглаж байна.\n\nХолбогдох байгууллагуудад энэ сарын 23-ны өдрөөс өмнө шаардлагатай засвар, шинэчлэлтүүдийг хийхийг үүрэг болгосон байна. Кибер аюулгүй байдлын мэргэжилтнүүд системээ цаг алдалгүй шинэчлэхийг зөвлөж байна.",
+ "published": "2026-11-21T08:49:13Z",
+ "added": "2026-11-24T06:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

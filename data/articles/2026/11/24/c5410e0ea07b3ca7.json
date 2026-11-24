@@ -1,0 +1,19 @@
+{
+ "id": "c5410e0ea07b3ca7",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cVX1DZUDMTkSc3kGcO8KsGd-MIBr6py39SuaRxG1wCxVVfKIQhiQaywRpjn95FQV4tMy0dWyNc49745cwqBBLpGzVK_eut-DGLBaidiiYCdIH65bXGtopuPJ7dofJzAJVJ6cWrKp2JJb5gNrODQuWtK7vZZp824ecrz4_DHWWJIaC5wS6aYfsMsKshg4/s1600/signal.jpg",
+ "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+ "summary_en": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal",
+ "lines": [],
+ "title_mn": "Signal апп хиймэл оюуны агент нараас хувийн чатаа хамгаална",
+ "summary_mn": "Signal платформ үйлдлийн системийн хиймэл оюуны агентууд дэлгэц уншихаас сэргийлж, скриншот хийхийг үндсэн тохиргоогоор хязгаарлахаа зарлалаа.",
+ "body_mn": "Шифрлэгдсэн мессеж илгээх Signal платформ нь Android болон iOS төхөөрөмж дээрхи хиймэл оюуны агентууд хувийн чатыг скриншот хийж уншихаас урьдчилан сэргийлж хязгаарлалт хийхээ мэдэгдэв. Гэвч энэхүү хамгаалалт нь бүрэн төгс биш гэдгийг тус сангийн удирдлагууд хүлээн зөвшөөрсөн байна.\n\nУг шинэ боломж нь iOS болон Android дээр үйлдлийн системийн суулгагдсан AI туслахууд Signal-ийн дэлгэцийг унших оролдлогыг илрүүлэхэд хэрэгжиж эхэлнэ. Signal сангийн тэргүүн Мередит Уиттакер хиймэл оюуны агентууд дэлгэцэн дээрх мэдээллийг сканнердаж авснаар хэрэглэгчдийн хувийн нууцлалд ноцтой эрсдэл учруулж байгааг онцолжээ.\n\nХэдийгээр скриншот хийхийг хориглож байгаа ч энэ нь файлын систем болон бусад аргаар мэдээлэлд хүрэх AI агентуудын нууцлал зөрчих оролдлогыг бүрэн зогсоож чадахгүй юм. Хэрэглэгчид тохиргоогоо өөрчлөх боломжтой хэдий ч энэ нь хувийн нууцлалын баталгааг сулруулж болзошгүй аж.",
+ "published": "2026-11-21T08:49:20Z",
+ "added": "2026-11-24T06:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

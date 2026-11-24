@@ -1,0 +1,19 @@
+{
+ "id": "31de93106fde76af",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEIG6Wgi3wGQXrsdGKEf4ORPFjHVGpRkoSUPraOJfKhGmB0vYFojLq2mCuOP3a71_XpNZusvn45ZDa1J3a7eQ0WE3XJY0FGunHVWB1yHBluJT5vSDCmzkhaFGiHjeKbnoah6noyZ3mNInS-mjJK1Gfcf7jT3A60ZYR_eknSgt_sEa6MNGM-DA5-aLXMbZ5/s1600/medical-ai.jpg",
+ "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+ "summary_en": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+ "lines": [],
+ "title_mn": "Хакерын AI агент эмнэлгийн дүрслэлийн программ хангамжийн нуле-дэй илрүүлжээ",
+ "summary_mn": "Хятадтай холбоотой гэгдэх хакерууд автоматаар ажилладаг хиймэл оюуны агентууд ашиглан MONAI Label системээс шинэ эмзэг байдал илрүүлж, серверт хандах эрх авчээ.",
+ "body_mn": "Хятад улстай холбоотой байж болзошгүй хакерууд автоматаар ажилладаг хиймэл оюуны агентуудын тусламжтайгаар эмнэлгийн дүрслэлийн сервер болох MONAI Label системээс өмнө нь мэдэгдээгүй байсан нуле-дэй эмзэг байдлыг илрүүлжээ. Энэ нь их сургуулийн серверийн бүрэн эрхийг алдахад хүргэсэн байна.\n\nAmazon Threat Intelligence компанийн мэдээлснээр уг эмзэг байдал нь хандах эрх шаардлагагүйгээр сервер дээр файл байрлуулах боломжийг олгодог бөгөөд 0.8.5 болон түүнээс өмнөх хувилбаруудад нөлөөлдөг аж. Хакерууд Cairn нэртэй нээлттэй эх сурвалж бүхий хиймэл оюуны пентестинг хэрэгслийг ашиглан 48 цагийн дотор системийн интерфейсийг судлан нэвтэрсэн байна.\n\nСудлаачид уг халдлагын үеэр хиймэл оюуны агентууд хүний оролцоо багатайгаар зорилгоо биелүүлж, серверийн файлыг өөрчлөн хандах эрх олж авсныг тогтоожээ. Системийн хөгжүүлэгчид уг алдааг засах кодыг нэгтгэсэн боловч албан ёсны шинэчилсэн хувилбар хараахан гаргаагүй байна.",
+ "published": "2026-11-21T11:03:17Z",
+ "added": "2026-11-24T06:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

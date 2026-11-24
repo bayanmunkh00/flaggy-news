@@ -1,0 +1,19 @@
+{
+ "id": "715d508b3ece614a",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://elze1n.medium.com/the-message-that-ate-the-cpu-finding-a-quadratic-time-dos-in-markdown-parsing-7813c2dc8df4?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1672/1*KyFHuJo-O4UFVF7GGQd6mA.png",
+ "title": "The Message That Ate the CPU: Finding a Quadratic-Time DoS in Markdown Parsing",
+ "summary_en": "How three characters in a Markdown message turned a normal chat operation into a server-side CPU exhaustion vulnerability. Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-21T12:44:21Z",
+ "added": "2026-11-24T06:54:44Z",
+ "ai": "",
+ "score": null
+}

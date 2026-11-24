@@ -1,0 +1,19 @@
+{
+ "id": "1213956f4450065c",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/article/anthropic-engineers-warning-about-claude-code-explains-why-tech-outages-could-get-much-worse-110000573.html",
+ "image": "https://s.yimg.com/lo/mysterio/api/8f46197a3b63691467d7557acbe6d4a60231703c08c54a0acd2fe78d667a6906/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fd74158d0-0778-11f1-99ad-572689e3b02e",
+ "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse",
+ "summary_en": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse Yahoo Finance",
+ "lines": [],
+ "title_mn": "Claude Code-ийн хурд болон ойлголтын өрийн тухай сануулга",
+ "summary_mn": "Anthropic-ийн инженер Адди Османи хиймэл оюунаар код бичих хурд нэмэгдэх тусам хүн төрөлхтөн системээ ойлгох чадвараа алдаж болзошгүйг анхааруулав.",
+ "body_mn": "Технологийн үйлчилгээ болон серверүүдийн тасалдал олширч буй өнөө үед энэ нь зөвхөн кибер аюулгүй байдлын асуудал бус, харин програм хангамж хөгжүүлэлтийн шинэ сорилттой холбоотой болохыг мэргэжилтнүүд онцолж байна. Үүний нэг тод жишээ бол Claude Code зэрэг хиймэл оюуны хэрэгслүүдийн хэрэглээ юм.\n\nAnthropic компанийн техникийн ажилтан, инженер Адди Османигийн дэвшүүлсэн \"ойлголтын өр\" гэсэн ойлголт хөгжүүлэгчдийн дунд анхаарал татаж байна. Хиймэл оюун ухаан код бичих хурд нь хүний хянаж шалгах боломжоос хамаагүй хурдан байдаг нь компаниуд кодоо бүрэн ойлгохгүйгээр хүлээж авахад хүргэж байна.\n\nКодууд хүний хяналтаас хурдан овоорох тусам системийн доголдол гарсан үед учрыг нь олох, засварлах үйл явц улам хүндэрч байна. Энэ нь орчин үеийн технологийн томоохон системүүдийн тогтвортой байдалд ноцтой сорилт болж байгаа аж.",
+ "published": "2026-11-21T11:00:00Z",
+ "added": "2026-11-24T06:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

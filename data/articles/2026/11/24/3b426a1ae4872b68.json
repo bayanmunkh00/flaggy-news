@@ -1,0 +1,19 @@
+{
+ "id": "3b426a1ae4872b68",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmX4ayWzvM0EzPttZ610B2837FppeU5AEmQmztLH2lai78EDQtjrp4wVI_bubSe2c2NGBE5sqBT9Py1mKkHQKN2faBkOzU70d7FntrpYD7Et2eeBxLNy2gzByAo1i8Aaw_VMBZD62RnBMY2md3iNfegK9M_NR5qTRDBw8s0uwKy1w7JoTV0zkDS_17Lse/s1600/pgp.jpg",
+ "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+ "summary_en": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+ "lines": [],
+ "title_mn": "GnuPG: GPGME сангийн критик эмзэг байдлын талаар анхаарууллаа",
+ "summary_mn": "Хортой OpenPGP түлхүүр ашиглан GnuPG програм хангамжийн стандарт сан болох GPGME-д санах ойн алдаа үүсгэж мэдээлэл хулгайлах боломжтойг анхаарууллаа.",
+ "body_mn": "GnuPG төслөөс хортой OpenPGP түлхүүрийг ашиглан GPGME санд критик санах ойн алдаа үүсгэж болзошгүй тухай анхааруулга гаргаж, шинэчилсэн хувилбаруудыг танилцууллаа. Уг эмзэг байдал нь CVE-2026-129975 гэж тэмдэглэгдсэн байна.\n\nЭнэхүү алдаа нь GPGME-ийн 2.3.0 хувилбараас өмнөх бүх хувилбаруудад нөлөөлөх бөгөөд цахим шуудангийн үйлчлүүлэгчид, XMPP клиентүүд болон бусад холбогдох багцуудад тус сан ашиглагддаг тул эрсдэлтэй юм. Халдлага үйлдэгдсэн тухай одоогоор мэдээлэгдээгүй байна.\n\nТөслийн багээс GPGME 2.3.1 хувилбарыг гаргасан бөгөөд холбогдох програм хангамж хөгжүүлэгчид болон хэрэглэгчдийг системээ яаралтай шинэчлэхийг зөвлөж байна. Одоогоор түр зуурын тойрч гарах арга байхгүй байгаа аж.",
+ "published": "2026-11-21T11:05:53Z",
+ "added": "2026-11-24T06:54:44Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
