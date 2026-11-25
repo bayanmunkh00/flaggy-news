@@ -1,0 +1,23 @@
+{
+ "id": "30255b9a2955ea1c",
+ "section": "hacker",
+ "subtopic": "cve",
+ "source": "CISA KEV",
+ "source_label": "CISA",
+ "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
+ "image": "",
+ "title": "CVE-2026-133968 added to CISA KEV (exploited in the wild)",
+ "summary_en": "Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code execution.",
+ "lines": [
+  "Project MONAI MONAI Label: Project MONAI MONAI Label Path Traversal Vulnerability",
+  "Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code execution.",
+  "Patch by: 2026-11-26"
+ ],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T00:00:00Z",
+ "added": "2026-11-25T04:00:46Z",
+ "ai": "",
+ "score": null
+}

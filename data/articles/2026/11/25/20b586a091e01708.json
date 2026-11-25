@@ -1,0 +1,19 @@
+{
+ "id": "20b586a091e01708",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://ryh04x.medium.com/from-recon-to-remote-code-execution-my-encounter-with-react2shell-cve-2025-55182-6b4efca990c5?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1672/1*4zpDN6j_KQNDPVPo2NftQg@2x.jpeg",
+ "title": "From Recon to Remote Code Execution : My Encounter with React2Shell (CVE-2025–55182)",
+ "summary_en": "Sometimes you start looking for low-hanging fruits and end up finding a tree you probably shouldn’t have been climbing. Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-22T12:54:22Z",
+ "added": "2026-11-25T04:00:46Z",
+ "ai": "",
+ "score": null
+}

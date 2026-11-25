@@ -1,0 +1,19 @@
+{
+ "id": "100913401905bfb2",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca6f86154507b6cc7466c5be/a4dc5a6ce573d6fc013d89b3c2ad55de/og-card.jpg",
+ "title": "Choose AI Gateway providers by headquarters country",
+ "summary_en": "Provider headquarters sends your AI Gateway requests only to providers headquartered in countries you choose, so you can meet compliance and procurement rules about where your AI vendors are located. You can configure provider headquarters to be an allowlist of the countries to use, or a denylist of the countries to block. AI Gateway skips providers in blocked countries and routes requests to the rest of the list, so a model stays accessible as long as it is available in one of its allowed provider locations. Use provider headquarters with regional hosting and regional inference to control…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T00:00:00Z",
+ "added": "2026-11-25T04:00:46Z",
+ "ai": "",
+ "score": null
+}

@@ -1,0 +1,19 @@
+{
+ "id": "29b03a3805fa08c9",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@anujrawal/changing-false-to-true-how-i-discovered-an-email-verification-bypass-through-mass-assignment-12233efb1f00?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1528/1*8S_M4PVZC4tJ0y4qJlaAjQ.jpeg",
+ "title": "Changing “false” to “true”: How I Discovered an Email Verification Bypass Through Mass Assignment",
+ "summary_en": "When you sign up on most shopping websites, they ask you to click a link in your email before you can edit your profile or track orders… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-22T18:34:14Z",
+ "added": "2026-11-25T04:00:46Z",
+ "ai": "",
+ "score": null
+}
