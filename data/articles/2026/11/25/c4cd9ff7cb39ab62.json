@@ -1,0 +1,19 @@
+{
+ "id": "c4cd9ff7cb39ab62",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@l4zz3rj0d/the-wildcard-parameter-that-exposed-60-million-usps-accounts-50b372babfb6?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/1672/1*T1W8K6NGeVe3yD0bsjD90Q.png",
+ "title": "The Wildcard Parameter That Exposed 60 Million USPS Accounts",
+ "summary_en": "Third one in the API rotation, and this is the one worth teaching to anyone who thinks authorization bugs only happen at flashy startups… Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T00:01:01Z",
+ "added": "2026-11-25T12:39:30Z",
+ "ai": "",
+ "score": null
+}

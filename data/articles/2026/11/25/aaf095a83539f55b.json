@@ -1,0 +1,19 @@
+{
+ "id": "aaf095a83539f55b",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xEn9v4m7rKPph4Ck1TdC/6cafb3297644e4ba6df15ecd6173b814/extraction_models_og.png",
+ "title": "AI Gateway now supports extraction models",
+ "summary_en": "Extraction models are now on AI Gateway. They find specific details in the content you provide, such as an invoice number or contact names, and return them as separate fields your code can use. ScaleDown Extract-1 is the first available extraction model. It extracts text values or lists of text values from text, images, and PDFs. You can use it to process invoices, contracts, and other records. Extraction is currently available through the AI SDK only. With ai@7.0.176 or later, use experimental_extract and the model ID scaledown/extract-1 : Each key in fields has an entry in result.answers…",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T05:00:00Z",
+ "added": "2026-11-25T12:39:30Z",
+ "ai": "",
+ "score": null
+}

@@ -1,0 +1,19 @@
+{
+ "id": "e35c285beae6bed9",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/caf87daafd0ddb7f57c786db/eb9a47f637fe4180dd745c8b86b04cfc/canary-zdr-audits-og.jpg",
+ "title": "AI Gateway now runs canary ZDR audits",
+ "summary_en": "AI Gateway now runs canary audits against inference providers to detect when prompt content is read outside the inference path. Contractual Zero Data Retention (ZDR) agreements and point-in-time security audits establish how a provider should handle your data, but production infrastructure changes continuously. Canary audits add a detection layer on top. Each canary audit run: Mints unique URLs that exist nowhere else, each mapped privately to a specific provider, model, and audit run. Sends prompts containing those URLs through the normal inference path, with ZDR requested for covered…",
+ "lines": [],
+ "title_mn": "AI Gateway нь мэдээллийн аюулгүй байдлыг хангах үүднээс canary ZDR аудит ажиллуулж эхэллээ",
+ "summary_mn": "Vercel-ийн AI Gateway систем inference үйлчилгээ үзүүлэгчдийн өгөгдөл хадгалахгүй байх (ZDR) гэрээний хэрэгжилтэд бодит хяналт тавих canary аудитын шинэ функцийг нэвтрүүлжээ. Энэ нь нууцлал алдагдсан эсэхийг автоматаар илрүүлэх нэмэлт хамгаалалтын давхарга болж өгч байна.",
+ "body_mn": "Vercel компани өөрийн AI Gateway системдээ canary ZDR (Zero Data Retention) аудитын функцийг нэмсэн байна. Гэрээ болон шалгалтаар өгөгдөл хадгалахгүй байх амлалт авдаг ч үйлдвэрлэлийн орчин байнга өөрчлөгддөг тул энэхүү шийдэл нь бодит хугацаанд хяналт тавих юм.\n\nЭнэхүү систем нь тусгайлан ялгах боломжтой өвөрмөц URL хаягуудыг үүсгэж, тодорхой провайдер болон модель руу явуулдаг байна. Хэрэв провайдер ZDR гэрээг зөрчиж өгөгдөл хадгалсан эсвэл шалгасан тохиолдолд тухайн хаяг руу хандалт ирснээр систем автоматаар илрүүлж бүртгэж авдаг ажээ.\n\nЭнэхүү шинэ боломж нь хууль эрх зүйн гэрээ болон бие даасан аудитыг орлохгүй бөгөөд тэдгээрийг нөхөж ажиллах нэмэлт хамгаалалт юм. Хөгжүүлэгчид AI Gateway-ийн аюулгүй байдлын талаарх дэлгэрэнгүй мэдээллийг албан ёсны баримт бичгүүдээс авах боломжтой.",
+ "published": "2026-11-23T06:19:00Z",
+ "added": "2026-11-25T12:39:30Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

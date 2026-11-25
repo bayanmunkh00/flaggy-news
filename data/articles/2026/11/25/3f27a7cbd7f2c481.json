@@ -1,0 +1,23 @@
+{
+ "id": "3f27a7cbd7f2c481",
+ "section": "hacker",
+ "subtopic": "cve",
+ "source": "CISA KEV",
+ "source_label": "CISA",
+ "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
+ "image": "",
+ "title": "CVE-2026-134624 added to CISA KEV (exploited in the wild)",
+ "summary_en": "N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.",
+ "lines": [
+  "N-able MailAssure: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+  "N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.",
+  "Patch by: 2026-11-26"
+ ],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T00:00:00Z",
+ "added": "2026-11-25T12:39:30Z",
+ "ai": "",
+ "score": null
+}
