@@ -1,0 +1,19 @@
+{
+ "id": "3077523564b045f2",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDifo0ih-I06DQJbgdnt34Xg1qWdMibKByoJO-4vqa50M4yN0Lwu4fDe88GBtoiKHMJnRDYM0WXvYDEMyCWFHEbedl0wzwKI7juH9Q9xs3osQjZK0xPygeuGm0bm6jgpWPa7bca1EuZfTQiLxn-X3aNaAhbchhvemZrCqslieabzsGmz4ezqhrKuYhDyk/s1600/ai-india.jpg",
+ "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+ "summary_en": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers",
+ "lines": [],
+ "title_mn": "Энэтхэгийн банкууд хиймэл оюунд түшиглэсэн кибер халдлагад өртөж байна",
+ "summary_mn": "CERT-In агентлаг AI ашигласан автомат халдлагууд банкуудын төлбөрийн системд нэвтэрч, зөвшөөрөлгүй гүйлгээ хийсэн тухай анхааруулга гаргалаа.",
+ "body_mn": "Энэтхэгийн Компьютерын аюулгүй байдлын шуурхай алба (CERT-In) тус улсын банк, санхүүгийн салбар болон төрийн төлбөрийн системүүд рүү хиймэл оюунаар удирдуулсан халдлагууд чиглэж буйг албан ёсоор сэрэмжлүүлэв. Халдагчид зөвшөөрөл олгох процесс болон бизнесийн бүртгэлүүдийг онилж, хууль ёсны системээр дамжуулан хууль бус санхүүгийн гүйлгээ хийсэн байна.\n\nАюулгүй байдлын шалгалтаар халдагчид олон агентаар зэрэг ажилладаг хиймэл оюуны автомат фрэймворкуудыг ашиглаж байгаа нь тогтоогджээ. Ийм агент хэрэгслүүд анхны хандалт авснаас эцсийн хохирол учруулах хүртэлх хугацааг хэдэн өдрөөс хэдхэн цаг болгон богиносгож байгааг онцолсон байна.\n\nЭнэтхэгийн Кибер гэмт хэрэгтэй тэмцэх төв (I4C)-ийн мэдээлснээр халдагчид ARTEX, PentAGI, CAIRN зэрэг пентэстийн автомат хэрэгслүүдийг ашиглан олон арван сая рупийн гүйлгээг саатуулж, дамжуулагч дансуудаар дамжуулан мөнгө угаажээ.",
+ "published": "2026-11-23T08:24:15Z",
+ "added": "2026-11-25T22:26:23Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

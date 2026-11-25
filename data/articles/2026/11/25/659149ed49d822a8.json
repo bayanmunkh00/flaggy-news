@@ -1,0 +1,19 @@
+{
+ "id": "659149ed49d822a8",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv3LP9w9Iv-ZmqonS5mwf1jDE-lTLUcDPxCOvYn3RF87-n2epMtdhqH5xXf-bsIIyKXq6U9qU5T1OQ6_Y3VeytS0CCA4TLJtFDcfcHR-I2EHY3t2e94UPvppaaXG9jDQPj4wNwt6CdwQCmXm5uK16BAp5Fn12DmxUk-Wu5ZwPT2kPQFo37oxSeqc6hX7X/s1600/asp.net.jpg",
+ "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+ "summary_en": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an",
+ "lines": [],
+ "title_mn": "ASP.NET Anti-CSRF ноцтой сул тал илэрч, хакерууд ашиглаж байна",
+ "summary_mn": "Idunno.AntiCsrf сангийн CVE-2026-131914 дугаартай сул талыг хакерууд идэвхтэй ашиглаж байгааг судлаачид анхаарууллаа. Энэ нь аутентификаци шаардахгүйгээр алсаас код ажиллуулах эрсдэлтэй юм.",
+ "body_mn": "Кибер аюулгүй байдлын судлаачид ASP.NET WebForms програмуудад зориулагдсан хуучирсан Idunno.AntiCsrf санд ноцтой эмзэг байдал илөрсөн тул түүнийг ашиглахаа нэн даруй зогсоохыг анхаарууллаа. CVE-2026-131914 гэж тэмдэглэгдсэн уг сул тал нь 10 баллын шкалаар 9.3 оноотой бөгөөд CVSS үнэлгээтэй маш ноцтой асуудал юм. Энэ нь 0.9.1.0 болон 0.9.1 Beta хувилбаруудад нөлөөлдөг байна.\n\nУг эмзэг байдал нь HTTP POST хүсэлтийг боловсруулах явцад сервер дээр шифрлэгдсэн гарын үсэг баталгаажуулалтгүйгээр мэдээллийг deserialization хийдэгтэй холбоотой юм. Үүний улмаас хакерууд ямар нэгэн эрх шаардалгүйгээр тусгайлан бэлтгэсэн хүсэлт илгээж, алсаас дурын код амжилттай гүйцэтгэх боломжтой болж байна. Google-ийн Mandiant баг уг сул талыг бодит орчинд аль хэдийн идэвхтэй ашиглаж эхэлснийг баталжээ.\n\nАлбан ёсны засвар буюу патч гарахгүй байгаа тул байгууллагууд уг санг ашиглахаа больж, идэвхтэй дэмжигддэг өөр хувилбарт шилжихийг зөвлөж байна. Серверийн бүртгэлийг шалгаж, сэжигтэй хандалт илэрсэн тохиолдолд холбогдох нууц үг, мэдээллийн сарын хандалтын эрхийг солих шаардлагатай юм.",
+ "published": "2026-11-23T09:11:56Z",
+ "added": "2026-11-25T22:26:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

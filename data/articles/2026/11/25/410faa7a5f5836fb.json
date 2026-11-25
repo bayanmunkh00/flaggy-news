@@ -1,0 +1,19 @@
+{
+ "id": "410faa7a5f5836fb",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "InfoSec Write-ups",
+ "source_label": "InfoSec Write-ups",
+ "url": "https://infosecwriteups.com/exploiting-broken-brute-force-protection-with-multiple-credentials-per-request-6bf33d5d9c5f?source=rss----7b722bfd1b8d---4",
+ "image": "https://cdn-images-1.medium.com/max/1024/1*ACJfetUKM4xqmbZfqjVTqA.png",
+ "title": "Exploiting Broken Brute-Force Protection with Multiple Credentials per Request",
+ "summary_en": "The Scenario While testing a login endpoint, I discovered an interesting flaw in the application’s brute-force defense. The login API expected credentials in JSON format, but it failed to properly validate the structure of user input. By supplying multiple password values in a single request, it was possible to make numerous authentication attempts through a single login request. A normal login request looked like this: Login Request The Vulnerability The application assumed that the password parameter would contain a single value. However, it also accepted an array of passwords. Instead of…",
+ "lines": [],
+ "title_mn": "Нэг хүсэлтээр олон нууц үг шалгах замаар хамгаалалтыг тойрон гарах арга",
+ "summary_mn": "Нэвтрэх API-д нууц үгийг массивт цуглуулан нэг хүсэлтээр илгээж, brute-force хамгаалалтыг тойрон гарах эмзэг байдлын судалгаа нийтлэгдлээ.",
+ "body_mn": "Системийн аюулгүй байдлыг шалгах явцад нэвтрэх API-ийн оролтын өгөгдлийг шалгах дутагдалтай холбоотой шинэ эмзэг байдал илэрчээ. JSON бүтэцтэй хүсэлтэд нууц үгийн талбарт ганц утга биш, харин нууц үгсийн массивыг (array) дамжуулах боломжтой байсан байна.\n\nСерверийн тал уг массивт байгаа нууц үг бүрийг дараалан шалгадаг байсан тул халдагч олон зуун нууц үгийг ганцхан HTTP хүсэлтэд багтаан илгээх боломж бүрджээ.\n\nЭнэ нь зөвхөн хүсэлтийн тоог хязгаарладаг энгийн rate-limiting болон brute-force хамгаалалтыг тойрон гарч, хэрэглэгчийн бүртгэлийг хурдан хугацаанд хакердах эрсдэлийг үүсгэсэн байна.",
+ "published": "2026-11-23T08:42:42Z",
+ "added": "2026-11-25T22:26:23Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "3948e268f74ad924",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db?source=rss------bug_bounty_writeup-5",
+ "image": "",
+ "title": "P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access",
+ "summary_en": "Severity: P2 — High (subject to demonstrated impact) Vulnerability Type: Server-Side Request Forgery (SSRF) CWE: Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "Дотоод сүлжээнд нэвтрэх боломж олгосон P2 зэрэглэлийн SSRF эмзэгдэл",
+ "summary_mn": "Судлаач Medium дээр нийтэлсэн тайландаа сервер талын хүсэлт хуурамчаар үйлдэх (SSRF) эмзэгдлийг ашиглан дотоод сүлжээний нөөцөд хэрхэн ха 지난 талаар хуваалцжээ. Энэхүү P2 буюу өндөр зэрэглэлийн эмзэгдэл нь бодит нөлөөллийг харуулах замаар баталгаажсан байна.",
+ "body_mn": "Аюулгүй байдлын судлаач сервер талын хүсэлт хуурамчаар үйлдэх буюу SSRF (Server-Side Request Forgery) төрлийн эмзэгдлийг амжилттай илрүүлсэн тухайгаа дэлгэрэнгүй тайлагнажээ. Уг эмзэгдлийг ашигласнаар хаتمгайлагч дотоод сүлжээний нууц нөөц болон үйлчилгээ рүү хандах боломж бүрдэж байсан аж.\n\nЭнэхүү эмзэгдэл нь P2 буюу өндөр зэрэглэлийн аюултайд тооцогдож байгаа бөгөөд бодит байдалд ямар нөлөө үзүүлж болохыг практик дээр харуулж чадсан байна. Энэ төрлийн алдаа нь ихэвчлэн вэб аппликейшн гаднаас ирсэн хүсэлтийг хангалттай шүүлтүүргүйгээр дотоод серверийн хаяг руу дамжуулснаас үүсдэг.\n\nҮүний эсрэг хамгаалалтын гол арга хэмжээ бол гадаад хэрэглэгчийн оруулах URL болон IP хаягт хатуу хязгаарлалт хийх, дотоод сүлжээний хаягуудыг (localhost, private IP ranges) хаах явдал юм. Энэхүү тайлан нь bug bounty сонирхогч болон хөгжүүлэгчдэд SSRF эмзэгдлийн эрсдэл болон түүнийг илрүүлэх аргуудын талаар үнэ цэнэтэй мэдээлэл өгч байна.",
+ "published": "2026-11-23T08:56:56Z",
+ "added": "2026-11-25T22:26:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

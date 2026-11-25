@@ -1,0 +1,19 @@
+{
+ "id": "1259b534687dd8b3",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+ "title": "Richpanel helps companies automate 50% of support in 30 days",
+ "summary_en": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+ "lines": [],
+ "title_mn": "Richpanel компани OpenAI-ийн загваруудаар хэрэглэгчийн дэмжлэгийг автоматжуулж байна",
+ "summary_mn": "Richpanel компани GPT-6 цувралын загваруудыг ашиглан байгууллагуудын харилцагчийн үйлчилгээний ажлыг 30 хоногийн дотор 50 хувь автоматжуулж байгаагаа зарлав.",
+ "body_mn": "Хэрэглэгчийн үйлчилгээний платформ Richpanel нь GPT-6 Astra, GPT-6.1 Sol болон GPT-6 Luna загваруудыг ашиглан AI туслахуудыг хөгжүүлж байгаагаа мэдээллээ. Байгууллагын захирал Amit RG-ийн хэлснээр хүн ажилтнуудын ашигладаг олон арван хэрэгсэл, зааварчилгааг нэгтгэн системд холбохын тулд тэд Boss AI нэртэй удирдах агент бүтээсэн байна.\n\nBoss AI нь GPT-6 Astra болон Sol загвар дээр суурилан бусад туслах агентуудын ажиллах дүрэм, процессуудыг тодорхойлдог байна. Харин харилцагчидтай шууд харилцах үндсэн туслах агент болон чанарын хяналтын хэсэгт зардлыг хэмнэх үүднээс GPT-6 Luna загварыг ашиглаж байна.\n\nRichpanel сүүлийн зургаан сарын хугацаанд 300 гаруй байгууллагад уг системээ нэвтрүүлсэн бөгөөд эхний 30 хоногт харилцааны 50 хувийг бүрэн автоматжуулах баталгааг өгдөг гэдгээ мэдэгджээ.",
+ "published": "2026-11-23T08:00:00Z",
+ "added": "2026-11-25T22:26:23Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

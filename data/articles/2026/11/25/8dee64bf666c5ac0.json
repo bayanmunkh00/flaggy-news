@@ -1,0 +1,19 @@
+{
+ "id": "8dee64bf666c5ac0",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ctvKkiuJ-JViYFHxOV5w1CYjcopn7_YrQt2SnF6JC_SvdOugBSXLdVaMgnWhLCO1NfVgwru4ieWK8L3IeCP-OR75HltWOF5qNhOm9iH_VzJi3PSuUgCUtvhy0zkh_nZFv14tLCRsWly39aREkIphJtNMYUvsGS-CvIwunALU5KxtjFswov-lcS2iqzY/s1600/glinet.jpg",
+ "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+ "summary_en": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.",
+ "lines": [],
+ "title_mn": "GL.iNet үүлэн үйлчилгээний цоорхойгоор төхөөрөмжүүдэд хортой код суулгажээ",
+ "summary_mn": "GL.iNet компанийн GoodCloud алсын удирдлагын системд илэрсэн эмзэг байдлын улмаас хэрэглэгчдийн чиглүүлэгч болон KVM төхөөрөмжүүд халдлагад өртөв.",
+ "body_mn": "Аяллын чиглүүлэгч (router) болон KVM тоног төхөөрөмж үйлдвэрлэгч GL.iNet компанийн GoodCloud алсын удирдлагын үйлчилгээ халдлагад өртөж, зарим хэрэглэгчийн төхөөрөмжид хортой код суусан болохыг компани мэдэгдлээ. Хэдийгээр үүлэн системийн цоорхойг хаасан ч хэдийн халдвар авсан төхөөрөмжүүдээс хортой код автоматаар арилахгүй тул хэрэглэгчдийг шинэ firmware суулгахыг уриалсан байна.\n\nRemoteToHome Consulting судалгааны багийн мэдээлснээр халдлагад өртсөн GL-AXT1800 загварын төхөөрөмжүүд дээр root эрхтэй reverse shell ажиллаж байжээ. Энэхүү код нь төхөөрөмж дахин ачаалахад ул мөрөө устгадаг бөгөөд GoodCloud-ийн хэрэглэгчийн клиент программ дахь шалгагдаагүй тушаалуудаар дамжин орж ирсэн байна.\n\nТүүнчлэн компьютерыг алснаас удирдах GL-RM1 загварын KVM төхөөрөмжүүд халдварт өртөж, дотоод сүлжээг сканнердсан тохиолдол гарчээ. Компанийн зүгээс халдвар авсан KVM-д холбогдсон компьютеруудыг сэжигтэй өөрчлөлт гарсан эсэхийг яаралтай шалгахыг зөвлөж байна.",
+ "published": "2026-11-23T09:04:08Z",
+ "added": "2026-11-25T22:26:23Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

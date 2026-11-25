@@ -1,0 +1,19 @@
+{
+ "id": "345cdd8e9c3006d5",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Project Zero",
+ "source_label": "Project Zero",
+ "url": "https://projectzero.google/2026/11/virtualbox-process-hardening.html",
+ "image": "https://projectzero.google/images/preview_image.png",
+ "title": "VirtualBox Process Hardening on Windows 2026 Edition: What’s a Single Bit Between Friends?",
+ "summary_en": "Back in 2017 I did some research into Oracle VirtualBox on Windows. Specifically I focussed on their mechanism to protect their VM processes from the user on the host. The protection was to gate who could open the kernel driver, which might allow for privilege escalation due to the way it was designed. At the time I found 3 ways of bypassing the protection, with an additional issue in COM’s runtime I reported in 2020. These issues were all written up in this post. Fast forward to 2026 and I decided to look at VirtualBox again to see if much had changed. This time I found 3 new bypasses for…",
+ "lines": [],
+ "title_mn": "VirtualBox-ийн хамгаалалтыг .NET болон санах ойн алдаагаар тойрон гарах шинэ цоорхой илэрчээ",
+ "summary_mn": "Google Project Zero-ийн судлаач VirtualBox-ийн хамгаалалттай процессыг .NET Framework болон DLL ачаалагчийн алдааг ашиглан тойрон гарах CVE-2026-87268 эмзэг байдлыг илрүүлэв.",
+ "body_mn": "Google Project Zero төслийн судлаач Windows орчин дахь Oracle VirtualBox-ийн процессийн хамгаалалтыг шинжлэн, зөвшөөрөлгүй код ажиллуулах гурван шинэ арга замыг олж илрүүлснээ нийтэллээ. Үүнээс CVE-2026-87268 дугаартай цоорхой нь .NET Framework болон VirtualBox-ийн DLL дуудах хууралтын бүтцийг хослуулан ашигладаг байна.\n\nСудлаачийн тайлбарласнаар уг эмзэг байдал нь .NET ажиллах орчин дахь PEImageLayout::Map функц болон санах ойн буферээс ассембли дуудах үйл явц дахь алдаатай холбоотой аж. Энэ нь системд шалгагдаагүй кодуудыг хамгаалагдсан процесс руу дуудан ажиллуулах боломжийг олгожээ.\n\nЭнэхүү шинжилгээ нь VirtualBox-ийн цөмийн түвшний драйвер руу хандах эрхийг хязгаарлах механизмыг тойрон гарах нарийн төвөгтэй техникүүдийг дэлгэрэнгүй тайлбарласан чухал судалгаа болсон байна.",
+ "published": "2026-11-23T08:00:00Z",
+ "added": "2026-11-25T22:26:23Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}
