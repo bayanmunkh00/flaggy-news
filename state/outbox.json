@@ -996,5 +996,115 @@
    "ai": "",
    "score": null
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "91709f7e2cd6f2e2",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5",
+   "image": "",
+   "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+   "summary_en": "Elon Musk Faces an A.I. Dilemma at SpaceX The New York Times",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T16:13:33Z",
+   "added": "2026-11-26T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9e50bd919470c190",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Bilyonaryo Business",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0FBVmF4bWE0WnpiY3RXbkZQcm1VWGhuNUcyMmJvYUczNFBHUG9nMWgxY3IxcEhwQWdYV3lqcUo0NDJGUjRnME84czV1Wm1McWl0RHF2N0ZhNy1INTIwclljeThKWXEwWHR4dXdyWHBiV042MU52VTk3R3IxcFNXOEtNTEIwY3NoYThDMDdJS0NhUzVYTkp1NDJYZE9EeVlSTjZ1ZjZjVkt5RC1m?oc=5",
+   "image": "",
+   "title": "Virginia, Oregon sue Musk’s SpaceX over Grok AI’s creation of child sexual abuse images",
+   "summary_en": "Virginia, Oregon sue Musk’s SpaceX over Grok AI’s creation of child sexual abuse images Bilyonaryo Business",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T17:01:27Z",
+   "added": "2026-11-26T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "85ababa86d90dc70",
+   "section": "ai",
+   "subtopic": "qwen",
+   "source": "Qwen (Google News)",
+   "source_label": "Wowtale",
+   "url": "https://en.wowtale.net/2026/11/24/236139/",
+   "image": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/11/Pragmatik-labs.jpeg",
+   "title": "Ex-Alibaba Qwen Lead’s Pragmatik Labs Raises at $5B Valuation, 2.5x in Three Months",
+   "summary_en": "Ex-Alibaba Qwen Lead’s Pragmatik Labs Raises at $5B Valuation, 2.5x in Three Months Wowtale",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T19:04:54Z",
+   "added": "2026-11-26T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d55133b3751a9899",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "summary_en": "Claude AI can review pull requests and ship fixes on its own now The Verge",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T20:00:00Z",
+   "added": "2026-11-26T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "4a6f20bf1984464e",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "KDRV",
+   "url": "https://www.kdrv.com/news/regional/elon-musks-xai-sued-by-oregon-virginia-over-grok-safety-claims/article_0fc3806f-3736-4119-a978-d70ee936a8c5.html",
+   "image": "https://bloximages.newyork1.vip.townnews.com/kdrv.com/content/tncms/assets/v3/editorial/3/87/38779369-f8de-5db8-ad6b-94776c5ee719/67cf35540a819.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "title": "Elon Musk's xAI sued by Oregon, Virginia over Grok safety claims",
+   "summary_en": "Elon Musk's xAI sued by Oregon, Virginia over Grok safety claims KDRV",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T20:10:00Z",
+   "added": "2026-11-26T16:00:55Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]
