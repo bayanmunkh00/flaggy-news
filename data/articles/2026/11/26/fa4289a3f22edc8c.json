@@ -1,0 +1,19 @@
+{
+ "id": "fa4289a3f22edc8c",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_LYD1NyoPDf8MFXggODpgd2hvazxjShSZltgrLUVic7V-ZIQSjXIzFrkUx0FNoUjlxlIYocEd1AZwGx66uqGWEUyd1TMSlDmxUu8M_r6jdYkmWDZjbszL2WsK7LJzrwI-NgsI7EaLe9WkLwNLGKj8ww3tTOY4X4JPug3RWQqoypUiEpZjVXgBhhcLuZG/s1600/js-cve.jpg",
+ "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+ "summary_en": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Binary-parser before 2.3.1 contains a code injection vulnerability that allows",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T13:22:20Z",
+ "added": "2026-11-26T04:19:43Z",
+ "ai": "",
+ "score": null
+}

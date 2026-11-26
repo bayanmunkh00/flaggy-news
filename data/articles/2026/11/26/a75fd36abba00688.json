@@ -1,0 +1,19 @@
+{
+ "id": "a75fd36abba00688",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkXdg7nYK3nVTpBuC9FL7mGBvzvUxU0VxYplArVFYSTg2d_6tFITemHBYRAOD29pVBKzfo2aZ9Jsy8avRdACCMqrVdlEER0zn2xIWDBdswcH_nZpnJYkfORK6CEaWwX3f-B8AvkUqbR2TLNa7odUG4PFu1uTk_cwsUt8DPGJBSjjF2wd8VPIa5ATJ4fo3/s1600/crecap.jpg",
+ "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+ "summary_en": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers reach another target. Tools people rely",
+ "lines": [],
+ "title_mn": "Энэ долоо хоногийн онцлох эмзэг байдлууд: VMware 0-Day, Java4Shell ба NGINX2Root",
+ "summary_mn": "VMware vCenter болон Java, NGINX, Ruby зэрэг өргөн хэрэглэгддэг системүүдэд ноцтой эмзэг байдлууд илэрч, кибер халдлагад өртөж байна.",
+ "body_mn": "Кибер аюулгүй байдлын хүрээнд өнгөрсөн долоо хоногт олон тооны өндөр эрсдэлтэй цоорхойнууд бодитоор ашиглагдаж эхэллээ. Үүний дотор Armory Castle хакерын бүлэг VMware vCenter Server-ийн CVE-2026-123890 (CVSS үнэлгээ: 9.8) эмзэг байдлыг zero-day байдлаар ашиглаж, системд зөвшөөрөлгүй нэвтэрч байгааг анхааруулжээ.\n\nТүүнчлэн Java 17, 21, 25, 27 хувилбаруудад хамаарах Java4Shell (CVE-2026-114938), NGINX болон NGINX Plus дээр илэрсэн NGINX2Root (CVE-2026-113425), мөн Ruby дээрх Ruby2Shell (CVE-2026-132825) зэрэг нэн ноцтой сул талууд бүртгэгдсэн байна.\n\nСистемийн администраторууд болон аюулгүй байдлын багуудад Google Chrome, F5 BIG-IP, Linux kernel, Drupal зэрэг түгээмэл технологиудад зориулан гарсан яаралтай шинэчлэлтүүдийг хойшлуулалгүй суулгахыг зөвлөж байна.",
+ "published": "2026-11-23T15:10:48Z",
+ "added": "2026-11-26T04:19:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

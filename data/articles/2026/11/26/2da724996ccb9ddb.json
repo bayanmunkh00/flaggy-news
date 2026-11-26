@@ -1,0 +1,19 @@
+{
+ "id": "2da724996ccb9ddb",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAI03mMW-UNs2bdUuZEiugVBMZq3speEoo8tbQ7TZVITD4fnXiK4l657Tn4-G9fX2w8xLz2zkP9-RTrg3QZPtNMHL_Lg7YRoruCnp8TJA4tbA5bW1YsBZU8QR2FIqSb3_IpN1Le-Xoq2MQ82ZQyRNmYxr8q70PPzijzypDcIDKMIOjrzBweBUiKJ_nuJY/s1600/screens.jpg",
+ "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+ "summary_en": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting technician's host. \"On November 12, 2026, we observed one managed service",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-23T12:41:04Z",
+ "added": "2026-11-26T04:19:43Z",
+ "ai": "",
+ "score": null
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7b31fe335f7b0f7e",
+ "section": "uiux",
+ "subtopic": "css-web",
+ "source": "CSS-Tricks",
+ "source_label": "CSS-Tricks",
+ "url": "https://css-tricks.com/using-frontend-fallbacks/",
+ "image": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg",
+ "title": "Using Fallbacks for a Robust Front-End",
+ "summary_en": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users. Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+ "lines": [],
+ "title_mn": "Вэб хөгжүүлэлтэд fallback шийдлийг оновчтой ашиглах нь",
+ "summary_mn": "Вэб сайт болон аппликейшны тогтвортой байдлыг хангахын тулд HTML, CSS болон JavaScript дээр fallback хамгаалалтын давхаргыг зөв тохируулах шаардлагатай.",
+ "body_mn": "Орчин үеийн вэб хөгжүүлэлтэд техникийн дэд бүтэц тун эмзэг байх эрсдэлтэй тул хэрэглэгчийн талын интерфейсийг (front-end) алдаанд тэсвэртэй бүтээх нь чухал юм. Үүний тулд алдааг чимээгүй тойрч гарах эсвэл хэрэглэгчид тодорхой тайлбарлах fallback механизмыг ашиглах шаардлагатай бөгөөд энэ нь WCAG стандартад ч багтдаг.\n\nПрогрессив сайжруулалт (progressive enhancement) нь дэмжигдэж буй шинэ боломжуудыг урагш нэвтрүүлэхэд чиглэдэг бол fallback нь ямар нэгэн функц ажиллахгүй үед өмнөх хувилбар луу найдвартай буцах зарчим дээр төвлөрдөг. Тухайлбал, шинэ CSS функц дэмжигдээгүй тохиолдолд хуучин хөтчүүдийн хувилбарыг автоматаар ажиллуулах зарчим юм.\n\nМөн хүндрүүлсэн JavaScript код ачааллаж чадахгүй үед суурь мэдээллийг хүргэх эсвэл алдааны шалтгааныг тайлбарласан fallback хуудсыг заавал бэлдэх хэрэгтэй. Хөгжүүлэгчид шинэ боломжуудыг нэвтрүүлэхийн өмнө Interop, Baseline болон Can I Use зэрэг эх сурвалжуудаас хөтчийн нийцлийг шалгаж байх нь зүйтэй.",
+ "published": "2026-11-23T14:21:44Z",
+ "added": "2026-11-26T04:19:43Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}
