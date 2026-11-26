@@ -1,0 +1,19 @@
+{
+ "id": "d6fdac3c20f42b84",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.width-1300.png",
+ "title": "A more tailored Google Search that’s uniquely yours",
+ "summary_en": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+ "lines": [],
+ "title_mn": "Google Search хайлтын системд Wallet болон Drive нэмэгдлээ",
+ "summary_mn": "Google Search-ийн Personal Intelligence үйлчилгээнд Google Wallet болон Google Drive холбогдож эхэллээ. Энэ нь хэрэглэгчийн санхүүгийн болон баримт бичгийн мэдээлэлд тулгуурлан илүү хувийн шинж чанартай хариулт өгөх боломжийг олгоно.",
+ "body_mn": "Google компани Search хайлтын систем дэх хиймэл оюуны горим болон Personal Intelligence үйлчилгээгээ өргөжүүлж, хэрэглэгчид Google Wallet болон Google Drive-аа холбох боломжтой болгосноо зарлалаа. Уг шинэчлэлт нь хайлтын хариултыг хэрэглэгчийн хувийн баримт бичиг, санхүүгийн гүйлгээнд үндэслэн илүү оновчтой болгох зорилготой юм.\n\nХэрэглэгчид тохиргоо руу орж холболтоо өөрсдөө сонгох ба хүссэн үедээ асаах, унтраах бүрэн хяналттай байх юм. Тус функц нь өмнө нэмэгдсэн Gmail, Calendar, Photos зэрэг апп-уудтай нэгдэж, төсөл төлөвлөх болон аяллын судалгаа хийхэд өмнөх контектсийг алдахгүйгээр үргэлжлүүлэх боломж олгоно.\n\nШинэчлэлт өнөөдрөөс эхлэн нэвтэрч байгаа бөгөөд Gemini апп мөн ойрын өдрүүдэд энэхүү сүлжээнд нэмэгдэх ажээ.",
+ "published": "2026-11-23T17:00:00Z",
+ "added": "2026-11-26T14:20:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

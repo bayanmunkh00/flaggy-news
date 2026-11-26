@@ -842,5 +842,159 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3ffa5c39e01e3431",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google DeepMind",
+   "source_label": "Google DeepMind",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "summary_en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "lines": [],
+   "title_mn": "Google DeepMind: Gemini агентууд болон Lean ашиглан квант алгоритмыг сайжруулав",
+   "summary_mn": "Google DeepMind баг Gemini агентууд болон Lean албан ёсны баталгаажуулагч ашиглан квант алгоритмуудыг илүү үр ашигтай болгож хөгжүүлжээ. Шинэ нээлт болон Lean номын санг GitHub дээр нээлттэй болгосон байна.",
+   "body_mn": "Google DeepMind болон Google Quantum AI хамтарсан судалгаагаар квант тооцооллын үр ашгийг нэмэгдүүлэх зорилгоор Gemini агентуудын багийг ашигласан байна. Судлаачид синтез энергийн загварчлал, химийн салбарт шаардлагатай квант хэлхээг сайжруулахад уг аргыг хэрэглэжээ.\n\nТөслийн хүрээнд тусдаа агентуудын багууд бие даан алгоритмын сайжруулалтыг хайж олон, үүнийгээ Lean хэмээх албан ёсны математик баталгаажуулагчаар шалгаж байв. Дөрвөн цаг тутамд агентууд виртуал хурал хийж санал солилцсоноор тооцооллын зардал үлэмж буурсан байна.\n\nЭнэхүү арга нь хүний гараар олон жил хийх байсан судалгааны ажлыг хурдасгаж, шинжлэх ухааны нээлт хийхэд AI ямар хувь нэмэр оруулж болохыг харууллаа. Google холбогдох Lean номын сан болон шийдлүүдийг GitHub дээр нээлттэй болгожээ.",
+   "published": "2026-11-23T16:59:40Z",
+   "added": "2026-11-26T14:20:28Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d6fdac3c20f42b84",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.width-1300.png",
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "summary_en": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+   "lines": [],
+   "title_mn": "Google Search хайлтын системд Wallet болон Drive нэмэгдлээ",
+   "summary_mn": "Google Search-ийн Personal Intelligence үйлчилгээнд Google Wallet болон Google Drive холбогдож эхэллээ. Энэ нь хэрэглэгчийн санхүүгийн болон баримт бичгийн мэдээлэлд тулгуурлан илүү хувийн шинж чанартай хариулт өгөх боломжийг олгоно.",
+   "body_mn": "Google компани Search хайлтын систем дэх хиймэл оюуны горим болон Personal Intelligence үйлчилгээгээ өргөжүүлж, хэрэглэгчид Google Wallet болон Google Drive-аа холбох боломжтой болгосноо зарлалаа. Уг шинэчлэлт нь хайлтын хариултыг хэрэглэгчийн хувийн баримт бичиг, санхүүгийн гүйлгээнд үндэслэн илүү оновчтой болгох зорилготой юм.\n\nХэрэглэгчид тохиргоо руу орж холболтоо өөрсдөө сонгох ба хүссэн үедээ асаах, унтраах бүрэн хяналттай байх юм. Тус функц нь өмнө нэмэгдсэн Gmail, Calendar, Photos зэрэг апп-уудтай нэгдэж, төсөл төлөвлөх болон аяллын судалгаа хийхэд өмнөх контектсийг алдахгүйгээр үргэлжлүүлэх боломж олгоно.\n\nШинэчлэлт өнөөдрөөс эхлэн нэвтэрч байгаа бөгөөд Gemini апп мөн ойрын өдрүүдэд энэхүү сүлжээнд нэмэгдэх ажээ.",
+   "published": "2026-11-23T17:00:00Z",
+   "added": "2026-11-26T14:20:28Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "5495a06dee26529f",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg",
+   "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+   "summary_en": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified variant \"implements various tricks to hide itself from security tools,\"",
+   "lines": [],
+   "title_mn": "Webworm бүлэглэл SoftEther VPN-ийг өөрчлөн нууц хандалт хийж байна",
+   "summary_mn": "Webworm гэмт хэргийн бүлэглэл SoftEther VPN хэрэгслийн эх кодыг өөрчлөн, илрүүлэлтээс зайлсхийж, сүлжээнд нууц байдлаар нэвтрэхэд ашиглаж байгааг Rapid7 компани илрүүлжээ.",
+   "body_mn": "Хятад улстай холбоотой гэгдэх Webworm бүлэглэл нь Windows үйлдлийн систем дэх SoftEther VPN Bridge хэрэгслийн өөрчилсөн хувилбарыг ашиглан байгууллагуудын сүлжээнд нэвтэрч буйг cybersecurity судлаачид тогтоов. Уг хортой хувилбар нь NtMonitor VPN гэсэн нэрээр нуугдаж, сүлжээний хяналтын программ мэт харагддаг байна.\n\nСудалгаагаар уг хэрэгсэл нь ямар нэг шинэ функц нэмээгүй боловч хамгаалалтын хэрэгслүүдээс зайлсхийхийн тулд илрүүлэх ул мөр болон протоколын шинж чанаруудыг аргалсан болох нь тогтоогджээ. Тухайлбал, энгийн HTTP хүсэлт болон GIF-д суурилсан watermark-ийг PNG хэлбэрт шилжүүлсэн байна.\n\nЭнэхүү халдлага нь хэрэглэгчийн болон төрийн байгууллагуудын мэдээлэл аюулгүй байдалд ноцтой эрсдэл учруулж болзошгүйг мэргэжилтнүүд анхааруулж байна.",
+   "published": "2026-11-23T17:45:15Z",
+   "added": "2026-11-26T14:20:28Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bb3f1dbf739fafb9",
+   "section": "vibe",
+   "subtopic": "vibe-coding",
+   "source": "Builder.io Blog",
+   "source_label": "Builder.io Blog",
+   "url": "https://www.builder.io/blog/agent-native-hackathon-winners",
+   "image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/d2221062791e440eb5745f5a3da7cb94?width=1200",
+   "title": "Meet the Agent-Native hackathon winners",
+   "summary_en": "The Agent-Native hackathon winners, from bookkeeping in five Nigerian languages to chess by voice in Hindi, plus more apps we loved.",
+   "lines": [],
+   "title_mn": "Agent-Native hackathon тэмцээний ялагчид тодорлоо",
+   "summary_mn": "Builder.io-гоос зохион байгуулсан Agent-Native hackathon тэмцээний ялагчид шалгарч, хэрэглэгчийн интерфейс болон хиймэл оюуны агент нэг код суурьтай ажиллах боломжтойг харууллаа.",
+   "body_mn": "Builder.io платформ нь хэрэглэгчийн интерфейс болон AI агент нэгдмэл кодтой ажиллахад зориулсан Agent-Native фрэймворкийн хүрээнд зохион байгуулсан хакатон тэмцээний ялагчдаа зарлажээ. Тэмцээнд бодит амьдрал дээрх тулгамдсан асуудлыг шийдвэрлэсэн бүтээлүүд өрсөлдсөн байна.\n\nГран при шагнал хүртсэн Muscle Memory төсөл нь жижиг дэлгүүрийн харилцагчийн үйлчилгээний давтагддаг үйлдлүүдийг бичиж аваад, модель дуудах шаардлагагүйгээр автомат рецепт болгон хувиргадаг аж. Ингэснээр токен болон хугацааны зардал гаргахгүйгээр хурдан ажиллах боломж бүрддэг байна.\n\nМөн Нигерийн жижиг дэлгүүрүүдэд зориулсан Shop Ledger апп нь ярианаас шууд санхүүгийн бүртгэл хөтлөх боломжийг бүрдүүлсэн нь олны анхаарлыг татжээ. Хөгжүүлэгчид эдгээр туршлагаас санаа авч агентуудаа илүү оновчтой болгох боломжтой юм.",
+   "published": "2026-11-23T19:00:00Z",
+   "added": "2026-11-26T14:20:28Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "185d509d1e35eac9",
+   "section": "ai",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+   "image": "https://opengraph.githubassets.com/db9de76ade9ded59002e19cd1245a4b4c254335888bac8367c80c70e71ee06aa/openai/openai-python/releases/tag/v3.58.0",
+   "title": "openai-python v3.58.0",
+   "summary_en": "3.58.0 (2026-11-23) Features api: set and read agent session spending limits ( #4315 ) ( fc36aef ) Bug Fixes api: clarify when to omit completion choice count ( #4298 ) ( f63f14b )",
+   "lines": [],
+   "title_mn": "openai-python v3.58.0 хувилбар гарлаа",
+   "summary_mn": "OpenAI python сангийн v3.58.0 шинэ хувилбар гарч, агент сессийн зарцуулалтын хязгаар тогтоох болон шаардлагатай алдаануудыг заслаа.",
+   "body_mn": "OpenAI python сангийн шинэчилсэн v3.58.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэ хувилбараар хөгжүүлэгчдэд агентын сессийн зарцуулалтын хязгаар тохируулах болон унших боломжийг олгосон шинэ функц нэмэгдсэн байна.\n\nҮүнээс гадна гүйцэтгэлийн сонголтын тоог хэзээ орхиж болохыг илүү тодорхой болгосон алдаа засвар болон бусад сайжруулалтууд оржээ. Хөгжүүлэгчид төслүүддээ уг шинэ хувилбарыг ашиглан API холболтоо илүү нарийвчлалтай удирдах боломжтой болж байна.\n\nPython хэл дээр AI агент хөгжүүлж буй багуудад энэхүү шинэчлэлт нь зардлын хяналтыг сайжруулахад чухал ач холбогдолтой юм.",
+   "published": "2026-11-23T19:00:21Z",
+   "added": "2026-11-26T14:20:28Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "bac22436a3913927",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "TeslaNorth.com",
+   "url": "https://teslanorth.com/2026/11/23/virginia-oregon-spacex-grok-lawsuits/",
+   "image": "https://cdn.teslanorth.com/wp-content/uploads/2026/10/grok-official-og-1.jpg",
+   "title": "Virginia and Oregon Sue SpaceX Over Grok. Here’s Its Response",
+   "summary_en": "Virginia and Oregon Sue SpaceX Over Grok. Here’s Its Response TeslaNorth.com",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T19:04:25Z",
+   "added": "2026-11-26T14:20:28Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "1d89b15dc1e69e7d",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "Mezha",
+   "url": "https://mezha.ua/en/news/2-shtati-podali-pozovi-proti-spacexsi-cherez-vidverti-dipfeyki-grok-317499/",
+   "image": "",
+   "title": "Two US States Sue SpaceXSI Over Grok's Ability to Generate Sexually Explicit Deepfakes",
+   "summary_en": "Two US States Sue SpaceXSI Over Grok's Ability to Generate Sexually Explicit Deepfakes Mezha",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-23T19:34:00Z",
+   "added": "2026-11-26T14:20:28Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]

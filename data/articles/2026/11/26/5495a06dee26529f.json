@@ -1,0 +1,19 @@
+{
+ "id": "5495a06dee26529f",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg",
+ "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+ "summary_en": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified variant \"implements various tricks to hide itself from security tools,\"",
+ "lines": [],
+ "title_mn": "Webworm бүлэглэл SoftEther VPN-ийг өөрчлөн нууц хандалт хийж байна",
+ "summary_mn": "Webworm гэмт хэргийн бүлэглэл SoftEther VPN хэрэгслийн эх кодыг өөрчлөн, илрүүлэлтээс зайлсхийж, сүлжээнд нууц байдлаар нэвтрэхэд ашиглаж байгааг Rapid7 компани илрүүлжээ.",
+ "body_mn": "Хятад улстай холбоотой гэгдэх Webworm бүлэглэл нь Windows үйлдлийн систем дэх SoftEther VPN Bridge хэрэгслийн өөрчилсөн хувилбарыг ашиглан байгууллагуудын сүлжээнд нэвтэрч буйг cybersecurity судлаачид тогтоов. Уг хортой хувилбар нь NtMonitor VPN гэсэн нэрээр нуугдаж, сүлжээний хяналтын программ мэт харагддаг байна.\n\nСудалгаагаар уг хэрэгсэл нь ямар нэг шинэ функц нэмээгүй боловч хамгаалалтын хэрэгслүүдээс зайлсхийхийн тулд илрүүлэх ул мөр болон протоколын шинж чанаруудыг аргалсан болох нь тогтоогджээ. Тухайлбал, энгийн HTTP хүсэлт болон GIF-д суурилсан watermark-ийг PNG хэлбэрт шилжүүлсэн байна.\n\nЭнэхүү халдлага нь хэрэглэгчийн болон төрийн байгууллагуудын мэдээлэл аюулгүй байдалд ноцтой эрсдэл учруулж болзошгүйг мэргэжилтнүүд анхааруулж байна.",
+ "published": "2026-11-23T17:45:15Z",
+ "added": "2026-11-26T14:20:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

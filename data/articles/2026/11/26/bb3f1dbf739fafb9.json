@@ -1,0 +1,19 @@
+{
+ "id": "bb3f1dbf739fafb9",
+ "section": "vibe",
+ "subtopic": "vibe-coding",
+ "source": "Builder.io Blog",
+ "source_label": "Builder.io Blog",
+ "url": "https://www.builder.io/blog/agent-native-hackathon-winners",
+ "image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/d2221062791e440eb5745f5a3da7cb94?width=1200",
+ "title": "Meet the Agent-Native hackathon winners",
+ "summary_en": "The Agent-Native hackathon winners, from bookkeeping in five Nigerian languages to chess by voice in Hindi, plus more apps we loved.",
+ "lines": [],
+ "title_mn": "Agent-Native hackathon тэмцээний ялагчид тодорлоо",
+ "summary_mn": "Builder.io-гоос зохион байгуулсан Agent-Native hackathon тэмцээний ялагчид шалгарч, хэрэглэгчийн интерфейс болон хиймэл оюуны агент нэг код суурьтай ажиллах боломжтойг харууллаа.",
+ "body_mn": "Builder.io платформ нь хэрэглэгчийн интерфейс болон AI агент нэгдмэл кодтой ажиллахад зориулсан Agent-Native фрэймворкийн хүрээнд зохион байгуулсан хакатон тэмцээний ялагчдаа зарлажээ. Тэмцээнд бодит амьдрал дээрх тулгамдсан асуудлыг шийдвэрлэсэн бүтээлүүд өрсөлдсөн байна.\n\nГран при шагнал хүртсэн Muscle Memory төсөл нь жижиг дэлгүүрийн харилцагчийн үйлчилгээний давтагддаг үйлдлүүдийг бичиж аваад, модель дуудах шаардлагагүйгээр автомат рецепт болгон хувиргадаг аж. Ингэснээр токен болон хугацааны зардал гаргахгүйгээр хурдан ажиллах боломж бүрддэг байна.\n\nМөн Нигерийн жижиг дэлгүүрүүдэд зориулсан Shop Ledger апп нь ярианаас шууд санхүүгийн бүртгэл хөтлөх боломжийг бүрдүүлсэн нь олны анхаарлыг татжээ. Хөгжүүлэгчид эдгээр туршлагаас санаа авч агентуудаа илүү оновчтой болгох боломжтой юм.",
+ "published": "2026-11-23T19:00:00Z",
+ "added": "2026-11-26T14:20:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

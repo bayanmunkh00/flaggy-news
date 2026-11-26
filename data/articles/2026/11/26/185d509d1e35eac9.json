@@ -1,0 +1,19 @@
+{
+ "id": "185d509d1e35eac9",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+ "image": "https://opengraph.githubassets.com/db9de76ade9ded59002e19cd1245a4b4c254335888bac8367c80c70e71ee06aa/openai/openai-python/releases/tag/v3.58.0",
+ "title": "openai-python v3.58.0",
+ "summary_en": "3.58.0 (2026-11-23) Features api: set and read agent session spending limits ( #4315 ) ( fc36aef ) Bug Fixes api: clarify when to omit completion choice count ( #4298 ) ( f63f14b )",
+ "lines": [],
+ "title_mn": "openai-python v3.58.0 хувилбар гарлаа",
+ "summary_mn": "OpenAI python сангийн v3.58.0 шинэ хувилбар гарч, агент сессийн зарцуулалтын хязгаар тогтоох болон шаардлагатай алдаануудыг заслаа.",
+ "body_mn": "OpenAI python сангийн шинэчилсэн v3.58.0 хувилбар албан ёсоор цацагдлаа. Энэхүү шинэ хувилбараар хөгжүүлэгчдэд агентын сессийн зарцуулалтын хязгаар тохируулах болон унших боломжийг олгосон шинэ функц нэмэгдсэн байна.\n\nҮүнээс гадна гүйцэтгэлийн сонголтын тоог хэзээ орхиж болохыг илүү тодорхой болгосон алдаа засвар болон бусад сайжруулалтууд оржээ. Хөгжүүлэгчид төслүүддээ уг шинэ хувилбарыг ашиглан API холболтоо илүү нарийвчлалтай удирдах боломжтой болж байна.\n\nPython хэл дээр AI агент хөгжүүлж буй багуудад энэхүү шинэчлэлт нь зардлын хяналтыг сайжруулахад чухал ач холбогдолтой юм.",
+ "published": "2026-11-23T19:00:21Z",
+ "added": "2026-11-26T14:20:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

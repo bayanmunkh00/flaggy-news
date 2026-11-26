@@ -1,0 +1,19 @@
+{
+ "id": "3ffa5c39e01e3431",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google DeepMind",
+ "source_label": "Google DeepMind",
+ "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+ "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
+ "title": "Finding faster quantum algorithms with agents and formal verification",
+ "summary_en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+ "lines": [],
+ "title_mn": "Google DeepMind: Gemini агентууд болон Lean ашиглан квант алгоритмыг сайжруулав",
+ "summary_mn": "Google DeepMind баг Gemini агентууд болон Lean албан ёсны баталгаажуулагч ашиглан квант алгоритмуудыг илүү үр ашигтай болгож хөгжүүлжээ. Шинэ нээлт болон Lean номын санг GitHub дээр нээлттэй болгосон байна.",
+ "body_mn": "Google DeepMind болон Google Quantum AI хамтарсан судалгаагаар квант тооцооллын үр ашгийг нэмэгдүүлэх зорилгоор Gemini агентуудын багийг ашигласан байна. Судлаачид синтез энергийн загварчлал, химийн салбарт шаардлагатай квант хэлхээг сайжруулахад уг аргыг хэрэглэжээ.\n\nТөслийн хүрээнд тусдаа агентуудын багууд бие даан алгоритмын сайжруулалтыг хайж олон, үүнийгээ Lean хэмээх албан ёсны математик баталгаажуулагчаар шалгаж байв. Дөрвөн цаг тутамд агентууд виртуал хурал хийж санал солилцсоноор тооцооллын зардал үлэмж буурсан байна.\n\nЭнэхүү арга нь хүний гараар олон жил хийх байсан судалгааны ажлыг хурдасгаж, шинжлэх ухааны нээлт хийхэд AI ямар хувь нэмэр оруулж болохыг харууллаа. Google холбогдох Lean номын сан болон шийдлүүдийг GitHub дээр нээлттэй болгожээ.",
+ "published": "2026-11-23T16:59:40Z",
+ "added": "2026-11-26T14:20:28Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
