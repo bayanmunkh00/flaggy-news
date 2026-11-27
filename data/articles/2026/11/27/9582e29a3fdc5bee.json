@@ -1,0 +1,19 @@
+{
+ "id": "9582e29a3fdc5bee",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg",
+ "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+ "summary_en": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of",
+ "lines": [],
+ "title_mn": "Ираны гулиин гаолаалдын Volant Manticore бүлэг IPFS-мээд ашиглаж байна",
+ "summary_mn": "Volant Manticore бүлэг кибер тангалны ажиллагаандаа KuboShell backdoor болон IPFS сүлжээг ашиглаж байна.",
+ "body_mn": "Кибер аюулгүй байдлын судлаачид Ираны Тагнуул, аюулгүй байдлын яамтай холбоотой гэж үзэж буй Volant Manticore хэмээх шинэ кибер тагнуулын бүлгийг илрүүлжээ. Тус бүлэг Кипр улсын харилцаа холбоо, агаарын тээвэр болон чухал дэд бүтцийн байгууллагуудад халдсан байна.\n\nЭнэхүү кампанит ажлын гол цөм нь KuboShell нэртэй backdoor юм. Энэхүү хортой програм нь команд болон удирдлагын (C2) үйл ажиллагаандаа InterPlanetary File System (IPFS) буюу тараагдсан файлын системийг ашигладаг бөгөөд файл дамжуулахдаа Pinata үйлчилгээг ашигладаг аж. Мөн халдагчид системд анх нэвтрэхдээ хиймэл оюун ухаанаар үүсгэсэн хуурамч анкет (CV) болон фишинг имэйлүүдийг ашиглажээ.\n\nCheck Point компанийн мэдээлснээр Volant Manticore нь алдартай MuddyWater бүлгээс салж гарсан операторуудаас бүрдсэн байж магадгүй гэнэ. Тэд хуучин MuddyWater-ийн хүрээг ашиглахын зэрэгцээ Кипр болон Саудын Арабын эрүүл мэндийн салбарын байгууллагуудыг бай болгож өөрсдийн гэсэн шинэ арга техникүүдийг нэвтрүүлж байна.",
+ "published": "2026-11-24T16:54:07Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

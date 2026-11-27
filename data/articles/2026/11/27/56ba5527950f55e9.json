@@ -1,0 +1,19 @@
+{
+ "id": "56ba5527950f55e9",
+ "section": "hacker",
+ "subtopic": "bug-bounty",
+ "source": "Medium bug bounty writeup",
+ "source_label": "Medium bug bounty writeup",
+ "url": "https://mxyuyu.medium.com/breach-us-government-site-by-only-changing-false-to-true-state-67d2662ab2a5?source=rss------bug_bounty_writeup-5",
+ "image": "https://cdn-images-1.medium.com/max/600/1*9BeDgvx7xAKEruoK1n5q4w.gif",
+ "title": "Breach US Government site by only changing “false” to “true” state?",
+ "summary_en": "There’s no way right? but yeah I won’t believe it either until I stumbled upon myself. Continue reading on Medium »",
+ "lines": [],
+ "title_mn": "АНУ-ын засгийн газрын сайтын алдааг зөвхөн false-ийг true болгож олжээ",
+ "summary_mn": "Судлаач АНУ-ын төрийн байгууллагын вэбсайтын төлөвийг өөрчлөх замаар зөвшөөрөлгүйгээр нэвтрэх боломжтой байсныг олж илрүүлжээ.",
+ "body_mn": "Энэхүү алдааны олдвор нь энгийн мэт боловч веб програмын логик шалгалт ямар чухал болохыг харуулсан сонирхолтой кейс юм.\n\nСудлаач систем дэх програмын төлөвийг илтгэх хувьсагчийн утгыг \"false\"-ээс \"true\" болгон өөрчилснөөр хамгаалалтыг тойрч гарч чаджээ. Энэ төрлийн алдаа нь програмын хөгжүүлэлт болон шалгалтын явцад гардаг түгээмэл асуудал юм.",
+ "published": "2026-11-24T15:56:37Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

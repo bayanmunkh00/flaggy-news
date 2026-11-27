@@ -1,0 +1,19 @@
+{
+ "id": "6704ee9ea9e08414",
+ "section": "vibe",
+ "subtopic": "vibe-coding",
+ "source": "Builder.io Blog",
+ "source_label": "Builder.io Blog",
+ "url": "https://www.builder.io/blog/claude-skills-for-designers",
+ "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7db544210c1444d296dc1444620d45d4?width=1200",
+ "title": "5 Best Claude Skills for Designers in 2026",
+ "summary_en": "The 5 best Claude skills for designers in 2026, with the exact commands I use. Impeccable for UI work, /remix for inspiration, Emil Kowalski's for motion.",
+ "lines": [],
+ "title_mn": "Дизайнеруудад зориулсан 2026 оны шилдэг 5 Claude чадвар",
+ "summary_mn": "Claude Code болон бусад код бичих агентуудад ашиглаж болох, UI дизайн хийхэд зориулсан шилдэг таван туслах чадварын талаар танилцуулж байна.",
+ "body_mn": "Дизайн болон хөгжүүлэлтийн ажлыг хөнгөвчлөх зорилготой олон төрлийн туслах чадварууд бий болжээ. Тухайлбал, Impeccable нь UI дизайн хийх болон алдааг олоход маш сайн ажилладаг бол /remix нь бусад сайтын дизайныг өөрийн төсөлд буулгахад тусалдаг.\n\nМөн Emil Kowalski-ийн хөдөлгөөн болон хэрэглэгчийн туршлага шалгах чадварууд нь вэб програмыг илүү амьд, чанартай болгоход чухал үүрэг гүйцэтгэдэг байна.",
+ "published": "2026-11-24T16:07:44Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

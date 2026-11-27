@@ -1,0 +1,19 @@
+{
+ "id": "59f746ae70110a89",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3vaPqSowzp6g6BxbnsVtHf/b3a486944da4d9972d0370ab16f0ed81/image__20_.png",
+ "title": "All Sandbox runtimes now use Vercel Managed Images",
+ "summary_en": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs). Legacy runtimes, such as node22 , now use the open-source images in the vercel/sandbox repository , distributed through Vercel Container Registry (VCR). Sandboxes created with these now come with 64 GB of storage and use the same infrastructure as sandboxes powered by VCR. The universal image is released nightly, and rolling tags such as latest pick up operating system, dependency, and coding agent updates. Pin an image digest when you need a reproducible environment. Sandboxes created with version 3 or later of the JavaScript…",
+ "lines": [],
+ "title_mn": "Vercel Sandbox бүх ажиллах орчиндоо Vercel Managed Images ашиглаж эхэллээ",
+ "summary_mn": "Vercel Sandbox-ийн бүх орчин одоо Vercel Managed Images (VMIs) ашигладаг болж, илүү их зай болон шинэ боломжуудыг санал болгож байна.",
+ "body_mn": "Vercel компани Sandbox ажиллах орчнууд нь одоо Vercel Managed Images (VMIs)-ийг ашиглаж эхэлснийг мэдэгдлээ. node22 зэрэг хуучин орчнууд одоо vercel/sandbox репозитор дахь нээлттэй эх сурвалжтай образуудыг ашиглаж байна.\n\nШинэ өөрчлөлтөөр Sandbox тус бүр 64 GB санах ойн багтаамжтай болж байгаа бөгөөд Vercel Container Registry (VCR) дээр суурилсан дэд бүтцийг ашиглах юм. JavaScript Sandbox SDK-ийн 3 болон түүнээс дээш хувилбараар үүсгэсэн орчнууд нь универсал образыг анхдагчаар ашиглах ажээ.",
+ "published": "2026-11-24T18:00:00Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

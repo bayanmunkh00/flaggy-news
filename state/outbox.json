@@ -812,5 +812,225 @@
    "ai": "gemini:gemini-3.8-flash",
    "score": 4
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "56ba5527950f55e9",
+   "section": "hacker",
+   "subtopic": "bug-bounty",
+   "source": "Medium bug bounty writeup",
+   "source_label": "Medium bug bounty writeup",
+   "url": "https://mxyuyu.medium.com/breach-us-government-site-by-only-changing-false-to-true-state-67d2662ab2a5?source=rss------bug_bounty_writeup-5",
+   "image": "https://cdn-images-1.medium.com/max/600/1*9BeDgvx7xAKEruoK1n5q4w.gif",
+   "title": "Breach US Government site by only changing “false” to “true” state?",
+   "summary_en": "There’s no way right? but yeah I won’t believe it either until I stumbled upon myself. Continue reading on Medium »",
+   "lines": [],
+   "title_mn": "АНУ-ын засгийн газрын сайтын алдааг зөвхөн false-ийг true болгож олжээ",
+   "summary_mn": "Судлаач АНУ-ын төрийн байгууллагын вэбсайтын төлөвийг өөрчлөх замаар зөвшөөрөлгүйгээр нэвтрэх боломжтой байсныг олж илрүүлжээ.",
+   "body_mn": "Энэхүү алдааны олдвор нь энгийн мэт боловч веб програмын логик шалгалт ямар чухал болохыг харуулсан сонирхолтой кейс юм.\n\nСудлаач систем дэх програмын төлөвийг илтгэх хувьсагчийн утгыг \"false\"-ээс \"true\" болгон өөрчилснөөр хамгаалалтыг тойрч гарч чаджээ. Энэ төрлийн алдаа нь програмын хөгжүүлэлт болон шалгалтын явцад гардаг түгээмэл асуудал юм.",
+   "published": "2026-11-24T15:56:37Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6f66b50c64560b86",
+   "section": "cs2",
+   "subtopic": "cs2",
+   "source": "CS2 BC.Game",
+   "source_label": "Skin.Club",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNW11dDJsMzV1Yzc3b3Bmc3lNQk9rWGwtSW1MN0Q5cEQ4U2ItbTMwMWNteTlrVHpEWm1EVHloY0FQT2hHZFlfLVVjNWdNeEVnekVOaTBELTZ1UDhQdTRMWHE3VW1nWENSX2I3bkZSTTliS0RRRVJ1dHVSZlREVEtkRkIwUVQxQzBpWEpDemk3dlNyZWRsZnFLVVB2NlQzbHlPOVFfZnBtc1BZa1ZZTmtuWlZuOHJEajVCZXdrb3JB?oc=5",
+   "image": "",
+   "title": "s1mple defends BC.Game teammates after 0–2 start in Singapore",
+   "summary_en": "s1mple defends BC.Game teammates after 0–2 start in Singapore Skin.Club",
+   "lines": [],
+   "title_mn": "s1mple BC.Game багийнхнаа Сингапурт 0-2 харьцаатай эхлүүлсний дараа хамгааллаа",
+   "summary_mn": "S1mple Сингапурын тэмцээний эхний өдрүүдэд амжилтгүй оролцоод буй BC.Game багийнхаа тоглогчдыг өмөөрчээ.",
+   "body_mn": "PGL Major Singapore 2026 тэмцээний эхний тоглолтуудад BC.Game баг тааруухан эхлэлтэй тулгараад байгаа билээ. Багийн гол тоглогч s1mple хамтрагчдаа дэмжиж буйгаа илэрхийлжээ.\n\nБагийн цаашдын тоглолтуудад амжилт гаргахын тулд алдаагаа засч, анхаарлаа төвлөрүүлэх шаардлагатай байгааг тэрбээр онцолсон байна.",
+   "published": "2026-11-24T15:58:52Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0d108e7b71c40649",
+   "section": "ai",
+   "subtopic": "gemini",
+   "source": "Google AI Blog",
+   "source_label": "Google AI Blog",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-1440x810.jpg",
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "summary_en": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "lines": [],
+   "title_mn": "Google Gemini Golden State Warriors болон Chase Center-ийн албан ёсны түнш боллоо",
+   "summary_mn": "Google компани Golden State Warriors баг болон Chase Center-тэй хамтран ажиллах гэрээгээ өргөжүүлж, Gemini-г албан ёсны AI туслахаар болголоо.",
+   "body_mn": "Энэхүү хамтын ажиллагааны хүрээнд Google Gemini нь Warriors баг, WNBA-ийн аварга Valkyries болон Chase Center цогцолборын албан ёсны Generative AI ба Enterprise LLM түнш болж байна.\n\nХөгжөөн дэمжигчид тоглолтын үеэр Gemini-гийн тусламжтай илүү интерактив байдлаар оролцох боломжтой болох бөгөөд багийн удирдлага бизнес болон сагсан бөмбөгийн үйл ажиллагаандаа хиймэл оюун ухааны агентуудыг нэвтрүүлж байна.",
+   "published": "2026-11-24T16:00:00Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2ba2e7831b4d43d5",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "WIRED",
+   "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+   "image": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/191:100/w_1280,c_limit/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
+   "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+   "summary_en": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving WIRED",
+   "lines": [],
+   "title_mn": "Anthropic компани хиймэл оюун ухааны агентуудыг шалгах Siren нэртэй honeypot тест бүтээжээ",
+   "summary_mn": "Anthropic компани AI агентуудын аюулгүй байдлыг шалгахын тулд тэдгээрийг хуурамч нууц үг, сул тал руу уруу татах Siren туршилтыг боловсруулжээ.",
+   "body_mn": "Шинэ туршилт нь хиймэл оюун ухааны агентуудыг бодит орчин мэт дуурайсан sandbox орчинд байрлуулж, тэднийг хориотой зүйл рүү нэвтрэх эсэхийг ажигладаг. Туршилтад зориулж сүлжээний гарц болон нууц үгсийг ил харагдахуйц байдлаар байрлуулсан байна.\n\nСудалгаагаар Claude загваруудын шинэ хувилбарууд өмнөх үеийнхээсээ илүү сайн эсэргүүцэлтэй байж, дүрмээ зөрчих магадлал бага болохыг тогтоожээ. Мөн систем сануулгад тодорхой дүрэм оруулах нь агентуудын зөрчил гаргах магадлалыг эрс бууруулдаг болохыг харуулжээ.",
+   "published": "2026-11-24T16:00:00Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "2bf74f42d5ad755b",
+   "section": "vibe",
+   "subtopic": "vibe-coding",
+   "source": "Builder.io Blog",
+   "source_label": "Builder.io Blog",
+   "url": "https://www.builder.io/blog/reverse-engineer-website",
+   "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F9e44c4242c9245fa92cfe15700e7842e?width=1200",
+   "title": "How to reverse engineer a website with AI",
+   "summary_en": "How to reverse engineer a website's UI with AI. Find the element that draws it, take it apart in Agent-Native Design and rebuild it in your brand.",
+   "lines": [],
+   "title_mn": "AI код бичих хэрэгсэл ашиглан ямар ч вэбсайтын UI-г хэрхэн хуулбарлах вэ?",
+   "summary_mn": "Claude Code болон бусад AI агентуудад зориулсан /remix хэрэгслийг ашиглан дуртай вэбсайтныхаа хөдөлгөөн болон дизайныг өөрийн төсөлдөө хэрхэн шилжүүлэхийг суралцаарай.",
+   "body_mn": "Вэбсайтын хөдөлгөөнт элементүүд болон WebGL дээр суурилсан эффектүүдийг Chrome-ын хөгжүүлэгчийн хэрэгсэл болон AI агентуудын тусламжтайгаар задлан шинжлэх боломжтой.\n\nТа вэбсайтын canvas элементүүдийг олж тогтоогоод, Claude Code-д зориулсан open-source /remix чадварыг ашиглан тухайн дизайныг үе шатаар нь салгаж өөрийн төсөлд хэрэгжүүлэх боломжтой юм. Энэ нь хөгжүүлэгчдэд бусдын дизайныг судлах, өөрийн болгоход үр дүнтэй арга юм.",
+   "published": "2026-11-24T16:07:44Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "6704ee9ea9e08414",
+   "section": "vibe",
+   "subtopic": "vibe-coding",
+   "source": "Builder.io Blog",
+   "source_label": "Builder.io Blog",
+   "url": "https://www.builder.io/blog/claude-skills-for-designers",
+   "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7db544210c1444d296dc1444620d45d4?width=1200",
+   "title": "5 Best Claude Skills for Designers in 2026",
+   "summary_en": "The 5 best Claude skills for designers in 2026, with the exact commands I use. Impeccable for UI work, /remix for inspiration, Emil Kowalski's for motion.",
+   "lines": [],
+   "title_mn": "Дизайнеруудад зориулсан 2026 оны шилдэг 5 Claude чадвар",
+   "summary_mn": "Claude Code болон бусад код бичих агентуудад ашиглаж болох, UI дизайн хийхэд зориулсан шилдэг таван туслах чадварын талаар танилцуулж байна.",
+   "body_mn": "Дизайн болон хөгжүүлэлтийн ажлыг хөнгөвчлөх зорилготой олон төрлийн туслах чадварууд бий болжээ. Тухайлбал, Impeccable нь UI дизайн хийх болон алдааг олоход маш сайн ажилладаг бол /remix нь бусад сайтын дизайныг өөрийн төсөлд буулгахад тусалдаг.\n\nМөн Emil Kowalski-ийн хөдөлгөөн болон хэрэглэгчийн туршлага шалгах чадварууд нь вэб програмыг илүү амьд, чанартай болгоход чухал үүрэг гүйцэтгэдэг байна.",
+   "published": "2026-11-24T16:07:44Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "9582e29a3fdc5bee",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg",
+   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "summary_en": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of",
+   "lines": [],
+   "title_mn": "Ираны гулиин гаолаалдын Volant Manticore бүлэг IPFS-мээд ашиглаж байна",
+   "summary_mn": "Volant Manticore бүлэг кибер тангалны ажиллагаандаа KuboShell backdoor болон IPFS сүлжээг ашиглаж байна.",
+   "body_mn": "Кибер аюулгүй байдлын судлаачид Ираны Тагнуул, аюулгүй байдлын яамтай холбоотой гэж үзэж буй Volant Manticore хэмээх шинэ кибер тагнуулын бүлгийг илрүүлжээ. Тус бүлэг Кипр улсын харилцаа холбоо, агаарын тээвэр болон чухал дэд бүтцийн байгууллагуудад халдсан байна.\n\nЭнэхүү кампанит ажлын гол цөм нь KuboShell нэртэй backdoor юм. Энэхүү хортой програм нь команд болон удирдлагын (C2) үйл ажиллагаандаа InterPlanetary File System (IPFS) буюу тараагдсан файлын системийг ашигладаг бөгөөд файл дамжуулахдаа Pinata үйлчилгээг ашигладаг аж. Мөн халдагчид системд анх нэвтрэхдээ хиймэл оюун ухаанаар үүсгэсэн хуурамч анкет (CV) болон фишинг имэйлүүдийг ашиглажээ.\n\nCheck Point компанийн мэдээлснээр Volant Manticore нь алдартай MuddyWater бүлгээс салж гарсан операторуудаас бүрдсэн байж магадгүй гэнэ. Тэд хуучин MuddyWater-ийн хүрээг ашиглахын зэрэгцээ Кипр болон Саудын Арабын эрүүл мэндийн салбарын байгууллагуудыг бай болгож өөрсдийн гэсэн шинэ арга техникүүдийг нэвтрүүлж байна.",
+   "published": "2026-11-24T16:54:07Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "59f746ae70110a89",
+   "section": "software",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3vaPqSowzp6g6BxbnsVtHf/b3a486944da4d9972d0370ab16f0ed81/image__20_.png",
+   "title": "All Sandbox runtimes now use Vercel Managed Images",
+   "summary_en": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs). Legacy runtimes, such as node22 , now use the open-source images in the vercel/sandbox repository , distributed through Vercel Container Registry (VCR). Sandboxes created with these now come with 64 GB of storage and use the same infrastructure as sandboxes powered by VCR. The universal image is released nightly, and rolling tags such as latest pick up operating system, dependency, and coding agent updates. Pin an image digest when you need a reproducible environment. Sandboxes created with version 3 or later of the JavaScript…",
+   "lines": [],
+   "title_mn": "Vercel Sandbox бүх ажиллах орчиндоо Vercel Managed Images ашиглаж эхэллээ",
+   "summary_mn": "Vercel Sandbox-ийн бүх орчин одоо Vercel Managed Images (VMIs) ашигладаг болж, илүү их зай болон шинэ боломжуудыг санал болгож байна.",
+   "body_mn": "Vercel компани Sandbox ажиллах орчнууд нь одоо Vercel Managed Images (VMIs)-ийг ашиглаж эхэлснийг мэдэгдлээ. node22 зэрэг хуучин орчнууд одоо vercel/sandbox репозитор дахь нээлттэй эх сурвалжтай образуудыг ашиглаж байна.\n\nШинэ өөрчлөлтөөр Sandbox тус бүр 64 GB санах ойн багтаамжтай болж байгаа бөгөөд Vercel Container Registry (VCR) дээр суурилсан дэд бүтцийг ашиглах юм. JavaScript Sandbox SDK-ийн 3 болон түүнээс дээш хувилбараар үүсгэсэн орчнууд нь универсал образыг анхдагчаар ашиглах ажээ.",
+   "published": "2026-11-24T18:00:00Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "347e978e9336901b",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "summary_en": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+   "lines": [],
+   "title_mn": "Их Британи хиймэл оюун ухааны халдлага эрчимжиж буйд анхаарууллаа",
+   "summary_mn": "Их Британийн кибер аюулгүй байдлын төв AI хэрэгсэл ашигласан халдлагууд огцом өсөж, хуучин сул талуудыг илрүүлж буйг анхааруулав.",
+   "body_mn": "Их Британийн Үндэсний кибер аюулгүй байдлын төв (NCSC) сүүлийн саруудад хиймэл оюун ухаанд суурилсан кибер халдлагууд эрчимтэй нэмэгдэж байгаад түгшүүр илэрхийллээ. Хакерууд системийн энгийн сул талуудыг олж илрүүлэх, нэвтрэх зорилгоор бие даасан AI хэрэгслүүдийг түгээмэл ашиглаж байна.\n\nNCSC-ийн мэдээлснээр халдлага үйлдэгчид шинэ цоорхойгоос илүүтэйгээр байгууллагуудын олон жилийн турш хуримтлуулсан техникийн сул талууд болон сул нууц үгсийг ашиглаж байгаа аж. AI хэрэгслүүд эдгээр сул талуудыг хэдхэн минутын дотор олж, маш хурдан ашиглах чадвартай болжээ.\n\nЭнэхүү өсөлт нь Artex, Cairn зэрэг нээлттэй эх сурвалжтай автомат нэвтрэлт шалгах хэрэгслүүд олон нийтэд нээлттэй болсонтой холбоотой бөгөөд суурь аюулгүй байдлын хяналтыг чангатгах шаардлагатайг мэргэжилтнүүд сануулж байна.",
+   "published": "2026-11-24T18:02:59Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "155c92aff90ad9be",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Unite.AI",
+   "url": "https://www.unite.ai/anthropic-brings-server-supplied-skills-and-background-tasks-to-claude/",
+   "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-brings-server-supplied-skills-and-background-tasks-to-claude.jpg",
+   "title": "Anthropic Brings Server-Supplied Skills and Background Tasks to Claude",
+   "summary_en": "Anthropic Brings Server-Supplied Skills and Background Tasks to Claude Unite.AI",
+   "lines": [],
+   "title_mn": "Anthropic компани Claude системд server-supplied skills болон background tasks нэмлээ",
+   "summary_mn": "Anthropic компани Claude болон Claude Code-д Skills over MCP, Tasks, Elicitation зэрэг шинэ боломжуудыг нэвтрүүллээ.",
+   "body_mn": "Anthropic компани Claude болон Claude Code системд Model Context Protocol (MCP) дээр суурилсан шинэ боломжуудыг албан ёсоор нэвтрүүлж эхэлснээ зарлалаа. Үүнд серверээс ажлын урсгалын заавар дамжуулах Skills, удаан үргэлжлэх ажлыг ард ажиллуулах Tasks, мөн хэрэглэгчийн зөвшөөрөл авах Elicitation боломжууд багтаж байна.\n\nSkills боломж нь холбогдсон серверүүдэд тухайн хэрэглэгч эсвэл байгууллагад тохирсон шилдэг туршлага, алхам алхмаар удирдамжийг Claude руу нийлүүлэх боломжийг олгодог. Claude хэрэгцээ гарсан үед л эдгээр ур чадваруудыг дуудаж ажилладаг байна.\n\nTasks боломжийн тусламжтайгаар серверүүд хүнд тооцоолол эсвэл агент үүргийг ард талд гүйцэтгэж, Claude бусад ажлаа үргэлжлүүлэх боломжтой болдог. Мөн Elicitation нь аюултай SQL ажилбар эсвэл устгах үйлдэл хийхийн өмнө хэрэглэгчээс баталгаажуулалт хүсэх боломжийг олгох ажээ.",
+   "published": "2026-11-24T18:15:04Z",
+   "added": "2026-11-27T15:30:59Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
  }
 ]

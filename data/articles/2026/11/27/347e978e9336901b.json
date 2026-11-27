@@ -1,0 +1,19 @@
+{
+ "id": "347e978e9336901b",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+ "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+ "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+ "summary_en": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+ "lines": [],
+ "title_mn": "Их Британи хиймэл оюун ухааны халдлага эрчимжиж буйд анхаарууллаа",
+ "summary_mn": "Их Британийн кибер аюулгүй байдлын төв AI хэрэгсэл ашигласан халдлагууд огцом өсөж, хуучин сул талуудыг илрүүлж буйг анхааруулав.",
+ "body_mn": "Их Британийн Үндэсний кибер аюулгүй байдлын төв (NCSC) сүүлийн саруудад хиймэл оюун ухаанд суурилсан кибер халдлагууд эрчимтэй нэмэгдэж байгаад түгшүүр илэрхийллээ. Хакерууд системийн энгийн сул талуудыг олж илрүүлэх, нэвтрэх зорилгоор бие даасан AI хэрэгслүүдийг түгээмэл ашиглаж байна.\n\nNCSC-ийн мэдээлснээр халдлага үйлдэгчид шинэ цоорхойгоос илүүтэйгээр байгууллагуудын олон жилийн турш хуримтлуулсан техникийн сул талууд болон сул нууц үгсийг ашиглаж байгаа аж. AI хэрэгслүүд эдгээр сул талуудыг хэдхэн минутын дотор олж, маш хурдан ашиглах чадвартай болжээ.\n\nЭнэхүү өсөлт нь Artex, Cairn зэрэг нээлттэй эх сурвалжтай автомат нэвтрэлт шалгах хэрэгслүүд олон нийтэд нээлттэй болсонтой холбоотой бөгөөд суурь аюулгүй байдлын хяналтыг чангатгах шаардлагатайг мэргэжилтнүүд сануулж байна.",
+ "published": "2026-11-24T18:02:59Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

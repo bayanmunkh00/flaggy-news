@@ -1,0 +1,19 @@
+{
+ "id": "0d108e7b71c40649",
+ "section": "ai",
+ "subtopic": "gemini",
+ "source": "Google AI Blog",
+ "source_label": "Google AI Blog",
+ "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+ "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-1440x810.jpg",
+ "title": "How Gemini is changing the game for Golden State's organization and fans.",
+ "summary_en": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+ "lines": [],
+ "title_mn": "Google Gemini Golden State Warriors болон Chase Center-ийн албан ёсны түнш боллоо",
+ "summary_mn": "Google компани Golden State Warriors баг болон Chase Center-тэй хамтран ажиллах гэрээгээ өргөжүүлж, Gemini-г албан ёсны AI туслахаар болголоо.",
+ "body_mn": "Энэхүү хамтын ажиллагааны хүрээнд Google Gemini нь Warriors баг, WNBA-ийн аварга Valkyries болон Chase Center цогцолборын албан ёсны Generative AI ба Enterprise LLM түнш болж байна.\n\nХөгжөөн дэمжигчид тоглолтын үеэр Gemini-гийн тусламжтай илүү интерактив байдлаар оролцох боломжтой болох бөгөөд багийн удирдлага бизнес болон сагсан бөмбөгийн үйл ажиллагаандаа хиймэл оюун ухааны агентуудыг нэвтрүүлж байна.",
+ "published": "2026-11-24T16:00:00Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

@@ -1,0 +1,19 @@
+{
+ "id": "155c92aff90ad9be",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Unite.AI",
+ "url": "https://www.unite.ai/anthropic-brings-server-supplied-skills-and-background-tasks-to-claude/",
+ "image": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-brings-server-supplied-skills-and-background-tasks-to-claude.jpg",
+ "title": "Anthropic Brings Server-Supplied Skills and Background Tasks to Claude",
+ "summary_en": "Anthropic Brings Server-Supplied Skills and Background Tasks to Claude Unite.AI",
+ "lines": [],
+ "title_mn": "Anthropic компани Claude системд server-supplied skills болон background tasks нэмлээ",
+ "summary_mn": "Anthropic компани Claude болон Claude Code-д Skills over MCP, Tasks, Elicitation зэрэг шинэ боломжуудыг нэвтрүүллээ.",
+ "body_mn": "Anthropic компани Claude болон Claude Code системд Model Context Protocol (MCP) дээр суурилсан шинэ боломжуудыг албан ёсоор нэвтрүүлж эхэлснээ зарлалаа. Үүнд серверээс ажлын урсгалын заавар дамжуулах Skills, удаан үргэлжлэх ажлыг ард ажиллуулах Tasks, мөн хэрэглэгчийн зөвшөөрөл авах Elicitation боломжууд багтаж байна.\n\nSkills боломж нь холбогдсон серверүүдэд тухайн хэрэглэгч эсвэл байгууллагад тохирсон шилдэг туршлага, алхам алхмаар удирдамжийг Claude руу нийлүүлэх боломжийг олгодог. Claude хэрэгцээ гарсан үед л эдгээр ур чадваруудыг дуудаж ажилладаг байна.\n\nTasks боломжийн тусламжтайгаар серверүүд хүнд тооцоолол эсвэл агент үүргийг ард талд гүйцэтгэж, Claude бусад ажлаа үргэлжлүүлэх боломжтой болдог. Мөн Elicitation нь аюултай SQL ажилбар эсвэл устгах үйлдэл хийхийн өмнө хэрэглэгчээс баталгаажуулалт хүсэх боломжийг олгох ажээ.",
+ "published": "2026-11-24T18:15:04Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

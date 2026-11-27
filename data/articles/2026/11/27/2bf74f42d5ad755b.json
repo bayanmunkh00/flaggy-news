@@ -1,0 +1,19 @@
+{
+ "id": "2bf74f42d5ad755b",
+ "section": "vibe",
+ "subtopic": "vibe-coding",
+ "source": "Builder.io Blog",
+ "source_label": "Builder.io Blog",
+ "url": "https://www.builder.io/blog/reverse-engineer-website",
+ "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F9e44c4242c9245fa92cfe15700e7842e?width=1200",
+ "title": "How to reverse engineer a website with AI",
+ "summary_en": "How to reverse engineer a website's UI with AI. Find the element that draws it, take it apart in Agent-Native Design and rebuild it in your brand.",
+ "lines": [],
+ "title_mn": "AI код бичих хэрэгсэл ашиглан ямар ч вэбсайтын UI-г хэрхэн хуулбарлах вэ?",
+ "summary_mn": "Claude Code болон бусад AI агентуудад зориулсан /remix хэрэгслийг ашиглан дуртай вэбсайтныхаа хөдөлгөөн болон дизайныг өөрийн төсөлдөө хэрхэн шилжүүлэхийг суралцаарай.",
+ "body_mn": "Вэбсайтын хөдөлгөөнт элементүүд болон WebGL дээр суурилсан эффектүүдийг Chrome-ын хөгжүүлэгчийн хэрэгсэл болон AI агентуудын тусламжтайгаар задлан шинжлэх боломжтой.\n\nТа вэбсайтын canvas элементүүдийг олж тогтоогоод, Claude Code-д зориулсан open-source /remix чадварыг ашиглан тухайн дизайныг үе шатаар нь салгаж өөрийн төсөлд хэрэгжүүлэх боломжтой юм. Энэ нь хөгжүүлэгчдэд бусдын дизайныг судлах, өөрийн болгоход үр дүнтэй арга юм.",
+ "published": "2026-11-24T16:07:44Z",
+ "added": "2026-11-27T15:30:59Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}
