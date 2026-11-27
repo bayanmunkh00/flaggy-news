@@ -1,0 +1,19 @@
+{
+ "id": "256ea2f3786bb921",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "ollama/ollama",
+ "source_label": "ollama/ollama",
+ "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+ "image": "https://opengraph.githubassets.com/a6c8f0306504f810fa1504d44b9b19dd039fda7f60dc30259b1d587f0d834c13/ollama/ollama/releases/tag/v0.40.18",
+ "title": "ollama v0.40.18",
+ "summary_en": "What's Changed mlx: fuse Inkling residual mixing on Metal by @dhiltgen in #19808 mlxrunner: share tensor helpers and model setup across architectures by @jaingaurav in #19805 llama.cpp: version bump b12651 + remove jetpack5 support by @pdevine in #19865 inkling2: faster Metal decode, prefill and draft rounds by @dhiltgen in #19843 Full Changelog : v0.40.17...v0.40.18-rc0",
+ "lines": [],
+ "title_mn": "Ollama v0.40.18 хувилбар гарлаа",
+ "summary_mn": "Ollama v0.40.18 хувилбарт Apple Silicon Metal болон MLX-ийн ажиллагааг сайжруулж, llama.cpp-ийг шинэчиллээ.",
+ "body_mn": "Хиймэл оюуны загваруудыг локал орчинд ажиллуулах зориулалттай Ollama сангийн v0.40.18 шинэчлэл гарлаа.\n\nЭнэхүү хувилбараар Apple Silicon чипүүд дээрх Metal технологи болон MLX ажиллагааг оновчилж, загварын decode, prefill процессуудыг түргэсгэжээ. Мөн llama.cpp-ийн хувилбарыг b12651 болгон ахиулсан байна.\n\nТүүнчлэн хуучин Jetpack 5 хувилбарын дэмжлэгийг хасаж, бүтцийн олон түвшний код хуваалцах боломжийг сайжруулсан байна.",
+ "published": "2026-11-24T08:27:44Z",
+ "added": "2026-11-27T05:18:27Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

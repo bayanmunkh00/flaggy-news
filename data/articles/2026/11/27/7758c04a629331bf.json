@@ -1,0 +1,19 @@
+{
+ "id": "7758c04a629331bf",
+ "section": "ai",
+ "subtopic": "openai",
+ "source": "OpenAI News",
+ "source_label": "OpenAI News",
+ "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+ "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+ "title": "Searching for distant planets with Astra",
+ "summary_en": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+ "lines": [],
+ "title_mn": "Судлаачид OpenAI-ийн Astra болон Codex загвараар шинэ гарагуудын шинж тэмдгийг илрүүлжээ",
+ "summary_mn": "Сонирхогч одон орон судлаачид OpenAI-ийн Codex болон шинэ Astra загварыг ашиглан нээлттэй телескопын өгөгдлөөс нарны аймгийн гаднах гарагуудыг хайсан байна. Тэдний илрүүлсэн сэжигтэй дохионуудыг SETI болон NASA-ийн TESS төслийн эрдэмтэд нарийвчлан шалгаж эхэлжээ.",
+ "body_mn": "1992 оноос хойш одон орон судлаачид манай нарны аймгаас гадна 6,400 гаруй экзогараг нээгээд байна. Сүүлийн жилүүдэд одон орон сонирхогчид телескопын нээлттэй өгөгдөлд хиймэл оюун ашиглан шинэ гарагийн хайгуул хийх нь нэмэгджээ. Тухайлбал, OpenAI-ийн инженер Kevin Bond болон гарааны бизнес үүсгэн байгуулагч Ethan Byrd нар бие даан судалгаа хийж, Codex болон шинээр гарсан Astra загваруудыг ашиглан өгөгдөл шинжилсэн байна.\n\nГараг эх одоо тойрон өнгөрөхөд одны гэрэл бага зэрэг бүдгэрдэг бөгөөд үүнийг гэрлийн муруйгаар хэмждэг аж. Kevin Bond нь Codex ашиглан Kepler сансрын телескопын 100,000 одны ажиглалтын өгөгдлийг шүүх тусгай агент хөгжүүлж, 200 гаруй дохио илрүүлжээ. Эдгээрийн хоёр дохиог SETI хүрээлэнгийн эрдэмтэн бие даан шалгаж, бодит шинж тэмдэг мөн болохыг баталсан байна.\n\nХарин Ethan Byrd нь 19 сая одны өгөгдлийг Astra загвараар шүүж, хамгийн өндөр магадлалтай нэр дэвшигчийг NASA-ийн TESS төслийн багт шилжүүлжээ. Ийнхүү дэвшилтэт хиймэл оюуны загварууд нь мэргэжлийн бус судлаачдад сансар огторгуйн асар их хэмжээний өгөгдлийг боловсруулж, шинжлэх ухааны нээлт хийхэд шууд тусалж эхэлснийг харуулж байна.",
+ "published": "2026-11-24T11:00:00Z",
+ "added": "2026-11-27T05:18:27Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

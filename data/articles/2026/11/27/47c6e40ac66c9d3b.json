@@ -1,0 +1,19 @@
+{
+ "id": "47c6e40ac66c9d3b",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSM2FAnf9UEb3Do4v-r8AEBpoI8byXOrHgng-eRjEyudSf0hiKMpymmDiK_NLTxYuzXdtrWvMrBzY9qmLqDo31r3JOpVefOQxLE77gdkoOAYMkCK__-Bc-AJoWg-8nEOEVjcY6SswkzLbCfYl6kK9clg6xXw3xginWqIwnMxBUaS6wgPKVVwXZNhZA5G85/s1600/azure-ms.jpg",
+ "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+ "summary_en": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM,\" NSM said. \"It is still uncertain how",
+ "lines": [],
+ "title_mn": "Microsoft компани Azure APIM Classic хувилбарын нууцлалын цоорхойг заслаа",
+ "summary_mn": "Azure API Management Classic үйлчилгээний сул талыг ашиглан байгууллагуудын нууц үг, хандалтын түлхүүрийг хайсан халдлага гарсантай холбогдуулан Microsoft алдааг засварлажээ.",
+ "body_mn": "Норвегийн Үндэсний аюулгүй байдлын газар (NSM) төрийн болон эрчим хүчний томоохон компаниудын ашигладаг Microsoft Azure API Management (APIM) системд халдагчид хандахыг оролдсон талаар мэдээллээ.\n\nХалдагчид тохиргооны алдааг ашиглан APIM дотор хадгалагдаж байсан нууц түлхүүрүүд, хандалтын токен болон бусад эмзэг өгөгдлүүдийг шүүрдэх үйл ажиллагаа явуулж байсан нь илэрчээ. Энэхүү асуудал нь зөвхөн Classic шатлалын хувилбарт хамааралтай бөгөөд шинэ v2 хувилбаруудад нөлөөлөөгүй байна.\n\nMicrosoft компани аюулгүй байдлын цоорхойг нэн даруй хааж, үйлчлүүлэгч байгууллагууддаа өөрсдийн APIM дээрх нэвтрэх нэр, түлхүүрүүдээ (secrets) яаралтай сольж шинэчлэх заавар зөвлөмжийг хүргүүлжээ.",
+ "published": "2026-11-24T10:44:49Z",
+ "added": "2026-11-27T05:18:27Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

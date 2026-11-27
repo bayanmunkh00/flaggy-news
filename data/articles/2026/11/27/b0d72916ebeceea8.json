@@ -1,0 +1,19 @@
+{
+ "id": "b0d72916ebeceea8",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
+ "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+ "summary_en": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches,\" OpenAI said in a post on X. The AI upstart called the initiative a",
+ "lines": [],
+ "title_mn": "OpenAI болон Cisco систем унтраалгүй халдлага хаах Shirudo хэрэгслийг танилцуулав",
+ "summary_mn": "OpenAI болон Cisco хамтран Linux систем дээр eBPF ашиглан системийн үйл ажиллагааг тасалдуулахгүйгээр халдлагыг шуурхай хаах чадвартай Shirudo нээлттэй эхийн шийдлийг гаргалаа.",
+ "body_mn": "OpenAI болон Cisco хамтран Linux дээр хиймэл оюунт агентуудад системийн тасралтгүй ажиллагааг алдагдуулахгүйгээр хамгаалалт тогтоох боломж олгодог Shirudo нээлттэй эхийн төслийг танилцууллаа.\n\nЭнэхүү шийдэл нь eBPF технологид суурилсан бөгөөд аюулгүй байдлын хамгаалалтын тусгай дүрмийг цөмийн (kernel) түвшинд шууд ажиллуулдаг байна. Ингэснээр эмзэг байдлын албан ёсны засвар (patch) гарах хүртэл хугацаанд серверийг унтрааж асаахгүйгээр халдлагын замыг шуурхай хаах боломжийг олгож байгаа юм.\n\nТуршилтаар Codex загварын боловсруулсан хамгаалалтын бамбай нь ажиллаж буй Elasticsearch серверийн эсрэг чиглэсэн Java4Shell халдлагыг ямар ч сааталгүйгээр бүрэн хааж чадсан байна.",
+ "published": "2026-11-24T06:02:57Z",
+ "added": "2026-11-27T05:18:27Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 5
+}

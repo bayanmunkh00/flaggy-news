@@ -1,0 +1,19 @@
+{
+ "id": "f9fdfba7d20240bf",
+ "section": "software",
+ "subtopic": "vercel-cloud",
+ "source": "Vercel",
+ "source_label": "Vercel",
+ "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+ "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5CRJ6FfiOuKiCLKFQYYg4n/dc78d62fd5595089b8c39758414e377d/download__3_.jpeg",
+ "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+ "summary_en": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard. Endpoints on Secure Compute live in your team's dedicated VPC and use the network's AWS region. They belong to the network and are shared by its connected project environments. Vercel Functions , Vercel Sandbox , and builds connected to the network can reach AWS-hosted backends over the AWS private network. Before you add an endpoint in Vercel, the backend must already be exposed through a published AWS PrivateLink endpoint service. Examples include RDS, Aurora…",
+ "lines": [],
+ "title_mn": "Vercel Secure Compute сүлжээнд AWS PrivateLink дэмжлэг нэмэгдлээ",
+ "summary_mn": "Vercel Secure Compute ашигладаг байгууллагууд өөрсдийн VPC сүлжээн дэх AWS PrivateLink холболтыг шууд хянах боломжтой боллоо.",
+ "body_mn": "Vercel платформын Enterprise хэрэглэгчид өөрсдийн Secure Compute сүлжээнд зориулсан AWS PrivateLink төгсгөлийн цэгүүдийг (endpoints) шууд Vercel удирдлагын хэсгээс үүсгэж, тохируулах боломжтой болсон тухай зарлалаа.\n\nЭнэхүү шинэчлэл нь багийн тусгаарлагдсан VPC сүлжээнд ажиллах бөгөөд Vercel Functions, Vercel Sandbox болон build процессууд нь AWS дээрх RDS, Aurora, Redshift зэрэг дотоод системүүдтэй нийтийн интернэтээр бус хувийн сүлжээгээр аюулгүй холбогдох нөхцөлийг бүрдүүлж байна.\n\nSecure Compute сүлжээ бүрд нэг PrivateLink холболт үнэгүй багтдаг бөгөөд нэмэлт холболт бүр сарын 30 ам.доллар, өгөгдөл дамжуулах төлбөр нь 1GB тутамд 0.04 ам.долларын өртөгтэй байхаар тогтоогджээ.",
+ "published": "2026-11-24T09:54:00Z",
+ "added": "2026-11-27T05:18:27Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 3
+}

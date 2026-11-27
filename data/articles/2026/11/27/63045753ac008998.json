@@ -1,0 +1,19 @@
+{
+ "id": "63045753ac008998",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7wXAof6nH7PDC5-3qxXZJgJvZODTjQcrWFOjO8jeb9yGkK6bUkzm27MzMy5n0S_Xywsj0npu_F0FmQ4JcKxPXNEoezLrpKoSStaYK4Ww46QUuzySTeQnnzcIXs_NADunlqeyuMIl5Wm5PKWc3c0JyNmYPxfbInIWx2tfosieI_QS_e4PX-JILlLH-1U/s1600/hosting.jpg",
+ "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+ "summary_en": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released",
+ "lines": [],
+ "title_mn": "WHMCS системд нэвтрэлт шаардахгүй мэдээлэл хулгайлах ноцтой алдаа илэрчээ",
+ "summary_mn": "Вэб хостинг компаниудын өргөн ашигладаг WHMCS платформд нэвтрэх эрхгүйгээр өгөгдлийн сангийн мэдээлэл хуулах боломжтой 3 эмзэг байдал илэрч, засварлагдлаа.",
+ "body_mn": "Олон улсын хостинг компаниудын төлбөр тооцоо, удирдлагад ашигладаг WHMCS системд халдагчид системд нэвтрэх шаардлагагүйгээр өгөгдлийн сангаас хэрэглэгчийн мэдээлэл, админы нууц үгийн хэшийг татаж авах боломжтой SQL injection алдаа илэрчээ.\n\nCVE-2026-82981 дугаартай энэхүү эмзэг байдал нь 8.7 үнэлгээтэй ноцтой алдаанд тооцогдож байгаа бөгөөд сагсны (shopping cart) функцээр дамжин ашиглагдах эрсдэлтэй байна. Түүнчлэн нэвтэрсэн хэрэглэгчийн эрхээр систем дээр код ажиллуулах, сервер тохиргооны файлыг унших боломжтой CVE-2026-82979 болон CVE-2026-93700 алдаанууд хамт илэрчээ.\n\nКомпаниас 9.0.10, 8.13.8 болон 9.1.2 шинэчлэлтүүдийг яаралтай гаргаж, хувийн сервертээ уг системийг суурилуулан ашигладаг админуудыг нэн даруй шинэчлэхийг уриалсан байна.",
+ "published": "2026-11-24T08:34:20Z",
+ "added": "2026-11-27T05:18:27Z",
+ "ai": "gemini:gemini-3.8-flash",
+ "score": 4
+}

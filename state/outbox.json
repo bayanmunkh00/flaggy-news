@@ -2,230 +2,6 @@
  {
   "kind": "article",
   "article": {
-   "id": "d98bc9b3687885a0",
-   "section": "ai",
-   "subtopic": "qwen",
-   "source": "Qwen (Google News)",
-   "source_label": "MLQ.ai",
-   "url": "https://mlq.ai/news/ex-qwen-lead-junyang-lins-pragmatik-labs-more-than-doubles-its-valuation-to-5-billion/",
-   "image": "",
-   "title": "Ex-Qwen lead Junyang Lin's Pragmatik Labs more than doubles its valuation to $5 billion",
-   "summary_en": "Ex-Qwen lead Junyang Lin's Pragmatik Labs more than doubles its valuation to $5 billion MLQ.ai",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-22T17:57:34Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "3f27a7cbd7f2c481",
-   "section": "hacker",
-   "subtopic": "cve",
-   "source": "CISA KEV",
-   "source_label": "CISA",
-   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
-   "image": "",
-   "title": "CVE-2026-134624 added to CISA KEV (exploited in the wild)",
-   "summary_en": "N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.",
-   "lines": [
-    "N-able MailAssure: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
-    "N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.",
-    "Patch by: 2026-11-26"
-   ],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T00:00:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c4cd9ff7cb39ab62",
-   "section": "hacker",
-   "subtopic": "bug-bounty",
-   "source": "Medium bug bounty writeup",
-   "source_label": "Medium bug bounty writeup",
-   "url": "https://medium.com/@l4zz3rj0d/the-wildcard-parameter-that-exposed-60-million-usps-accounts-50b372babfb6?source=rss------bug_bounty_writeup-5",
-   "image": "https://cdn-images-1.medium.com/max/1672/1*T1W8K6NGeVe3yD0bsjD90Q.png",
-   "title": "The Wildcard Parameter That Exposed 60 Million USPS Accounts",
-   "summary_en": "Third one in the API rotation, and this is the one worth teaching to anyone who thinks authorization bugs only happen at flashy startups… Continue reading on Medium »",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T00:01:01Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "bc7c74d41b748513",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3PcLOJnLmubyWPQbOymaT4/6a9081a4c83e1c1c192a750c86e65507/slack-imgs.png",
-   "title": "Kazunari Hanao joins Vercel as Country Manager, Japan",
-   "summary_en": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's customers in Japan include Mitsubishi Corporation, Fujitsu Limited, U-NEXT CO., Ltd., and DeNA Co., Ltd., alongside startups like SANU Inc. and Reiwa Travel, Inc. Kazunari has spent the last decade building and leading software businesses in Japan. He joins Vercel from Pendo, where he was…",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T05:00:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "814250e9462ca2f3",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3sPVtjM3db06GtSKr2PrAm/31789fa9d6be3c5dc5c737c3e88b3406/kazunari-hanao-og-ja.jpg",
-   "title": "Vercel日本法人の代表に花尾和成が就任いたしました",
-   "summary_en": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。前職ではPendoの日本法人社長を務め、それ以前にはHashiCorpの日本事業を立ち上げ、Pivotalの東京オフィスで営業部門を統括しました。 就任にあたり、花尾から皆さまへのメッセージをご紹介します。 このたび、Vercelの日本法人代表に就任いたしました花尾和成です。私は20年以上IT業界に身を置き、そのうち10年以上は、開発者が開発そのものに集中できるようにするプロダクトに携わってまいりました。この経験を活かし、日本の開発者の皆さまと、その先にあるビジネスの価値を最大化することに貢献してまいります。…",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T05:00:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "c37ab7e3f403ce71",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/67XIifvPiGZjjxt9fE6s19/33e5a98b2743a7ecafaaa33a7c193c82/audited-zdr-og.png",
-   "title": "Introducing Audited ZDR on AI Gateway",
-   "summary_en": "AI is now used in every part of a business, and as a result, companies send source code, customer records, and regulated data through inference providers. The assurance that no data is retained after processing is still publicly unverified. Payment platforms, cloud infrastructure, and most other layers that handle data this sensitive have a way to prove their controls to outside parties, and inference will follow the same path. Today we are introducing Audited ZDR on AI Gateway. A provider is labeled Audited ZDR only after an independent security firm tests its zero data retention claims…",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T05:00:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "aaf095a83539f55b",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xEn9v4m7rKPph4Ck1TdC/6cafb3297644e4ba6df15ecd6173b814/extraction_models_og.png",
-   "title": "AI Gateway now supports extraction models",
-   "summary_en": "Extraction models are now on AI Gateway. They find specific details in the content you provide, such as an invoice number or contact names, and return them as separate fields your code can use. ScaleDown Extract-1 is the first available extraction model. It extracts text values or lists of text values from text, images, and PDFs. You can use it to process invoices, contracts, and other records. Extraction is currently available through the AI SDK only. With ai@7.0.176 or later, use experimental_extract and the model ID scaledown/extract-1 : Each key in fields has an entry in result.answers…",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T05:00:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "5a96b69c105a774b",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7rTYk87PVckLTev2puQRn7/2054bccc806e46e84f3b080529ffc1e3/image__22_.png",
-   "title": "Vercel Drives adds CLI commands and standalone SDKs",
-   "summary_en": "You can now create, list, fork, and delete Vercel Drives with the new vercel drives commands or standalone SDKs for TypeScript ( @vercel/drives ) and Python ( vercel-drives ). Drives also have a REST API at /v1/drives and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions. With the latest Vercel CLI, link your project with vercel link if needed, then run: Install the TypeScript SDK with npm install @vercel/drives , or the Python SDK with pip install vercel-drives , then run: Drives still mount into Vercel Sandboxes as before, and existing Sandbox CLI…",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T05:00:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "eaed0bf2d9ed1e31",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6t4TuQjTM6BbUrN38qacii/6440cfffd49f12256f63d6619257664f/download__7_.jpeg",
-   "title": "Catch missing feature flags before they reach production",
-   "summary_en": "Vercel Flags can now block a deployment from reaching production if you’ve declared a flag in code but haven’t created it in your project. Without that definition, your app can silently fall back to the flag’s default value, even if that turns on a feature you meant to keep off. The Flag Definitions Present Deployment Check runs when a deployment is ready. If any flags are missing, the check fails and lists them in the results, where you can create each one before redeploying. The check reads your Flags SDK discovery endpoint. With flags@4.5.0 or later on Vercel, it works without…",
-   "lines": [],
-   "title_mn": "",
-   "summary_mn": "",
-   "body_mn": "",
-   "published": "2026-11-23T05:00:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "",
-   "score": null
-  }
- },
- {
-  "kind": "article",
-  "article": {
-   "id": "e35c285beae6bed9",
-   "section": "software",
-   "subtopic": "vercel-cloud",
-   "source": "Vercel",
-   "source_label": "Vercel",
-   "url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/caf87daafd0ddb7f57c786db/eb9a47f637fe4180dd745c8b86b04cfc/canary-zdr-audits-og.jpg",
-   "title": "AI Gateway now runs canary ZDR audits",
-   "summary_en": "AI Gateway now runs canary audits against inference providers to detect when prompt content is read outside the inference path. Contractual Zero Data Retention (ZDR) agreements and point-in-time security audits establish how a provider should handle your data, but production infrastructure changes continuously. Canary audits add a detection layer on top. Each canary audit run: Mints unique URLs that exist nowhere else, each mapped privately to a specific provider, model, and audit run. Sends prompts containing those URLs through the normal inference path, with ZDR requested for covered…",
-   "lines": [],
-   "title_mn": "AI Gateway нь мэдээллийн аюулгүй байдлыг хангах үүднээс canary ZDR аудит ажиллуулж эхэллээ",
-   "summary_mn": "Vercel-ийн AI Gateway систем inference үйлчилгээ үзүүлэгчдийн өгөгдөл хадгалахгүй байх (ZDR) гэрээний хэрэгжилтэд бодит хяналт тавих canary аудитын шинэ функцийг нэвтрүүлжээ. Энэ нь нууцлал алдагдсан эсэхийг автоматаар илрүүлэх нэмэлт хамгаалалтын давхарга болж өгч байна.",
-   "body_mn": "Vercel компани өөрийн AI Gateway системдээ canary ZDR (Zero Data Retention) аудитын функцийг нэмсэн байна. Гэрээ болон шалгалтаар өгөгдөл хадгалахгүй байх амлалт авдаг ч үйлдвэрлэлийн орчин байнга өөрчлөгддөг тул энэхүү шийдэл нь бодит хугацаанд хяналт тавих юм.\n\nЭнэхүү систем нь тусгайлан ялгах боломжтой өвөрмөц URL хаягуудыг үүсгэж, тодорхой провайдер болон модель руу явуулдаг байна. Хэрэв провайдер ZDR гэрээг зөрчиж өгөгдөл хадгалсан эсвэл шалгасан тохиолдолд тухайн хаяг руу хандалт ирснээр систем автоматаар илрүүлж бүртгэж авдаг ажээ.\n\nЭнэхүү шинэ боломж нь хууль эрх зүйн гэрээ болон бие даасан аудитыг орлохгүй бөгөөд тэдгээрийг нөхөж ажиллах нэмэлт хамгаалалт юм. Хөгжүүлэгчид AI Gateway-ийн аюулгүй байдлын талаарх дэлгэрэнгүй мэдээллийг албан ёсны баримт бичгүүдээс авах боломжтой.",
-   "published": "2026-11-23T06:19:00Z",
-   "added": "2026-11-25T12:39:30Z",
-   "ai": "gemini:gemini-3.5-flash-lite",
-   "score": 4
-  }
- },
- {
-  "kind": "article",
-  "article": {
    "id": "1259b534687dd8b3",
    "section": "ai",
    "subtopic": "openai",
@@ -881,6 +657,160 @@
    "added": "2026-11-26T16:00:55Z",
    "ai": "",
    "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "b0d72916ebeceea8",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
+   "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+   "summary_en": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches,\" OpenAI said in a post on X. The AI upstart called the initiative a",
+   "lines": [],
+   "title_mn": "OpenAI болон Cisco систем унтраалгүй халдлага хаах Shirudo хэрэгслийг танилцуулав",
+   "summary_mn": "OpenAI болон Cisco хамтран Linux систем дээр eBPF ашиглан системийн үйл ажиллагааг тасалдуулахгүйгээр халдлагыг шуурхай хаах чадвартай Shirudo нээлттэй эхийн шийдлийг гаргалаа.",
+   "body_mn": "OpenAI болон Cisco хамтран Linux дээр хиймэл оюунт агентуудад системийн тасралтгүй ажиллагааг алдагдуулахгүйгээр хамгаалалт тогтоох боломж олгодог Shirudo нээлттэй эхийн төслийг танилцууллаа.\n\nЭнэхүү шийдэл нь eBPF технологид суурилсан бөгөөд аюулгүй байдлын хамгаалалтын тусгай дүрмийг цөмийн (kernel) түвшинд шууд ажиллуулдаг байна. Ингэснээр эмзэг байдлын албан ёсны засвар (patch) гарах хүртэл хугацаанд серверийг унтрааж асаахгүйгээр халдлагын замыг шуурхай хаах боломжийг олгож байгаа юм.\n\nТуршилтаар Codex загварын боловсруулсан хамгаалалтын бамбай нь ажиллаж буй Elasticsearch серверийн эсрэг чиглэсэн Java4Shell халдлагыг ямар ч сааталгүйгээр бүрэн хааж чадсан байна.",
+   "published": "2026-11-24T06:02:57Z",
+   "added": "2026-11-27T05:18:27Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "256ea2f3786bb921",
+   "section": "ai",
+   "subtopic": "ai-devtools",
+   "source": "ollama/ollama",
+   "source_label": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+   "image": "https://opengraph.githubassets.com/a6c8f0306504f810fa1504d44b9b19dd039fda7f60dc30259b1d587f0d834c13/ollama/ollama/releases/tag/v0.40.18",
+   "title": "ollama v0.40.18",
+   "summary_en": "What's Changed mlx: fuse Inkling residual mixing on Metal by @dhiltgen in #19808 mlxrunner: share tensor helpers and model setup across architectures by @jaingaurav in #19805 llama.cpp: version bump b12651 + remove jetpack5 support by @pdevine in #19865 inkling2: faster Metal decode, prefill and draft rounds by @dhiltgen in #19843 Full Changelog : v0.40.17...v0.40.18-rc0",
+   "lines": [],
+   "title_mn": "Ollama v0.40.18 хувилбар гарлаа",
+   "summary_mn": "Ollama v0.40.18 хувилбарт Apple Silicon Metal болон MLX-ийн ажиллагааг сайжруулж, llama.cpp-ийг шинэчиллээ.",
+   "body_mn": "Хиймэл оюуны загваруудыг локал орчинд ажиллуулах зориулалттай Ollama сангийн v0.40.18 шинэчлэл гарлаа.\n\nЭнэхүү хувилбараар Apple Silicon чипүүд дээрх Metal технологи болон MLX ажиллагааг оновчилж, загварын decode, prefill процессуудыг түргэсгэжээ. Мөн llama.cpp-ийн хувилбарыг b12651 болгон ахиулсан байна.\n\nТүүнчлэн хуучин Jetpack 5 хувилбарын дэмжлэгийг хасаж, бүтцийн олон түвшний код хуваалцах боломжийг сайжруулсан байна.",
+   "published": "2026-11-24T08:27:44Z",
+   "added": "2026-11-27T05:18:27Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "584209132f5dcf0e",
+   "section": "cs2",
+   "subtopic": "cs2",
+   "source": "CS2 BC.Game",
+   "source_label": "EGamersWorld",
+   "url": "https://egamersworld.com/counterstrike/news/38671/pgl-major-singapore-2026-stage-1-opening-round-res-4ZuN6LXvx",
+   "image": "",
+   "title": "PGL Major Singapore 2026 Day 1: Liquid Crush s1mple's BC.Game 13-1",
+   "summary_en": "PGL Major Singapore 2026 Day 1: Liquid Crush s1mple's BC.Game 13-1 EGamersWorld",
+   "lines": [],
+   "title_mn": "PGL Major Singapore 2026: Team Liquid BC.Game багийг 13-1 харьцаагаар хожлоо",
+   "summary_mn": "PGL Major Singapore 2026 тэмцээний эхний өдөр Team Liquid s1mple тэргүүтэй BC.Game багийг 13-1 оноогоор буулган авлаа.",
+   "body_mn": "Сингапур улсад зохион байгуулагдаж буй PGL Major Singapore 2026 тэмцээний эхний өдрийн тоглолтод Team Liquid болон BC.Game багууд учраа таарлаа.\n\nТоглолтын турш бүрэн давамгайллыг хадгалсан Team Liquid баг Александр 's1mple' Костылевоор удирдуулсан BC.Game багийг 13-1 гэсэн илт давуу харьцаатайгаар буулган авав.\n\nИнгэснээр Team Liquid дараагийн шатны тоглолтуудад давуу эрхтэй үргэлжлүүлж байгаа бол BC.Game тэмцээнээс хасагдахгүйн тулд дараагийн тоглолтондоо заавал хожих шаардлагатай боллоо.",
+   "published": "2026-11-24T08:32:37Z",
+   "added": "2026-11-27T05:18:27Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "63045753ac008998",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7wXAof6nH7PDC5-3qxXZJgJvZODTjQcrWFOjO8jeb9yGkK6bUkzm27MzMy5n0S_Xywsj0npu_F0FmQ4JcKxPXNEoezLrpKoSStaYK4Ww46QUuzySTeQnnzcIXs_NADunlqeyuMIl5Wm5PKWc3c0JyNmYPxfbInIWx2tfosieI_QS_e4PX-JILlLH-1U/s1600/hosting.jpg",
+   "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+   "summary_en": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released",
+   "lines": [],
+   "title_mn": "WHMCS системд нэвтрэлт шаардахгүй мэдээлэл хулгайлах ноцтой алдаа илэрчээ",
+   "summary_mn": "Вэб хостинг компаниудын өргөн ашигладаг WHMCS платформд нэвтрэх эрхгүйгээр өгөгдлийн сангийн мэдээлэл хуулах боломжтой 3 эмзэг байдал илэрч, засварлагдлаа.",
+   "body_mn": "Олон улсын хостинг компаниудын төлбөр тооцоо, удирдлагад ашигладаг WHMCS системд халдагчид системд нэвтрэх шаардлагагүйгээр өгөгдлийн сангаас хэрэглэгчийн мэдээлэл, админы нууц үгийн хэшийг татаж авах боломжтой SQL injection алдаа илэрчээ.\n\nCVE-2026-82981 дугаартай энэхүү эмзэг байдал нь 8.7 үнэлгээтэй ноцтой алдаанд тооцогдож байгаа бөгөөд сагсны (shopping cart) функцээр дамжин ашиглагдах эрсдэлтэй байна. Түүнчлэн нэвтэрсэн хэрэглэгчийн эрхээр систем дээр код ажиллуулах, сервер тохиргооны файлыг унших боломжтой CVE-2026-82979 болон CVE-2026-93700 алдаанууд хамт илэрчээ.\n\nКомпаниас 9.0.10, 8.13.8 болон 9.1.2 шинэчлэлтүүдийг яаралтай гаргаж, хувийн сервертээ уг системийг суурилуулан ашигладаг админуудыг нэн даруй шинэчлэхийг уриалсан байна.",
+   "published": "2026-11-24T08:34:20Z",
+   "added": "2026-11-27T05:18:27Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "f9fdfba7d20240bf",
+   "section": "software",
+   "subtopic": "vercel-cloud",
+   "source": "Vercel",
+   "source_label": "Vercel",
+   "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5CRJ6FfiOuKiCLKFQYYg4n/dc78d62fd5595089b8c39758414e377d/download__3_.jpeg",
+   "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+   "summary_en": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard. Endpoints on Secure Compute live in your team's dedicated VPC and use the network's AWS region. They belong to the network and are shared by its connected project environments. Vercel Functions , Vercel Sandbox , and builds connected to the network can reach AWS-hosted backends over the AWS private network. Before you add an endpoint in Vercel, the backend must already be exposed through a published AWS PrivateLink endpoint service. Examples include RDS, Aurora…",
+   "lines": [],
+   "title_mn": "Vercel Secure Compute сүлжээнд AWS PrivateLink дэмжлэг нэмэгдлээ",
+   "summary_mn": "Vercel Secure Compute ашигладаг байгууллагууд өөрсдийн VPC сүлжээн дэх AWS PrivateLink холболтыг шууд хянах боломжтой боллоо.",
+   "body_mn": "Vercel платформын Enterprise хэрэглэгчид өөрсдийн Secure Compute сүлжээнд зориулсан AWS PrivateLink төгсгөлийн цэгүүдийг (endpoints) шууд Vercel удирдлагын хэсгээс үүсгэж, тохируулах боломжтой болсон тухай зарлалаа.\n\nЭнэхүү шинэчлэл нь багийн тусгаарлагдсан VPC сүлжээнд ажиллах бөгөөд Vercel Functions, Vercel Sandbox болон build процессууд нь AWS дээрх RDS, Aurora, Redshift зэрэг дотоод системүүдтэй нийтийн интернэтээр бус хувийн сүлжээгээр аюулгүй холбогдох нөхцөлийг бүрдүүлж байна.\n\nSecure Compute сүлжээ бүрд нэг PrivateLink холболт үнэгүй багтдаг бөгөөд нэмэлт холболт бүр сарын 30 ам.доллар, өгөгдөл дамжуулах төлбөр нь 1GB тутамд 0.04 ам.долларын өртөгтэй байхаар тогтоогджээ.",
+   "published": "2026-11-24T09:54:00Z",
+   "added": "2026-11-27T05:18:27Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "47c6e40ac66c9d3b",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "The Hacker News",
+   "source_label": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSM2FAnf9UEb3Do4v-r8AEBpoI8byXOrHgng-eRjEyudSf0hiKMpymmDiK_NLTxYuzXdtrWvMrBzY9qmLqDo31r3JOpVefOQxLE77gdkoOAYMkCK__-Bc-AJoWg-8nEOEVjcY6SswkzLbCfYl6kK9clg6xXw3xginWqIwnMxBUaS6wgPKVVwXZNhZA5G85/s1600/azure-ms.jpg",
+   "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+   "summary_en": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM,\" NSM said. \"It is still uncertain how",
+   "lines": [],
+   "title_mn": "Microsoft компани Azure APIM Classic хувилбарын нууцлалын цоорхойг заслаа",
+   "summary_mn": "Azure API Management Classic үйлчилгээний сул талыг ашиглан байгууллагуудын нууц үг, хандалтын түлхүүрийг хайсан халдлага гарсантай холбогдуулан Microsoft алдааг засварлажээ.",
+   "body_mn": "Норвегийн Үндэсний аюулгүй байдлын газар (NSM) төрийн болон эрчим хүчний томоохон компаниудын ашигладаг Microsoft Azure API Management (APIM) системд халдагчид хандахыг оролдсон талаар мэдээллээ.\n\nХалдагчид тохиргооны алдааг ашиглан APIM дотор хадгалагдаж байсан нууц түлхүүрүүд, хандалтын токен болон бусад эмзэг өгөгдлүүдийг шүүрдэх үйл ажиллагаа явуулж байсан нь илэрчээ. Энэхүү асуудал нь зөвхөн Classic шатлалын хувилбарт хамааралтай бөгөөд шинэ v2 хувилбаруудад нөлөөлөөгүй байна.\n\nMicrosoft компани аюулгүй байдлын цоорхойг нэн даруй хааж, үйлчлүүлэгч байгууллагууддаа өөрсдийн APIM дээрх нэвтрэх нэр, түлхүүрүүдээ (secrets) яаралтай сольж шинэчлэх заавар зөвлөмжийг хүргүүлжээ.",
+   "published": "2026-11-24T10:44:49Z",
+   "added": "2026-11-27T05:18:27Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "7758c04a629331bf",
+   "section": "ai",
+   "subtopic": "openai",
+   "source": "OpenAI News",
+   "source_label": "OpenAI News",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+   "title": "Searching for distant planets with Astra",
+   "summary_en": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "lines": [],
+   "title_mn": "Судлаачид OpenAI-ийн Astra болон Codex загвараар шинэ гарагуудын шинж тэмдгийг илрүүлжээ",
+   "summary_mn": "Сонирхогч одон орон судлаачид OpenAI-ийн Codex болон шинэ Astra загварыг ашиглан нээлттэй телескопын өгөгдлөөс нарны аймгийн гаднах гарагуудыг хайсан байна. Тэдний илрүүлсэн сэжигтэй дохионуудыг SETI болон NASA-ийн TESS төслийн эрдэмтэд нарийвчлан шалгаж эхэлжээ.",
+   "body_mn": "1992 оноос хойш одон орон судлаачид манай нарны аймгаас гадна 6,400 гаруй экзогараг нээгээд байна. Сүүлийн жилүүдэд одон орон сонирхогчид телескопын нээлттэй өгөгдөлд хиймэл оюун ашиглан шинэ гарагийн хайгуул хийх нь нэмэгджээ. Тухайлбал, OpenAI-ийн инженер Kevin Bond болон гарааны бизнес үүсгэн байгуулагч Ethan Byrd нар бие даан судалгаа хийж, Codex болон шинээр гарсан Astra загваруудыг ашиглан өгөгдөл шинжилсэн байна.\n\nГараг эх одоо тойрон өнгөрөхөд одны гэрэл бага зэрэг бүдгэрдэг бөгөөд үүнийг гэрлийн муруйгаар хэмждэг аж. Kevin Bond нь Codex ашиглан Kepler сансрын телескопын 100,000 одны ажиглалтын өгөгдлийг шүүх тусгай агент хөгжүүлж, 200 гаруй дохио илрүүлжээ. Эдгээрийн хоёр дохиог SETI хүрээлэнгийн эрдэмтэн бие даан шалгаж, бодит шинж тэмдэг мөн болохыг баталсан байна.\n\nХарин Ethan Byrd нь 19 сая одны өгөгдлийг Astra загвараар шүүж, хамгийн өндөр магадлалтай нэр дэвшигчийг NASA-ийн TESS төслийн багт шилжүүлжээ. Ийнхүү дэвшилтэт хиймэл оюуны загварууд нь мэргэжлийн бус судлаачдад сансар огторгуйн асар их хэмжээний өгөгдлийг боловсруулж, шинжлэх ухааны нээлт хийхэд шууд тусалж эхэлснийг харуулж байна.",
+   "published": "2026-11-24T11:00:00Z",
+   "added": "2026-11-27T05:18:27Z",
+   "ai": "gemini:gemini-3.8-flash",
+   "score": 4
   }
  }
 ]
