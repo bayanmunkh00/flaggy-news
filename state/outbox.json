@@ -1032,5 +1032,71 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 5
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "512c67370ef03d3c",
+   "section": "ai",
+   "subtopic": "xai",
+   "source": "xAI (Google News)",
+   "source_label": "MEAWW News",
+   "url": "https://news.meaww.com/oregon-virginia-sue-musks-spacex-allege-grok-ai-generated-sexualized-images-of-children",
+   "image": "https://media.pubninja.com/articles/brand-6/covers/1795541806925_c743d74995e3.jpg_1200_630",
+   "title": "Oregon, Virginia sue Musk’s SpaceX, allege Grok AI generated sexualized images of children",
+   "summary_en": "Oregon, Virginia sue Musk’s SpaceX, allege Grok AI generated sexualized images of children MEAWW News",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-24T18:41:21Z",
+   "added": "2026-11-27T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a86bf4538fee3186",
+   "section": "vibe",
+   "subtopic": "vibe-coding",
+   "source": "Builder.io Blog",
+   "source_label": "Builder.io Blog",
+   "url": "https://www.builder.io/blog/ai-finding-old-bugs",
+   "image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/3e7395ce479e492b8cd10c1ac428eb65?width=1200",
+   "title": "AI is finding old bugs faster than we're patching them",
+   "summary_en": "In 2024, PHP2Shell went unfixed because nobody had proven it was exploitable. AI models made that proof cheap. Here's what I'd change this week.",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-24T19:00:00Z",
+   "added": "2026-11-27T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "fda441e824b430cc",
+   "section": "ai",
+   "subtopic": "ai-devtools",
+   "source": "openai/openai-python",
+   "source_label": "openai/openai-python",
+   "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
+   "image": "https://opengraph.githubassets.com/63d402a05ee3fecddb9f7f49455f7eaf5e977c2b7d6817938ed1700f133114a9/openai/openai-python/releases/tag/v3.59.0",
+   "title": "openai-python v3.59.0",
+   "summary_en": "3.59.0 (2026-11-24) Features api: add healthcare model IDs for Responses ( #4327 ) ( 804a9af ) Bug Fixes check the agent upload directory after path resolution ( #4323 ) ( bc02da4 ) redact credential headers on API error requests ( #4316 ) ( 9d7f58e ) reject empty webhook signing keys ( #4321 ) ( dd69803 ) reject non-finite numbers in agent tool arguments ( #4326 ) ( abbd379 ) use bearer authentication for beta Realtime sessions ( #4317 ) ( 7596fb8 ) Documentation explain how to skip duplicate webhook events ( #4325 ) ( 6805f05 )",
+   "lines": [],
+   "title_mn": "",
+   "summary_mn": "",
+   "body_mn": "",
+   "published": "2026-11-24T19:18:59Z",
+   "added": "2026-11-27T16:00:54Z",
+   "ai": "",
+   "score": null
+  }
  }
 ]

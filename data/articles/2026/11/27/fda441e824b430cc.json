@@ -1,0 +1,19 @@
+{
+ "id": "fda441e824b430cc",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "openai/openai-python",
+ "source_label": "openai/openai-python",
+ "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
+ "image": "https://opengraph.githubassets.com/63d402a05ee3fecddb9f7f49455f7eaf5e977c2b7d6817938ed1700f133114a9/openai/openai-python/releases/tag/v3.59.0",
+ "title": "openai-python v3.59.0",
+ "summary_en": "3.59.0 (2026-11-24) Features api: add healthcare model IDs for Responses ( #4327 ) ( 804a9af ) Bug Fixes check the agent upload directory after path resolution ( #4323 ) ( bc02da4 ) redact credential headers on API error requests ( #4316 ) ( 9d7f58e ) reject empty webhook signing keys ( #4321 ) ( dd69803 ) reject non-finite numbers in agent tool arguments ( #4326 ) ( abbd379 ) use bearer authentication for beta Realtime sessions ( #4317 ) ( 7596fb8 ) Documentation explain how to skip duplicate webhook events ( #4325 ) ( 6805f05 )",
+ "lines": [],
+ "title_mn": "",
+ "summary_mn": "",
+ "body_mn": "",
+ "published": "2026-11-24T19:18:59Z",
+ "added": "2026-11-27T16:00:54Z",
+ "ai": "",
+ "score": null
+}
