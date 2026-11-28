@@ -1,0 +1,19 @@
+{
+ "id": "ed1500f1bff30ee4",
+ "section": "software",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v11.2.12",
+ "image": "https://opengraph.githubassets.com/9ce73b4c488ea47ecac41a4cde1d9c544b8040eefa747c6211d00fded9100988/nestjs/nest/releases/tag/v11.2.12",
+ "title": "nest v11.2.12",
+ "summary_en": "What's changed @nestjs/platform-fastify fix(deps): update dependency @fastify/middie to v9.3.8 — #18687 , by @anthgrim ; a request target that is neither origin-form nor an http(s) absolute-form URL, and that the router didn't match, now gets a 400 ( FST_ERR_MIDDIE_MALFORMED_URL ) instead of reaching the not-found handler fix(deps): update dependency @fastify/middie to v9.3.9 — backport of #18644 ; middie now also adds a middleware to the Fastify plugins registered before it, as the adapter already did for Nest middleware, which still runs once per request Node.js version: @fastify/middie…",
+ "lines": [],
+ "title_mn": "NestJS v11.2.12 хувилбар Fastify болон Node.js шинэчлэлттэйгээр гарлаа",
+ "summary_mn": "NestJS v11.2.12 хувилбар нь @fastify/middie сангийн шинэчлэлтийг багтаасан бөгөөд Node.js 20.19+ эсвэл 22.12+ шаардах болжээ.",
+ "body_mn": "NestJS хүрээний v11.2.12 засварын хувилбар нь @fastify/middie сангийн v9.3.9 хувилбар руу шинэчлэгдсэн байна. Үүний үр дүнд middleware болон Fastify загварын ажиллах зарчим илүү тогтвортой болжээ.\n\nГэвч энэхүү шинэчлэлтээс шалтгаалан уг хувилбарыг ашиглахад Node.js 20.19 болон 22.12-оос дээш хувилбар шаардлагатай болсон байна. Хуучин хувилбар дээр ERR_REQUIRE_ESM алдаа гарах магадлалтай тул хөгжүүлэгчид орчноо шалгах шаардлагатай.",
+ "published": "2026-11-25T08:40:38Z",
+ "added": "2026-11-28T07:35:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 2
+}

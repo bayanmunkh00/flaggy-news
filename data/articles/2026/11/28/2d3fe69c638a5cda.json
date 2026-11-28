@@ -1,0 +1,19 @@
+{
+ "id": "2d3fe69c638a5cda",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil06YVYkZZwt0a8nA97RyMZvYZEQIoZ7r9_YHMtjx5eWc7RNAB4ol6OWb7NIsJOpC0v4w11xynwGgR1SsTnArvWAF7yJseVMbQfoawpTPEKYDdmH6O5UrbIZgJ2Fz9MGBFC6kF95oLeubdwlrdVKaVTPz4kjrOCH0X1neixvpNSYHhotL5WuzdYM12tUo/s1600/GitGuardian.gif",
+ "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+ "summary_en": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a credential can access and whether it leaked publicly, and update the",
+ "lines": [],
+ "title_mn": "Нууц үг, түлхүүр алдагдсан үед аюулгүйгээр засах яагаад хүндрэлтэй байдаг вэ?",
+ "summary_mn": "Аж ахуйн нэгжүүдэд алдагдсан нууц үг, API түлхүүрийг илрүүлж засварлах үйл явц удаан үргэлжилдэг нь ямар нэг зүйл эвдэрч магадгүй гэсэн айдастай холбоотой байдаг. GitGuardian компани энэ асуудлыг шийдвэрлэхэд тулгарч буй сорилтуудыг тайлбарлажээ.",
+ "body_mn": "Орчин үеийн байгууллагууд өгөгдөл, үйлчилгээ болон бусад системүүдтэйгээ холбогдохын тулд төрөл бүрийн нууц үг, API түлхүүрүүдийг өргөнөөр ашигладаг. GitGuardian компанийн гаргасан судалгаагаар 2022 онд олдсон хүчинтэй нууц үгсийн 64 хувь нь бүтэн дөрвөн жилийн дараа буюу 2026 оны 1 дүгээр сард ч ажиллаж байжээ.\n\nАюулгүй байдлын инженерүүд нууц үг алдагдсаныг илрүүлсэн ч тухайн түлхүүрийг шууд хүчингүй болгох нь ямар үйлчилгээг тасалдуулахыг урьдчилан мэдэх боломжгүй байдаг. Үүнээс үүдэн шийдвэр гаргах үйл явц удааширч, зарим тохиолдолд нууц үгээ сольж амлахад жилүүд ч зарцуулагддаг байна.\n\nХөгжүүлэгчид шинэ функцүүдийг бүтээхээр завгүй байдаг тул аюулгүй байдлын багийн явуулсан анхааруулга ихэнхдээ арын жагсаалт руу шилждэг. Түүнчлэн том байгууллагуудад програм хангамжийн аюулгүй байдал, хандалтын удирдлага болон платформ инженерчлэлийн багууд хоорондын мэдээлэл хангалтгүй байдаг нь энэхүү асуудлыг улам бүр хүндрүүлдэг байна.",
+ "published": "2026-11-25T11:51:48Z",
+ "added": "2026-11-28T07:35:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

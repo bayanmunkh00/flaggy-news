@@ -1,0 +1,19 @@
+{
+ "id": "df7e6d35b0bf706d",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaKaEIQ9XIhyphenhyphen7wjO1dtGE_h6MwLEEd4or1U6Ud39Ce7BbZfU817kR-mLr4bT5n_dMzAujT3VzKACvto1wsiHVfLjOLyGFnYPsf4PH_DHuog0NWylpF1RXoFIYhb84sb8T7RHCx4qnBCCJnNDKTkjoMQ-KPDaKgHaLW7fII7cOhPzc9XKC0OGGOjjE-ygf/s1600/openai.jpg",
+ "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+ "summary_en": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence (AI) company's offices with the aim",
+ "lines": [],
+ "title_mn": "OpenAI-ийн оффист нууц бичлэг хийсэн хуучин ажилтанд 1 сая долларын барьцаа гаргахыг зөвшөөрөв",
+ "summary_mn": "OpenAI компанид нууц бичигч төхөөрөмж байрлуулсан хэрэгт буруутгагдсан хуучин ажилтан Абдулрахман Алфозанд холбогдох шүүх хурал болжээ.",
+ "body_mn": "San Francisco хотын холбооны шүүхээс OpenAI компанийн оффист нууц яриа бичих төхөөрөмж байрлуулсан хэрэгт сэжиглэгдэн баривчлагдсан 35 настай Абдулрахман Алфозаныг 1 сая долларын барьцаатайгаар суллахаар шийдвэрлэжээ.\n\nПрокуроруудын мэдээлснээр түүнийг гадаад улсын тагнуул байсан эсвэл худалдааны нууц хулгайлсан гэх нотлох баримт одоогоор олдоогүй байгаа ч түүний хуجهزةас олон тооны нууц ярианы аудио файлууд олдсон байна. Тэрээр хэргийн мөрдөн шалгах ажиллагааны явцад GPS зүүж, тодорхой цагийн хязгаарлалттайгаар байцаагдах юм.\n\nШүүгч уг хэргийг спай кино шиг ноцтой тагнуулын хэрэг биш гэж үзсэн бөгөөд хууль бусаар харилцаа холбоо тасалдуулах, сонсох зүйл ангиар шалгагдаж байгаа аж.",
+ "published": "2026-11-25T10:43:07Z",
+ "added": "2026-11-28T07:35:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

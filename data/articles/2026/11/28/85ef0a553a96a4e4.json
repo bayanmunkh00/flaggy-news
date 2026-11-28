@@ -1,0 +1,19 @@
+{
+ "id": "85ef0a553a96a4e4",
+ "section": "software",
+ "subtopic": "nestjs",
+ "source": "nestjs/nest",
+ "source_label": "nestjs/nest",
+ "url": "https://github.com/nestjs/nest/releases/tag/v12.6.1",
+ "image": "https://opengraph.githubassets.com/0bfa1a49ed31451772dd88a1fad1a1012b707ac177bdd7dc28e062843fada154/nestjs/nest/releases/tag/v12.6.1",
+ "title": "nest v12.6.1",
+ "summary_en": "v12.6.1 (2026-11-25) Notable changes New features RabbitMQ server: nackOnInternalError ( false by default). With noAck: false , the message of a handler that fails with an internal error (an exception other than an RpcException ) is negatively acknowledged without requeue, so a dead letter exchange of the queue receives it. It used to stay unacknowledged until the channel closed – #18686 New defaults and behaviour changes ParseDatePipe rejects more dates that new Date() would roll into the next month: unpadded and dotted numeric dates ( 2/30/2024 ), month names ( Feb 30, 2024 ), two-digit…",
+ "lines": [],
+ "title_mn": "NestJS v12.6.1 хувилбар гарлаа",
+ "summary_mn": "NestJS хүрээний шинэ v12.6.1 хувилбар нь RabbitMQ болон Fastify адаптерт холбогдох шинэ боломжууд, алдаа засвар болон dependencies шинэчлэлтүүдийг багтаажээ.",
+ "body_mn": "NestJS баг v12.6.1 хувилбараа гаргасан бөгөөд уг хувилбарт RabbitMQ болон бусад microservices хэсэгт чухал сайжруулалтууд орсон байна. Тухайлбал, RabbitMQ сервер дээр nackOnInternalError боломж нэмэгдсэн нь дотоод алдаа гарсан мессежийг requeue хийлгүйгээр шууд dead letter exchange рүү илгээх боломжийг олгож байна.\n\nМөн ParseDatePipe болон бусад pipe-уудын ажиллах зарчимд өөрчлөлт орж, огнооны зөрүүтэй формат болон утгуудыг илүү нарийвчлалтай шалгадаг болжээ. ConsoleLogger нь Headers, URLSearchParams болон FormData өгөгдлийг автоматаар нууцалдаг болсон нь аюулгүй байдлын хувьд чухал юм.\n\nFastify болон Socket.io адаптеруудтай холбоотой алдаануудыг зассан бөгөөд @fastify/middie зэрэг гол сангууд шинэчлэгдсэн байна. Энэхүү хувилбарыг ашиглахын тулд хөгжүүлэгчид Node.js 20.19 болон түүнээс дээш хувилбарыг ашиглах шаардлагатайг анхаарна уу.",
+ "published": "2026-11-25T08:37:29Z",
+ "added": "2026-11-28T07:35:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

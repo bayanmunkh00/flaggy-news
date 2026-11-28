@@ -1,0 +1,19 @@
+{
+ "id": "f8d0d1935ac4bbfb",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbChdPRqvJHt9cIG4Z1W9o12tl4thtxIDNNcntDjmIytSIC1PWvOytT0JjY0OJtnba6UVJcEmqNxgOMuWxX2pvNJzjQ70-CIeruqZEDdgaDG66Lv2T6lLMv8cEhrXRie1gcaLz6OoNw6f2822s2yz8jl958kok6WpHmZ7p_n3TRWTdEWSpr1le5T28kFQO/s1600/drupal.gif",
+ "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+ "summary_en": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core. \"Drupal Core",
+ "lines": [],
+ "title_mn": "Drupal-ийн критик RCE эмзэгдлийг идэвхтэй ашиглаж байна",
+ "summary_mn": "Drupal системд илэрсэн CVE-2026-132165 буюу Fail2Install гэх критик эмзэгдлийг хакерууд идэвхтэй ашиглаж эхэлснийг CISA анхаарууллаа. Энэ нь серверийн нөөцийг шавхах замаар сайт суулгах процесс руу нэвтэрч, дурын код ажиллуулах эрсдэлтэй юм.",
+ "body_mn": "АНУ-ын Кибер аюулгүй байдал, дэд бүтцийн аюулгүй байдлын агентлаг (CISA) Drupal корын системд нөлөөлж буй критик эмзэгдлийг Мэдэгдэж буй ашиглагдсан эмзэгдлүүдийн (KEV) жагсаалтад орууллаа. Уг эмзэгдэл нь CVE-2026-132165 буюу Fail2Install нэртэй бөгөөд CVSS үнэлгээ нь 9.8 буюу хамгийн өндөр түвшинд тооцогдож байна.\n\nСудалгаагаар хакерууд серверийн нөөцийн хязгаарлалтыг ашиглан Drupal сайтыг аль хэдийн суулгагдсан эсэхийг шалгах горимыг төөрөгдүүлж чаддаг болох нь тогтоогджээ. Ингэснээр хакерууд install.php файлаар дамжуулан сайтад дахин суулгалт хийх замаар админ эрхийг өөртөө авч, дурын PHP код гүйцэтгэх боломжтой болж байна.\n\nЭнэхүү эмзэгдэл нь Drupal 8.9, 9, 10 болон 11 хувилбаруудад нөлөөлдөг бөгөөд Apache болон PHP-FPM орчинд PostgreSQL эсвэл MySQL өгөгдлийн сан ашигладаг түгээмэл хослолуудад илэрчээ. Тиймээс холбогдох байгууллагууд яаралтай засвар хийх шаардлагатай байна.",
+ "published": "2026-11-25T11:23:26Z",
+ "added": "2026-11-28T07:35:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

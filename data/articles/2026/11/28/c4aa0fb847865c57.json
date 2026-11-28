@@ -1,0 +1,19 @@
+{
+ "id": "c4aa0fb847865c57",
+ "section": "hacker",
+ "subtopic": "security-news",
+ "source": "The Hacker News",
+ "source_label": "The Hacker News",
+ "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+ "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBxy4VIOekOumZfm8RElWJl6ZTKoIJ1QLc3U7ynLQ8p9PCqm_kYX1T-akwbZwbthTYcNwfVW-aWbRB4wIkvbUeM_gvQmnw8EH-hpY0542jCwFUAaI2mNEXGE3dct9K4JKFURV1smdERZlx4tV1zCy3AbS_NwF4o926_KSW-OKMPfDXT2gWbbZ4lKjFm6Y/s1600/hex-hack.jpg",
+ "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+ "summary_en": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a patched build within about 15 minutes of the first malicious request. Checks",
+ "lines": [],
+ "title_mn": "Hex.pm багц бүртгэлийн сервер рүү халдаж, 10.0 үнэлгээтэй ноцтой сул тал илрүүлжээ",
+ "summary_mn": "Elixir болон Erlang хөгжүүлэгчдийн ашигладаг Hex.pm серверт 2016 оноос хойш нуугдаж байсан CVE-2026-129514 сул талыг ашиглан халдлага гарчээ.",
+ "body_mn": "Elixir, Erlang хөгжүүлэгчдийн багц татдаг үндсэн сан болох Hex.pm-ийн серверүүдэд халдагчид халдаж, систем дээр команд ажиллуулсан ноцтой хэрэг гарлаа. CVE-2026-129514 дугаартай, CVSS 10.0 буюу хамгийн өндөр эрсдэлийн үнэлгээтэй энэхүү сул тал нь 2016 оны 2 дугаар сараас хойш код сууринд байсан аж.\n\nХалдагчид Erlang өгөгдлийн форматыг уншдаг parser-ын алдааг ашиглан ямар нэгэн баталгаажуулалтгүйгээр хүсэлт илгээж, системийн эрхтэйгээр команд гүйцэтгэжээ. Hex.pm багийнхан халдлагын мөр илэрсэн даруйдаа 15 минутын дотор серверүүдээ шинэчилж патч хийсэн бөгөөд ямар нэгэн багц өөрчлөгдөөгүй болохыг тогтоосон байна.\n\nГэсэн хэдий ч хэрэглэгчдийн мэдээлэл алдагдсан байж болзошгүй тул аюулгүй байдлын үүднээс бүх хэрэглэгчдийн сессийг хүчингүй болгож, системоос гаргажээ. Хөгжүүлэгчдэд нууц үгээ солихыг зөвлөж байна.",
+ "published": "2026-11-25T09:06:59Z",
+ "added": "2026-11-28T07:35:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

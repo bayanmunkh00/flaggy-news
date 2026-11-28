@@ -1,0 +1,19 @@
+{
+ "id": "ab5ccdbe52bf1191",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Tech Times",
+ "url": "https://www.techtimes.com/articles/331497/20261125/anthropic-rolls-out-claude-artifacts-that-helps-create-new-apps-using-ai-windows-mac.htm",
+ "image": "https://d.techtimes.com/en/full/479138/anthropic-claude-artifacts.png",
+ "title": "Anthropic Rolls Out Claude Artifacts That Helps Create New Apps Using AI on Windows, Mac",
+ "summary_en": "Anthropic Rolls Out Claude Artifacts That Helps Create New Apps Using AI on Windows, Mac Tech Times",
+ "lines": [],
+ "title_mn": "Anthropic компани Claude ашиглан desktop апп бүтээх боломжийг танилцууллаа",
+ "summary_mn": "Anthropic хэрэглэгчдэд Claude доторх artifacts төслүүдийг Mac болон Windows үйлдлийн системийн бие даасан апп болгон суулгах боломж олгожээ.",
+ "body_mn": "Anthropic компани хэрэглэгчдэд өөрсдийн бүтээсэн artifacts төслүүдийг Mac болон Windows компьютер дээр бие даасан апп хэлбэрээр суулгах боломж олгох шинэ функцийг нэвтрүүлжээ. Share цэсээр дамжуулан уг үйлдлийг хийх бөгөөд тухайн апп нь өөрийн гэсэн дүрс тэмдэгтэй, тусдаа цонхонд ажиллах юм.\n\nЭнэхүү шинэ боломж нь кодын мэдлэггүй хэрэглэгчид болон хөгжүүлэгчдэд ямар нэгэн нарийн төвөгтэй тохиргоо хийхгүйгээр өөрийн хүссэн хэрэгслээ бүтээх боломжийг олгож байна. Тухайлбал файлын менежер, зураг засварлагч, системийн хяналтын хэрэгслүүдийг хялбархан үүсгэж болох аж.\n\nАпп нь Claude-ийн таны баталгаажуулсан холболтууд болон өгөгдлийг ашиглах ба ямар нэгэн тусдаа API түлхүүр шаардахгүй. Одоогоор энэхүү боломж beta хэлбэрээр Free, Pro, Team болон Enterprise багцуудын хэрэглэгчдэд нээгдээд байна.",
+ "published": "2026-11-25T09:55:32Z",
+ "added": "2026-11-28T07:35:57Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
