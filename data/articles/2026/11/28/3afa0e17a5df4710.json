@@ -1,0 +1,19 @@
+{
+ "id": "3afa0e17a5df4710",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Anthropic",
+ "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+ "image": "https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg",
+ "title": "Migrating our Messages API to Rust",
+ "summary_en": "Migrating our Messages API to Rust Anthropic",
+ "lines": [],
+ "title_mn": "Anthropic компани Messages API-аа Python хэлнээс Rust рүү шилжүүлжээ",
+ "summary_mn": "Anthropic компани өөрийн гол Messages API үйлчилгээгээ Python хэлнээс Rust хэл рүү амжилттай шилжүүлсэн байна. Энэхүү шинэчлэлтийн үр дүнд хүсэлт тутамд зарцуулах CPU-ийн хэрэглээг 70 орчим хувиар бууруулж чаджээ.",
+ "body_mn": "Anthropic компани өөрийн хэрэглэгчид болон дотоод аппликейшнүүдэд үйлчилдэг Messages API-аа Rust хэл рүү шилжүүлсэн туршлагаа хуваалцлаа. 2024 оноос хойш API-ийн ачаалал даруй 1,800 дахин өссөн тул гүйцэтгэлийг сайжруулах шаардлага тулгарсан байна.\n\nШилжилтийн явцад үүссэн зөрүүг шалгахын тулд тэд үйлдвэрлэлийн орчин дахь API-аа шууд баталгаажуулагч болгон ашиглаж, илэрсэн алдаануудыг автоматаар засах агентуудыг ажиллуулжээ. Үр дүнд нь хүсэлт бүрт шаардагдах CPU-ийн нөөцийг 70%-иар бууруулж, хариу өгөх хугацааг 20%-иар хурдасгаж чадсан байна.\n\nЭнэхүү шинэчлэлтийг хийх явцад үйлчилгээг огт зогсоогүй бөгөөд шинэ боломжуудыг нэмэх ажлыг тасалдуулалгүйгээр амжилттай хэрэгжүүлжээ.",
+ "published": "2026-11-25T17:15:45Z",
+ "added": "2026-11-28T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 5
+}

@@ -1,0 +1,19 @@
+{
+ "id": "d67819b61c31cf12",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+ "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+ "summary_en": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+ "lines": [],
+ "title_mn": "New York муж хүүхдийн хиймэл оюун ухаант тоглоомыг хориглолоо",
+ "summary_mn": "New York муж хүүхдэд зориулсан хиймэл оюун ухаант чатбот тоглоомуудын үйлдвэрлэл, худалдааг таван жилийн хугацаатай хориглолоо. Энэ нь хүүхдийн аюулгүй байдал, нууцлалыг хамгаалах зорилготой юм.",
+ "body_mn": "New York муж улсын амбан захирагч Kathy Hochul хүүхдэд зориулсан хиймэл оюун ухаан бүхий тоглоомуудыг хориглосон хуульд гарын үсэг зурлаа. Ингэснээр тус муж нь Калифорнийн дараа ийм хориг тавьсан хоёр дахь муж болж байна. Энэхүү хууль нь интернэтэд холбогдож хүүхдүүдтэй ярилцдаг чихмэл амьтан, хүүхэлдэй, робот зэрэг бүтээгдэхүүнийг хамруулжээ.\n\nАлбаныхны мэдээлснээр, хуулийг зөрчсөн тохиолдолд өдөрт 15,000 ам.долларын өндөр торгууль ногдуулах бөгөөд Amazon зэрэг цахим худалдааны платформуудтай хамтран ажиллаж борлуулалтыг хязгаарлах аж. Common Sense Media байгууллагын судалгаагаар зарим хиймэл оюун ухаант тоглоом нь хүүхдэд тохиромжгүй контент санал болгох, хүчирхийлэл болон аюултай зүйлсийн талаар зааж өгөх эрсдэлтэй болох нь тогтоогджээ.\n\nЭнэхүү шийдвэр нь эцэг эхчүүдийн санааг амрааж, хүүхдийн сэтгэхүй болон хувийн нууцыг хамгаалахад чиглэсэн чухал алхам болж байна. Хууль албан ёсоор хэрэгжиж эхлэхтэй холбоотойгоор холбогдох байгууллагууд хяналтаа чангатгаж эхэлжээ.",
+ "published": "2026-11-25T18:11:46Z",
+ "added": "2026-11-28T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

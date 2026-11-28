@@ -834,5 +834,181 @@
    "ai": "gemini:gemini-3.5-flash-lite",
    "score": 3
   }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "a88eda7cc048df93",
+   "section": "hacker",
+   "subtopic": "security-news",
+   "source": "Schneier on Security",
+   "source_label": "Schneier on Security",
+   "url": "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html",
+   "image": "",
+   "title": "Tracking Incidents of Hacking Using AI Tools",
+   "summary_en": "Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive harnesses the hackers are using.",
+   "lines": [],
+   "title_mn": "Кибер аюулгүй байдлын судлаачид хиймэл оюуны хэрэгсэл ашиглан халдлага үйлдэх хандлагыг хянаж байна",
+   "summary_mn": "Судлаач Даниэл Мейсслер хиймэл оюун ухааны тусламжтайгаар халдлага үйлдэх үйл ажиллагаа болон хортой хэрэгслүүдийг хянах системийг боловсруулж байна. Энэхүү санаачилга нь халдлагад өртөх хугацааг богиносож буй өнөөгийн нөхцөлд хамгаалалтад чухал мэдээлэл өгч байна.",
+   "body_mn": "Хакерууд хиймэл оюун ухааны хэрэгслүүдийг ашиглан кибер халдлага үйлдэх нь олширч байгаа бөгөөд энэ чиглэлийн тохиолдлуудыг нэгдсэн байдлаар бүртгэж хянах шаардлагатай байна. Судлаачдын тэмдэглэснээр автоматжуулсан тагнуулын ажиллагаа нь боломж гарсан үеэс хэрэгжүүлэх хүртэлх хугацааг эрс богиносож байгаа юм.\n\nЭнэхүү хандлагыг нэгдсэн байдлаар бүртгэж мөрдөх нь хамгаалалтын багуудад урьдчилан сэргийлэх арга хэмжээ авахад чухал ач холбогдолтой юм. Нэг удаагийн тохиолдлууд биш харин нийтлэг давтагдаж буй хэв маягийг олж харах нь кибер аюулгүй байдлын салбарт хамгийн тулгамдсан асуудлын нэг болжээ.\n\nМэргэжилтнүүд хиймэл оюунаар сайжруулсан халдлагын хэрэгслүүдийг сайтар судалж, хамгаалалтын түвшнийг сайжруулах хэрэгтэйг онцолж байна.",
+   "published": "2026-11-25T12:07:21Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "0df106f01263f4a6",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Computerworld",
+   "url": "https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html",
+   "image": "https://www.computerworld.com/wp-content/uploads/2025/12/4109668-0-31602400-1766163047-Apple-MacBook-Air-multitasking-and-multidisplay-250305.jpg?quality=50&strip=all&w=1024",
+   "title": "Anthropic lets you install Claude ‘artifacts’ as Mac apps",
+   "summary_en": "Anthropic lets you install Claude ‘artifacts’ as Mac apps Computerworld",
+   "lines": [],
+   "title_mn": "Anthropic компани Claude artifacts-ийг Mac болон Windows програмууд болгон суулгах боломжтой болголоо",
+   "summary_mn": "Anthropic компани хэрэглэгчдэд Claude-ийн тусламжтайгаар үүсгэсэн олдворуудыг (artifacts) Mac болон Windows төхөөрөмж дээрээ бие даасан програм болгон суулгах боломжийг олгож эхэлжээ. Энэхүү шинэ боломж нь хэрэглэгчдэд өөрийн бүтээсэн хэрэгсэл, баримт бичгийг шууд ашиглах нөхцөлийг бүрдүүлж байна.",
+   "body_mn": "Anthropic компани өөрийн Claude систем дэх artifacts буюу бие даасан хэсгүүдийг хэрэглэгчийн компьютер дээр шууд програм хэлбэрээр ажиллуулах шинэ функцийг нэвтрүүлж байна. Хэрэглэгчид вэб хуудас, интерактив хэрэгсэл, баримт бичиг эсвэл слайдуудыг тусгай цонх болон өөрийн гэсэн дүрс тэмдэгтэйгээр суулгах боломжтой боллоо.\n\nЭнэхүү шинэ боломж нь хэрэглэгчдэд хурдан бөгөөд үр дүнтэй ажиллах нөхцөлийг бүрдүүлэх хэдий ч компьютерийн өгөгдөлд хандах зөвшөөрлийн асуудлыг хөндөж байна. Apple компани саяхан Mac төхөөрөмж дээр програмуудын хандах эрхийг хязгаарлах шинэчлэлт хийсэн нь энэхүү хөгжүүлэлттэй давхцаж байгаа юм.\n\nПрограм хангамжийн зах зээлд хиймэл оюун компаниуд шууд апп үүсгэдэг болсноор уламжлалт апп дэлгүүр болон эдийн засагт томоохон өөрчлөлт гарч болзошгүйг шинжээчид анхааруулж байна.",
+   "published": "2026-11-25T16:25:36Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "e37763bda8ce0dc7",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-testing-opus-5-6-claude-code/",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/25115858/library-anthropic-reportedly-testing-next-opus-model-inside-clau-800x450.jpg",
+   "title": "Anthropic reportedly testing next Opus model inside Claude Code",
+   "summary_en": "Anthropic reportedly testing next Opus model inside Claude Code Crypto Briefing",
+   "lines": [],
+   "title_mn": "Anthropic компани шинэ Opus 5.6 загвараа Claude Code дотор туршиж байна",
+   "summary_mn": "Anthropic компани өөрийн Claude Code хэрэгсэл дотроо Claude Opus 5.6 болон Sonnet 5.6 загваруудыг албан ёсоор зарлалгүйгээр сонгогдсон хэрэглэгчдэд туршиж эхэлжээ. Шинэ загвар нь код бичих болон 3D дүрслэх чадвараараа өмнөх хувилбараасаа илүү сайжирсан байна.",
+   "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ чадварыг сайжруулах зорилгоор Opus 5.6 болон Sonnet 5.6 хэмээх шинэ загваруудыг чимээгүйхэн нэвтрүүлж эхэллээ. Шинэ загварууд нь код бичих болон нарийн бүтцийн шаардлагатай 3D дүрслэл гаргах ажлуудыг өмнөх хувилбараас илүү өндөр түвшинд гүйцэтгэж байгаа аж.\n\nӨмнөх flagship загвар болох Opus 5.5 нь энэ оны есдүгээр сард зах зээлд гарч байсан бөгөөд сая сая хэрэглэгчдийн дунд амжилт олсон юм. Шинэ загварын үнэ болон техникийн үзүүлэлтүүд хараахан албан ёсоор зарлагдаагүй байгаа хэдий ч удахгүй олон нийтэд танилцуулагдах төлөвтэй байна.\n\nAnthropic компани хөгжүүлэлтийн хурдаа алдалгүйгээр хиймэл оюуны агентуудын чадварыг тасралтгүй сайжруулж байгаа нь хөгжүүлэгчдийн анхаарлыг татаж байна.",
+   "published": "2026-11-25T16:59:06Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "3afa0e17a5df4710",
+   "section": "ai",
+   "subtopic": "anthropic",
+   "source": "Anthropic (Google News)",
+   "source_label": "Anthropic",
+   "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+   "image": "https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg",
+   "title": "Migrating our Messages API to Rust",
+   "summary_en": "Migrating our Messages API to Rust Anthropic",
+   "lines": [],
+   "title_mn": "Anthropic компани Messages API-аа Python хэлнээс Rust рүү шилжүүлжээ",
+   "summary_mn": "Anthropic компани өөрийн гол Messages API үйлчилгээгээ Python хэлнээс Rust хэл рүү амжилттай шилжүүлсэн байна. Энэхүү шинэчлэлтийн үр дүнд хүсэлт тутамд зарцуулах CPU-ийн хэрэглээг 70 орчим хувиар бууруулж чаджээ.",
+   "body_mn": "Anthropic компани өөрийн хэрэглэгчид болон дотоод аппликейшнүүдэд үйлчилдэг Messages API-аа Rust хэл рүү шилжүүлсэн туршлагаа хуваалцлаа. 2024 оноос хойш API-ийн ачаалал даруй 1,800 дахин өссөн тул гүйцэтгэлийг сайжруулах шаардлага тулгарсан байна.\n\nШилжилтийн явцад үүссэн зөрүүг шалгахын тулд тэд үйлдвэрлэлийн орчин дахь API-аа шууд баталгаажуулагч болгон ашиглаж, илэрсэн алдаануудыг автоматаар засах агентуудыг ажиллуулжээ. Үр дүнд нь хүсэлт бүрт шаардагдах CPU-ийн нөөцийг 70%-иар бууруулж, хариу өгөх хугацааг 20%-иар хурдасгаж чадсан байна.\n\nЭнэхүү шинэчлэлтийг хийх явцад үйлчилгээг огт зогсоогүй бөгөөд шинэ боломжуудыг нэмэх ажлыг тасалдуулалгүйгээр амжилттай хэрэгжүүлжээ.",
+   "published": "2026-11-25T17:15:45Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 5
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "502029b740a5cbbd",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "summary_en": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "lines": [],
+   "title_mn": "Character.AI компанийн хувийн чатуудыг дуудлага худалдаагаар худалдах төлөвлөгөөг мужийн ерөнхий прокурорууд эсэргүүцжээ",
+   "summary_mn": "Дампуурлаа зарласан Character.ai компани хэрэглэгчдийнхээ хувийн чатын түүхийг дуудлага худалдаагаар худалдахаар төлөвлөсөн нь АНУ-ын 42 мужийн ерөнхий прокуроруудын эсэргүүцэлтэй тулгарлаа.",
+   "body_mn": "Дампуурлаа зарласан Character.ai компани хэрэглэгчдийн хувийн мэдээлэл, тэр дундаа 21 сая гаруй бүртгэлтэй хэрэглэгчдийн чатын түүхийг дуудлага худалдаагаар худалдахаар болсон нь шуугиан тариад байна. Үүний дотор насанд хүрээгүй 2.1 сая гаруй хэрэглэгчийн мэдээлэл багтаж байгаа аж.\n\nАмерикийн 42 мужийн ерөнхий прокурорууд энэхүү худалдааг эсэргүүцэн банкны дампуурлын шүүхэд ханджээ. Учир нь тус компани өмнө нь хэрэглэгчдийн хувийн мэдээллийг хэзээ ч худалдахгүй хэмээн амлаж байсан юм.\n\nШинэ худалдан авагч нь нууцлалын бодлогыг мөрдөх эсэх нь тодорхойгүй байгаа бөгөөд хэрэглэгчдийн эрх ашгийг хамгаалахын тулд хуулийн байгууллагууд хатуу байр суурь баримталж байна.",
+   "published": "2026-11-25T17:35:58Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "d67819b61c31cf12",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "summary_en": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "lines": [],
+   "title_mn": "New York муж хүүхдийн хиймэл оюун ухаант тоглоомыг хориглолоо",
+   "summary_mn": "New York муж хүүхдэд зориулсан хиймэл оюун ухаант чатбот тоглоомуудын үйлдвэрлэл, худалдааг таван жилийн хугацаатай хориглолоо. Энэ нь хүүхдийн аюулгүй байдал, нууцлалыг хамгаалах зорилготой юм.",
+   "body_mn": "New York муж улсын амбан захирагч Kathy Hochul хүүхдэд зориулсан хиймэл оюун ухаан бүхий тоглоомуудыг хориглосон хуульд гарын үсэг зурлаа. Ингэснээр тус муж нь Калифорнийн дараа ийм хориг тавьсан хоёр дахь муж болж байна. Энэхүү хууль нь интернэтэд холбогдож хүүхдүүдтэй ярилцдаг чихмэл амьтан, хүүхэлдэй, робот зэрэг бүтээгдэхүүнийг хамруулжээ.\n\nАлбаныхны мэдээлснээр, хуулийг зөрчсөн тохиолдолд өдөрт 15,000 ам.долларын өндөр торгууль ногдуулах бөгөөд Amazon зэрэг цахим худалдааны платформуудтай хамтран ажиллаж борлуулалтыг хязгаарлах аж. Common Sense Media байгууллагын судалгаагаар зарим хиймэл оюун ухаант тоглоом нь хүүхдэд тохиромжгүй контент санал болгох, хүчирхийлэл болон аюултай зүйлсийн талаар зааж өгөх эрсдэлтэй болох нь тогтоогджээ.\n\nЭнэхүү шийдвэр нь эцэг эхчүүдийн санааг амрааж, хүүхдийн сэтгэхүй болон хувийн нууцыг хамгаалахад чиглэсэн чухал алхам болж байна. Хууль албан ёсоор хэрэгжиж эхлэхтэй холбоотойгоор холбогдох байгууллагууд хяналтаа чангатгаж эхэлжээ.",
+   "published": "2026-11-25T18:11:46Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "88bd06d7e0e9b82f",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "Hugging Face",
+   "source_label": "Hugging Face",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+   "title": "Where scientists draw the line on AI agents",
+   "summary_en": "A Blog post by Ai2 on Hugging Face",
+   "lines": [],
+   "title_mn": "Эрдэмтэд хиймэл оюун ухааны агентуудыг судалгаанд ашиглах хил хязгаарыг тогтоов",
+   "summary_mn": "Судлаачид шинжлэх ухаанд хиймэл оюун ухааны агентуудыг ашиглахдаа баримтлах ёс зүй, итгэлцлийн таван хэмжигдэхүүнийг тодорхойллоо. Энэ нь үнэн зөв байдлаас гадна хариуцлага, ил тод байдлыг хангах зорилготой юм.",
+   "body_mn": "Шинжлэх ухааны салбарт хиймэл оюун ухааны агентуудыг нэвтрүүлэх явц эрчимжиж байгаа хэдий ч судалгааны үр дүн болон арга зүйд эрдэмтдийн хяналт зайлшгүй байх ёстойг судлаачид онцолж байна. Утга зохиолын тойм хийх, өгөгдөл шинжлэх, лабораторын протокол боловсруулах зэрэг ажлыг хиймэл оюунд даатгахдаа физик аюулгүй байдал, нууцлалыг чанд сахих шаардлагатай.\n\nHugging Face болон бусад судлаачдын хамтран явуулсан судалгаагаар шинжлэх ухааны итгэлцэл нь баталгаажуулалт, хувийн нууц, бодитой байдал, хариуцлага, ил тод байдал гэсэн таван хэмжигдэхүүн дээр тогтдог болохыг тогтоожээ. Эдгээр нь хиймэл оюун ухааны зөв хариу гаргахаас гадна түүнд хэрхэн хүрсэн бэ гэдгийг шалгах боломжийг олгодог.\n\nЭрдэмтэд хиймэл оюун ухааны дэвшилд олзуурхаж буй ч цаашид судалгааны үр дүнг хэн хариуцах вэ гэдэг асуудал чухал хэвээр байна. Иймд эрдэм шинжилгээний байгууллагууд хиймэл оюун ухаантай ажиллах тодорхой дүрэм журам, хяналтын механизмыг бий болгох шаардлагатай байгаа юм.",
+   "published": "2026-11-25T18:52:55Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 3
+  }
+ },
+ {
+  "kind": "article",
+  "article": {
+   "id": "399f63c0204baa01",
+   "section": "ai",
+   "subtopic": "ai-news",
+   "source": "TechCrunch AI",
+   "source_label": "TechCrunch AI",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "summary_en": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "lines": [],
+   "title_mn": "Dario Amodei: Хүний хяналтыг хиймэл оюунд шилжүүлж байна гэдэг бол утгагүй зүйл",
+   "summary_mn": "Anthropic компанийн гүйцэтгэх захирал Dario Amodei хүний чөлөөт хүсэл зоригийг хиймэл оюунд алдаж байна гэсэн шүүмжлэлийг эрс няцаалаа. Тэрээр ардчилсан хяналт болон хүний шийдвэрлэх эрхийг хадгалах нь чухал болохыг онцлов.",
+   "body_mn": "Anthropic компанийн гүйцэтгэх захирал Dario Amodei хиймэл оюун ухааны хөгжилд хүний хяналтыг бүрэн алдаж байна гэх шүүмжлэлд хариу өгч, үүнийг \"утгагүй хэрэг\" гэж нэрлэжээ. Тэрээр X платформоор дамжуулан гаргасан мэдэгдэлдээ үр ашиг эсвэл аюулгүй байдлын төлөө ардчилал, өөрийгөө тодорхойлох эрх чөлөөнөөс хэзээ ч татгалзах ёсгүй гэдгээ илэрхийлсэн байна.\n\nЭнэхүү маргаан нь бусад технологийн компаниудын удирдагчдын зүгээс хиймэл оюун ухааны хөгжил хүний агент байдалд заналхийлж болзошгүй талаар санаа зовнилоо илэрхийлсэнтэй холбоотой юм. OpenAI болон Meta компаниудын удирдлагууд мөн хүн төрөлхтөн ирээдүйгээ хяналтандаа байлгах ёстойг сануулж байсан билээ. Гэвч Amodei тодорхой ажлуудыг автоматжуулах болон хиймэл оюун ухаанд бүрэн эрх мэдэл шилжүүлэх хоёр хоорондоо ялгаатай болохыг онцолжээ.\n\nТэрээр хиймэл оюун өөрийгөө сайжруулах процесст (RSI) тодорхой хязгаарлалт хэрэгтэй байж болохыг хүлээн зөвшөөрсөн байна. Гэсэн хэдий ч Claude загваруудын хөгжил хурдацтай явагдаж, компанийн дотоод кодын дийлэнх хэсгийг хиймэл оюун бичих болсон нь мэргэжилтнүүдийн дунд хяналтаа алдах вий гэсэн болгоомжлолыг төрүүлсээр байгаа юм.",
+   "published": "2026-11-25T19:44:24Z",
+   "added": "2026-11-28T16:00:52Z",
+   "ai": "gemini:gemini-3.5-flash-lite",
+   "score": 4
+  }
  }
 ]

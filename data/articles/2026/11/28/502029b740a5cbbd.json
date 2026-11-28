@@ -1,0 +1,19 @@
+{
+ "id": "502029b740a5cbbd",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+ "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+ "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+ "summary_en": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+ "lines": [],
+ "title_mn": "Character.AI компанийн хувийн чатуудыг дуудлага худалдаагаар худалдах төлөвлөгөөг мужийн ерөнхий прокурорууд эсэргүүцжээ",
+ "summary_mn": "Дампуурлаа зарласан Character.ai компани хэрэглэгчдийнхээ хувийн чатын түүхийг дуудлага худалдаагаар худалдахаар төлөвлөсөн нь АНУ-ын 42 мужийн ерөнхий прокуроруудын эсэргүүцэлтэй тулгарлаа.",
+ "body_mn": "Дампуурлаа зарласан Character.ai компани хэрэглэгчдийн хувийн мэдээлэл, тэр дундаа 21 сая гаруй бүртгэлтэй хэрэглэгчдийн чатын түүхийг дуудлага худалдаагаар худалдахаар болсон нь шуугиан тариад байна. Үүний дотор насанд хүрээгүй 2.1 сая гаруй хэрэглэгчийн мэдээлэл багтаж байгаа аж.\n\nАмерикийн 42 мужийн ерөнхий прокурорууд энэхүү худалдааг эсэргүүцэн банкны дампуурлын шүүхэд ханджээ. Учир нь тус компани өмнө нь хэрэглэгчдийн хувийн мэдээллийг хэзээ ч худалдахгүй хэмээн амлаж байсан юм.\n\nШинэ худалдан авагч нь нууцлалын бодлогыг мөрдөх эсэх нь тодорхойгүй байгаа бөгөөд хэрэглэгчдийн эрх ашгийг хамгаалахын тулд хуулийн байгууллагууд хатуу байр суурь баримталж байна.",
+ "published": "2026-11-25T17:35:58Z",
+ "added": "2026-11-28T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

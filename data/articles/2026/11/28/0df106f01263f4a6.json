@@ -1,0 +1,19 @@
+{
+ "id": "0df106f01263f4a6",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Computerworld",
+ "url": "https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html",
+ "image": "https://www.computerworld.com/wp-content/uploads/2025/12/4109668-0-31602400-1766163047-Apple-MacBook-Air-multitasking-and-multidisplay-250305.jpg?quality=50&strip=all&w=1024",
+ "title": "Anthropic lets you install Claude ‘artifacts’ as Mac apps",
+ "summary_en": "Anthropic lets you install Claude ‘artifacts’ as Mac apps Computerworld",
+ "lines": [],
+ "title_mn": "Anthropic компани Claude artifacts-ийг Mac болон Windows програмууд болгон суулгах боломжтой болголоо",
+ "summary_mn": "Anthropic компани хэрэглэгчдэд Claude-ийн тусламжтайгаар үүсгэсэн олдворуудыг (artifacts) Mac болон Windows төхөөрөмж дээрээ бие даасан програм болгон суулгах боломжийг олгож эхэлжээ. Энэхүү шинэ боломж нь хэрэглэгчдэд өөрийн бүтээсэн хэрэгсэл, баримт бичгийг шууд ашиглах нөхцөлийг бүрдүүлж байна.",
+ "body_mn": "Anthropic компани өөрийн Claude систем дэх artifacts буюу бие даасан хэсгүүдийг хэрэглэгчийн компьютер дээр шууд програм хэлбэрээр ажиллуулах шинэ функцийг нэвтрүүлж байна. Хэрэглэгчид вэб хуудас, интерактив хэрэгсэл, баримт бичиг эсвэл слайдуудыг тусгай цонх болон өөрийн гэсэн дүрс тэмдэгтэйгээр суулгах боломжтой боллоо.\n\nЭнэхүү шинэ боломж нь хэрэглэгчдэд хурдан бөгөөд үр дүнтэй ажиллах нөхцөлийг бүрдүүлэх хэдий ч компьютерийн өгөгдөлд хандах зөвшөөрлийн асуудлыг хөндөж байна. Apple компани саяхан Mac төхөөрөмж дээр програмуудын хандах эрхийг хязгаарлах шинэчлэлт хийсэн нь энэхүү хөгжүүлэлттэй давхцаж байгаа юм.\n\nПрограм хангамжийн зах зээлд хиймэл оюун компаниуд шууд апп үүсгэдэг болсноор уламжлалт апп дэлгүүр болон эдийн засагт томоохон өөрчлөлт гарч болзошгүйг шинжээчид анхааруулж байна.",
+ "published": "2026-11-25T16:25:36Z",
+ "added": "2026-11-28T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

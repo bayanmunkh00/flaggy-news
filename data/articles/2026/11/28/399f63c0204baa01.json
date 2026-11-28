@@ -1,0 +1,19 @@
+{
+ "id": "399f63c0204baa01",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+ "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+ "summary_en": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+ "lines": [],
+ "title_mn": "Dario Amodei: Хүний хяналтыг хиймэл оюунд шилжүүлж байна гэдэг бол утгагүй зүйл",
+ "summary_mn": "Anthropic компанийн гүйцэтгэх захирал Dario Amodei хүний чөлөөт хүсэл зоригийг хиймэл оюунд алдаж байна гэсэн шүүмжлэлийг эрс няцаалаа. Тэрээр ардчилсан хяналт болон хүний шийдвэрлэх эрхийг хадгалах нь чухал болохыг онцлов.",
+ "body_mn": "Anthropic компанийн гүйцэтгэх захирал Dario Amodei хиймэл оюун ухааны хөгжилд хүний хяналтыг бүрэн алдаж байна гэх шүүмжлэлд хариу өгч, үүнийг \"утгагүй хэрэг\" гэж нэрлэжээ. Тэрээр X платформоор дамжуулан гаргасан мэдэгдэлдээ үр ашиг эсвэл аюулгүй байдлын төлөө ардчилал, өөрийгөө тодорхойлох эрх чөлөөнөөс хэзээ ч татгалзах ёсгүй гэдгээ илэрхийлсэн байна.\n\nЭнэхүү маргаан нь бусад технологийн компаниудын удирдагчдын зүгээс хиймэл оюун ухааны хөгжил хүний агент байдалд заналхийлж болзошгүй талаар санаа зовнилоо илэрхийлсэнтэй холбоотой юм. OpenAI болон Meta компаниудын удирдлагууд мөн хүн төрөлхтөн ирээдүйгээ хяналтандаа байлгах ёстойг сануулж байсан билээ. Гэвч Amodei тодорхой ажлуудыг автоматжуулах болон хиймэл оюун ухаанд бүрэн эрх мэдэл шилжүүлэх хоёр хоорондоо ялгаатай болохыг онцолжээ.\n\nТэрээр хиймэл оюун өөрийгөө сайжруулах процесст (RSI) тодорхой хязгаарлалт хэрэгтэй байж болохыг хүлээн зөвшөөрсөн байна. Гэсэн хэдий ч Claude загваруудын хөгжил хурдацтай явагдаж, компанийн дотоод кодын дийлэнх хэсгийг хиймэл оюун бичих болсон нь мэргэжилтнүүдийн дунд хяналтаа алдах вий гэсэн болгоомжлолыг төрүүлсээр байгаа юм.",
+ "published": "2026-11-25T19:44:24Z",
+ "added": "2026-11-28T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}

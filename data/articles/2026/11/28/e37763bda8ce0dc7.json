@@ -1,0 +1,19 @@
+{
+ "id": "e37763bda8ce0dc7",
+ "section": "ai",
+ "subtopic": "anthropic",
+ "source": "Anthropic (Google News)",
+ "source_label": "Crypto Briefing",
+ "url": "https://cryptobriefing.com/anthropic-testing-opus-5-6-claude-code/",
+ "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/25115858/library-anthropic-reportedly-testing-next-opus-model-inside-clau-800x450.jpg",
+ "title": "Anthropic reportedly testing next Opus model inside Claude Code",
+ "summary_en": "Anthropic reportedly testing next Opus model inside Claude Code Crypto Briefing",
+ "lines": [],
+ "title_mn": "Anthropic компани шинэ Opus 5.6 загвараа Claude Code дотор туршиж байна",
+ "summary_mn": "Anthropic компани өөрийн Claude Code хэрэгсэл дотроо Claude Opus 5.6 болон Sonnet 5.6 загваруудыг албан ёсоор зарлалгүйгээр сонгогдсон хэрэглэгчдэд туршиж эхэлжээ. Шинэ загвар нь код бичих болон 3D дүрслэх чадвараараа өмнөх хувилбараасаа илүү сайжирсан байна.",
+ "body_mn": "Anthropic компани Claude Code хэрэгслийнхээ чадварыг сайжруулах зорилгоор Opus 5.6 болон Sonnet 5.6 хэмээх шинэ загваруудыг чимээгүйхэн нэвтрүүлж эхэллээ. Шинэ загварууд нь код бичих болон нарийн бүтцийн шаардлагатай 3D дүрслэл гаргах ажлуудыг өмнөх хувилбараас илүү өндөр түвшинд гүйцэтгэж байгаа аж.\n\nӨмнөх flagship загвар болох Opus 5.5 нь энэ оны есдүгээр сард зах зээлд гарч байсан бөгөөд сая сая хэрэглэгчдийн дунд амжилт олсон юм. Шинэ загварын үнэ болон техникийн үзүүлэлтүүд хараахан албан ёсоор зарлагдаагүй байгаа хэдий ч удахгүй олон нийтэд танилцуулагдах төлөвтэй байна.\n\nAnthropic компани хөгжүүлэлтийн хурдаа алдалгүйгээр хиймэл оюуны агентуудын чадварыг тасралтгүй сайжруулж байгаа нь хөгжүүлэгчдийн анхаарлыг татаж байна.",
+ "published": "2026-11-25T16:59:06Z",
+ "added": "2026-11-28T16:00:52Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 4
+}
