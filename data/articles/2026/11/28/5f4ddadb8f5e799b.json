@@ -1,0 +1,19 @@
+{
+ "id": "5f4ddadb8f5e799b",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+ "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+ "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+ "summary_en": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+ "lines": [],
+ "title_mn": "Jensen Huang Nvidia-гийн ёс зүйн дүрэм зөрчсөнөө хүлээн зөвшөөрөв",
+ "summary_mn": "Nvidia-гийн гүйцэтгэх захирал Jensen Huang компанийн ёс зүйн дүрмийг зөрчсөнөө илэн далангүй ярьжээ. Энэ нь ажилтнуудын дунд компанийн соёл болон удирдлагын ёс зүйн талаарх хэлэлцүүлгийг өрнүүлж байна.",
+ "body_mn": "Nvidia компанийн гүйцэтгэх захирал Jensen Huang албан тушаалдаа эргэн ирснийхээ дараа хийсэн анхны бүх ажилтнуудын цугларалтын үеэр компанийн ёс зүйн дүрмийг зөрчсөн гэдгээ хүлээн зөвшөөрчээ. Тэрбээр уг дүрэм хүн бүрт хамааралтай боловч дүрэм зөрчсөн бүхнийг шууд халж явуулдаггүй гэдгийг онцолсон байна.\n\nМэргэжилтнүүдийн үзэж байгаагаар энэ нь компанийн дотоод соёл болон ажилтнуудын ёс зүйн хэм хэмжээнд сөргөөр нөлөөлөх эрсдэлтэй аж. Орчин үеийн залуу ажилтнууд компанийнхаа ёс зүйн стандарт болон удирдлагынхаа үлгэр дуурайлалд маш өндөр шалгуур тавьдаг байна.\n\nХэдийгээр одоогоор ажилтнуудын дунд ямар нэгэн эсэргүүцэл гараагүй байгаа ч удирдлагын энэ байр суурь нь компани болон ажилтнуудын итгэлцэлд сэв суулгаж болзошгүй гэж шинжээчид анхааруулж байна.",
+ "published": "2026-11-25T19:54:57Z",
+ "added": "2026-11-28T16:23:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

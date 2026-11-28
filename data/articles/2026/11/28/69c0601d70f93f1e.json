@@ -1,0 +1,19 @@
+{
+ "id": "69c0601d70f93f1e",
+ "section": "ai",
+ "subtopic": "ai-devtools",
+ "source": "GitHub Changelog",
+ "source_label": "GitHub Changelog",
+ "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+ "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+ "title": "Copilot code review billing will default to the organization",
+ "summary_en": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep…",
+ "lines": [],
+ "title_mn": "GitHub Copilot кодын хяналтын төлбөр байгууллагад ногдоно",
+ "summary_mn": "GitHub Copilot кодын хяналтын үйлчилгээний төлбөр 2026 оны 12 дугаар сарын 30-наас эхлэн байгууллагын дансанд автоматаар ногдож эхэлнэ.",
+ "body_mn": "GitHub компани Copilot Business болон Copilot Enterprise хэрэглэгчдэд зориулсан кодын хяналтын (code review) төлбөр тооцооны шинэ дүрэм журмыг танилцууллаа. Хэрэв байгууллагууд төлбөр төлөх тохиргоогоо өөрөө сонгоогүй бол 2026 оны 12 дугаар сарын 30-наас эхлэн гишүүдийн ашигласан кодын хяналтын төлбөр тухайн репозиторыг эзэмшигч байгууллагад шууд ногдох ажээ.\n\nӨмнө нь төлбөртэй Copilot эрхтэй гишүүдийн хийсэн хяналтууд хувь хүний эрхээс хасагддаг байсан юм. Шинэ журмаар тухайн байгууллага нь AI Credits paid usage буюу хиймэл оюун ухааны төлбөртэй эрхийг идэвхжүүлсэн байх шаардлагатай бөгөөд энэ нь байгууллагын сарын зарцуулалтыг нэмэгдүүлж болзошгүй юм.\n\nХэрэв байгууллагууд хуучин хэвээр буюу гишүүдийн эрхээр тооцуулахыг хүсвэл бодлогын тохиргооноос Member гэсэн сонголтыг гараар сонгох шаардлагатай гэдгийг GitHub санууллаа.",
+ "published": "2026-11-25T22:18:03Z",
+ "added": "2026-11-28T16:23:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}

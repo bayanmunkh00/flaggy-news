@@ -1,0 +1,19 @@
+{
+ "id": "6559d8867ac971ab",
+ "section": "ai",
+ "subtopic": "ai-news",
+ "source": "TechCrunch AI",
+ "source_label": "TechCrunch AI",
+ "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+ "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+ "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+ "summary_en": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+ "lines": [],
+ "title_mn": "OpenAI ChatGPT дотор Chat болон Work хэсгүүдийг нэгтгэж эхлэв",
+ "summary_mn": "OpenAI компани ChatGPT хэрэглэгчдэд зориулсан Chat болон Work туршлагыг нэгтгэж эхэллээ. Зарим хэрэглэгчид энэ өөрчлөлт нь ашиглалтын хязгаарлалтад нөлөөлж магадгүй гэж болгоомжилж байна.",
+ "body_mn": "OpenAI компани ChatGPT доторх энгийн чат болон ажлын хэрэгслүүдийг нэгтгэсэн шинэ туршлагыг зарим хэрэглэгчдэд туршиж эхэлжээ. Энэхүү шинэчлэлтийг Pro хэрэглэгчдийн жижиг бүлэгт нэвтрүүлж байгаа бөгөөд хэрэглэгчид ажлын болон хувийн яриагаа нэг интерфэйсээс удирдах боломжтой болж байна.\n\nГэсэн хэдий ч зарим хэрэглэгчид хоёр горимын хязгаарлалтыг нэгтгэснээр дэвшилтэт загваруудыг ашиглах хугацаа багасч магадгүй гэж шүүмжилж байна. OpenAI-ийн мэдээлснээр ихэнх хэрэглэгчдэд өөрчлөлт гарахгүй ч хамгийн идэвхтэй хэрэглэгчид хязгаартаа илүү хурдан хүрэх магадлалтай аж.\n\nЭнэхүү өөрчлөлт нь хиймэл оюун ухааны компаниудын дэд бүтцийн өндөр зардал болон нөөцийг оновчтой хуваарилах шаардлагаас үүдэлтэй юм. Компани энэ сардаа багтаан уг нэгдсэн хэрэглээг илүү өргөн хүрээнд нэвтрүүлэхээр төлөвлөжээ.",
+ "published": "2026-11-25T20:03:27Z",
+ "added": "2026-11-28T16:23:23Z",
+ "ai": "gemini:gemini-3.5-flash-lite",
+ "score": 3
+}
